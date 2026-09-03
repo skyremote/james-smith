@@ -1,0 +1,1630 @@
+1
+00:00:00,220 --> 00:00:03,500
+There's a guy on YouTube called Matt
+Armstrong and he makes videos about
+
+2
+00:00:03,540 --> 00:00:04,000
+repairing
+
+3
+00:00:04,040 --> 00:00:04,880
+crash damage cars.
+
+4
+00:00:05,220 --> 00:00:08,980
+I've just bought the cheapest 911 GT3
+
+5
+00:00:09,640 --> 00:00:10,460
+in the world.
+
+6
+00:00:11,540 --> 00:00:15,440
+And today we're going to try
+and rebuild it in 24
+
+7
+00:00:15,540 --> 00:00:16,000
+hours.
+
+8
+00:00:16,180 --> 00:00:19,700
+And I've been addicted to Matt's content,
+not just because I like cars, but
+
+9
+00:00:20,100 --> 00:00:23,920
+Matt is a master storyteller
+and anyone in the content creation space
+
+10
+00:00:24,000 --> 00:00:27,980
+should go and study his videos to the way
+that he raises the stakes, has setups,
+
+11
+00:00:28,060 --> 00:00:30,500
+has very powerful introductions.
+It's incredible.
+
+12
+00:00:30,840 --> 00:00:33,600
+However, there was a problem.
+Through watching Matt's videos,
+
+13
+00:00:33,920 --> 00:00:34,680
+I watched him rebuild
+
+14
+00:00:34,720 --> 00:00:38,620
+an Audi RS6 and I had to buy an Audi RS6
+and I've been
+
+15
+00:00:38,640 --> 00:00:41,220
+watching his videos ever since.
+They get uploaded on a Sunday evening
+
+16
+00:00:41,240 --> 00:00:41,520
+and I'm the
+
+17
+00:00:41,560 --> 00:00:45,420
+first person to watch them. But there
+was one car that he crash damage repaired
+
+18
+00:00:45,500 --> 00:00:48,790
+more than once, and I didn't realize it,
+but at the time I was falling in love with
+
+19
+00:00:48,800 --> 00:00:50,000
+that car and that car
+
+20
+00:00:50,900 --> 00:00:54,060
+was a Porsche 911 GT3
+and I had to buy one.
+
+21
+00:00:57,220 --> 00:01:21,780
+[upbeat music]
+
+22
+00:01:21,890 --> 00:01:23,740
+Now, for many of you watching this,
+let me tell you this,
+
+23
+00:01:24,300 --> 00:01:25,290
+most of us live on the
+
+24
+00:01:25,300 --> 00:01:29,200
+hedonic treadmill, which means
+that whatever success we experience, we
+
+25
+00:01:29,260 --> 00:01:31,460
+kind of just ignore,
+and then we set another goalpost.
+
+26
+00:01:31,540 --> 00:01:35,160
+We say to ourselves, "Oh,
+if I could just earn 5,000 more a month,
+
+27
+00:01:35,200 --> 00:01:35,440
+I'd be
+
+28
+00:01:35,500 --> 00:01:38,820
+so happy." "Oh,
+if I could just get a few thousand more
+
+29
+00:01:38,880 --> 00:01:39,480
+followers, I'd
+
+30
+00:01:39,500 --> 00:01:43,140
+be so happy." And every single milestone
+that I've got to in life,
+
+31
+00:01:43,440 --> 00:01:44,720
+I've got to the end and kind of thought,
+
+32
+00:01:45,700 --> 00:01:49,220
+"Is that it?" I remember thinking,
+when I hit a million
+
+33
+00:01:49,320 --> 00:01:52,900
+followers, I'm going to be so happy.
+I'm going to get all my friends together.
+
+34
+00:01:52,960 --> 00:01:55,700
+We're going to rent a private jet.
+We're going to fly to Vegas.
+
+35
+00:01:56,540 --> 00:01:58,120
+The reality was you hit a million and
+
+36
+00:01:59,240 --> 00:02:02,260
+kind of feel nothing.
+Same goes with revenue for a business.
+
+37
+00:02:02,320 --> 00:02:03,040
+You go, "It's amazing.
+
+38
+00:02:03,080 --> 00:02:05,560
+We're going to hit seven figures soon."
+And the second you hit seven figures on
+
+39
+00:02:05,660 --> 00:02:05,960
+Stripe,
+
+40
+00:02:07,360 --> 00:02:08,960
+you don't feel anything.
+So you say to yourself,
+
+41
+00:02:09,039 --> 00:02:10,539
+"Maybe it's 2 million, maybe it's
+
+42
+00:02:10,759 --> 00:02:14,580
+5 million, maybe it's 10 million."
+And continually over time, sometimes you
+
+43
+00:02:14,600 --> 00:02:17,000
+think to yourself,
+when am I going to be happy with the
+
+44
+00:02:17,040 --> 00:02:17,980
+progress that I've made?
+
+45
+00:02:18,920 --> 00:02:21,740
+And then you realize this
+is a very common occurrence.
+
+46
+00:02:22,460 --> 00:02:23,540
+It's called the hedonic treadmill.
+
+47
+00:02:24,540 --> 00:02:27,620
+And although we like to convince ourselves
+that if we just keep pushing and keep
+
+48
+00:02:27,660 --> 00:02:29,400
+working,
+that maybe there'll be happiness at the
+
+49
+00:02:29,440 --> 00:02:31,040
+end of the tunnel, very often
+
+50
+00:02:31,080 --> 00:02:33,060
+there's not. And the crazy thing
+that comes with that is
+
+51
+00:02:33,380 --> 00:02:34,220
+when you're making good
+
+52
+00:02:34,240 --> 00:02:36,520
+money and it's not making you happy,
+
+53
+00:02:37,420 --> 00:02:40,380
+you kind of feel worse than you would
+if you weren't making good money and you
+
+54
+00:02:40,420 --> 00:02:44,020
+weren't very happy because you have so
+much, yet it's not
+
+55
+00:02:44,080 --> 00:02:46,760
+really making an impact on a personal
+level.
+
+56
+00:02:47,080 --> 00:02:49,260
+However, when I bought the RS6,
+
+57
+00:02:50,600 --> 00:02:54,440
+every single time I got in it through
+every week and every
+
+58
+00:02:54,540 --> 00:02:57,820
+month after I bought it, it made me happy.
+
+59
+00:02:58,420 --> 00:03:00,580
+Every time I started the engine
+
+60
+00:03:01,520 --> 00:03:02,780
+and heard the exhaust crackle,
+
+61
+00:03:03,580 --> 00:03:05,840
+I was like, wow. There
+are so many things
+
+62
+00:03:05,880 --> 00:03:07,100
+that you can get used to in life,
+
+63
+00:03:07,660 --> 00:03:10,080
+but for me personally,
+having a nice car
+
+64
+00:03:10,360 --> 00:03:11,560
+was one I'd forgotten all about.
+
+65
+00:03:12,180 --> 00:03:13,340
+Every single year
+
+66
+00:03:14,260 --> 00:03:18,160
+in my 20s I drove either a Volkswagen Golf
+or a Polo and I
+
+67
+00:03:18,200 --> 00:03:21,880
+didn't really care
+that much about what I was
+
+68
+00:03:21,900 --> 00:03:22,300
+driving.
+
+69
+00:03:23,480 --> 00:03:26,620
+And the purpose of this video
+is there'll be some of you out there kind
+
+70
+00:03:26,660 --> 00:03:27,060
+of probably
+
+71
+00:03:27,100 --> 00:03:30,740
+making the same excuses as me not to treat
+yourself, whether it's a business class
+
+72
+00:03:30,820 --> 00:03:34,660
+flight, whether it's a nice car.
+But honestly, I've come to
+
+73
+00:03:34,720 --> 00:03:38,040
+realize these are the best things
+that you can waste your money on because
+
+74
+00:03:38,080 --> 00:03:38,250
+every
+
+75
+00:03:38,340 --> 00:03:40,500
+time you get in,
+it kind of makes you think, oh,
+
+76
+00:03:40,680 --> 00:03:42,320
+do you know what this is worth
+
+77
+00:03:42,360 --> 00:03:44,580
+working for?
+Because so much of the success metrics
+
+78
+00:03:44,600 --> 00:03:45,060
+that we have,
+
+79
+00:03:45,960 --> 00:03:46,660
+they're just numbers.
+
+80
+00:03:47,980 --> 00:03:49,860
+Followers, doesn't really mean anything.
+
+81
+00:03:50,360 --> 00:03:54,300
+Money, sure you can become less stressful,
+but there's nothing really physical.
+
+82
+00:03:54,980 --> 00:03:57,300
+I then got nice watches,
+but then I felt like a dickhead when I
+
+83
+00:03:57,320 --> 00:03:57,820
+was wearing them.
+
+84
+00:03:58,220 --> 00:04:01,200
+If I was wearing an AP right now,
+you'd be like, dickhead. So I was like,
+
+85
+00:04:01,280 --> 00:04:01,600
+fuck it.
+
+86
+00:04:02,640 --> 00:04:05,340
+I'm not just going to buy my dream car.
+I'm going to buy two of them.
+
+87
+00:04:06,600 --> 00:04:08,120
+You've not been in this properly before,
+have you?
+
+88
+00:04:08,860 --> 00:04:09,160
+I've not.
+
+89
+00:04:09,360 --> 00:04:09,760
+What do you think?
+
+90
+00:04:10,160 --> 00:04:13,320
+I like it. You can feel every bump.
+You can tell it's built for fucking speed.
+
+91
+00:04:14,260 --> 00:04:16,820
+Well, it gets better when you twist this.
+
+92
+00:04:21,240 --> 00:04:24,060
+[engine revving]
+
+93
+00:04:25,360 --> 00:04:26,020
+Fucking hell.
+
+94
+00:04:27,960 --> 00:04:29,620
+It's all right.
+We're within the speed limit, guys.
+
+95
+00:04:30,100 --> 00:04:30,580
+Don't worry.
+
+96
+00:04:30,700 --> 00:04:32,060
+I had to get a manual as well.
+
+97
+00:04:34,300 --> 00:04:36,400
+The Audi RS6 is one of the best cars ever.
+
+98
+00:04:36,420 --> 00:04:38,219
+Any of you that are thinking of doing it,
+get it.
+
+99
+00:04:38,960 --> 00:04:42,220
+I was never an Audi fanboy before,
+but it's
+
+100
+00:04:43,000 --> 00:04:46,980
+so comfortable, so reliable.
+It's just so good and in some ways it
+
+101
+00:04:47,020 --> 00:04:49,220
+still is the perfect car.
+But the three issues
+
+102
+00:04:49,260 --> 00:04:50,560
+that I had with the RS6 was,
+
+103
+00:04:51,180 --> 00:04:54,680
+one, it's a bit quiet.
+Although the V8 engine makes a nice
+
+104
+00:04:54,720 --> 00:04:55,140
+crackle
+
+105
+00:04:55,740 --> 00:04:58,720
+when you're starting
+and you get like a nice cold start on it.
+
+106
+00:04:59,120 --> 00:05:02,350
+When you're punishing it,
+it doesn't really give you the noise
+
+107
+00:05:02,350 --> 00:05:02,800
+that you want.
+
+108
+00:05:03,380 --> 00:05:04,860
+Sometimes you just want to hear a bit of-
+
+109
+00:05:04,940 --> 00:05:08,380
+[engine revving]
+
+110
+00:05:08,410 --> 00:05:10,940
+And I'm someone that doesn't really care
+about going that fast.
+
+111
+00:05:11,040 --> 00:05:13,780
+I would say the majority of your fun
+is had between second and third gear.
+
+112
+00:05:14,400 --> 00:05:16,780
+So the Audi, I was kind of like, oh,
+do I get the exhaust then?
+
+113
+00:05:19,080 --> 00:05:21,680
+Do I straight pipe it?
+Then the second thing with the Audi,
+
+114
+00:05:21,720 --> 00:05:22,620
+I really kind of wanted
+
+115
+00:05:22,660 --> 00:05:25,260
+an Alcantara steering wheel, which
+is like the suede steering wheel,
+
+116
+00:05:25,700 --> 00:05:26,140
+and I was even
+
+117
+00:05:26,200 --> 00:05:27,920
+thinking maybe I go to Audi and I say,
+"Oh,
+
+118
+00:05:28,840 --> 00:05:31,780
+can you change my steering wheel?" Then
+the nail in the coffin
+
+119
+00:05:31,820 --> 00:05:32,600
+was taking it to the
+
+120
+00:05:32,640 --> 00:05:33,020
+track.
+
+121
+00:05:33,860 --> 00:05:37,060
+The Audi was so good on the track,
+but going through corners, it just felt
+
+122
+00:05:37,220 --> 00:05:41,030
+really heavy and lumbersome and there
+were Porsches there, there were
+
+123
+00:05:41,040 --> 00:05:43,560
+GT3s there, there
+were Aston Martins there, Ferraris
+
+124
+00:05:43,580 --> 00:05:44,000
+and I was like,
+
+125
+00:05:45,320 --> 00:05:49,120
+I'm going to go have a look at a 911.
+And I've never not bought a car
+
+126
+00:05:49,220 --> 00:05:51,240
+that I've gone to look at, this included.
+
+127
+00:05:53,460 --> 00:05:56,100
+Now before this seems like a video where
+I'm showing off, I want to introduce a
+
+128
+00:05:56,140 --> 00:05:59,760
+concept called touching your future.
+This is one for you, Deborah.
+
+129
+00:05:59,800 --> 00:06:00,080
+First time-
+
+130
+00:06:03,304 --> 00:06:06,434
+Pretty dumb. I just put all the money
+that I had together, and
+
+131
+00:06:06,444 --> 00:06:07,104
+when I sat there in
+
+132
+00:06:07,144 --> 00:06:10,024
+business with no money left in my current
+account, what I was doing was
+
+133
+00:06:10,064 --> 00:06:13,674
+experiencing what I could have in the
+future if I was just willing to work hard,
+
+134
+00:06:13,844 --> 00:06:16,384
+pull some late nights,
+put myself in uncomfortable positions.
+
+135
+00:06:17,224 --> 00:06:21,104
+Same with the RS6. When I bought the RS6,
+I didn't really need it,
+
+136
+00:06:21,164 --> 00:06:24,184
+but I thought, "Do you know what?
+This will be my first proper luxury car."
+
+137
+00:06:25,044 --> 00:06:27,644
+Then the same with the Porsche.
+There's never going to be a time in your
+
+138
+00:06:27,664 --> 00:06:27,964
+life that
+
+139
+00:06:28,004 --> 00:06:30,503
+you can really afford one of these.
+
+140
+00:06:30,884 --> 00:06:32,464
+But I have a feeling
+that sitting in this
+
+141
+00:06:32,484 --> 00:06:34,084
+and having this as my daily driver every
+
+142
+00:06:34,104 --> 00:06:37,624
+day will motivate me to do the things
+that maybe some days I can't be arsed to
+
+143
+00:06:37,644 --> 00:06:37,804
+do.
+
+144
+00:06:38,104 --> 00:06:41,824
+Now, am I saying get yourself in debt?
+Am I saying make stupid purchases?
+
+145
+00:06:42,044 --> 00:06:44,544
+I'm saying no. But I'm saying
+if there's something you want to do
+
+146
+00:06:45,304 --> 00:06:45,904
+and you can still
+
+147
+00:06:45,964 --> 00:06:47,764
+survive if you do it,
+you should 100% do it.
+
+148
+00:06:48,344 --> 00:06:50,824
+Smiles per miles is the most important
+ratio here.
+
+149
+00:06:51,584 --> 00:06:53,744
+If I think about the things
+that make me happy in life,
+
+150
+00:06:54,724 --> 00:06:55,104
+family,
+
+151
+00:06:55,904 --> 00:06:59,884
+partner, son, holidays, work.
+When you're a dude,
+
+152
+00:07:00,364 --> 00:07:02,024
+there's just something you get from cars.
+
+153
+00:07:03,044 --> 00:07:05,554
+And there's a famous Jeremy Clarkson
+quote, you're going to have to find this,
+
+154
+00:07:05,604 --> 00:07:08,824
+Declan, where he says
+that you can have a relationship with a
+
+155
+00:07:08,884 --> 00:07:09,184
+car.
+
+156
+00:07:09,334 --> 00:07:09,334
+Definitely.
+
+157
+00:07:09,384 --> 00:07:12,624
+He's like, everyone thinks this
+is just one and a half tons of metal,
+
+158
+00:07:12,704 --> 00:07:13,104
+glass and
+
+159
+00:07:13,124 --> 00:07:15,624
+plastic. But over time,
+you can be in love with a car.
+
+160
+00:07:15,664 --> 00:07:17,264
+I think I'm going to be in love with this
+one.
+
+161
+00:07:17,924 --> 00:07:20,464
+It's what non-car people don't get.
+
+162
+00:07:20,534 --> 00:07:24,284
+They see all cars as just a ton
+and a half, two tons of
+
+163
+00:07:24,424 --> 00:07:28,384
+wires, glass, metal and rubber.
+You can develop a relationship with a
+
+164
+00:07:28,424 --> 00:07:30,684
+car,
+and that's what non-car people just don't
+
+165
+00:07:30,744 --> 00:07:30,904
+get.
+
+166
+00:07:31,204 --> 00:07:33,964
+I don't even go anywhere.
+I probably won't even go to the track.
+
+167
+00:07:34,024 --> 00:07:35,704
+I'll probably get too scared.
+I'll probably take the Audi again.
+
+168
+00:07:36,324 --> 00:07:38,804
+What is the track mode on that?
+How does that compare to the sport mode?
+
+169
+00:07:39,524 --> 00:07:39,784
+So,
+
+170
+00:07:40,844 --> 00:07:42,784
+in essence,
+when you put it into sport mode
+
+171
+00:07:42,804 --> 00:07:44,084
+or track mode, the track's going to
+
+172
+00:07:44,104 --> 00:07:45,324
+make the suspension even stiffer.
+
+173
+00:07:45,364 --> 00:07:45,664
+Okay.
+
+174
+00:07:46,024 --> 00:07:49,724
+There's another function called auto clip,
+which means that when I change gears,
+
+175
+00:07:49,944 --> 00:07:52,494
+it revs to get a smoother transition.
+
+176
+00:07:52,564 --> 00:07:53,724
+Oh, yeah, I know that is. Yeah.
+
+177
+00:07:53,864 --> 00:07:53,984
+So-
+
+178
+00:07:54,184 --> 00:07:55,224
+Can't you do that manually as well?
+
+179
+00:07:55,344 --> 00:07:56,904
+In manual, you can heel and toe.
+
+180
+00:07:56,984 --> 00:07:57,054
+Yeah.
+
+181
+00:07:57,084 --> 00:07:58,324
+So as you're braking, you put your heel-
+
+182
+00:07:58,424 --> 00:07:58,434
+Yeah
+
+183
+00:07:58,434 --> 00:08:00,024
+... on the accelerator,
+but this will do it for me.
+
+184
+00:08:00,304 --> 00:08:00,544
+Okay.
+
+185
+00:08:01,924 --> 00:08:02,214
+Yeah, sick.
+
+186
+00:08:02,214 --> 00:08:03,364
+And it just matches the revs.
+
+187
+00:08:03,444 --> 00:08:04,124
+Yeah. Cool.
+
+188
+00:08:05,024 --> 00:08:08,644
+So that's sick. Exhaust is open,
+everything firms up.
+
+189
+00:08:09,364 --> 00:08:10,644
+Now,
+the best thing I like about this car
+
+190
+00:08:10,684 --> 00:08:12,244
+is it revs to 9,000 RPM.
+
+191
+00:08:13,003 --> 00:08:13,564
+[sighs]
+
+192
+00:08:13,624 --> 00:08:15,044
+Which you don't get in any other models.
+
+193
+00:08:17,064 --> 00:08:19,824
+[engine accelerating]
+And it starts at four, five,
+
+194
+00:08:21,384 --> 00:08:22,024
+six.
+
+195
+00:08:24,524 --> 00:08:27,484
+And the horsepower peaks at 8,700.
+
+196
+00:08:28,044 --> 00:08:28,304
+Okay.
+
+197
+00:08:28,364 --> 00:08:29,674
+So I'm going to see if I can get us-
+
+198
+00:08:30,124 --> 00:08:30,464
+All right
+
+199
+00:08:31,164 --> 00:08:34,064
+...
+near 9,000 revs within the speed limit,
+
+200
+00:08:34,144 --> 00:08:34,444
+of course.
+
+201
+00:08:35,704 --> 00:08:38,384
+Sounds crazy, but every once in a while,
+you should just do something that makes
+
+202
+00:08:38,404 --> 00:08:38,934
+you feel alive.
+
+203
+00:08:39,564 --> 00:08:39,573
+Yeah.
+
+204
+00:08:39,624 --> 00:08:41,524
+Even if it's just swimming in the sea.
+
+205
+00:08:42,224 --> 00:08:45,244
+In Australia, one of the things,
+I always used to take the piss out of cold
+
+206
+00:08:45,284 --> 00:08:45,544
+water
+
+207
+00:08:45,584 --> 00:08:47,824
+therapy,
+but then once a day I'd go swim in the
+
+208
+00:08:47,884 --> 00:08:49,444
+sea, middle of winter,
+
+209
+00:08:49,544 --> 00:08:50,784
+just because it makes you feel something.
+
+210
+00:08:51,364 --> 00:08:53,104
+And also,
+I think it's quite important to maybe do
+
+211
+00:08:53,144 --> 00:08:54,073
+things that maybe your peers
+
+212
+00:08:54,124 --> 00:08:55,924
+want to do. And here's another thing.
+
+213
+00:08:56,024 --> 00:08:58,764
+Some people are going to watch this video
+and hate it, hate me.
+
+214
+00:08:59,404 --> 00:09:01,424
+But there's a fine line between being
+inspired
+
+215
+00:09:02,504 --> 00:09:05,004
+and being jealous.
+I've been jealous of people before.
+
+216
+00:09:05,484 --> 00:09:08,164
+Adam Sullivan with the Lambos,
+I've blocked him. I was jealous.
+
+217
+00:09:08,784 --> 00:09:10,184
+I worked through it.
+We're good friends now.
+
+218
+00:09:10,684 --> 00:09:13,364
+But it's so important that
+when you see people doing things
+
+219
+00:09:13,404 --> 00:09:13,924
+that you want to do,
+
+220
+00:09:13,984 --> 00:09:15,964
+that you're not bitter about it.
+Because instead,
+
+221
+00:09:16,024 --> 00:09:17,144
+you could so easily use those
+
+222
+00:09:17,184 --> 00:09:20,284
+juices to just make yourself feel more
+inspired. Anyone can do this.
+
+223
+00:09:21,144 --> 00:09:22,504
+Anyone.
+
+224
+00:09:22,544 --> 00:09:24,464
+And this is on finance.
+I didn't buy it outright.
+
+225
+00:09:24,484 --> 00:09:25,004
+That'd be stupid.
+
+226
+00:09:25,604 --> 00:09:29,544
+Even if I drive it for a year,
+trade it in, get bored of it, sell it.
+
+227
+00:09:32,344 --> 00:09:34,624
+[engine accelerating] All right.
+9,000 revs.
+
+228
+00:09:35,924 --> 00:09:37,094
+[engine accelerating] Six. Seven.
+
+229
+00:09:37,104 --> 00:09:39,564
+It's there,
+
+230
+00:09:39,584 --> 00:09:43,144
+we're going to go to eight. But
+
+231
+00:09:43,644 --> 00:09:46,804
+it sounds so good.
+
+232
+00:09:48,724 --> 00:09:50,344
+[engine accelerating] Oh.
+
+233
+00:09:52,264 --> 00:09:55,124
+Now, the PDK gearbox
+that you get with one of these in
+
+234
+00:09:55,164 --> 00:09:55,804
+automatic
+
+235
+00:09:56,204 --> 00:09:58,004
+is amazing. And there is part of me
+
+236
+00:09:59,504 --> 00:10:03,353
+[engine accelerating] that thinks,
+
+237
+00:10:03,634 --> 00:10:05,544
+"Oh, should I have got the PDK?"
+
+238
+00:10:07,144 --> 00:10:11,104
+But as I've been paddle shifting here,
+I know that I'd just be thinking,
+
+239
+00:10:12,184 --> 00:10:13,323
+"Oh, I wish I had a clutch."
+
+240
+00:10:14,824 --> 00:10:19,953
+[engine accelerating]
+
+241
+00:10:22,864 --> 00:10:25,024
+Pros about this car. Actually,
+let's start with the negatives.
+
+242
+00:10:25,384 --> 00:10:27,544
+Not that comfortable. No front cameras.
+
+243
+00:10:28,184 --> 00:10:31,744
+Cup two tires, very sticky,
+so stones can get chucked up.
+
+244
+00:10:31,784 --> 00:10:34,124
+The other day I was going around a corner,
+a stone came in through the window.
+
+245
+00:10:35,024 --> 00:10:37,264
+Expensive.
+
+246
+00:10:38,054 --> 00:10:42,034
+[brakes squeaking] And squeaky brakes,
+which you usually get with performance
+
+247
+00:10:42,104 --> 00:10:45,784
+brakes. Positives, you feel everything.
+The sound.
+
+248
+00:10:46,104 --> 00:10:47,644
+Oh, another negative, getting in and out.
+
+249
+00:10:47,904 --> 00:10:51,004
+When I first got in, I was like, "Mate,
+how do I get out of this?" You had to show
+
+250
+00:10:51,104 --> 00:10:54,884
+me the proper way to get in and out of it.
+What else? Positives.
+
+251
+00:10:55,744 --> 00:10:58,224
+It's just beautiful.
+You just park this in your garage
+
+252
+00:10:58,264 --> 00:10:58,844
+and just look at it.
+
+253
+00:10:59,164 --> 00:11:00,924
+It feels, oh, it's just great.
+
+254
+00:11:02,364 --> 00:11:04,524
+And I'd say having manual
+is a positive and a negative.
+
+255
+00:11:05,124 --> 00:11:07,064
+Positive, you get to drive manual.
+
+256
+00:11:07,584 --> 00:11:07,984
+Negative,
+
+257
+00:11:09,244 --> 00:11:11,463
+you have to drive manual.
+You have any questions, man?
+
+258
+00:11:13,264 --> 00:11:16,004
+So the exhaust is on right now, yeah?
+You can turn the exhaust off and on.
+
+259
+00:11:16,564 --> 00:11:17,044
+That's on normal.
+
+260
+00:11:17,304 --> 00:11:17,843
+That's on normal.
+
+261
+00:11:18,164 --> 00:11:18,284
+Yeah.
+
+262
+00:11:18,324 --> 00:11:20,044
+Can you get on max exhaust?
+Can we hear what that sounds like?
+
+263
+00:11:20,424 --> 00:11:23,524
+Well, it'll probably be the same as...
+So there's sport exhaust.
+
+264
+00:11:23,544 --> 00:11:27,004
+It's pretty loud both sides.
+[engine accelerating] Just let me make
+
+265
+00:11:27,044 --> 00:11:27,424
+sure there's
+
+266
+00:11:27,464 --> 00:11:28,244
+no popo.
+
+267
+00:11:30,924 --> 00:11:32,084
+It says there's one up here.
+
+268
+00:11:33,104 --> 00:11:34,904
+[engine accelerating] Oh, yeah.
+
+269
+00:11:37,944 --> 00:11:38,903
+Oh, yeah, that's nice.
+
+270
+00:11:40,564 --> 00:11:42,464
+I've never had a rear-engine car before.
+
+271
+00:11:42,874 --> 00:11:45,634
+And then you can raise this thing
+or lower it with the suspension, right,
+
+272
+00:11:45,684 --> 00:11:45,984
+as well?
+
+273
+00:11:46,604 --> 00:11:50,404
+Great point. Yeah, so there
+is a front axle lift.
+
+274
+00:11:50,484 --> 00:11:50,704
+Okay.
+
+275
+00:11:51,024 --> 00:11:52,884
+Which raises the front by about four
+inches.
+
+276
+00:11:54,324 --> 00:11:56,704
+But also the back of the car is very low.
+
+277
+00:11:57,244 --> 00:11:59,604
+So there's some diffusers on the back
+under the exhaust.
+
+278
+00:12:00,364 --> 00:12:02,324
+And first time I took it in the drive,
+
+279
+00:12:03,213 --> 00:12:03,213
+I-
+
+280
+00:12:04,212 --> 00:12:06,572
+Bit of a scrape.
+But I've just come to terms
+
+281
+00:12:06,812 --> 00:12:08,172
+that having a GT3, because
+
+282
+00:12:08,192 --> 00:12:09,092
+it's such a low car,
+
+283
+00:12:10,072 --> 00:12:12,202
+having the underneath scrape
+is just going to be a normal part of
+
+284
+00:12:12,212 --> 00:12:12,592
+owning one.
+
+285
+00:12:13,052 --> 00:12:13,852
+And when I take this back-
+
+286
+00:12:13,992 --> 00:12:14,912
+You can replace it for-
+
+287
+00:12:14,932 --> 00:12:15,532
+Yeah. There's-
+
+288
+00:12:15,592 --> 00:12:16,352
+Reasonable cheap, right?
+
+289
+00:12:16,702 --> 00:12:16,872
+... like, a hundred tray. Yeah.
+
+290
+00:12:17,512 --> 00:12:17,522
+Yeah.
+
+291
+00:12:17,552 --> 00:12:18,552
+So I just have a feeling that
+
+292
+00:12:20,012 --> 00:12:20,942
+probably that front
+
+293
+00:12:22,812 --> 00:12:25,292
+diffuser, rear diffuser,
+whenever I trade in they'll say, "Oh,
+
+294
+00:12:25,312 --> 00:12:25,972
+it's worth this
+
+295
+00:12:26,392 --> 00:12:29,782
+minus £5,000, maybe even £10,000,"
+
+296
+00:12:31,172 --> 00:12:31,182
+for that.
+
+297
+00:12:31,192 --> 00:12:34,012
+What about insurance for someone wanting
+to buy it? Is the insurance limited?
+
+298
+00:12:34,612 --> 00:12:38,252
+So my insurance on this is £200 a month,
+so like,
+
+299
+00:12:38,332 --> 00:12:41,932
+$400, which I don't think is crazy for...
+How much is your insurance a month?
+
+300
+00:12:42,612 --> 00:12:44,032
+Oh, I've only got third party.
+
+301
+00:12:44,672 --> 00:12:45,152
+Do you?
+
+302
+00:12:45,212 --> 00:12:45,352
+Yeah.
+
+303
+00:12:45,472 --> 00:12:45,552
+God.
+
+304
+00:12:45,562 --> 00:12:46,132
+It's not worth it.
+
+305
+00:12:46,912 --> 00:12:48,232
+So yeah, the insurance isn't crazy.
+
+306
+00:12:48,992 --> 00:12:50,492
+I've got a pretty good
+
+307
+00:12:51,752 --> 00:12:52,512
+track record.
+
+308
+00:12:53,532 --> 00:12:54,632
+Oh,
+here's another thing that's quite cool.
+
+309
+00:12:55,272 --> 00:12:57,452
+On this model, you get a track warranty.
+
+310
+00:12:57,812 --> 00:13:00,132
+So if I take this to the track,
+because it's supposed to be a track car,
+
+311
+00:13:00,752 --> 00:13:01,012
+if I'm
+
+312
+00:13:01,072 --> 00:13:03,672
+ragging the engine and I blow the engine,
+they'll replace it for free.
+
+313
+00:13:04,472 --> 00:13:04,872
+Oh, sick.
+
+314
+00:13:04,882 --> 00:13:07,421
+And I've still got an extended warranty on
+the car, which you
+
+315
+00:13:08,432 --> 00:13:10,032
+can't get wear and tear,
+
+316
+00:13:11,512 --> 00:13:11,682
+but
+
+317
+00:13:12,592 --> 00:13:15,572
+if something goes wrong, if
+that front axle lift stops working,
+
+318
+00:13:16,072 --> 00:13:16,572
+it's Porsche's
+
+319
+00:13:16,632 --> 00:13:17,812
+problem. Right.
+
+320
+00:13:18,232 --> 00:13:20,692
+So who would you say this car is for,
+and who's it not for?
+
+321
+00:13:21,572 --> 00:13:22,191
+Who's it for?
+
+322
+00:13:22,452 --> 00:13:23,032
+Yeah, who's it for?
+
+323
+00:13:23,092 --> 00:13:25,392
+You'll know. Because there
+are some people out there, right.
+
+324
+00:13:26,072 --> 00:13:29,932
+Let's say you have a budget of,
+let's say the second you can afford car
+
+325
+00:13:29,972 --> 00:13:33,812
+repayments of £2,000 a month, $4,000 a
+
+326
+00:13:33,852 --> 00:13:36,372
+month.
+But in Australia it's so much worse.
+
+327
+00:13:36,792 --> 00:13:39,232
+One of these secondhand
+is more expensive than a brand new one in
+
+328
+00:13:39,272 --> 00:13:40,322
+the UK because of
+
+329
+00:13:40,332 --> 00:13:41,152
+luxury car tax.
+
+330
+00:13:41,792 --> 00:13:41,842
+Wow.
+
+331
+00:13:41,882 --> 00:13:44,932
+But once you can afford, I don't know,
+yeah, 2K, 4K a month,
+
+332
+00:13:46,372 --> 00:13:47,872
+a lot of people think Lambo.
+
+333
+00:13:48,672 --> 00:13:52,232
+And I do love a Lambo, an SVJ,
+an Aventador.
+
+334
+00:13:52,812 --> 00:13:53,532
+I've driven them.
+
+335
+00:13:54,452 --> 00:13:57,912
+But to me, when I think fuck you money,
+I think
+
+336
+00:13:58,012 --> 00:13:59,672
+Porsche. And I think that
+
+337
+00:14:01,312 --> 00:14:04,932
+if I could afford it,
+I probably even would've got the GT3 RS.
+
+338
+00:14:05,212 --> 00:14:06,722
+Maybe, I don't know. I just-
+
+339
+00:14:06,752 --> 00:14:08,002
+What's the difference between the RS
+and the normal one?
+
+340
+00:14:08,012 --> 00:14:11,172
+GT3 RS, first of all, you'll see there's,
+like, four stalks on the steering wheel
+
+341
+00:14:11,232 --> 00:14:13,101
+because you control the spoiler
+and the diffuser and stuff.
+
+342
+00:14:13,131 --> 00:14:13,472
+Oh, wow.
+
+343
+00:14:14,152 --> 00:14:18,032
+A massive wing on the back
+and loads of aero on it that just makes it
+
+344
+00:14:18,052 --> 00:14:18,912
+look even sicker.
+
+345
+00:14:20,792 --> 00:14:22,952
+But one of those here is $800,000.
+
+346
+00:14:23,352 --> 00:14:24,172
+That's insane.
+
+347
+00:14:24,282 --> 00:14:24,282
+Yeah.
+
+348
+00:14:25,212 --> 00:14:28,572
+Which is £400,000 for a Porsche, which
+is just nuts.
+
+349
+00:14:29,652 --> 00:14:32,632
+But if I had the money,
+would I consider it? Maybe.
+
+350
+00:14:32,692 --> 00:14:35,192
+I actually think in some respects the GT3
+can look better,
+
+351
+00:14:36,352 --> 00:14:40,312
+but that's maybe what someone
+that couldn't afford a GT3 RS would say.
+
+352
+00:14:41,112 --> 00:14:43,512
+I've got to ask myself,
+did I pick this car
+
+353
+00:14:44,532 --> 00:14:46,632
+over that because I truly find it more
+beautiful?
+
+354
+00:14:48,212 --> 00:14:49,632
+Obviously,
+because I couldn't afford the other one.
+
+355
+00:14:50,192 --> 00:14:52,372
+This video is a little bit different to
+some of the ones that we usually do.
+
+356
+00:14:52,932 --> 00:14:55,032
+But I just thought I couldn't have
+
+357
+00:14:56,372 --> 00:14:58,732
+a milestone in my life without sharing it
+with you.
+
+358
+00:14:59,672 --> 00:15:02,592
+Why? Because it's fucking cool.
+If you don't like seeing me win,
+
+359
+00:15:03,312 --> 00:15:03,592
+then you can
+
+360
+00:15:03,652 --> 00:15:05,132
+fuck off and watch someone else's views.
+
+361
+00:15:05,912 --> 00:15:08,012
+I'm pretty sure YouTube
+is going to recommend a video to put here,
+
+362
+00:15:08,152 --> 00:15:08,612
+one of mine that
+
+363
+00:15:08,672 --> 00:15:10,072
+isn't about showing off about a new car.
+
+364
+00:15:10,852 --> 00:15:12,692
+I'm sure you'll enjoy it,
+so why don't you watch that?

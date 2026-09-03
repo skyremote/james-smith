@@ -1,0 +1,250 @@
+1
+00:00:00,299 --> 00:00:02,720
+How should a personal trainer be utilizing
+AI at the moment?
+
+2
+00:00:03,119 --> 00:00:06,559
+Well, let's break this down.
+Most coaches watching this should have an
+
+3
+00:00:06,599 --> 00:00:06,879
+offline
+
+4
+00:00:06,920 --> 00:00:09,900
+business and an online business.
+Across the both, probably with doing your
+
+5
+00:00:09,939 --> 00:00:12,179
+programming. So for instance,
+you're going to write a phase one for a
+
+6
+00:00:12,239 --> 00:00:12,500
+client.
+
+7
+00:00:12,739 --> 00:00:15,500
+You might say to AI,
+"Here's 10 clients' programs
+
+8
+00:00:15,539 --> 00:00:16,000
+that I've got.
+
+9
+00:00:16,139 --> 00:00:19,319
+What would you do to move them into phase
+two?" You could then teach your AI where
+
+10
+00:00:19,379 --> 00:00:21,919
+you might say, "Hey,
+we're going from an accumulation phase,
+
+11
+00:00:22,039 --> 00:00:23,079
+more reps, into
+
+12
+00:00:23,180 --> 00:00:25,439
+building intensity, where reps
+is going to come down,
+
+13
+00:00:25,659 --> 00:00:26,139
+but the weight they're going
+
+14
+00:00:26,139 --> 00:00:29,399
+to lift is going to go up." You could
+train that AI over time to help you with
+
+15
+00:00:29,420 --> 00:00:29,479
+your
+
+16
+00:00:29,539 --> 00:00:31,959
+program.
+You could also keep a chat log of all the
+
+17
+00:00:32,020 --> 00:00:33,079
+conversations you're having with
+
+18
+00:00:33,139 --> 00:00:34,719
+clients, their feedback of the program.
+
+19
+00:00:34,880 --> 00:00:36,419
+"Hey,
+riff at elevated split squats didn't feel
+
+20
+00:00:36,500 --> 00:00:36,739
+right.
+
+21
+00:00:36,860 --> 00:00:39,819
+Really struggling with this." You could
+then input that into AI to make the
+
+22
+00:00:39,879 --> 00:00:43,619
+programs how you'd want.
+You would then just sign off the programs
+
+23
+00:00:43,680 --> 00:00:43,739
+to
+
+24
+00:00:43,779 --> 00:00:46,059
+make sure it's correct. This
+is probably what most platforms
+
+25
+00:00:46,099 --> 00:00:46,680
+and coaches are doing
+
+26
+00:00:46,739 --> 00:00:48,939
+anyway. Remember,
+you're not paying a PT for a program,
+
+27
+00:00:49,099 --> 00:00:50,099
+you're paying to have it
+
+28
+00:00:50,159 --> 00:00:52,819
+implemented. Another question
+that people have, not related to AI:
+
+29
+00:00:53,000 --> 00:00:53,239
+how much
+
+30
+00:00:53,299 --> 00:00:55,680
+information should I give away for free,
+and how much should I save for my paid
+
+31
+00:00:55,719 --> 00:00:59,099
+program? What you should actually do
+is give everything you know away for free,
+
+32
+00:00:59,180 --> 00:01:01,479
+like I'm doing now.
+The reason you will pay me
+
+33
+00:01:01,539 --> 00:01:02,939
+is to make sure you actually do it.
+
+34
+00:01:02,979 --> 00:01:05,099
+You're not paying me for information,
+the intent's for it.
+
+35
+00:01:05,119 --> 00:01:07,760
+The reason that people pay me is so
+that I make sure they actually do it.
+
+36
+00:01:07,819 --> 00:01:09,759
+Once you give me three grand,
+you're going to be posting more,
+
+37
+00:01:09,799 --> 00:01:09,999
+you're going to
+
+38
+00:01:10,040 --> 00:01:11,519
+build a landing page,
+and you're going to start email marketing.
+
+39
+00:01:11,559 --> 00:01:12,619
+Otherwise,
+it's going to be a waste of money.
+
+40
+00:01:12,779 --> 00:01:14,959
+I don't think we're there yet,
+but I think AI is going to come along
+
+41
+00:01:15,019 --> 00:01:15,580
+really soon,
+
+42
+00:01:15,680 --> 00:01:18,919
+operate your calendar, diary,
+keep everything in person, up to date.
+
+43
+00:01:19,099 --> 00:01:21,499
+And I'd say the main place you want to be
+using AI for your online stuff is
+
+44
+00:01:21,580 --> 00:01:24,819
+ideation. On the drive back from the gym,
+hit the voice button on your AI, whether
+
+45
+00:01:24,860 --> 00:01:27,479
+it's Claude, ChatGPT, whatever.
+Tell them all of the problems
+
+46
+00:01:27,500 --> 00:01:27,959
+that your clients
+
+47
+00:01:28,000 --> 00:01:29,879
+face today,
+all the things you helped them with,
+
+48
+00:01:29,919 --> 00:01:30,879
+all of the things that people are
+
+49
+00:01:30,919 --> 00:01:33,259
+struggling with, and then say,
+"Give me some ideas of videos
+
+50
+00:01:33,299 --> 00:01:33,999
+that I should make for
+
+51
+00:01:34,059 --> 00:01:37,019
+tomorrow." That's a snapshot of how I
+would use AI as an online coach in a
+
+52
+00:01:37,040 --> 00:01:40,239
+business. If you comment the word AI,
+I can give you a prompt that we're using
+
+53
+00:01:40,279 --> 00:01:42,479
+right now in the business mentorship,
+which is helping people increase their
+
+54
+00:01:42,519 --> 00:01:44,519
+conversions on their landing page.
+Bye-bye.

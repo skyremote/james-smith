@@ -1,0 +1,281 @@
+Imagine a world where you could take comments on your content
+and turn them into clients. Well that, ladies and gentlemen, is
+now a real... I can't talk like that, is a reality.
+I'm going to show you some of the stuff that usually I would only show people if
+they were paying me money. But the thought is,
+you could end up seeing this and
+learning so much from it,
+that you end up paying me money. So over here we have ManyChat.
+I've been using ManyChat since about 2017, and although some of the rules have
+changed, how it integrates with Facebook
+and whatnot, I still think it's a very
+powerful tool. I do not even use this to its full
+potential.
+Over here, if we click on Automation, because that's really where I think the
+power
+of chatbots are, to be doing work for you whilst you're
+asleep or doing other
+things. And here you can see a list of some of the
+automations I've been
+using. So very quickly, an automation is some kind of process that we can put in
+place so that when someone on our social media, whether it be Facebook or whether
+it be Instagram, because ManyChat is a partner of Meta, they're the only two
+that we can properly use at the moment.
+On a certain behavior, we can get a prompt, a response,
+a message.
+So for instance, if I click New Automation up here,
+start from scratch.
+I know this can look very complex in the beginning.
+Wow, so refreshing. Product placement. Love that. So New Trigger.
+A trigger is the thing that's going to happen for that response.
+Thing that happens, response. Now when you see this, straight away,
+any of you
+that aren't using this, your eyes just light up.
+So whether or not someone comments on a post or a reel, replies to our story,
+sends
+a message, comments on a live, we can send them a message.
+I had great success with this recently for one of my last challenges that we did,
+where I would go live, and I would make the title of the live,
+Comment the Word
+Challenge. So people would comment the word challenge
+on the live, and it meant
+they could stay concurrently watching the live video I was doing.
+Then after that, they could go to their inbox as to where
+they would find the
+message. Now before we get carried away, it's worth noting that if someone DMs
+us a message, we have more options, but we'll get onto that in a second.
+So we want someone to comment on our post or reel.
+A lot of people seem to think that they are manually responding to
+these, but
+they're not. Some people might, most of them aren't.
+So I can pick a specific reel from here, but these have already been posted,
+so that's not ideal. So it's better if we can look at all posts or reels, or
+next post and reel. Now if you were going to run a campaign,
+say up until this
+week, if you commented the word calculator on
+any of my posts on Instagram,
+you would get a DM saying, "Hey, you want to use my calorie calculator?
+Here it is." Which is a squeeze page, it's a lead magnet.
+I let people use the calorie calculator for free, but then if they want a more
+detailed breakdown of all the information I've given them, they have to give us
+their email address. We have that and have had that passively collect email
+addresses for nearly a decade. So if there's a generalized word,
+there's not many
+people that are going to be using or messaging the word calculator to me
+that
+don't want a calorie calculator. So for me, I would have used that.
+However, if you're running a novel campaign,
+you might just say, "Hey,
+for the next post and reel, continue." Now there are two options here.
+You can get them to put in a keyword, or sometimes you can do any comment,
+and this
+is really where I'm dropping my pants and explaining some of my marketing nous.
+Sometimes you put the keyword and the first one I ever used was,
+comment the word
+daddy. People are like, "Oh, that's a bit inappropriate." Made it a bit
+funny, a
+bit jovial. But actually, in my last successful chatbot
+automation, I said, "Any comment," and in the video, I said, "Comment your
+favorite sex position." So that people were putting some of the
+craziest
+sexual positions ever, wondering, wow, is there going to be a chatbot response to
+me saying reverse cowgirl? So then I was getting interactions from
+people that just kind of wanted to see what happened.
+So the any comment one's quite good.
+Specific keyword, let's say I'm using the word challenge.
+I'd put the word challenge, but I'd also put the word challenge spelt
+wrong,
+just in case someone is retarded. So let's say I'm doing January
+kickoff challenge, whatever. I've got those two things there, cool.
+That's my triggers. I'm happy with it. Continue.
+Now you can send random multiple replies, like, "Thanks,
+mate. Cheers, bro." I'm not a big fan of them,
+if I'm honest.
+I've used them before, but if you've got 300 comments on a post,
+you reply to all
+of them, they're thinking this person's got too
+much spare time.
+Now, we need something that's logically going
+to happen
+after this. So we've got the trigger set up,
+next post or reel, the word challenge.
+Now because this is an Instagram automation,
+we're going to want an Instagram
+message. Now this is it. You go, "Wow, thank you, brother.
+For more information about the challenge, just click
+that sexy button below. All the best, Big
+Sexy."
+Then Add Button, want to change the button to Challenge
+Info. For any of you on Mac, did you know that if you hit Control,
+Command, and
+Space Bar, you get your emojis? If you
+didn't, you do now. You do now. Cool.
+We want to open website, and I actually have... Look at that.
+See that? What, you don't have keyboard shortcuts set up
+so that I type in
+challenge one, got the URL for my challenge. What's that?
+Email auto. There's a short link for one of my
+autoresponders.
+What's that? JSA 2, my business partner's email address.
+I've got shortcuts for everything, brother.
+What do you need? I've got a shortcut for it. Where were we?
+Bersh.
+So now you might want to think, oh, what you say?
+Oh, I didn't put something there. My bad. My bad. Challenge info.
+Got a bit carried away showing off there, didn't I?
+So that's all looking nice and good, and you're probably thinking,
+what does that look like? Not a problem. Go up here to preview.
+Bersh. Wow. That's so good. You can even click that to
+check the efficacy. Look at that. Fantastic.
+Fantastic. What a place. What a time to be alive.
+So then we can set that live. Straight away, you can then post your next
+post and start. You can do it in the caption.
+I like doing it in the video.
+And you can just say it subtly. Oh, and by the way, if you wanted to know more
+about that challenge, you can just comment the word challenge.
+Anyway, back to the point. Boom, you're in, you're out.
+So then people that are interested can be actionable on it,
+and people that aren't,
+aren't.
+Is that it? No. We're just getting warmed up.
+We've just got you moist.
+It's now time to get stuck in. You can tell I enjoy this stuff.
+By the way, guys, just to let you know, here, this is where I'm going to spend the
+rest of my morning, in The Minuteship, helping people. It's how I make money.
+I work with small brands, businesses, some personal trainers, a lot.
+There'll be a link in the description.
+But let's get back to it before we get distracted.
+Let's make a daddy automation. Something- Sexy.
+New trigger. I want someone to send me a message. Why?
+Because we have more options with this, and I'll explain.
+Select a way to trigger the automation. Detect specific words. Daddy.
+Let's just put it. So, new trigger. So, I'm already doing this, sorry.
+Keyword trigger created. Now, we're going to drop this person a message,
+but we're
+going to take this to the next level.
+"Hey mate, thanks for the DM." Oh, what's that? Delay. Wait a few seconds.
+Make it seem like I'm really there. Text.
+"Sorry, bear with." One sec. Delay.
+"So basically, I really wanted the opportunity to tell
+you more
+about my 12-week challenge." Delay.
+"If you're someone looking to drop a bit of timber
+and remain accountable, this would be perfect for you." And
+again, this could be anything. This could be tax accounting.
+I choose this because I've run a PT business for a while.
+Then after a while, you go up here to preview.
+"Thanks for the DM." Oh.
+Oh my God, he's actually messaging me back.
+"Sorry, bear with." [chuckles] Yeah, I'll wait.
+Oh, my God, is that the James Smith?
+"So basically, I really wanted the opportunity..." Oh.
+"Tell me more." And we can make this as long as we want.
+We could put an image in. Let's say
+a thumbnail. Do you like this thumbnail? I made it myself.
+Oh. And then we could put another delay.
+Then we could put, what else have we got in here?
+Audio, send a voice note, share a video.
+So this is where things can get really interesting. Even here.
+I put a little audio file in there. We could then say, "Hey mate, sorry,
+just on
+the move. Basically, wanted to tell you more about the program.
+How was that voice note? Did I make it clear?
+The next thing ideally would be to book in
+a call with the sales team, if you're happy to." What else have we got
+here?
+Gallery, card, video. So I did one of these recently.
+Let's have a look how this looks now. The little delays.
+Sometimes you can make the delays up to 60 seconds, which really makes it
+look like you're there. Now, something else you can do with this is you
+can make people know that it's an automation,
+and they're not too bothered because
+it's still quite cool. You're getting a message from someone,
+and you can take
+people on a little journey. There can be other...
+Sometimes you can get to the end of it.
+Sometimes they need to respond to get to it.
+So here, you see, choose next step, condition. These are the complex things.
+Sometimes it goes like, "What are you looking to do?" Then they respond,
+then they
+get the next sequence. Some of these go really complex,
+but I don't think we really
+need to worry about that too much. But let's think about what kind of
+campaign are we going to be running here.
+So let me delete this one. I don't think it's
+the best idea to use this just to try and get someone to buy,
+because even one of
+my most previous videos telling you to not go to a website is exactly for this
+reason. So new trigger. Let's maybe even just go,
+someone sends you a
+message, emails. Yep, sweet. That's there.
+"Thank you so much for the DM. Basically, I really want to change your life."
+Cool. Little delay, bit of text. "Each day over the next 100
+days, I'm going to send you an email that's
+going to
+revolutionize your understanding of fitness.
+Now, I know you may not think these would be
+that good, but they're completely free, and if you don't
+absolutely love them, you can unsubscribe at any point.
+So would you please do me the favor and sign up
+today? I'm positive you are."
+Then my good delay, text. Oh, yeah.
+"Please use this link." Let's have a look how that looks.
+"Thank you so much for... And basically, I really want to change your life." Wow.
+"Each day over the next 100 days, I'm going to send you an email that's
+going to
+revolutionize your understanding of fitness.
+Now, I know..." See, that delay should've been longer.
+"Now, I know you may not think that these are going to be good,
+but you can
+unsubscribe at any point. So would you please do me the favor
+and sign up today?
+Oh, yeah, please use this link." Oh, that is not working as a
+hyperlink, is it? That's good that we've discovered this.
+Wow, I wonder why that is. I wonder why that is, mate.
+Okay, we're going to cut that. Add button.
+This is why you've got to test your shit, mate.
+That's why you've got to test your shit. Click here. Cool.
+And then let's go a little finger point just to let them know just in case
+they're blind, just in case their walking stick has
+fallen on the floor.
+And these don't take long. Basically, this means that you can now put out really
+engaging viral content onto the internet, and people will arrive in your DMs.
+And then they'll get these DM automations, and you'll wake up with people in your
+inbox. So that is just the dream, right? Click here.
+Where's it taking me? Oh my God, look at this fantastic squeeze page.
+Now, let me show you this in action, actually.
+So AWeber is one of my email lists. Then if we go here, so I'm
+not proactively getting people to join this.
+Here, you can actually see that I turned the chatbot off.
+So I turned it off to have a look whether or not it was having a real impact on the
+list. But these email sign-ups every day
+are coming from a
+chatbot that I put on Facebook that anytime someone comments,
+it just slides into
+their DMs and goes, "Hey, I send emails every day.
+They could really help you." And that has been growing the list.
+Not by a huge amount, to be honest, because I'm not really using this list at
+the
+moment, but you get the idea. So then you can just put out content.
+And then off the back of it, people can sign up to your email
+newsletter passively.
+And all you need to do is just mention it in your content,
+or you can set something
+up so that anyone that comments gets that DM.
+Makes your life easier, whether you're running campaigns,
+selling something.
+You could even say to people, "Hey, I'm running a discount.
+DM me the word." And just taking them on that little journey can make your life
+easier. That's what we use these things for.
+This is like a little mini employee just sat there in the back end,
+making your life easier. How you're going to implement chatbots
+into your business,
+I don't know, but I hope that was a detailed
+walkthrough. I hope you enjoyed it. This video is quite good, actually.
+So to all of you lot in the mentorship, I think I'm going to put this one in the
+mentorship with the other chatbot tutorials because it was quite good.
+Link's in the description. I hope you enjoyed the video.
+And as per usual, YouTube recommends that you watch this video, and
+that you could
+learn a lot from it. So please click that and head over to that one.
+I'll change your life there as well.

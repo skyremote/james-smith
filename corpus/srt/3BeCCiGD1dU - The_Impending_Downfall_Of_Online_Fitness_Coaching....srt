@@ -1,0 +1,2028 @@
+1
+00:00:00,120 --> 00:00:02,460
+If you're a personal trainer,
+without trying to scare you too much,
+
+2
+00:00:02,620 --> 00:00:03,140
+I think that
+
+3
+00:00:03,200 --> 00:00:05,870
+your days are very numbered,
+whether you've been in the profession for
+
+4
+00:00:05,900 --> 00:00:06,290
+10 years or
+
+5
+00:00:06,300 --> 00:00:08,810
+you're just getting started. You see,
+I've been running one of the world's
+
+6
+00:00:08,880 --> 00:00:09,260
+largest
+
+7
+00:00:09,320 --> 00:00:13,060
+online personal training apps called JSA
+since 2017, and I can see the
+
+8
+00:00:13,100 --> 00:00:15,540
+trends. I can see the numbers,
+the analytics, and better yet,
+
+9
+00:00:15,640 --> 00:00:16,379
+I can see the threats
+
+10
+00:00:16,440 --> 00:00:18,400
+in real time. Now,
+let me tell you a little story.
+
+11
+00:00:18,500 --> 00:00:20,700
+For any of you that aren't from the UK,
+we have black cabs.
+
+12
+00:00:20,760 --> 00:00:22,760
+They are taxis that operate around London.
+
+13
+00:00:22,890 --> 00:00:25,950
+And what people don't realize
+is being a black cab driver in London used
+
+14
+00:00:25,980 --> 00:00:26,300
+to be one
+
+15
+00:00:26,320 --> 00:00:29,550
+of the most difficult things ever because
+you didn't just need to know how to
+
+16
+00:00:29,620 --> 00:00:31,430
+drive.
+You needed to learn something called The
+
+17
+00:00:31,480 --> 00:00:31,840
+Knowledge.
+
+18
+00:00:32,040 --> 00:00:35,740
+Now, for The Knowledge,
+you had to know 25,000 streets in
+
+19
+00:00:35,780 --> 00:00:37,850
+London off by heart. So
+if someone jumps in and says,
+
+20
+00:00:37,870 --> 00:00:38,440
+"I need to go there," you
+
+21
+00:00:38,480 --> 00:00:41,000
+know where it is.
+You need to know 20,000 landmarks.
+
+22
+00:00:41,240 --> 00:00:44,089
+What people didn't realize is
+if you ever saw anyone with a moped going
+
+23
+00:00:44,120 --> 00:00:44,340
+out with a
+
+24
+00:00:44,380 --> 00:00:47,320
+clipboard driving around London, they
+were often studying for The Knowledge,
+
+25
+00:00:47,540 --> 00:00:47,690
+and it
+
+26
+00:00:47,700 --> 00:00:51,020
+would take three to four years of study to
+become a black cab driver.
+
+27
+00:00:51,220 --> 00:00:54,900
+MRI scans even showed
+that black cab drivers' hippocampus,
+
+28
+00:00:54,980 --> 00:00:55,200
+which is
+
+29
+00:00:55,240 --> 00:00:57,360
+a region in the brain,
+grew because of this.
+
+30
+00:00:57,400 --> 00:01:00,460
+And I'm sure any of you, like me,
+that use Waze to go everywhere,
+
+31
+00:01:00,620 --> 00:01:01,089
+if you use Google
+
+32
+00:01:01,100 --> 00:01:03,140
+Maps, you're mental.
+You use Waze because then you can see
+
+33
+00:01:03,160 --> 00:01:03,640
+where those police
+
+34
+00:01:03,680 --> 00:01:06,080
+cameras are.
+That part of my brain has shrunk because
+
+35
+00:01:06,120 --> 00:01:06,860
+even when I go home and see
+
+36
+00:01:06,900 --> 00:01:10,080
+my parents, I know where things are,
+but I have to put it into the sat nav
+
+37
+00:01:10,100 --> 00:01:10,480
+because
+
+38
+00:01:10,520 --> 00:01:11,460
+that part of my brain's atrophied.
+
+39
+00:01:11,500 --> 00:01:15,340
+Anyway, everyone was sure
+that black cabs would be a part of London
+
+40
+00:01:15,440 --> 00:01:17,520
+forever and that The Knowledge would be a
+thing.
+
+41
+00:01:17,710 --> 00:01:21,400
+And it was only when Uber came along,
+that finished. No one saw it coming.
+
+42
+00:01:21,560 --> 00:01:24,140
+With Uber, all of
+that knowledge just became redundant.
+
+43
+00:01:24,180 --> 00:01:24,660
+No one cared.
+
+44
+00:01:24,720 --> 00:01:26,700
+Because an unqualified driver
+that didn't know where the hell he
+
+45
+00:01:26,740 --> 00:01:27,560
+was could then
+
+46
+00:01:27,600 --> 00:01:30,160
+have a bit of software on their phone
+that would tell them where to go, the best
+
+47
+00:01:30,220 --> 00:01:33,960
+route, and even have all the analytics
+and data from current trends in
+
+48
+00:01:34,000 --> 00:01:36,890
+traffic to know which is the best route.
+Now looking back, it makes sense.
+
+49
+00:01:37,080 --> 00:01:38,980
+Back in the day, we had travel agents.
+
+50
+00:01:39,000 --> 00:01:42,340
+When you wanted to get your group together
+to go to Malia back in '07, you go to a
+
+51
+00:01:42,360 --> 00:01:43,740
+travel agent, they'd sort it out for you.
+
+52
+00:01:43,880 --> 00:01:46,400
+Again, websites arrived,
+and you could book your travel on there.
+
+53
+00:01:46,460 --> 00:01:48,200
+You didn't have to go to Thomson on the
+high street.
+
+54
+00:01:48,320 --> 00:01:50,920
+Again, booking your holidays, you thought,
+this will never go anywhere.
+
+55
+00:01:51,050 --> 00:01:52,830
+Blockbuster.
+For any of you too young for that,
+
+56
+00:01:53,000 --> 00:01:53,560
+don't even worry.
+
+57
+00:01:53,790 --> 00:01:57,220
+And again, let's think about people
+that used to process films in cameras.
+
+58
+00:01:57,420 --> 00:01:59,820
+Up until the point
+that these businesses vanished,
+
+59
+00:02:00,060 --> 00:02:00,800
+everyone thought they'd be
+
+60
+00:02:00,840 --> 00:02:02,920
+around forever.
+So let's look at personal training now.
+
+61
+00:02:02,980 --> 00:02:06,740
+To me, there are three main threats
+which are going to jeopardize personal
+
+62
+00:02:06,780 --> 00:02:10,630
+training over the next few years,
+and this video is about preparing for them
+
+63
+00:02:10,660 --> 00:02:12,240
+so that you can survive this oncoming
+wave.
+
+64
+00:02:12,540 --> 00:02:15,030
+The first one has to be weight loss
+medications.
+
+65
+00:02:15,130 --> 00:02:18,220
+And even calling them weight loss
+medications I don't think is enough here.
+
+66
+00:02:18,420 --> 00:02:21,880
+We have a GLP-1. We can look at Ozempic,
+known as Wegovy at the top.
+
+67
+00:02:22,160 --> 00:02:25,180
+Then a better one came along known as
+Mounjaro, which is tirzepatide.
+
+68
+00:02:25,400 --> 00:02:28,220
+Now,
+you could call Ozempic a single agonist,
+
+69
+00:02:28,340 --> 00:02:29,080
+Mounjaro a double
+
+70
+00:02:29,160 --> 00:02:32,220
+agonist. Then retatrutide
+is on its way through trials as a triple
+
+71
+00:02:32,280 --> 00:02:32,620
+agonist.
+
+72
+00:02:32,810 --> 00:02:35,440
+GLP, GIP,
+and the effect it's going to have,
+
+73
+00:02:35,480 --> 00:02:36,740
+potentially treating
+
+74
+00:02:36,780 --> 00:02:39,540
+fatty liver disease, obesity.
+Andrew Huberman reckons it could be a
+
+75
+00:02:39,560 --> 00:02:40,040
+trillion-dollar
+
+76
+00:02:40,049 --> 00:02:41,800
+drug.
+The effects of these weight loss
+
+77
+00:02:41,820 --> 00:02:43,590
+medications are already impacting the
+
+78
+00:02:43,600 --> 00:02:45,600
+economy in ways that we can see. Aviation.
+
+79
+00:02:45,790 --> 00:02:48,260
+Planes are using less fuel than they did a
+few years ago.
+
+80
+00:02:48,720 --> 00:02:51,300
+In jewelry, jewelers
+are now using less gold in wedding rings.
+
+81
+00:02:51,460 --> 00:02:53,000
+Obesity rates,
+for the first time in history,
+
+82
+00:02:53,040 --> 00:02:53,900
+have started to decline.
+
+83
+00:02:54,150 --> 00:02:55,960
+The world is changing because of these
+drugs.
+
+84
+00:02:56,000 --> 00:02:57,620
+Whether you like that or not,
+it doesn't matter.
+
+85
+00:02:57,660 --> 00:02:58,480
+That's the reality of it.
+
+86
+00:02:58,620 --> 00:03:00,140
+Now,
+there is opportunity within this because
+
+87
+00:03:00,160 --> 00:03:01,300
+there's now a massive cohort of
+
+88
+00:03:01,340 --> 00:03:04,100
+people that would never have stepped foot
+in a gym, that wouldn't care about
+
+89
+00:03:04,140 --> 00:03:06,700
+coaching, that now
+are mindful of muscle wastage,
+
+90
+00:03:06,880 --> 00:03:07,750
+getting adequate protein,
+
+91
+00:03:08,060 --> 00:03:10,910
+and preserving muscle tissue.
+Those people will find their way into the
+
+92
+00:03:10,920 --> 00:03:11,130
+fitness
+
+93
+00:03:11,180 --> 00:03:13,640
+industry.
+So whilst weight loss medications could
+
+94
+00:03:13,680 --> 00:03:15,060
+extinct us, they can also bring
+
+95
+00:03:15,080 --> 00:03:18,400
+us opportunity, but then again,
+that opportunity is only going to be
+
+96
+00:03:18,500 --> 00:03:19,020
+available
+
+97
+00:03:19,080 --> 00:03:22,700
+to those that are out there doing the
+things that modern businesses need to do
+
+98
+00:03:22,740 --> 00:03:22,780
+to
+
+99
+00:03:22,800 --> 00:03:25,500
+get attention.
+Standing by reception in the gym
+
+100
+00:03:25,740 --> 00:03:26,420
+is not going to get
+
+101
+00:03:26,580 --> 00:03:28,810
+you all of those people on weight loss
+medications.
+
+102
+00:03:28,880 --> 00:03:30,440
+You're going to have to be at the
+forefront of social media.
+
+103
+00:03:30,500 --> 00:03:32,560
+I could make this a whole video
+altogether. That's the first threat.
+
+104
+00:03:32,660 --> 00:03:35,220
+Now, the second one, again, people
+that know more about AI
+
+105
+00:03:35,420 --> 00:03:36,120
+are probably going to
+
+106
+00:03:36,220 --> 00:03:39,730
+step in here. I think apps
+are going to die a death in the next few
+
+107
+00:03:39,740 --> 00:03:39,940
+years,
+
+108
+00:03:40,000 --> 00:03:41,520
+especially coaching apps, fitness apps.
+
+109
+00:03:41,860 --> 00:03:43,180
+Again,
+I have one of the biggest apps ever,
+
+110
+00:03:43,320 --> 00:03:44,420
+and I think we're going to see AI
+
+111
+00:03:44,440 --> 00:03:46,680
+agents that pretty much are on our phone.
+
+112
+00:03:46,870 --> 00:03:48,720
+And rather than even opening an app,
+you just talk to your agent.
+
+113
+00:03:48,870 --> 00:03:50,400
+"Oh, yeah,
+I'm on my way to the gym." "How you
+
+114
+00:03:50,460 --> 00:03:51,579
+feeling?" "Yeah, a little bit sore."
+
+115
+00:03:51,750 --> 00:03:53,440
+"In the last session, you did this.
+
+116
+00:03:53,640 --> 00:03:55,430
+How did you feel at the end of it?" "Yeah,
+you know what?
+
+117
+00:03:55,480 --> 00:03:58,080
+It's about an 8 out of 10 difficulty."
+You'll just be able to talk to your agent
+
+118
+00:03:58,100 --> 00:03:59,650
+about everything.
+"How'd you sleep last night?" "Yeah,
+
+119
+00:03:59,760 --> 00:04:00,350
+I actually slept pretty
+
+120
+00:04:00,360 --> 00:04:03,260
+good." But the agent's also going to have
+the data from your Eight Sleep mattress.
+
+121
+00:04:03,420 --> 00:04:06,950
+Your agent could also have some input into
+the amount of work you've been doing,
+
+122
+00:04:07,000 --> 00:04:08,400
+how stressed you are,
+your resting heart rate,
+
+123
+00:04:08,480 --> 00:04:09,420
+all of these different metrics.
+
+124
+00:04:09,640 --> 00:04:13,609
+And your AI agent is going to say, "Hey,
+I've derived you a workout for today.
+
+125
+00:04:13,660 --> 00:04:16,740
+It could seem like there's less here than
+usual, but because of your heart rate
+
+126
+00:04:16,780 --> 00:04:18,230
+variability,
+the amount you slept last night,
+
+127
+00:04:18,240 --> 00:04:19,579
+and how much work you did yesterday,
+
+128
+00:04:19,620 --> 00:04:22,029
+we think for you to optimize
+and get the most out of the session,
+
+129
+00:04:22,060 --> 00:04:22,240
+you're going to
+
+130
+00:04:22,320 --> 00:04:26,220
+do this much." The idea of going outside
+of your AI agent to hire a personal
+
+131
+00:04:26,260 --> 00:04:28,100
+trainer, I think could seem stupid.
+
+132
+00:04:28,280 --> 00:04:31,020
+I think that your AI agent as well
+is going to say, "Hey, James.
+
+133
+00:04:31,340 --> 00:04:33,860
+I know that you've got 45 seconds
+remaining on this set.
+
+134
+00:04:33,980 --> 00:04:36,240
+Do you want me to top up your protein
+order?
+
+135
+00:04:36,400 --> 00:04:38,910
+Because we've seen that
+if you've had one protein scoop a day,
+
+136
+00:04:39,100 --> 00:04:39,520
+that you've only got
+
+137
+00:04:39,860 --> 00:04:41,539
+two scoops left and the shipping
+is three days.
+
+138
+00:04:41,560 --> 00:04:43,410
+Do you want me to go ahead and order
+that for you?" "Yeah. Do you know what?
+
+139
+00:04:43,460 --> 00:04:46,460
+I'd love you to do that." Then just as
+you're leaving the gym, "Hey, James.
+
+140
+00:04:46,600 --> 00:04:48,760
+Your Porsche is due for a service in the
+next seven days.
+
+141
+00:04:48,920 --> 00:04:50,960
+Considering it's Friday,
+probably one of the best times to get
+
+142
+00:04:50,980 --> 00:04:51,320
+through to the
+
+143
+00:04:51,340 --> 00:04:53,340
+Porsche Service Center.
+Do you want us to call ahead and book
+
+144
+00:04:53,360 --> 00:04:53,780
+that in for you?"
+
+145
+00:04:53,830 --> 00:04:56,020
+"Yeah, please. Thanks." I think
+that we're going to have AI agents
+
+146
+00:04:56,040 --> 00:04:56,400
+that take care
+
+147
+00:04:56,420 --> 00:04:59,140
+of everything for us. "Hey,
+I need to go to Dubai on these dates.
+
+148
+00:04:59,200 --> 00:05:00,540
+Can you organize all my travel?" "Sure.
+
+149
+00:05:00,640 --> 00:05:03,720
+Would you like a window or aisle seat,
+James?" Now, I could be completely wrong
+
+150
+00:05:03,760 --> 00:05:05,690
+with this.
+This three-year buffer could be six,
+
+151
+00:05:05,760 --> 00:05:06,840
+could be 10, could be one.
+
+152
+00:05:07,020 --> 00:05:09,969
+But let me ask you this. Even
+if this seems like an extinction-level
+
+153
+00:05:10,020 --> 00:05:10,600
+event, you can
+
+154
+00:05:10,640 --> 00:05:13,320
+either be ready for it,
+or it's just going to fucking slap you
+
+155
+00:05:13,360 --> 00:05:13,960
+and destroy you when
+
+156
+00:05:13,980 --> 00:05:17,700
+it comes along. And for me, I think
+that we should aim for this catastrophe to
+
+157
+00:05:17,760 --> 00:05:19,840
+happen so we can maximize what we do in
+the next three years.
+
+158
+00:05:20,000 --> 00:05:21,880
+The third threat, I think,
+is just going to be exhaustion.
+
+159
+00:05:22,080 --> 00:05:24,660
+So in advertising, when we create adverts,
+
+160
+00:05:25,480 --> 00:05:28,420
+you can only show them to people a set
+amount of time before people get exhausted
+
+161
+00:05:28,460 --> 00:05:29,340
+of it and don't want to see it anymore.
+
+162
+00:05:29,480 --> 00:05:32,360
+Now, since the pandemic,
+every single coach is an online coach.
+
+163
+00:05:32,580 --> 00:05:35,330
+Every single person
+is now an online business coach doing what
+
+164
+00:05:35,360 --> 00:05:35,890
+I'm doing.
+
+165
+00:05:35,920 --> 00:05:38,250
+But funnily enough,
+a lot of my competitors never even ran
+
+166
+00:05:38,260 --> 00:05:38,960
+competitive fitness
+
+167
+00:05:38,980 --> 00:05:40,930
+businesses.
+There's even one woman I'm working with at
+
+168
+00:05:40,940 --> 00:05:41,850
+the moment, and she's like,
+
+169
+00:05:41,850 --> 00:05:44,720
+"Oh, I joined this guy's program."
+And I look at his page and I'm like, why?
+
+170
+00:05:44,880 --> 00:05:48,180
+Charging her 15 grand.
+The guy's not even got 10,000 followers,
+
+171
+00:05:48,300 --> 00:05:48,780
+and he's teaching
+
+172
+00:05:48,840 --> 00:05:50,800
+you how to build a social media platform.
+
+173
+00:05:51,080 --> 00:05:54,090
+He's never even had a big business,
+and he's the guy that's going to grow your
+
+174
+00:05:54,140 --> 00:05:56,180
+business to the next scale.
+I didn't get that.
+
+175
+00:05:56,260 --> 00:05:59,260
+I was like, out of all people, why him?
+So yeah, I reckon you have three years.
+
+176
+00:05:59,300 --> 00:06:01,400
+So if you're just newly qualified or
+if you're a seasoned vet,
+
+177
+00:06:01,660 --> 00:06:02,720
+[chuckles] this next
+
+178
+00:06:02,860 --> 00:06:05,240
+three-year window is where everything
+happens.
+
+179
+00:06:05,420 --> 00:06:06,860
+But there's good news in the back of this.
+
+180
+00:06:06,940 --> 00:06:08,860
+It's not like it's going to be three
+years, then you're fucked
+
+181
+00:06:08,880 --> 00:06:09,210
+and you're out on
+
+182
+00:06:09,240 --> 00:06:11,860
+the street and you're homeless. It's
+that in the next three years, there
+
+183
+00:06:11,880 --> 00:06:12,280
+is so much
+
+184
+00:06:12,300 --> 00:06:16,140
+work you need to do that you can adapt
+and pivot and react to what's coming.
+
+185
+00:06:16,300 --> 00:06:19,180
+Now, quickly, in the description, there
+is my PT Starter Kit.
+
+186
+00:06:19,320 --> 00:06:22,580
+It's $99 US, which isn't a lot.
+And you get my Short-Form Content Mastery,
+
+187
+00:06:22,610 --> 00:06:22,710
+which
+
+188
+00:06:22,740 --> 00:06:24,280
+teaches you everything about making
+content.
+
+189
+00:06:24,300 --> 00:06:27,120
+But then also there
+is a personal trainer course in there
+
+190
+00:06:27,160 --> 00:06:27,610
+about running and
+
+191
+00:06:27,660 --> 00:06:29,480
+operating a business in person
+and going online.
+
+192
+00:06:29,520 --> 00:06:32,280
+And there's currently $99 off that,
+so there's going to be a link for
+
+193
+00:06:32,340 --> 00:06:32,550
+that in the
+
+194
+00:06:32,560 --> 00:06:34,500
+description. I'm just going to send
+that to the boys.
+
+195
+00:06:34,720 --> 00:06:38,110
+And you can buy that or don't. It's $99.
+I mean, you get one client out of it.
+
+196
+00:06:38,260 --> 00:06:40,720
+Anyway, back to the video.
+So there's three real phases we need to
+
+197
+00:06:40,740 --> 00:06:41,200
+think about to
+
+198
+00:06:41,220 --> 00:06:42,780
+deal with these three very real threats.
+
+199
+00:06:42,960 --> 00:06:45,500
+The first stage is going to be learn,
+the second stage is going to be the pivot,
+
+200
+00:06:45,640 --> 00:06:47,280
+and the third stage
+is going to be the redirect,
+
+201
+00:06:47,380 --> 00:06:48,100
+and we'll get onto this in a
+
+202
+00:06:48,160 --> 00:06:50,180
+second. So any of you
+that watched my videos before will know
+
+203
+00:06:50,200 --> 00:06:50,460
+that there's a
+
+204
+00:06:50,500 --> 00:06:53,150
+four-stage system that you need to learn,
+not just as a personal trainer, but
+
+205
+00:06:53,180 --> 00:06:56,060
+running any business. Socials, squeeze,
+sell, scale.
+
+206
+00:06:56,220 --> 00:06:58,840
+Now, the interesting thing here
+is the socials element.
+
+207
+00:06:59,020 --> 00:07:01,510
+I learned how to operate social media as a
+personal trainer.
+
+208
+00:07:01,630 --> 00:07:03,700
+The personal trainer account,
+I got 1.4 million.
+
+209
+00:07:03,720 --> 00:07:05,960
+But then I could replicate
+that onto my business channel,
+
+210
+00:07:06,000 --> 00:07:07,320
+which has now got 44,000
+
+211
+00:07:07,340 --> 00:07:09,180
+subscribers,
+which means I could then replicate
+
+212
+00:07:09,240 --> 00:07:11,060
+that to create a platform for my
+
+213
+00:07:11,100 --> 00:07:13,300
+online coaching app, 96,000 on Instagram.
+
+214
+00:07:13,440 --> 00:07:17,260
+Which means I could then create a podcast
+channel, which has got 46.9
+
+215
+00:07:17,300 --> 00:07:20,070
+thousand.
+Once you learn how to grow a social media
+
+216
+00:07:20,140 --> 00:07:21,290
+channel, you know how to grow
+
+217
+00:07:21,420 --> 00:07:24,100
+all social media channels.
+It's not like you learn how to grow
+
+218
+00:07:24,180 --> 00:07:24,940
+socials as a PT,
+
+219
+00:07:25,060 --> 00:07:27,160
+then suddenly everything else
+is so much more difficult. If anything,
+
+220
+00:07:27,180 --> 00:07:27,640
+the opposite.
+
+221
+00:07:27,760 --> 00:07:30,860
+Personal trainer account's the hardest to
+grow because the least people care about
+
+222
+00:07:30,880 --> 00:07:32,300
+you buying your fucking workout
+
+223
+00:07:34,416 --> 00:07:37,976
+Let's have a look at the Nutonic account.
+78,500 Instagram subscribers.
+
+224
+00:07:38,046 --> 00:07:39,636
+And by the way,
+if any of you head to nutonic.com
+
+225
+00:07:39,836 --> 00:07:41,066
+and you buy anything from us and
+
+226
+00:07:41,096 --> 00:07:44,236
+you don't think it's better than what you
+think, just email me, james@nutonic.com,
+
+227
+00:07:44,516 --> 00:07:47,316
+and I'll refund you.
+So once you learn how to crack just one
+
+228
+00:07:47,356 --> 00:07:48,216
+form of social media,
+
+229
+00:07:48,476 --> 00:07:50,496
+you actually unlock the keys to doing it
+for everything.
+
+230
+00:07:50,556 --> 00:07:53,076
+So whatever businesses you have,
+because you might be an accountant
+
+231
+00:07:53,096 --> 00:07:53,796
+or a barber or
+
+232
+00:07:53,816 --> 00:07:56,526
+something else,
+once you learn how to grow one account,
+
+233
+00:07:56,736 --> 00:07:57,616
+you can take those skills
+
+234
+00:07:57,626 --> 00:07:59,626
+and apply them to everything.
+Because let's think about those skills.
+
+235
+00:07:59,656 --> 00:08:02,106
+Repetition, eating shit.
+Let's think about Thomas Edison,
+
+236
+00:08:02,116 --> 00:08:02,676
+for example.
+
+237
+00:08:02,736 --> 00:08:04,256
+Thomas Edison,
+who invented the light bulb,
+
+238
+00:08:04,396 --> 00:08:05,316
+you wouldn't be able to see me right
+
+239
+00:08:05,356 --> 00:08:08,976
+now if he hadn't have invented it,
+reportedly tested over 10,000 different
+
+240
+00:08:09,216 --> 00:08:12,076
+filament materials before actually
+inventing the light bulb.
+
+241
+00:08:12,196 --> 00:08:15,836
+A journalist once asked him about failing
+10,000 times, and Thomas
+
+242
+00:08:15,876 --> 00:08:19,696
+Edison said, "I've not failed.
+I have found 10,000 ways that won't work."
+
+243
+00:08:19,706 --> 00:08:23,086
+And I guarantee for any of you watching
+this, if you were to try and find
+
+244
+00:08:23,116 --> 00:08:26,696
+10,000 reels that didn't work, my God,
+you would find a lot that do.
+
+245
+00:08:26,916 --> 00:08:30,596
+Chris and myself have done about 5,000
+Instagram posts.
+
+246
+00:08:30,816 --> 00:08:33,876
+He's at 3 million, I'm at 1.4,
+which means he's kind of winning the
+
+247
+00:08:33,916 --> 00:08:34,486
+Instagram race,
+
+248
+00:08:34,556 --> 00:08:37,876
+but I've got a nicer car. But yeah,
+it took years and thousands of
+
+249
+00:08:37,916 --> 00:08:38,406
+opportunities
+
+250
+00:08:38,456 --> 00:08:41,076
+for Thomas Edison to invent the light
+bulb, and I love to remind people,
+
+251
+00:08:41,156 --> 00:08:41,476
+why do you
+
+252
+00:08:41,516 --> 00:08:44,136
+think that you're so fucking special
+that you're not going to suck like that?
+
+253
+00:08:44,296 --> 00:08:47,096
+So over the next three years,
+you have the opportunity to have as many
+
+254
+00:08:47,136 --> 00:08:47,636
+free spins
+
+255
+00:08:47,696 --> 00:08:50,396
+as you want on this roulette game of
+social media.
+
+256
+00:08:50,516 --> 00:08:51,436
+That's what people don't realize.
+
+257
+00:08:51,656 --> 00:08:55,476
+Every single spin is fucking free,
+and the return on investment can be
+
+258
+00:08:55,556 --> 00:08:58,336
+massive. All it takes
+is for one post to boot off
+
+259
+00:08:58,376 --> 00:08:59,516
+and your whole life has
+
+260
+00:08:59,556 --> 00:09:01,216
+changed forever.
+Do you not understand that?
+
+261
+00:09:01,356 --> 00:09:03,976
+You've got this little arm,
+ching-ding-ding-ding-ding-ding-ding-ding-ding.
+
+262
+00:09:04,196 --> 00:09:07,356
+Every time you post, you
+are rolling the fucking dice to
+
+263
+00:09:07,436 --> 00:09:07,996
+potentially
+
+264
+00:09:08,096 --> 00:09:10,836
+not just winning, but learning
+and getting feedback from your audience
+
+265
+00:09:10,876 --> 00:09:11,096
+and getting
+
+266
+00:09:11,196 --> 00:09:12,916
+feedback from the world. It's one video.
+
+267
+00:09:12,976 --> 00:09:15,036
+And if you're posting once a day,
+even then I'm like, "Is
+
+268
+00:09:15,076 --> 00:09:15,996
+that fucking it?" I'm
+
+269
+00:09:16,066 --> 00:09:18,876
+pretty sure Chris Williamson
+is posting 14, 15 times a day.
+
+270
+00:09:18,956 --> 00:09:21,816
+He's outsourced an entire company to do
+it, and I'm about to do something similar
+
+271
+00:09:21,896 --> 00:09:23,756
+because I'm well aware
+that I've probably only got three years
+
+272
+00:09:23,796 --> 00:09:24,636
+left to really
+
+273
+00:09:24,676 --> 00:09:27,216
+maximize everything from social media.
+So I'm going to do the same.
+
+274
+00:09:27,396 --> 00:09:30,596
+If I have this life from posting less than
+once a day, imagine what I'd have if I
+
+275
+00:09:30,616 --> 00:09:33,276
+posted five times a day.
+So that's socials. Then we have squeeze.
+
+276
+00:09:33,556 --> 00:09:35,166
+Ultimately,
+we can't control the algorithms
+
+277
+00:09:35,196 --> 00:09:36,416
+and how they change, and we saw things
+
+278
+00:09:36,436 --> 00:09:39,786
+like the TikTokification of social media,
+where at the moment, to put it briefly,
+
+279
+00:09:39,956 --> 00:09:42,376
+people see your content not because they
+follow you, they see it because it's good.
+
+280
+00:09:42,616 --> 00:09:45,136
+And the algorithms work very simply like
+this. They get your reel.
+
+281
+00:09:45,306 --> 00:09:46,926
+They don't go, "Is this good
+or not?" They go,
+
+282
+00:09:46,986 --> 00:09:48,156
+"Let's give it to 100 people and see
+
+283
+00:09:48,176 --> 00:09:51,056
+how they react." The majority of those 100
+people don't fucking follow you.
+
+284
+00:09:51,096 --> 00:09:53,906
+So when you're making content,
+please think to yourself,
+
+285
+00:09:53,906 --> 00:09:54,656
+"If I showed this to 100
+
+286
+00:09:54,676 --> 00:09:56,396
+people,
+how many would actually like it?" Because
+
+287
+00:09:56,436 --> 00:09:57,176
+showing it to your audience is
+
+288
+00:09:57,216 --> 00:09:59,776
+very, very different. Cool. Then
+if 100 people quite a lot like it,
+
+289
+00:09:59,856 --> 00:10:00,156
+let's give it
+
+290
+00:10:00,176 --> 00:10:02,416
+to 1,000 people. Quite a lot like it.
+Go to a million people.
+
+291
+00:10:02,496 --> 00:10:03,096
+Quite a lot like it.
+
+292
+00:10:03,256 --> 00:10:06,196
+Until you get the diminishing point of
+returns, or there's no longer a captive
+
+293
+00:10:06,256 --> 00:10:07,736
+audience that speak English. Cool.
+
+294
+00:10:07,896 --> 00:10:10,016
+Now, off the back of that,
+we need to get as much data as we can,
+
+295
+00:10:10,136 --> 00:10:10,736
+because at the
+
+296
+00:10:10,776 --> 00:10:12,436
+moment,
+if you were to delete my Instagram
+
+297
+00:10:12,456 --> 00:10:13,366
+or this YouTube, I've still got
+
+298
+00:10:13,476 --> 00:10:14,546
+thousands of people that I can email.
+
+299
+00:10:14,656 --> 00:10:16,556
+Case in point, this morning,
+I actually looked at our revenue for the
+
+300
+00:10:16,576 --> 00:10:16,896
+month, and it
+
+301
+00:10:16,936 --> 00:10:18,836
+was a bit slow.
+So I've decided I'm going to dial up the
+
+302
+00:10:18,876 --> 00:10:19,426
+amount of production
+
+303
+00:10:19,516 --> 00:10:20,736
+videos that I'm making for the channel.
+
+304
+00:10:20,756 --> 00:10:23,036
+But also, I thought,
+what offer could I put out there to get
+
+305
+00:10:23,056 --> 00:10:23,576
+money in my bank
+
+306
+00:10:23,616 --> 00:10:26,396
+account in the next 48 hours?
+I could run a discount on my mentorship
+
+307
+00:10:26,476 --> 00:10:27,296
+or whatever.
+
+308
+00:10:27,436 --> 00:10:30,236
+Then I thought, actually,
+why not get my PT starter kit going out
+
+309
+00:10:30,256 --> 00:10:30,356
+there?
+
+310
+00:10:30,536 --> 00:10:32,746
+Because that has really helped a lot of
+personal trainers.
+
+311
+00:10:32,966 --> 00:10:35,416
+And I could be real with them because I
+actually sat at my desk this morning
+
+312
+00:10:35,496 --> 00:10:37,376
+thinking, "Fuck,
+I've probably only got three years left."
+
+313
+00:10:37,976 --> 00:10:38,776
+And while sitting there
+
+314
+00:10:38,796 --> 00:10:42,116
+thinking about how I'm going to maximize
+the next three years, I thought, "Fuck,
+
+315
+00:10:42,436 --> 00:10:44,816
+this is a good video." So I get in my car,
+come here, and make it for you.
+
+316
+00:10:44,996 --> 00:10:47,196
+So you've got the socials.
+You've got the squeeze to get as much data
+
+317
+00:10:47,216 --> 00:10:47,736
+as you can
+
+318
+00:10:47,756 --> 00:10:50,116
+over the next three years because all
+those people that do coaching with you,
+
+319
+00:10:50,276 --> 00:10:50,476
+next
+
+320
+00:10:50,516 --> 00:10:52,095
+minute, they're buying your fucking drink.
+
+321
+00:10:52,186 --> 00:10:55,116
+When I look at the analytics from my daily
+emails that go out to people, about half
+
+322
+00:10:55,156 --> 00:10:57,196
+the people go to my coaching app,
+half the people go to Nutonic.
+
+323
+00:10:57,376 --> 00:10:59,446
+Then yesterday's email,
+a third went to Nutonic,
+
+324
+00:10:59,516 --> 00:11:00,496
+a third went to my coaching app,
+
+325
+00:11:00,576 --> 00:11:03,436
+and a third went to my podcast. You see,
+even growing the podcast is a
+
+326
+00:11:03,456 --> 00:11:06,176
+diversification of all the things I
+learned from being a personal trainer.
+
+327
+00:11:06,296 --> 00:11:09,296
+So the next stage would be sell,
+and you learn a lot about selling.
+
+328
+00:11:09,436 --> 00:11:12,196
+So at this point,
+I'm pretty much an expert in social media,
+
+329
+00:11:12,396 --> 00:11:12,796
+as you can see.
+
+330
+00:11:13,036 --> 00:11:16,116
+1.1 million Facebook, 1.8 million TikTok,
+1.4 million
+
+331
+00:11:16,676 --> 00:11:20,356
+Instagram, nearly 500K on one YouTube,
+50K on the other YouTube, 50K on the other
+
+332
+00:11:20,396 --> 00:11:23,896
+YouTube.
+Podcast coming up to 20 million downloads.
+
+333
+00:11:24,136 --> 00:11:26,316
+The socials element,
+I've done a lot of it.
+
+334
+00:11:26,516 --> 00:11:27,456
+Squeeze, got over half a
+
+335
+00:11:28,896 --> 00:11:31,456
+million emails. Then the sell.
+I've sold a lot of things.
+
+336
+00:11:31,636 --> 00:11:34,186
+I've sold door-to-door sales for NPower,
+gas and electricity.
+
+337
+00:11:34,416 --> 00:11:36,356
+I now sell the world's first productivity
+drink.
+
+338
+00:11:36,456 --> 00:11:38,716
+I'm now selling a course for personal
+trainers.
+
+339
+00:11:38,836 --> 00:11:42,116
+The selling component is the bit
+that you kind of learn the most about, and
+
+340
+00:11:42,256 --> 00:11:43,546
+probably the best lesson I can give you
+is this.
+
+341
+00:11:43,686 --> 00:11:46,046
+If 1% of your efforts are successful,
+you're doing well.
+
+342
+00:11:46,636 --> 00:11:48,596
+When you're selling,
+think about them more than you.
+
+343
+00:11:48,636 --> 00:11:49,516
+Give them a guarantee.
+
+344
+00:11:49,536 --> 00:11:51,056
+Think about what their concerns are.
+
+345
+00:11:51,076 --> 00:11:54,856
+Build a sales environment that
+is more congruent with them being
+
+346
+00:11:54,896 --> 00:11:57,776
+happy than you being happy. And again,
+the stuff that I learned about selling
+
+347
+00:11:57,796 --> 00:11:57,916
+from
+
+348
+00:11:57,936 --> 00:11:59,816
+Nutonic,
+I'd learnt from selling business
+
+349
+00:11:59,856 --> 00:12:01,016
+mentorships, and I'd also learned from
+
+350
+00:12:01,076 --> 00:12:03,496
+selling online coaching.
+Once you learn how to sell one thing,
+
+351
+00:12:03,556 --> 00:12:03,936
+you learn how to
+
+352
+00:12:03,996 --> 00:12:05,996
+sell all things.
+And then there's a scale component.
+
+353
+00:12:06,096 --> 00:12:08,956
+Now, the scale component
+is really the part you guys should be the
+
+354
+00:12:08,976 --> 00:12:09,556
+most interested
+
+355
+00:12:09,616 --> 00:12:13,016
+about, because the next three years,
+you get the opportunity to do so much
+
+356
+00:12:13,036 --> 00:12:13,366
+testing
+
+357
+00:12:13,376 --> 00:12:15,636
+on social media,
+so much testing with getting people's
+
+358
+00:12:15,716 --> 00:12:16,816
+email addresses, and so much
+
+359
+00:12:16,856 --> 00:12:18,656
+testing with selling,
+that your element of scale
+
+360
+00:12:18,696 --> 00:12:19,776
+is probably going to be what I
+
+361
+00:12:19,836 --> 00:12:22,446
+said before about a pivot.
+If you had said to me back in the day I
+
+362
+00:12:22,476 --> 00:12:22,816
+was going to be
+
+363
+00:12:22,896 --> 00:12:25,596
+a three times number one bestselling
+author, soon to be four times,
+
+364
+00:12:25,836 --> 00:12:26,076
+I wouldn't have
+
+365
+00:12:26,116 --> 00:12:28,716
+believed you. And again, actually,
+getting the accolade
+
+366
+00:12:28,916 --> 00:12:29,716
+that I have for these three
+
+367
+00:12:29,816 --> 00:12:31,136
+books is really, really difficult.
+
+368
+00:12:31,256 --> 00:12:34,016
+People that are much better at writing
+than me don't have those accolades.
+
+369
+00:12:34,205 --> 00:12:37,876
+So ask yourself this. Why is it
+that a personal trainer that's written a
+
+370
+00:12:37,916 --> 00:12:38,016
+few
+
+371
+00:12:38,096 --> 00:12:42,076
+books has got better accolades than most
+authors without writing a better book?
+
+372
+00:12:42,236 --> 00:12:45,556
+Because Will Storr
+is a much better author than me.
+
+373
+00:12:45,736 --> 00:12:46,216
+Much better.
+
+374
+00:12:46,336 --> 00:12:48,836
+Bestselling author Will Storr.
+Doesn't say number one, does it?
+
+375
+00:12:49,016 --> 00:12:50,156
+I'm only joking.
+
+376
+00:12:50,176 --> 00:12:53,406
+The reason being is Will Storr
+is playing a better authoring game than
+
+377
+00:12:53,436 --> 00:12:54,136
+me, but I
+
+378
+00:12:54,156 --> 00:12:57,446
+think that I'm better on social media,
+I'm better at email marketing, and I'm
+
+379
+00:12:57,476 --> 00:12:58,696
+better at creating landing pages.
+
+380
+00:12:58,736 --> 00:13:02,436
+And although it sounds fucking crazy to
+say, this is the reason you should
+
+381
+00:13:02,476 --> 00:13:05,846
+listen to me, not the fancy car
+or anything else, because that is a visual
+
+382
+00:13:05,876 --> 00:13:07,696
+representation of exactly what I'm saying.
+
+383
+00:13:07,726 --> 00:13:10,636
+Through becoming a personal trainer,
+I managed to learn how to be an author.
+
+384
+00:13:10,816 --> 00:13:12,196
+Through being a personal trainer
+and author,
+
+385
+00:13:12,276 --> 00:13:13,786
+I could leverage appearances on
+
+386
+00:13:13,816 --> 00:13:17,636
+television to make my businesses grow
+and prosper, and then I can use those
+
+387
+00:13:17,676 --> 00:13:19,896
+businesses that have grown
+and prospered to create the business
+
+388
+00:13:19,916 --> 00:13:20,516
+mentorship, which
+
+389
+00:13:20,536 --> 00:13:23,356
+means from the business mentorship,
+I now have spare income
+
+390
+00:13:23,396 --> 00:13:23,976
+that I can allocate
+
+391
+00:13:24,016 --> 00:13:26,896
+into investing into other businesses
+and starting another business in a new
+
+392
+00:13:26,936 --> 00:13:27,176
+niche
+
+393
+00:13:27,196 --> 00:13:29,596
+that I have no experience within.
+The next three years aren't just
+
+394
+00:13:29,636 --> 00:13:30,275
+imperative for
+
+395
+00:13:30,396 --> 00:13:33,796
+you and your coaching business to thrive,
+make money, pay your bills, live your
+
+396
+00:13:33,836 --> 00:13:36,536
+life, enjoy yourselves.
+The real opportunity isn't even in the
+
+397
+00:13:36,676 --> 00:13:37,216
+money that you're
+
+398
+00:13:37,256 --> 00:13:39,976
+going to make in the next three years.
+It is the lessons that you can learn.
+
+399
+00:13:40,156 --> 00:13:43,416
+So in three years' time, you
+are either a business professional firing
+
+400
+00:13:43,456 --> 00:13:43,656
+on all
+
+401
+00:13:43,696 --> 00:13:47,616
+cylinders who is an adequate expert in all
+of these fields, or you fumbled
+
+402
+00:13:47,626 --> 00:13:50,826
+the biggest fucking opportunity of your
+life to learn the things
+
+403
+00:13:50,826 --> 00:13:54,306
+necessary for your future.
+And you need to really drill this out of
+
+404
+00:13:54,336 --> 00:13:54,676
+your head.
+
+405
+00:13:54,776 --> 00:13:58,656
+Chances of you being a successful personal
+trainer in 10 years' time
+
+406
+00:13:58,936 --> 00:14:02,816
+are fucking slim.
+About as likely as black cabs and
+
+407
+00:14:02,856 --> 00:14:06,116
+the College for the Knowledge making a
+comeback, which will never happen.
+
+408
+00:14:06,416 --> 00:14:08,676
+Either you think Blockbuster
+is going to make a return
+
+409
+00:14:08,716 --> 00:14:09,296
+and we're going to go back
+
+410
+00:14:09,316 --> 00:14:13,076
+to watching fucking tapes,
+or you have an opportunity in front of you
+
+411
+00:14:13,116 --> 00:14:16,856
+to really, really learn a lot.
+Because let's come full circle on this.
+
+412
+00:14:17,016 --> 00:14:18,976
+Although I say that personal training
+and online coaching
+
+413
+00:14:18,996 --> 00:14:19,736
+is a difficult thing to
+
+414
+00:14:19,776 --> 00:14:23,356
+sell,
+it is the fucking biggest gift as a step
+
+415
+00:14:23,396 --> 00:14:23,576
+into
+
+416
+00:14:23,676 --> 00:14:25,036
+entrepreneurialism you'll ever get.
+
+417
+00:14:25,196 --> 00:14:28,976
+As an online personal trainer,
+you need no staff, no overheads, no costs.
+
+418
+00:14:29,016 --> 00:14:32,586
+You need a fucking iPhone, a tripod,
+a MacBook, and knowledge of the
+
+419
+00:14:32,676 --> 00:14:35,136
+gym and training people.
+The biggest expense you'd have
+
+420
+00:14:35,176 --> 00:14:36,316
+is being a qualified PT.
+
+421
+00:14:36,456 --> 00:14:40,386
+Do you not understand how many businesses
+don't even make money in their first
+
+422
+00:14:40,476 --> 00:14:44,446
+year? So your personal training curse,
+and the fact that AI agents
+
+423
+00:14:44,456 --> 00:14:47,096
+are probably going to fuck you,
+is still your biggest blessing,
+
+424
+00:14:47,276 --> 00:14:48,136
+because as of right
+
+425
+00:14:48,996 --> 00:14:51,456
+now today,
+you have three years where you can grow,
+
+426
+00:14:51,796 --> 00:14:52,856
+scale, learn,
+
+427
+00:14:53,056 --> 00:14:56,956
+and become the person you need to so
+that if it is three or
+
+428
+00:14:57,016 --> 00:15:00,416
+six or 10 years' time,
+the collapse of personal training as we
+
+429
+00:15:00,456 --> 00:15:00,736
+know it
+
+430
+00:15:00,776 --> 00:15:03,306
+comes in, you are either ready or you
+are not.
+
+431
+00:15:03,336 --> 00:15:05,006
+You either did the work or you didn't.
+
+432
+00:15:05,016 --> 00:15:07,816
+You either learned the lessons
+or you didn't. It's that fucking simple.
+
+433
+00:15:07,936 --> 00:15:09,196
+I teach people all of this for a living.
+
+434
+00:15:09,356 --> 00:15:10,926
+You can buy the PT course,
+link in description.
+
+435
+00:15:11,116 --> 00:15:13,516
+You can join my business mentorship,
+or you can watch this video. It's
+
+436
+00:15:13,536 --> 00:15:14,036
+that simple.
+
+437
+00:15:14,076 --> 00:15:17,356
+I didn't mean this to be like a doomsday
+video, but if you lot don't get this
+
+438
+00:15:17,416 --> 00:15:18,856
+right, you're so fucked.

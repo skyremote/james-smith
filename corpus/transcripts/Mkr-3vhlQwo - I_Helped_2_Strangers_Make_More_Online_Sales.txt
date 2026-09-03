@@ -1,0 +1,670 @@
+What if I was to tell you that the current state of your business,
+sales, and
+marketing wasn't to do with the amount of effort you're putting in or how much you
+want to succeed, it was quite simply to do with the way you
+currently market your
+business? A few days ago, I critiqued three strangers on the
+internet.
+You guys said it was incredibly helpful.
+I've received your applications, and I'm going to do it.
+But whereas it'd be very tempting for me to go through this list and pick people
+that I could show off and seem amazing, I'm going to be getting
+ChatGPT to pick you at random. And if you would like me to critique
+your socials, landing page, website, YouTube, there's going to be a link in the
+description. Click on that, I'll do it in my next video. Okay,
+Megan Banahan.
+Let's get into this. First thing is the Instagram handle,
+mb_strengthfitness. I don't rate it.
+No one that pays you is paying mbstrengthfitness.
+They're paying Megan.
+So first thing, I'd make this Megan Banahan. If we can,
+fine.
+Okay, I would take out PT and online coach here.
+The content, the things you talk about, the way you position yourself
+are all going
+to allude to people what you do. "I make fat loss achievable
+and sustainable.
+Coaching with experience and understanding." I would just rather
+this was a little
+bit more specific. If you were to look back at the last 100 people
+that you've
+worked with or the last dozen people, "I help X demographic do
+X outcome. DM me 'coach' or get started by clicking." Okay?
+Oh, it looks like you DM'd me before.
+Okay, I've just DM'd you and nothing has happened.
+So Megan, the first thing I'm going to teach you
+is how to create a chatbot
+automation. So very simply, you go in here into Manychat.
+This isn't very expensive. Start from scratch.
+Now from here, we're just going to need to create some
+kind of trigger.
+So you click New Trigger. User Sends a Message.
+Now, we can use AI to recognize intention, but just say "Detect
+specific," and here the word "coach." Cool. Now Create.
+So that's created a trigger. Anytime someone sends you the word
+"coach," boom.
+Now the response we're going to want is an Instagram DM.
+Now quickly, for any of you that haven't used this,
+if you get a DM from someone,
+it gives you a lot more things that you can do rather they comment on
+your post.
+So here, straight away up in the top corner, "Hey,
+thank you so much for sending me
+a message." Maybe a little delay, three seconds.
+"Chances are I'm away from my phone right now.
+I will get back to you as soon as I can." Just something like that.
+Now if we go back, Linktree, and again, we're kind of missing a bit here.
+"Get started by clicking." Cool. Eight-week sustainable fat loss online
+program,
+gym timetable, free calorie calculator.
+Let's see if there is a data capture on the calorie
+calculator. Cool.
+So calorie leads, a lot of people are using this where in essence you get
+section
+four, put in your email address there. Oh, no.
+So in essence, I could probably understand why you
+haven't got chatbot set up
+because we haven't really got anywhere to send anyone.
+Okay, we're going to work on this. So this is a form squeeze page.
+This isn't going to be how I really want it to be, but going to put it in
+here. Let's do another delay. This time we'll set the delay to 12.
+Come back.
+Over, done. "PS While I was shooting here, why don't you work out your calorie
+needs using my free calculator?" Add button, calorie
+calculator. Going to set it to open a website.
+There's your ad leads.
+Now if we preview this up here, "Hey, thank you so much for sending me a
+message."
+Oh, that was quick. "Chances are I'm away from my phone right now,
+but I'll get
+back to you as soon as I can." That's just the waiting 12 seconds.
+"PS While you're here, why don't you work out your calorie needs
+using my free
+calculator?" Boom. So now, even if someone's on the other side of the
+world, at
+least now when people do DM you the word "coach," chances are you're going to get
+their email address out of it. So that's just a bit of a low-hanging
+fruit which I
+would have there. Although, if they know their calories and macros,
+they're not
+really going to feel too compelled to do this.
+Gym timetable booking app. Let's have a little look.
+Okay, I'm not really sure what this is or if it needs to be on there.
+Let's have a quick look at the old poddy, Spotify.
+Let's have a look if you exist on YouTube.
+I was guilty of having a podcast that I didn't record,
+so I can't exactly have a
+pop. Recent upload, I like it. "Looking to lose a few pounds
+but don't know where
+to start?" I like the title.
+Everyone will have their own profile on the coaching app.
+You will have your own workout program. You'll have your own nutrition plan.
+I think we're missing a hook here.
+Everyone will have their own profile on the coaching app.
+What coaching app? Just a little preface to this,
+you could be like, "If you're
+someone who's looking to lose a few pounds but you don't know where to start, today
+I'm going to talk you through how to use this coaching app." Hey, and come on, get
+the paid version of CapCut, you old whippersnapper.
+Preview, client testimonial. Okay, we're not really driving much of
+a strategy here, but that's okay. So chatbot automation, first one.
+Now this landing page. "Eight-week sustainable fat loss online
+program.
+Pop your email below to find out more info on the next intake." No.
+An email address for more info? You want my contact
+details and the ability to contact me whenever you want for more info?
+I don't even know what it is you're going to give me more info
+about.
+Okay, are you going to be kind to me today,
+Leadpages? Let's see.
+Again, the reason I love Leadpages, I take it back actually.
+So my Mrs, Tay, uses this. You can see here some of her
+Leadpages, 8,000 US dollars, 6% conversion rate.
+So she sent 3,500 people there, made 8K.
+She can also do split tests where she can take a landing page, create several
+versions of it, and see from the data which one
+is best. Again, another reason I like Leadpages, there
+are loads of templates here.
+So let's have a look, see if there's any for fitness.
+Fitness app, fitness membership page, fitness
+program, sales page, health and fitness opt-in page.
+Let's try this one. Oh, this one looks nice. Let's try this one.
+I'm just going to go straight in. Now I'm going to have to do a bit of work.
+Eight-week sustainable fat loss online program.
+The only issue with this is it sounds like bloody everyone else's.
+Okay, let's call this one MB Strength Fitness.
+What's this?
+Oh, fantastic. Engagement. Love to see it.
+Let's give them some static images. Not sure I can see any.
+Okay, let's try a little Google image, shall we? Let's just go here.
+You know you're pro when you type in images.google.
+MB Strength Fitness. Let's go images. This will do.
+Why is this in a bloody different language? Oh, bloody hell.
+Don't know what's going on there. Figure it out. Wonderful. Take that.
+Thank you very much. Why are you taking so long to fucking upload,
+mate?
+There, it's a little bit bigger. There you go, 350. Looks quite nice,
+doesn't it?
+Okay, let's have a little look on Mobi. Oh, we'll have it.
+We'll do it in a second.
+Okay, so love that. Maybe we go over to the sections.
+Let's put a little widget in. Maybe a little bit of a text.
+Now, what did you say before? Eight-week sustainable fat loss online
+program. Let's make this a little bit sexier.
+"If you give me eight weeks, I'll give you the best fat loss
+results of your life you can sustain or your money back." Let's maybe go for a
+little bit of bold, maybe break this up. Let's maybe center align this bad boy.
+Maybe we go for a little bit What could be a good font?
+Oh, no, Helvetica Bold. All right, let's have a look.
+Normal text, maybe headline one. Now we're cooking on gas.
+Do you know what?
+Might keep that as white, and I might change... Oh, come back.
+Actually, ignore that. Let's keep this. We'll make this bit dark.
+Going to take this out of bio. Maybe we even duplicate this.
+Going to bring this bit underneath, but we'll make it a little bit smaller
+because
+this is going to be a subheading. My name is Meg.
+My name is Megan, and I make fat loss cheap and sustainable.
+Fantastic. Okay.
+All right. What's going on here? You're probably going to kill me for the
+choice of
+photos that I've gone for. Now, this background image, I'm not mad on.
+I suppose that image in the background could be all right for now. Column one.
+Let's go back. Column two, section style.
+Yes. Get rid of this image, bro. Here we go.
+Get rid of that. Person on the Skipper merp.
+I don't know you.
+Lesson, don't put strangers on your bloody landing
+page. Okay. I run...
+I kind of needed a bit more info. Do you know what?
+It would've been better if you give me some actual information on
+it, because I'm not giving you my email
+address.
+No way, because you're probably not even going to
+send the email through, are you?
+Okay, let's think about this. Let's give this a name.
+Five kilos in eight weeks.
+Okay. If you want to drop 5kg in eight weeks,
+this system
+works and you can start. Maybe even just that.
+If you want to drop 5kg, this system works.
+If you're not happy with the results, I provide,
+only two months.
+Okay, what did that lady say? I was wondering if there was any client
+testimonials. Let's just put one in here.
+I loved every moment training with Megan. I came for two months.
+I stayed for the result. I came for two months.
+I worked hard and achieved the fat loss.
+I stayed on as a client because Megan is awesome.
+Loretta. All right. Join the eight-week challenge.
+That's really what the call to action is.
+The call to action shouldn't be more information because no one wants
+more information. No one woke up this morning going, "Oh,
+absolutely love some more
+information." They got enough information.
+Don't know why my headphone's on, there's no audio to be listening to. Okay.
+This eight week is for you want to lose fat for an
+important event. Let's say those that want to build
+strength they keep. Life. Making these up at this point.
+Do you understand?
+Those that to build sustainable habits
+that don't feel like a chore. Join the eight-week challenge.
+So if we were to preview this now. I'll get your email marketing emails.
+We haven't even got into that bit yet. Cool.
+You send me through to your landing page, or let's say I click on this from your
+page. Granted, desktop more so from email marketing,
+mobile
+more so from Instagram. I go, wow, this is really well put together.
+This looks great. Then if we go to mobile.
+Maybe this title could be a little bit smaller, but you get the drift.
+If you give me eight weeks, I'll give you the best fat results of your
+life.
+Maybe we delete that bit for that. Actually, tell you what, we'll do
+that right
+now. To optimize for mobile, we do this.
+If you give me eight weeks, I'll give you the best fat loss results of
+your life.
+Great photo. My name's Megan. I make fat loss cheap and sustainable.
+If you want to drop 5kg in eight weeks, this system works. Oh, great.
+If you're not happy with the results I provide in only two months, you get your
+money back. Oh, wow. Well, I've got no reason not to apply.
+And again, I have kind of drafted this up quite
+quick.
+They might come past this, go on there a little bit more.
+This eight-week challenge is for those who want to lose fat before
+an important
+event or occasion. Oh my God, yeah, I've got my wedding, I've got this party,
+I've
+got this holiday. Those that want to build strength they can keep
+for life. I do.
+I've always been mindful of breaking a hip.
+To build sustainable habits that don't feel like a chore.
+Do you know what?
+The last time I got in shape, it did feel like a chore.
+They go to the bottom, they hit the end, they go, "You son of a bitch, I'm in." The
+important thing about this, Megan, you're doing all the work here, but as it
+stands, you could send 1,000 people to this
+and only get two or three
+clients. Whereas if you were to spend what?
+10 minutes building out this, that same amount of traffic could equate
+to
+80, 90, 100 people. This doesn't take a long time,
+and as you can see,
+Leadpages makes this look good for me.
+Then very simply, all you'd have to do is send traffic as hard as you can.
+You could set up chatbots, you could set up stories,
+links, hit your email list. You just go on social media, ba, ba, ba,
+ba, bom.
+DM me the link, train, I'll send you some more information.
+DM me this, DM me that.
+Ideally, we'd have like a video sales letter,
+a video that you create.
+Then we can see the unique amount of visitors and how many of them
+are converted.
+Then we create variations of that page. Okay, let's go here.
+Let's have a look at your reels.
+Profile on the coaching app. You will have your own workout program.
+The Romanian deadlift has to be one of the most common exercises that people
+struggle with. So-
+So again, no real hook here. You're just telling me
+that it's something that people
+struggle with. Instead, maybe a hook.
+If you're someone that struggles with a Romanian deadlift,
+if you're someone that
+wants to train your hamstrings, if you're someone
+that wants to develop the back of
+your thighs. Again, we want to use language
+that everyone can understand.
+The second you say posterior chain, half the people are leaving.
+Let's just run through a couple of simple coaching cues that's going to help you
+become boss at it. The key part in an RDL movement
+is to imagine your hips-
+Very common thing that I see from fitness people
+is the first 10 seconds can go. That is where your reel should begin.
+Let's try this one more time.
+Deadlift has to be one of the most common exercises that people struggle with.
+So let's just run through a couple of simple coaching cues that's going to help
+you
+become boss at-
+Delete all of that. And if you don't believe me, tonight,
+delete that,
+repost the reel from this bit as a trial reel.
+The key part in an RDL movement-
+Then we'll have the two ABs, your original one, then we chop the fat
+off the beginning, and my one as a trial reel.
+You say, the key movement and the key thing about an RDL movement
+Is to imagine your hips as a 90-degree hinge, and this is-
+If this was the first three seconds, I'd be so much more engaged.
+This is a better start to a reel than the one before, and it might almost seem that
+you didn't set it up enough, but trust me, I think that will work.
+It's also known as the hip hinge movement pattern.
+Now, people normally struggle with this because
+they round at the shoulders or they
+flex too much at the knee.
+If you cut off that first 10 seconds, this would be better. Let's keep going.
+And again, yeah, we need to change this name. Okay.
+What I'm doing now is I'm actually looking for an outlier.
+This one here, 4,000.
+Okay, let's have a look. This is an outlier.
+Go and lots of people have been asking me about the Fit Foods Ready Meals.
+So let's go have a look. So here's the Fit Foods Ready Meals.
+The branding is really positioning itself-
+At this point, I'm bored, I'm gone.
+Because I've stayed for a few seconds to find out what this video is about, but you
+haven't paid me off, so I've gone. So what I would love
+is for you to preface this.
+Food label call out. Let's watch that.
+Of a health food for fit people with high protein.
+See, look, even me staying to find out what the
+video's about to give you a
+critique, I'm bored, I'm gone. So you to camera should have said
+something like,
+"There is way too much fearmongering going on in the space of nutrition." Boom.
+Then we cut to this person. She should be full screen because you just
+sat here on
+a phone is redundant. Then we can watch the clip, and again,
+if I'm interested
+in the fearmongering subject, I'm going to watch it.
+Then we get into your part.
+And looks like you haven't reacted to a piece of content
+since, which we should because this one, 70 likes, 35,
+15, 22. People want it. Now Another cry here.
+Everyone will have their own profile.
+This is you talking people through the fitness app.
+You know where this belongs, don't you? On your landing page.
+Because the reason that this post has bombed,
+although it's only eight hours old,
+is Instagram's going to show this to 3,900 people, let's
+pretend, and 3,500 people don't care.
+But if you'd taken some email addresses and you'd actually had a chatbot set up
+from your profile, then you might even only have 350 people
+on your email list, but
+out of them, the majority of them care.
+Then when you send them to this video, 100 watch.
+And if 100 people watch this video to the end, maybe 40 or 30 would consider
+jumping on it. So you've put this in the wrong place.
+In essence, this is like you opening your window
+and shouting
+out. Not you, because you're engaged.
+I'm happy for you, but everyone else, open your window.
+"Anyone fancy a shag?" Now, no one is probably going to say,
+"Yes." Whereas, if you had given yourself an hour,
+downloaded a
+dating app, swiped 150 times, you would've got four matches.
+Two of them are available for a drink tonight.
+You pick your favorite one who lives closest. Boom, you go out.
+Much more likely to do it. There are stages in which you go in to get the
+desired
+outcome in which you need. You've tried to skip a few steps.
+You are shouting for a shag out the window.
+Copyright, someone put that on a T-shirt.
+No email list, no landing page, no DM
+automations. You're doing the work, you're doing the posts.
+If you fix those things, I see more success from the same amount of
+effort,
+which is the exciting thing that you should all get very,
+very excited about.
+Same amount of work, way more because of it.
+Okay, back to ChatGPT. Okay, please pick
+someone else at random. Preferentially not a fitness
+person. You should critique Astra's website. Oh,
+it says social.
+Cor, you would think AI would know.
+Oof, it's quite difficult to read that. Okay.
+I like the font.
+I don't like the fact this is a website. I haven't even looked at your socials yet.
+One of my gripes is I've landed here.
+There's a lot for me to take in in one go.
+I can't really read this text. "Your full stack retention partner."
+Okay. Home, services, training. All right, let's do this.
+One, two, three, four, five, six. Six things to
+click. Okay. It's not terrible. I like the colors.
+The color palette is absolutely fantastic. Let's go to the socials.
+Locorum Astra. Locorum Astra. Oh,
+Locorum Astra?
+Is Astra your first name? Okay, I don't know if I would like your name to
+be first,
+but okay. Building Locorum Media.
+Now, I don't think this needs to be tagged
+if it is just a
+dead page. Just put it in. £10 million
+plus generated for clients. I'm going to throw it out there,
+hate to be that
+person. I don't believe you. Now, even if you can, maybe make it a bit more
+believable. Maybe dumb it down a little bit.
+Not just literally saying that.
+As far as being an asshole, you've got 86 followers.
+I come on to your page, you're telling me you've made 10 mil for
+your clients.
+I'm just not sure I believe that yet. We can build authority as we go along.
+But anyway, let's have a look.
+Retention growth partners. Think of us as your secret source behind
+boosting your
+brand's long-term growth and success.
+We-
+This needs to be better lit. It's very dark.
+Now, I'm not sure if... What's this filmed on?
+Maybe a high spec camera. He's probably using an ND filter inside,
+but-
+Craft innovative, data-informed, and custom-
+This needs a light. You know, mate, I'm not even being funny.
+Whoever your videographer is could have just done that, and yeah,
+not well lit
+enough, but-
+... focused retention strategies.
+It's designed to elevate your brand, increase customer lifetime value,
+and reduce
+churn.
+Who's this for? So I'm scrolling on my Insta.
+Hey, I'm Astra, the co-founder of Locorum Media.
+We're your retention growth partners.
+Retention growth partner. Now, I'm not being funny,
+I'm not sure what that is.
+Retention growth partners.
+Think of us as your secret source behind boosting your brand's long-term growth and
+success. We craft innovative, data-informed,
+and customer-focused retention
+strategies. It's designed to elevate your brand,
+increase customer life-
+There's a lot of corporate waffle going on right now.
+Keep in mind, I've got several businesses.
+If you're good and you're going to give me return on investment, I want to give you
+my money, but there's just a lot of jargon
+... lifetime value, and reduce churn, as well as building beaut-
+Look, I'm not
+being funny, but this sounds a little bit like
+something you would overhear on
+someone on the phone in a Soho house.
+"Oh, yeah, innovative, reduce the churn."
+Not taking the piss. I'd just love you to be real,
+and maybe even you sat at a seat
+with a mic and going, "Your clients leave you after three
+months, and that's a
+problem. But don't worry, we're here to fix it." Then you could go
+into reasons why
+people lose clients, why they don't retain,
+some of the pitfalls they fall
+into. Then at the end, you'd be like, "My name's Astra, and I help people retain
+their clients. If you want to know more information,
+click."
+... Playbook series, where I break down everything you need to
+build a
+high-converting email and retention strategy from scratch.
+No offense, I'm bored.
+Hey. Welcome to episode one of the Email
+and Retention Playbook series.
+Series? Go on.
+Where I break down everything you need to build a high-converting email and
+retention strategy from scratch.
+So the first step in any successful email and retention marketing strategy is
+building a strong list.
+Everyone's gone. Everyone's already gone.
+Best way to do this is a high-converting website pop-ups.
+Let's restructure this. If you have a website
+that doesn't have a pop-up, you are
+leaving email addresses on the table, and I'm going to explain why.
+Or another one.
+Out of every 100 people who visit your website, you should be getting 20 email
+addresses, and if you're not, it's because you're failing to do the one
+thing that
+successful businesses do, and that is creating an innovative form of pop-up.
+Research has shown that websites that use a pop-up get to capture more data
+and
+build their... Okay, ironically, in your caption here, you've said, "Here
+are the key elements of a high-converting pop-up.
+One, a strong hook." Let's start this video
+again
+... one of the Email and Retention Playbook series,
+where I break down everything
+you need to build a high-
+Welcome to episode one. You do not have a hook in your own
+videos. So you're telling people how they can
+capture more attention
+by using a hook for their pop-up, but you don't use a hook in your outbound
+social media content
+... converting email and retention strategy from scratch.
+So the first step in any-
+Now, whilst I'm saying this, and I am picking you apart,
+I love the demeanor,
+I love the energy, I love the confidence.
+You look relatively young, and the fact that you're
+just being a boss, you're grabbing the mic,
+you're getting out there,
+kudos to you. So even though it can sound like I'm
+criticizing you, and dare I say
+it, absolutely not insinuating that I'm mansplaining,
+but there is so much you're doing right.
+Just had to give you the credit for that before we go any further
+... successful email and retention marketing strategy
+is building a strong list.
+The-
+Perfect pronunciation, the way you're speaking,
+easy to understand Like it.
+Best way to do this is a high-converting website pop-up.
+So this, although it can feel is your payoff, is actually your hook, or
+it's part of your setup. So you've tried to allude to some things
+before, and then
+you've presented the pop-up. But you should be using the pop-up.
+Even to begin with, why is it that some websites get loads of email
+addresses while
+others don't? It's because of this one very thing.
+You could drag it out.
+And if people would only implement this thing, they could get way more customers
+from the exact same amount of traffic. And that thing is a website pop-up.
+The key elements of a high-converting pop-up. One, a strong hook.
+Give visitors a compelling reason to subscribe.
+Options include a discount, like get 10% off your first order,
+exclusive
+access-
+And these bits of information are really good.
+I like the piece of content.
+You're telling people about a strong hook. You need a bloody strong hook.
+"Your discount strategy is hurting you."
+Good hook. So one day ago. Oh, look at this frequency.
+"Welcome to— Your discount strategy-
+14 hours ago, one day ago. Look at that content frequency.
+Here is, "Your discount strategy is hurting you.
+Discounts aren't a retention strategy."
+Okay. This. Great. Love it.
+Sure, a promo can get your customers through the
+door, but if you train them to
+wait for sales, you're creating an environment where
+they're never going to
+purchase full price from your brand. So here's what to do instead.
+Create exclusive early access to your promos, so VIP perks over-
+Do like this.
+Here are three websites that I like to go for inspiration for
+email design and
+copywriting when my-
+I like this. You have a formula for success on the
+table.
+Now, one thing. With your profile picture, no black and white, no bueno.
+This ain't Schindler's List. All right?
+Never seen a black and white thumbnail do well.
+Nine out of 10 times, never seen a black and white.
+It just seems a bit malaise, a bit sad. Just a bit sad.
+Okay. Where's your outlier? Oh, here they are.
+Email marketing is something that is arguably more important than
+social media.
+Mm-hmm.
+At the moment, for a long time, it's been like 50% of our revenue.
+Mm-hmm.
+And as standard, I think it should be like, I think-
+She suffers from the same issue that I suffer with, and that
+is saying the word
+"like" way too much.
+Industry standard is like 20, and I meet-
+Again, not enough lighting here. You've got some reviews out there.
+Watching me is my anxiety.
+Okay. This Gen Z boss thing.
+Wow. First-
+I do like the Gen Z boss concept
+... priority is always a coffee and checking through my emails.
+I get ready early as I've usually got calls, so I have to look at least partly
+presentable. I then make breakfast and continue with some work.
+I will-
+Okay. There's a lot of potential here. A lot of potential.
+I kind of want to know. Ugh, so many websites. Okay.
+One thing I would love on this page is just for us to
+bring maybe the text in a little bit.
+It looks amazing. It looks amazing. It's aesthetic as.
+I just think the readability is quite difficult.
+I would love to know, how big is this team? Is it a team?
+Straight away, I want to know, is it you? If it is you on your own, that's fine.
+Oh, eat my words. Okay, you're going to think I'm crazy.
+Three of your young guns. I would love, I would just love
+this, okay? When I land on your website, there's a video, and it's you.
+You go, "Hi, I'm Astra. I'm Ellie. Cut. And I'm George.
+And I know that we can seem very young, but if you can just park our age to the
+side, let us tell you about some of the results
+that we've got for our clients."
+Because that's really the elephant in the room.
+When you say there that you've done 10 million in this,
+10 million in that, it's
+hard to believe you because you're young.
+And that's me just being real for a second.
+It's crazy that someone saying the exact same thing as you that looks a bit older
+and weathered is just a bit more believable. Now, I love this.
+We got through some flow. This is Klaviyo, I believe.
+Nice deliverability, nice case studies, nice marketing performance.
+This is great. But what I would love isn't just the rev
+that the business is
+generating, but the impact you've made. And think about this.
+So I did a video the other day. It wasn't the other day,
+it's probably quite far
+back. How I automated a 5K a day business, right?
+It may seem underwhelming for me to say 5,000 US dollars a day, but that is
+not only aspirable for a huge amount of people, it's believable.
+If I say I make 100K a day, and I know you don't, you're full of shit.
+Didn't Steven Bartlett get in a bit of hot water recently for where he
+valued his business? But it was more so the business
+that he sold his business to's
+value. In a world where a lot of people fluff
+their numbers quite a
+bit to make it seem like they're more important than they are, this just
+seems kind of vague. Revenue generated.
+90% increase in repeat purchases. I'm sorry, it's just not believable.
+Rewind to 2015. I was running a
+pretty good face-to-face PT business. I went to get a phone.
+But it was with Apple, you could finance the iPhone 12 months
+interest free.
+So even though I had the money, I was like, "Yeah, fine.
+Split the payments up.
+Cool." And when he asked me how much I earned as a PT, I shaved, I think 20,000
+pounds off my annual salary because I wanted him to believe me.
+Now, I think we need smaller specific numbers
+here, because anyone can write a
+number, anyone can write screenshots.
+You could be in the back end of someone else's email marketing campaign.
+And I actually think the impressive thing here is, I'm going to go out on a limb,
+it's not the screenshots, it's this.
+Three young people, aspirational, probably
+competent. This is your selling point. This is cool.
+I would love to see more of you guys.
+This, if you're going to use it as a page, you need some stuff here. LinkedIn.
+Let's have a look. I suppose you're on the right trajectory.
+You've already started doing this kind of stuff.
+Email and retention for e-commerce brands.
+I would still love a sentence, "I help X businesses do X." Oh,
+you tried to
+connect. Do you know what? Have it. Okay.
+Do you know what your homework is, Astra?
+I would love you to create a YouTube video where you would
+walk through, similar to what I'm doing now.
+Maybe take one of your past customers, create a YouTube video, explain
+exactly the processes you went through to get them to increase their revenue and
+their retention. Then you're going to go onto a website
+called Opus Pro, and on
+Opus Pro, you can chuck in any YouTube video,
+and it will give you clips.
+So for instance, here's the video that I did with Lucas and
+that Simon Scrib, and
+AI goes through, chop, chop, chop, chop, chop, chop, chop, and chops it up.
+Like people talk about the pandemic, loved it. Sounds bad.
+The pandemic was the best time of my life. Not a care in the world.
+That's a fun video if you haven't watched it.
+It should be the one before this one.
+So Astra, that would be the advice that I would give you.
+Okay, we've got enough time for a fast fire.
+But keep doing what you're doing.
+It's very impressive what you're doing. I just need a bit more believability.
+But there's no way that you turn up on social media
+and speak well like this-
+Welcome to episode one of the email- Hey, I'm Astra, the co-founder of Licorice
+Media. We-
+I want you to really think about the very first thing you say, and I want it to be
+pungent, offensive, in my face. Your email marketing sucks.
+You're sending emails wrong. Your website is not optimized for this.
+I want you to stab me, stab me, twist the knife, take it out, give
+me the solution. There's your homework.
+This is for opening envelopes and burglars.
+I'm a high testosterone dude, right?
+I'm just like anyone else, where I lay in bed
+and sometimes think about getting
+burgled, and I think, "Do you know what?
+Try it." I've been trained in jujitsu for nearly 10 years, just waiting for the
+moment. I wouldn't kill him or her. Never know.
+But you could be getting one of them in the back of the leg.
+If you'd like me to critique your page, there'll be a link for it in the
+description. Thank you very much for watching this far.
+Hope you enjoyed the video

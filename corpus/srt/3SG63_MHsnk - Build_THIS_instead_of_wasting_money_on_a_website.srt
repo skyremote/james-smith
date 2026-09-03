@@ -1,0 +1,592 @@
+1
+00:00:00,240 --> 00:00:04,080
+So you see other people within your
+profession getting online clients,
+
+2
+00:00:04,280 --> 00:00:08,140
+which means they can work from wherever
+they want, whether maybe in a
+
+3
+00:00:08,180 --> 00:00:11,600
+fancy cafe or even a remote place like
+Bali.
+
+4
+00:00:12,100 --> 00:00:14,540
+So you think to yourself,
+you want a piece of the action.
+
+5
+00:00:14,620 --> 00:00:18,220
+You're not quite sure where exactly you
+need to start to make that happen.
+
+6
+00:00:18,560 --> 00:00:20,480
+Now, one of the biggest mistakes
+that I made back in the day
+
+7
+00:00:20,520 --> 00:00:21,080
+was thinking to
+
+8
+00:00:21,090 --> 00:00:24,920
+attract online clients,
+I needed a really fancy website, and I was
+
+9
+00:00:24,940 --> 00:00:27,860
+wrong. And in the next few minutes,
+I'm going to save you probably $3,000 to
+
+10
+00:00:27,880 --> 00:00:28,740
+$9,000
+
+11
+00:00:28,820 --> 00:00:32,020
+that some dodgy bastard
+was going to charge you online for a
+
+12
+00:00:32,140 --> 00:00:32,619
+flipping
+
+13
+00:00:32,640 --> 00:00:34,840
+website.
+There are three main predicaments we're
+
+14
+00:00:34,860 --> 00:00:35,380
+going to face.
+
+15
+00:00:35,640 --> 00:00:38,960
+Number one, if we don't need a website,
+where is it we send people?
+
+16
+00:00:39,180 --> 00:00:42,680
+Number two, what is a landing page
+and how should we approach it?
+
+17
+00:00:42,780 --> 00:00:45,380
+Number three,
+if we do send someone to a landing page
+
+18
+00:00:45,420 --> 00:00:46,680
+and not a website, how can
+
+19
+00:00:46,720 --> 00:00:49,580
+we make sure that people buy?
+So let's look at number one.
+
+20
+00:00:49,600 --> 00:00:52,360
+We need a page that's created with one
+purpose and one purpose only,
+
+21
+00:00:52,500 --> 00:00:53,160
+to make sales.
+
+22
+00:00:53,440 --> 00:00:55,720
+Unfortunately,
+the majority of websites online have so
+
+23
+00:00:55,780 --> 00:00:57,190
+many different sections and
+
+24
+00:00:57,240 --> 00:01:00,160
+places to click. About me, contact,
+services, products.
+
+25
+00:01:00,500 --> 00:01:03,340
+Not to mention, some people try
+and get your email address with a pop-up
+
+26
+00:01:03,360 --> 00:01:03,540
+and it's
+
+27
+00:01:03,580 --> 00:01:04,960
+all a bit overwhelming.
+Do you want my email?
+
+28
+00:01:05,000 --> 00:01:05,740
+Do you want my business?
+
+29
+00:01:05,800 --> 00:01:07,840
+Am I reading about the fact you used to
+swim for county?
+
+30
+00:01:08,020 --> 00:01:11,040
+And before you know it, poof,
+they're gone and they're not going to
+
+31
+00:01:11,060 --> 00:01:11,500
+return.
+
+32
+00:01:11,680 --> 00:01:14,960
+There are many pieces of software out
+there, but my favorite is Leadpages.
+
+33
+00:01:15,600 --> 00:01:18,780
+This isn't a sponsored video, which
+is actually one of my gripes.
+
+34
+00:01:18,860 --> 00:01:20,910
+Why trust someone who's paid to promote
+something?
+
+35
+00:01:20,910 --> 00:01:24,740
+I've never been paid by Leadpages,
+and I've sent nearly 1,000 coaches there,
+
+36
+00:01:24,820 --> 00:01:28,010
+because to me, it's the best.
+And you're probably wondering why.
+
+37
+00:01:28,020 --> 00:01:31,520
+Well, simply because Leadpages,
+and probably other competitors to it,
+
+38
+00:01:31,640 --> 00:01:31,840
+can give
+
+39
+00:01:31,860 --> 00:01:35,200
+us analytics on how many people
+are visiting and how many of those people
+
+40
+00:01:35,240 --> 00:01:35,640
+visiting
+
+41
+00:01:35,680 --> 00:01:39,060
+were converted into sales.
+And it also gives us the ability to A/B
+
+42
+00:01:39,160 --> 00:01:39,440
+split
+
+43
+00:01:39,540 --> 00:01:42,330
+pages. This means
+that we can make multiple versions of the
+
+44
+00:01:42,400 --> 00:01:43,460
+same page, and it
+
+45
+00:01:43,500 --> 00:01:47,000
+will split our traffic to the different
+pages and see which one performs best so
+
+46
+00:01:47,020 --> 00:01:47,100
+we
+
+47
+00:01:47,120 --> 00:01:50,420
+can double down on it. Whether it's video,
+more text, less text, more video,
+
+48
+00:01:50,520 --> 00:01:53,660
+shorter video, whatever it is.
+And it also means we can determine whether
+
+49
+00:01:53,700 --> 00:01:54,000
+or not we
+
+50
+00:01:54,020 --> 00:01:56,300
+have a traffic problem
+or a conversion problem.
+
+51
+00:01:56,400 --> 00:01:59,510
+Because if we're getting loads of visitors
+and no sales, that's a conversion
+
+52
+00:01:59,580 --> 00:02:01,420
+problem.
+If we're getting good conversion
+
+53
+00:02:01,480 --> 00:02:03,500
+percentages, but there's a poor number of
+
+54
+00:02:03,540 --> 00:02:05,899
+people visiting in the first place,
+we have a traffic problem.
+
+55
+00:02:06,260 --> 00:02:09,800
+Imagine your landing page being like the
+fact you're an owner of an Italian
+
+56
+00:02:09,860 --> 00:02:13,060
+restaurant in the Amalfi Coast
+and people are walking by.
+
+57
+00:02:13,120 --> 00:02:15,180
+Now,
+you know they're wanting somewhere to eat.
+
+58
+00:02:15,520 --> 00:02:16,880
+7:00 PM. It's evening.
+
+59
+00:02:16,960 --> 00:02:18,280
+They're looking at the menu.
+If they'd eaten,
+
+60
+00:02:18,320 --> 00:02:19,460
+they wouldn't be looking at the menu.
+
+61
+00:02:19,880 --> 00:02:22,600
+And it's not your job to go there
+and hard sell them to get them to sit down
+
+62
+00:02:22,640 --> 00:02:22,730
+and
+
+63
+00:02:22,780 --> 00:02:25,609
+book in a 45-minute call to see whether
+or not they're a good fit for your
+
+64
+00:02:25,660 --> 00:02:27,840
+business. It's to simply present a menu.
+
+65
+00:02:27,989 --> 00:02:30,460
+"Hey,
+this is what we do." You might have a fish
+
+66
+00:02:30,480 --> 00:02:31,520
+restaurant where you specialize in
+
+67
+00:02:31,600 --> 00:02:33,920
+fish. You might have a meat restaurant,
+and if you've got a meat restaurant,
+
+68
+00:02:33,980 --> 00:02:34,060
+you're
+
+69
+00:02:34,080 --> 00:02:36,820
+not worried about what vegans think
+looking at your menu.
+
+70
+00:02:37,080 --> 00:02:38,700
+It's your job, "Hey, this is what we have.
+
+71
+00:02:38,860 --> 00:02:41,960
+Take a look." If it's expensive
+and they can't afford it,
+
+72
+00:02:42,060 --> 00:02:42,720
+that's fair enough.
+
+73
+00:02:43,200 --> 00:02:46,080
+But no Michelin-star restaurant
+is out there trying to do deals with
+
+74
+00:02:46,120 --> 00:02:46,380
+people that
+
+75
+00:02:46,400 --> 00:02:48,820
+can't afford their food.
+They just cater to a different audience.
+
+76
+00:02:49,160 --> 00:02:50,840
+And once they have the menu,
+you give them a few minutes.
+
+77
+00:02:50,920 --> 00:02:52,600
+If they have any questions they can ask.
+
+78
+00:02:52,720 --> 00:02:55,500
+But the idea is that your menu answers all
+the questions for them, so you don't
+
+79
+00:02:55,520 --> 00:02:56,840
+have to spend all your time doing it.
+
+80
+00:02:56,900 --> 00:02:58,950
+As a restaurant owner,
+you can't be too pushy. You can't,
+
+81
+00:02:59,049 --> 00:02:59,900
+"Please come in here.
+
+82
+00:03:00,000 --> 00:03:02,530
+Please come in and have dinner in our
+restaurant." But on the other hand,
+
+83
+00:03:02,580 --> 00:03:02,820
+you can't
+
+84
+00:03:02,840 --> 00:03:04,580
+be too nonchalant that you don't care.
+
+85
+00:03:04,600 --> 00:03:06,630
+You still have to be proactive
+and go up to the people that
+
+86
+00:03:06,680 --> 00:03:07,460
+are looking for a place
+
+87
+00:03:07,480 --> 00:03:09,240
+to eat. And if they're not interested,
+let them go,
+
+88
+00:03:09,600 --> 00:03:10,720
+because they will remember the
+
+89
+00:03:10,760 --> 00:03:13,220
+interaction they had with you outside the
+restaurant, and if they don't find
+
+90
+00:03:13,240 --> 00:03:15,800
+anything better, they will come back.
+That's why we don't want to be too pushy.
+
+91
+00:03:16,100 --> 00:03:18,160
+Your landing page serves the exact same
+purpose.
+
+92
+00:03:18,490 --> 00:03:20,980
+And then number three,
+we need to ensure we have a good flow.
+
+93
+00:03:21,320 --> 00:03:24,420
+What it is, why they need it,
+what they get, why they should trust you,
+
+94
+00:03:24,490 --> 00:03:24,900
+and how to
+
+95
+00:03:24,940 --> 00:03:27,380
+buy.
+And a good header video does great things
+
+96
+00:03:27,420 --> 00:03:28,760
+as well. Be honest.
+
+97
+00:03:28,930 --> 00:03:31,340
+This morning I was helping someone in my
+mentorship called Jayden.
+
+98
+00:03:31,480 --> 00:03:34,460
+He's only 17,
+and I scripted this to be the header video
+
+99
+00:03:34,500 --> 00:03:35,140
+for his page.
+
+100
+00:03:35,460 --> 00:03:38,620
+"Hey, I'm Jayden. Yes, I'm young. Yes,
+I'm baby-faced.
+
+101
+00:03:38,860 --> 00:03:41,520
+Yes, I just finished college. And yes,
+I live at home with my mom.
+
+102
+00:03:41,860 --> 00:03:45,000
+Yes, I don't have that much life advice,
+but I'm good at this and I want to show
+
+103
+00:03:45,080 --> 00:03:48,800
+you how. Because of my situation
+and baby face, I don't
+
+104
+00:03:48,820 --> 00:03:51,240
+charge much at all.
+But as you've probably seen online in my
+
+105
+00:03:51,280 --> 00:03:52,380
+profile, I really care
+
+106
+00:03:52,440 --> 00:03:55,460
+about helping people.
+And one day I'm going to have two things.
+
+107
+00:03:55,560 --> 00:03:59,300
+One, a beard, and two,
+a much higher charge than I
+
+108
+00:03:59,340 --> 00:04:02,940
+charge for coaching. So whilst you can,
+why not put your trust in me, hire me as a
+
+109
+00:04:03,020 --> 00:04:04,700
+coach, and see how good I really am?
+
+110
+00:04:05,000 --> 00:04:08,900
+And if at any point in the first month,
+fuck it, two months, you
+
+111
+00:04:08,920 --> 00:04:12,180
+don't think I'm the best coach you've ever
+used, I'll refund you in full.
+
+112
+00:04:12,520 --> 00:04:16,440
+How's that? Right, my prices are below.
+Speak soon.
+
+113
+00:04:16,780 --> 00:04:18,899
+Thanks for watching." How many people
+
+114
+00:04:19,720 --> 00:04:23,320
+are going to be able to listen to a spiel
+like that and not feel compelled to buy?
+
+115
+00:04:23,720 --> 00:04:27,640
+Although that doesn't fit the flow of what
+it is, what they get, you can just come
+
+116
+00:04:27,680 --> 00:04:30,860
+out and be honest with people.
+They just want to be disarmed.
+
+117
+00:04:30,900 --> 00:04:32,919
+They don't want to be conned.
+They want to feel comfortable.
+
+118
+00:04:32,980 --> 00:04:35,040
+So with that in mind,
+you should be all really excited to go
+
+119
+00:04:35,060 --> 00:04:35,760
+and build a landing
+
+120
+00:04:35,800 --> 00:04:39,360
+page, and you can send traffic to it
+and wake up with the money in the bank.
+
+121
+00:04:39,640 --> 00:04:43,020
+But if you're left wondering how you can
+get hundreds of people to visit your
+
+122
+00:04:43,060 --> 00:04:44,510
+landing page in just the click of a
+button,
+
+123
+00:04:44,900 --> 00:04:46,350
+then you're going to need to understand
+
+124
+00:04:46,380 --> 00:04:50,320
+the ins and outs of why it's not just a
+good idea, but imperative that you
+
+125
+00:04:50,380 --> 00:04:53,630
+operate an email list.
+And you can find out everything you need
+
+126
+00:04:53,680 --> 00:04:54,210
+to on
+
+127
+00:04:54,240 --> 00:04:57,700
+that by clicking this video right here.
+I appreciate you watching.

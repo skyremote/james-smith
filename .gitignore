@@ -1,0 +1,6 @@
+.DS_Store
+logs/
+audio/
+*.m4a
+*.webm
+*.mp3

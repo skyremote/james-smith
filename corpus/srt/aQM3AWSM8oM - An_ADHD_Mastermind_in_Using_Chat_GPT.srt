@@ -1,0 +1,1262 @@
+1
+00:00:00,100 --> 00:00:03,400
+A lot of gurus online are saying that
+if you're not using AI right now in your
+
+2
+00:00:03,440 --> 00:00:04,830
+business, you're falling behind.
+
+3
+00:00:04,880 --> 00:00:07,670
+And if you were to use AI, and if you
+were to use this prompt, and you're like,
+
+4
+00:00:07,670 --> 00:00:07,780
+"I
+
+5
+00:00:07,800 --> 00:00:11,770
+get it." However, using AI is a big thing,
+but also it's not as amazing as
+
+6
+00:00:11,800 --> 00:00:15,540
+everyone makes out. First of all,
+the ChatGPT app is just unreal,
+
+7
+00:00:15,720 --> 00:00:17,820
+and the dictate function I'll show you in
+a second.
+
+8
+00:00:17,840 --> 00:00:20,200
+But in this video,
+I'm going to explain why this book cover
+
+9
+00:00:20,400 --> 00:00:21,740
+helped me rebrand a
+
+10
+00:00:21,800 --> 00:00:25,060
+supplement company's business,
+and how you can use it to benefit your own
+
+11
+00:00:25,100 --> 00:00:25,540
+business
+
+12
+00:00:25,560 --> 00:00:27,790
+and product sales.
+There's a little microphone just next to
+
+13
+00:00:27,820 --> 00:00:29,540
+the prompt thing here.
+
+14
+00:00:29,600 --> 00:00:32,380
+I've just walked past a Lamborghini
+Huracan Sterrato.
+
+15
+00:00:32,439 --> 00:00:34,880
+It's 566,000 Australian dollars.
+
+16
+00:00:34,960 --> 00:00:37,629
+If I was to buy this
+and finance it with a balloon payment at
+
+17
+00:00:37,660 --> 00:00:38,180
+the end of, say,
+
+18
+00:00:38,240 --> 00:00:41,670
+$300,000 in three years,
+what would my weekly repayments look
+
+19
+00:00:41,820 --> 00:00:45,440
+like at the current interest rates for car
+finance at the moment in New South Wales
+
+20
+00:00:45,480 --> 00:00:47,350
+in Australia?
+So every time I have a thought,
+
+21
+00:00:47,360 --> 00:00:49,360
+whatever it is, I just get ChatGPT to
+
+22
+00:00:49,380 --> 00:00:51,970
+do the thinking for me. Now,
+this isn't always 100% accurate,
+
+23
+00:00:52,100 --> 00:00:52,740
+but it gives me some
+
+24
+00:00:52,780 --> 00:00:55,600
+rough ideas. Weekly repayments,
+2,000 Australian dollars.
+
+25
+00:00:55,840 --> 00:00:59,220
+So last week,
+I did a one-to-one with a chap who owns
+
+26
+00:00:59,260 --> 00:00:59,660
+this company.
+
+27
+00:00:59,800 --> 00:01:01,500
+Now,
+I'm going to put a link to his supplement
+
+28
+00:01:01,540 --> 00:01:02,980
+business in the description in case
+
+29
+00:01:03,000 --> 00:01:04,860
+some of you think, "Oh my God,
+that sounds really interesting.
+
+30
+00:01:04,900 --> 00:01:08,320
+I'm going to buy some." I did have some
+problems right from the onset, which was
+
+31
+00:01:08,360 --> 00:01:10,980
+the name of the supplements.
+So we have one here called Flexibility
+
+32
+00:01:11,040 --> 00:01:11,680
+Booster, and as
+
+33
+00:01:11,720 --> 00:01:15,500
+you can see here, collagen, glucosamine,
+and something else that helps
+
+34
+00:01:15,540 --> 00:01:18,030
+with joint health. And it says here,
+"Strengthens joints,
+
+35
+00:01:18,100 --> 00:01:18,940
+allows you to return to
+
+36
+00:01:19,000 --> 00:01:22,850
+activities without discomfort." But
+when I see Flexibility Booster, I don't
+
+37
+00:01:22,850 --> 00:01:24,890
+think of moving more, being pain-free.
+
+38
+00:01:24,960 --> 00:01:27,640
+I think of a hormone
+that women produce during pregnancy called
+
+39
+00:01:27,680 --> 00:01:28,390
+relaxin, which
+
+40
+00:01:28,420 --> 00:01:32,080
+means they can be at higher susceptible
+risk of dislocations.
+
+41
+00:01:32,280 --> 00:01:35,120
+So I feel like the name
+is maybe a little bit off. Second product,
+
+42
+00:01:35,400 --> 00:01:36,000
+Joint Jumper.
+
+43
+00:01:36,140 --> 00:01:38,700
+Helps lower inflammation to alleviate
+joint discomfort.
+
+44
+00:01:38,790 --> 00:01:40,940
+And again, two compounds here.
+Chap in question
+
+45
+00:01:40,980 --> 00:01:41,720
+that runs this business is a
+
+46
+00:01:41,740 --> 00:01:43,640
+pharmacist, so he knows his stuff. I hope.
+
+47
+00:01:43,800 --> 00:01:47,640
+Again, Joint Jumper,
+I couldn't resonate with that as a
+
+48
+00:01:47,680 --> 00:01:50,060
+potential natural alternative to
+ibuprofen.
+
+49
+00:01:50,120 --> 00:01:52,420
+When you think about lowering
+inflammation, I think ibuprofen.
+
+50
+00:01:52,440 --> 00:01:54,420
+I also think that I don't really know what
+inflammation is.
+
+51
+00:01:54,560 --> 00:01:56,940
+Then the third product,
+which he says he wasn't massive on
+
+52
+00:01:56,980 --> 00:01:57,620
+priority at the moment,
+
+53
+00:01:57,740 --> 00:02:00,390
+was Omega 3. Now,
+there's a lot of information online about
+
+54
+00:02:00,390 --> 00:02:01,100
+the benefits of Omega
+
+55
+00:02:01,200 --> 00:02:04,720
+3, and straightaway I said to him,
+podcast clips, people like Rhonda Patrick,
+
+56
+00:02:04,940 --> 00:02:05,120
+Chris
+
+57
+00:02:05,140 --> 00:02:06,980
+Williamson talking about the benefits.
+
+58
+00:02:07,020 --> 00:02:09,479
+Now, the second I saw these,
+some of you might have seen my clips I've
+
+59
+00:02:09,489 --> 00:02:09,740
+been putting
+
+60
+00:02:09,759 --> 00:02:13,170
+on Instagram recently, my ADHD brain,
+[mimicking explosions] .
+
+61
+00:02:13,400 --> 00:02:15,660
+And this is one of the best books
+that I've ever read.
+
+62
+00:02:15,880 --> 00:02:18,220
+It's also got one of the best covers I've
+ever seen.
+
+63
+00:02:18,340 --> 00:02:21,160
+You'll notice that the name of the book
+is up here, and the biggest part of the
+
+64
+00:02:21,200 --> 00:02:24,520
+book is just the status play Fair Play
+Will Store. Amazing.
+
+65
+00:02:24,580 --> 00:02:27,000
+That's the best book cover I've ever seen.
+So what do I do?
+
+66
+00:02:27,020 --> 00:02:29,250
+This is where I go to ChatGPT.
+I'm designing a supplement
+
+67
+00:02:29,320 --> 00:02:29,800
+which I want to bring
+
+68
+00:02:29,860 --> 00:02:31,200
+out.
+I really like the branding of this book.
+
+69
+00:02:31,380 --> 00:02:34,200
+Using this book as inspiration,
+create me a bottle, design of pills
+
+70
+00:02:34,240 --> 00:02:34,620
+that says,
+
+71
+00:02:34,630 --> 00:02:37,150
+"This fixes joint and pains." Now,
+originally, straightaway,
+
+72
+00:02:37,320 --> 00:02:38,140
+the image it creates
+
+73
+00:02:38,160 --> 00:02:40,260
+here, as you can see,
+"This fixes joints and pains,"
+
+74
+00:02:40,300 --> 00:02:41,400
+and it got the structure of it
+
+75
+00:02:41,540 --> 00:02:43,420
+slightly wrong, but it
+was amazing how quick it came up with
+
+76
+00:02:43,460 --> 00:02:43,620
+this.
+
+77
+00:02:43,880 --> 00:02:46,530
+So I said, "Amazing.
+Please now change the title." Made it very
+
+78
+00:02:46,700 --> 00:02:47,400
+easy for AI to
+
+79
+00:02:47,440 --> 00:02:51,360
+understand. Boom. Using this
+and just a simple prompt, I've
+
+80
+00:02:51,400 --> 00:02:55,390
+now managed to design potential new
+packaging, and again, this doesn't
+
+81
+00:02:55,400 --> 00:02:58,300
+have to be what he runs with, but to me,
+this is just such a smart thing.
+
+82
+00:02:58,380 --> 00:03:01,260
+Out of a whole shelf
+or a whole online store.
+
+83
+00:03:01,300 --> 00:03:05,040
+This fixes joints and pains. Amazing.
+Evidence-based formula to joint health.
+
+84
+00:03:05,160 --> 00:03:07,140
+We can put the ingredients
+and whatever on the back. Great.
+
+85
+00:03:07,180 --> 00:03:10,269
+Then the other one in question,
+the Joint Jumper, I just created this.
+
+86
+00:03:10,580 --> 00:03:12,420
+Better than ibuprofen.
+They know what it is.
+
+87
+00:03:12,460 --> 00:03:13,240
+They know what it's going to do.
+
+88
+00:03:13,269 --> 00:03:14,840
+A natural alternative to ibuprofen.
+
+89
+00:03:14,940 --> 00:03:17,670
+Those two things would not only sell
+themselves a lot easier, but
+
+90
+00:03:17,680 --> 00:03:18,010
+when we look at
+
+91
+00:03:18,040 --> 00:03:20,060
+the marketplace at the moment,
+maybe things like TikTok Shop,
+
+92
+00:03:20,220 --> 00:03:21,080
+creators would love
+
+93
+00:03:21,120 --> 00:03:24,400
+this product because they could pick it up
+and say, "These pills here said they
+
+94
+00:03:24,420 --> 00:03:26,320
+were better than ibuprofen.
+I took them for a week,
+
+95
+00:03:26,360 --> 00:03:27,329
+and I can tell you the truth,
+
+96
+00:03:27,380 --> 00:03:29,720
+they are better than ibuprofen." Now,
+I know TikTok Shop
+
+97
+00:03:29,740 --> 00:03:30,560
+is a bit of a wild place
+
+98
+00:03:30,580 --> 00:03:32,900
+at the moment.
+I even considered making this the
+
+99
+00:03:32,920 --> 00:03:33,280
+thumbnail.
+
+100
+00:03:33,440 --> 00:03:36,920
+And actually, as a curveball,
+why don't we design the thumbnail for this
+
+101
+00:03:36,940 --> 00:03:37,160
+video
+
+102
+00:03:37,200 --> 00:03:39,520
+whilst you're here using AI? I mean,
+that makes sense, doesn't it?
+
+103
+00:03:39,800 --> 00:03:41,680
+So if we go to YouTube,
+I actually think
+
+104
+00:03:41,760 --> 00:03:43,730
+that I've got a book cover
+
+105
+00:03:43,740 --> 00:03:46,220
+that we can run with. Okay,
+so we did a book with "The 4-Hour
+
+106
+00:03:46,260 --> 00:03:47,040
+Workweek." This one
+
+107
+00:03:47,080 --> 00:03:49,380
+got a lovely click-through rate,
+so I'm just going to copy that.
+
+108
+00:03:49,480 --> 00:03:52,360
+I'm going to go into my other YouTube
+browser. Don't ask. I said don't ask,
+
+109
+00:03:52,460 --> 00:03:52,640
+right?
+
+110
+00:03:52,760 --> 00:03:55,240
+Basically,
+this page should have a vidIQ plugin,
+
+111
+00:03:55,540 --> 00:03:56,260
+which means that I can
+
+112
+00:03:56,700 --> 00:04:00,040
+steal this. Cool. So I've downloaded that.
+We are going to go over to Mr.
+
+113
+00:04:00,360 --> 00:04:04,300
+ChatGPT. I can go here, upload. Here
+is a thumbnail
+
+114
+00:04:04,340 --> 00:04:06,400
+that worked pretty well on my YouTube
+channel.
+
+115
+00:04:06,540 --> 00:04:10,100
+What I would love is
+if you could swap the books to put
+
+116
+00:04:10,280 --> 00:04:13,940
+Will Store's cover where this one is,
+so it looks
+
+117
+00:04:14,020 --> 00:04:17,760
+like I am holding the first book I
+mentioned
+
+118
+00:04:17,860 --> 00:04:21,149
+in this thread. Yeah, I'm showing off.
+Let's see how Mr. ChatGPT's going.
+
+119
+00:04:21,200 --> 00:04:22,350
+It could be female, you never know.
+
+120
+00:04:22,500 --> 00:04:25,400
+Apparently, saying please and thank you
+is wasting millions of dollars.
+
+121
+00:04:25,540 --> 00:04:27,360
+Listen,
+if you don't think these robots
+
+122
+00:04:27,580 --> 00:04:29,480
+are taking count of manners, you're
+
+123
+00:04:29,500 --> 00:04:31,120
+wrong. This could not work, by the way.
+
+124
+00:04:31,240 --> 00:04:33,580
+And if it doesn't,
+we're going to have to go into Photoshop
+
+125
+00:04:33,740 --> 00:04:34,370
+and try to work some
+
+126
+00:04:34,500 --> 00:04:36,340
+magic. Whoa, whoa, whoa.
+Let me stop you there.
+
+127
+00:04:36,540 --> 00:04:38,630
+It's putting the supplement in it with it,
+isn't it?
+
+128
+00:04:38,640 --> 00:04:40,460
+Okay,
+we're going to have to go for a whole new
+
+129
+00:04:40,520 --> 00:04:41,400
+bloody prompt here, aren't we?
+
+130
+00:04:41,780 --> 00:04:45,560
+Okay, I have attached two images. One
+is a thumbnail.
+
+131
+00:04:45,700 --> 00:04:48,680
+However,
+I would like to swap the title to the
+
+132
+00:04:48,720 --> 00:04:49,560
+image to
+
+133
+00:04:49,660 --> 00:04:51,960
+anything could happen right now.
+Now it's creating the image.
+
+134
+00:04:52,020 --> 00:04:55,520
+One of the issues that we see here is
+that it's creating it portrait, which is
+
+135
+00:04:55,820 --> 00:04:59,520
+going to be a bit of a bloody issue
+considering I sent it to ChatGPT
+
+136
+00:04:59,580 --> 00:05:01,760
+landscape. But we can work on it. What
+are you doing?
+
+137
+00:05:01,960 --> 00:05:05,040
+Okay, whatever's happening here,
+it ain't working.
+
+138
+00:05:05,100 --> 00:05:07,479
+That's the wrong cover, mate.
+Do you know what?
+
+139
+00:05:07,640 --> 00:05:08,960
+Let's just try Photoshopping this.
+
+140
+00:05:09,170 --> 00:05:10,980
+Here's the thumbnail I
+was creating for someone earlier on.
+
+141
+00:05:11,060 --> 00:05:14,800
+Okay, let's put this one here. Okay,
+first of all, let's try a bit of AI.
+
+142
+00:05:14,880 --> 00:05:17,000
+So I've highlighted the book in question.
+
+143
+00:05:17,020 --> 00:05:19,760
+I said, "Please,
+can you make this white?" I have no idea
+
+144
+00:05:19,820 --> 00:05:20,440
+what's going on here.
+
+145
+00:05:20,580 --> 00:05:23,200
+Isn't it crazy?
+We're making a thumbnail for a video
+
+146
+00:05:23,320 --> 00:05:23,960
+inside the video.
+
+147
+00:05:24,000 --> 00:05:26,980
+It's like "Inception." Let's try this
+again. I'm getting pissed off now.
+
+148
+00:05:27,180 --> 00:05:29,520
+Let's just try generative fill.
+Let's just see what happens here.
+
+149
+00:05:29,680 --> 00:05:31,660
+Just see what happens here. Maybe it
+was my prompt.
+
+150
+00:05:31,940 --> 00:05:33,920
+What the fuck are you doing here, mate?
+
+151
+00:05:34,160 --> 00:05:37,860
+Remove cover and make plain white book.
+
+152
+00:05:38,140 --> 00:05:41,860
+Why is AI pissing me off today?
+Tell you what we might do as well.
+
+153
+00:05:42,120 --> 00:05:45,240
+Who's that? What is going on there, mate?
+
+154
+00:05:45,320 --> 00:05:47,380
+Okay, let's try this. This
+is doing my head in.
+
+155
+00:05:47,540 --> 00:05:49,860
+Okay,
+what's probably going to be important here
+
+156
+00:05:49,900 --> 00:05:50,960
+is the hands.
+
+157
+00:05:50,990 --> 00:05:54,560
+So let's copy that as a mask. Copy
+that as a mask.
+
+158
+00:05:54,860 --> 00:05:57,520
+It's not terrible. Now,
+what we could do here, I suppose,
+
+159
+00:05:57,620 --> 00:05:58,760
+is maybe we
+
+160
+00:05:58,800 --> 00:06:01,860
+get these layers, as in the fingers,
+and we just give them a little bit of a,
+
+161
+00:06:02,040 --> 00:06:02,200
+maybe
+
+162
+00:06:02,220 --> 00:06:05,140
+even a bit of a dark outer glow.
+Let's see if this cleans it up a bit.
+
+163
+00:06:05,200 --> 00:06:09,040
+The only thing about this image of the
+book is it looks a little bit too clean,
+
+164
+00:06:09,080 --> 00:06:11,656
+doesn't it? Well,
+that's the one There we go. See that?
+
+165
+00:06:11,716 --> 00:06:13,476
+How we just get the light down a little
+bit.
+
+166
+00:06:13,636 --> 00:06:17,496
+That just for some reason just makes it
+look legitimate.
+
+167
+00:06:17,536 --> 00:06:19,486
+I love that.
+Do we get a bit of an outer glow on it as
+
+168
+00:06:19,516 --> 00:06:19,656
+well?
+
+169
+00:06:19,696 --> 00:06:21,916
+Oh, a little bit of an outer glow. Cool.
+
+170
+00:06:21,976 --> 00:06:25,136
+So now we can start to think about
+packaging for this.
+
+171
+00:06:25,276 --> 00:06:28,026
+And again, my golden rule
+is do the packaging last. I know that.
+
+172
+00:06:28,236 --> 00:06:32,216
+So I say we'll go to thumbsup.tv.
+I made this using AI.
+
+173
+00:06:32,396 --> 00:06:35,336
+Do you know what could be a good play
+here? Just throwing this out there.
+
+174
+00:06:35,616 --> 00:06:37,556
+I know everything's going a little bit
+crazy at the moment.
+
+175
+00:06:37,696 --> 00:06:41,436
+Can you remove the name Will Store
+and instead put
+
+176
+00:06:41,776 --> 00:06:44,396
+James Smith?
+Just thought we could be making things a
+
+177
+00:06:44,456 --> 00:06:45,606
+little bit too complex,
+
+178
+00:06:45,776 --> 00:06:48,416
+but I know this is going to seem like an
+abhorrent amount of time to spend on
+
+179
+00:06:48,436 --> 00:06:52,156
+packaging, but just remember,
+if they don't click, they don't watch,
+
+180
+00:06:52,196 --> 00:06:52,376
+and if
+
+181
+00:06:52,416 --> 00:06:56,036
+they don't watch, what's the point?
+Got two ChatGPTs here working.
+
+182
+00:06:56,436 --> 00:06:58,735
+I don't like what's happened with the
+fingers here, mate.
+
+183
+00:06:58,796 --> 00:07:02,496
+I don't like what's going on there.
+Whose hairline is that?
+
+184
+00:07:02,676 --> 00:07:04,736
+All right,
+we've gone from baseball cap to that.
+
+185
+00:07:04,916 --> 00:07:08,756
+I have a feeling this one might cook it up
+a bit better. Come on. Come on, ChatGPT.
+
+186
+00:07:08,856 --> 00:07:10,786
+You got this. Come on. Oh,
+this looks better, don't it?
+
+187
+00:07:11,076 --> 00:07:13,576
+I bet there's some Photoshop whiz that
+are like, "Mate,
+
+188
+00:07:13,736 --> 00:07:14,435
+you're doing it all wrong.
+
+189
+00:07:14,576 --> 00:07:16,636
+Could do it way better." Probably.
+You're probably right, mate.
+
+190
+00:07:16,816 --> 00:07:19,736
+So what we're going to do now
+is just kind of make the cover disappear a
+
+191
+00:07:19,776 --> 00:07:19,936
+little
+
+192
+00:07:19,956 --> 00:07:22,696
+bit, like these are the levels. These
+are the levels, mate.
+
+193
+00:07:22,736 --> 00:07:26,316
+I'm not even sure I fucking like this
+anymore. Go back to thumbsuptv.
+
+194
+00:07:26,436 --> 00:07:30,356
+How ChatGPT will change marketing forever.
+Marketing your business. Cool.
+
+195
+00:07:30,466 --> 00:07:33,096
+I think that's quite a good one.
+So there you can see even how I created
+
+196
+00:07:33,116 --> 00:07:33,156
+the
+
+197
+00:07:33,196 --> 00:07:36,716
+packaging for this using AI.
+We've got Photoshop that's got the
+
+198
+00:07:36,756 --> 00:07:38,966
+built-in generative fill.
+We've got ChatGPT.
+
+199
+00:07:39,256 --> 00:07:41,076
+This is not good enough to have ideas for
+you.
+
+200
+00:07:41,276 --> 00:07:43,716
+So imagine this is an accessory as
+something that you have
+
+201
+00:07:43,856 --> 00:07:45,096
+that you can utilize to
+
+202
+00:07:45,116 --> 00:07:47,976
+do thinking for you, calculations for you.
+Even little things like this.
+
+203
+00:07:48,176 --> 00:07:52,096
+My twin brother earns 100,000 pounds a
+year. He is employed.
+
+204
+00:07:52,216 --> 00:07:54,916
+I am self-employed and earn the same.
+We are both...
+
+205
+00:07:55,036 --> 00:07:55,786
+I don't have a twin brother.
+
+206
+00:07:56,156 --> 00:08:00,116
+Meeting in Dubai from London.
+The flights are 500 pound business class.
+
+207
+00:08:00,356 --> 00:08:04,236
+I am able to write mine off as we're
+meeting someone
+
+208
+00:08:04,296 --> 00:08:06,796
+about a future business. He isn't.
+
+209
+00:08:06,856 --> 00:08:10,696
+What is the difference in real life
+
+210
+00:08:11,096 --> 00:08:14,596
+costs between us? Then here again,
+we can see because of his
+
+211
+00:08:14,636 --> 00:08:18,296
+inability to create tax deduction,
+the real cost to him is
+
+212
+00:08:18,456 --> 00:08:21,776
+8,000 pounds for the 3,500 pounds flight
+because he has to pay tax on the income
+
+213
+00:08:21,816 --> 00:08:24,436
+that he earns before making it.
+We even get a breakdown.
+
+214
+00:08:24,636 --> 00:08:28,396
+So it's 4,260 pounds cheaper to be
+
+215
+00:08:28,436 --> 00:08:29,676
+self-employed and to travel business.
+
+216
+00:08:29,766 --> 00:08:31,316
+That's why the most people
+that travel business class
+
+217
+00:08:31,336 --> 00:08:31,936
+are self-employed.
+
+218
+00:08:32,196 --> 00:08:35,676
+Again, here's another thing.
+I have a budget of 800,000 pounds to buy a
+
+219
+00:08:35,716 --> 00:08:35,976
+house.
+
+220
+00:08:36,336 --> 00:08:39,716
+In the UK, I could do so with a 20 year,
+or let's go 30 year.
+
+221
+00:08:39,836 --> 00:08:43,296
+How much does it really cost me?
+Please include stamp
+
+222
+00:08:43,356 --> 00:08:47,136
+duty and post-tax income. Also include
+
+223
+00:08:47,196 --> 00:08:51,076
+interest paid over that time.
+If I bought in Dubai and lived in
+
+224
+00:08:51,116 --> 00:08:54,776
+Dubai and paid no tax,
+what it costs me there.
+
+225
+00:08:55,016 --> 00:08:58,635
+So a lot of people don't really realize
+that if you want to buy an 800,000 pound
+
+226
+00:08:58,996 --> 00:09:00,576
+house,
+it costs actually a lot more than
+
+227
+00:09:00,636 --> 00:09:02,056
+that because you have to earn the money to
+
+228
+00:09:02,076 --> 00:09:03,516
+then pay tax to then have the money.
+
+229
+00:09:03,576 --> 00:09:07,216
+So your real cost here to buy a house of
+800,000 pounds is
+
+230
+00:09:07,276 --> 00:09:09,956
+actually 1.5 million. Actually,
+not even that. Here you go.
+
+231
+00:09:10,136 --> 00:09:13,776
+You'd need 2.3 million pre-tax to afford
+the 1.5 million
+
+232
+00:09:13,856 --> 00:09:17,716
+cost. So you buy 800K property.
+It's really costing you
+
+233
+00:09:17,976 --> 00:09:20,936
+2.3 million over 30 years because you've
+got to earn the money, pay tax on it.
+
+234
+00:09:21,196 --> 00:09:24,936
+So then, say you do a mortgage in Dubai,
+you need 1.5 million.
+
+235
+00:09:25,156 --> 00:09:28,866
+So when you look at the actual money you
+would need to live in Dubai, you would
+
+236
+00:09:28,896 --> 00:09:32,076
+need nearly a million less pounds because
+you wouldn't have to pay tax and give
+
+237
+00:09:32,096 --> 00:09:35,376
+money to it. Where you pay tax, you,
+in essence, have a wealth bucket with a
+
+238
+00:09:35,416 --> 00:09:37,816
+massive hole in the bottom,
+and every time you fill up the bucket,
+
+239
+00:09:37,896 --> 00:09:38,665
+half falls out,
+
+240
+00:09:38,996 --> 00:09:41,076
+47% if you're in Australia.
+So here you go.
+
+241
+00:09:41,256 --> 00:09:44,496
+You need to earn 800,000 pounds more in
+the UK than Dubai over 30 years.
+
+242
+00:09:44,736 --> 00:09:48,516
+That's 27,000 pounds more in earnings just
+to afford the same thing.
+
+243
+00:09:48,796 --> 00:09:52,776
+This is where theory and theoretic
+and mathematics can be utilized to make
+
+244
+00:09:52,816 --> 00:09:54,836
+decisions. Here's one for you.
+One more before we go.
+
+245
+00:09:55,056 --> 00:09:58,976
+If I sell my business in three years for
+150 million,
+
+246
+00:09:59,116 --> 00:10:01,976
+let's go dollars,
+and I have 10% of the shares at
+
+247
+00:10:02,036 --> 00:10:02,856
+that point, I live in
+
+248
+00:10:02,896 --> 00:10:06,716
+Australia, but if I moved to Dubai,
+how much tax would I
+
+249
+00:10:06,796 --> 00:10:10,156
+save if I moved there for the two years
+required?
+
+250
+00:10:10,286 --> 00:10:14,116
+Please let me know how many US dollars I
+would,
+
+251
+00:10:14,236 --> 00:10:18,196
+in essence,
+save a day across those two years.
+
+252
+00:10:18,496 --> 00:10:22,316
+So I would save 4,825 US dollars a day to
+move to
+
+253
+00:10:22,336 --> 00:10:24,336
+Dubai. That's why people are moving there.
+
+254
+00:10:24,416 --> 00:10:27,836
+Gary Economics is like, "Oh,
+tax the rich." But he worked in Japan for
+
+255
+00:10:27,855 --> 00:10:28,396
+a bit, and
+
+256
+00:10:28,475 --> 00:10:31,096
+he paid taxes in Japan. Why?
+Because he lived there.
+
+257
+00:10:31,485 --> 00:10:33,396
+So if you move to Dubai,
+it's your prerogative, of course.
+
+258
+00:10:33,576 --> 00:10:37,316
+I would be incentivized 5,000 US dollars a
+day to move there.
+
+259
+00:10:37,796 --> 00:10:39,816
+Not to mention other income just to go
+there.
+
+260
+00:10:39,856 --> 00:10:41,976
+That's what I would save, which
+is pretty appealing.
+
+261
+00:10:42,356 --> 00:10:45,426
+That means that every week I'd have enough
+to buy another investment property, and
+
+262
+00:10:45,456 --> 00:10:48,776
+I could do that every week. Anyway,
+calculations, an extra brain.
+
+263
+00:10:48,816 --> 00:10:50,876
+Don't say to ChatGPT,
+"Give me a viral idea for a video,"
+
+264
+00:10:50,956 --> 00:10:51,386
+because it's not that
+
+265
+00:10:51,436 --> 00:10:52,756
+good at that.
+But for other stuff like this,
+
+266
+00:10:53,216 --> 00:10:53,696
+it's amazing.
+
+267
+00:10:53,836 --> 00:10:56,076
+Habibi, welcome to Dubai.
+If you enjoyed this video,
+
+268
+00:10:56,356 --> 00:10:56,856
+you should definitely watch
+
+269
+00:10:56,896 --> 00:10:59,446
+this one here because, well,
+YouTube thinks you're going to love it

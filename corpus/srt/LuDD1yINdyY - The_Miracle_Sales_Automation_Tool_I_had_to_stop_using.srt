@@ -1,0 +1,1318 @@
+1
+00:00:00,100 --> 00:00:03,940
+Imagine a world where you could take
+comments on your content
+
+2
+00:00:04,000 --> 00:00:07,980
+and turn them into clients. Well that,
+ladies and gentlemen, is
+
+3
+00:00:08,040 --> 00:00:10,640
+now a real... I can't talk like that,
+is a reality.
+
+4
+00:00:10,830 --> 00:00:13,340
+I'm going to show you some of the stuff
+that usually I would only show people if
+
+5
+00:00:13,360 --> 00:00:14,890
+they were paying me money.
+But the thought is,
+
+6
+00:00:15,160 --> 00:00:16,620
+you could end up seeing this and
+
+7
+00:00:16,660 --> 00:00:17,600
+learning so much from it,
+
+8
+00:00:18,760 --> 00:00:21,660
+that you end up paying me money.
+So over here we have ManyChat.
+
+9
+00:00:22,040 --> 00:00:25,680
+I've been using ManyChat since about 2017,
+and although some of the rules have
+
+10
+00:00:25,740 --> 00:00:27,560
+changed,
+how it integrates with Facebook
+
+11
+00:00:27,600 --> 00:00:28,900
+and whatnot, I still think it's a very
+
+12
+00:00:28,960 --> 00:00:31,690
+powerful tool.
+I do not even use this to its full
+
+13
+00:00:31,740 --> 00:00:32,180
+potential.
+
+14
+00:00:32,380 --> 00:00:34,949
+Over here, if we click on Automation,
+because that's really where I think the
+
+15
+00:00:35,000 --> 00:00:35,120
+power
+
+16
+00:00:35,140 --> 00:00:37,930
+of chatbots are,
+to be doing work for you whilst you're
+
+17
+00:00:37,960 --> 00:00:38,820
+asleep or doing other
+
+18
+00:00:38,860 --> 00:00:41,880
+things.
+And here you can see a list of some of the
+
+19
+00:00:41,900 --> 00:00:42,680
+automations I've been
+
+20
+00:00:42,720 --> 00:00:46,580
+using. So very quickly, an automation
+is some kind of process that we can put in
+
+21
+00:00:46,640 --> 00:00:49,990
+place so that when someone on our social
+media, whether it be Facebook or whether
+
+22
+00:00:50,020 --> 00:00:53,980
+it be Instagram, because ManyChat
+is a partner of Meta, they're the only two
+
+23
+00:00:54,000 --> 00:00:55,180
+that we can properly use at the moment.
+
+24
+00:00:55,440 --> 00:00:58,200
+On a certain behavior,
+we can get a prompt, a response,
+
+25
+00:00:58,380 --> 00:00:59,020
+a message.
+
+26
+00:00:59,360 --> 00:01:01,440
+So for instance,
+if I click New Automation up here,
+
+27
+00:01:01,760 --> 00:01:02,520
+start from scratch.
+
+28
+00:01:02,740 --> 00:01:04,440
+I know this can look very complex in the
+beginning.
+
+29
+00:01:05,300 --> 00:01:08,880
+Wow, so refreshing. Product placement.
+Love that. So New Trigger.
+
+30
+00:01:09,260 --> 00:01:12,840
+A trigger is the thing that's going to
+happen for that response.
+
+31
+00:01:13,240 --> 00:01:16,670
+Thing that happens, response. Now
+when you see this, straight away,
+
+32
+00:01:16,860 --> 00:01:17,140
+any of you
+
+33
+00:01:17,160 --> 00:01:19,100
+that aren't using this,
+your eyes just light up.
+
+34
+00:01:19,320 --> 00:01:22,550
+So whether or not someone comments on a
+post or a reel, replies to our story,
+
+35
+00:01:22,900 --> 00:01:23,070
+sends
+
+36
+00:01:23,100 --> 00:01:25,540
+a message, comments on a live,
+we can send them a message.
+
+37
+00:01:25,840 --> 00:01:29,610
+I had great success with this recently for
+one of my last challenges that we did,
+
+38
+00:01:29,620 --> 00:01:32,750
+where I would go live,
+and I would make the title of the live,
+
+39
+00:01:32,980 --> 00:01:33,580
+Comment the Word
+
+40
+00:01:33,620 --> 00:01:35,580
+Challenge.
+So people would comment the word challenge
+
+41
+00:01:35,640 --> 00:01:36,600
+on the live, and it meant
+
+42
+00:01:36,640 --> 00:01:39,930
+they could stay concurrently watching the
+live video I was doing.
+
+43
+00:01:39,960 --> 00:01:42,180
+Then after that,
+they could go to their inbox as to where
+
+44
+00:01:42,200 --> 00:01:43,040
+they would find the
+
+45
+00:01:43,120 --> 00:01:47,100
+message. Now before we get carried away,
+it's worth noting that if someone DMs
+
+46
+00:01:47,120 --> 00:01:50,400
+us a message, we have more options,
+but we'll get onto that in a second.
+
+47
+00:01:50,480 --> 00:01:52,620
+So we want someone to comment on our post
+or reel.
+
+48
+00:01:52,780 --> 00:01:55,900
+A lot of people seem to think
+that they are manually responding to
+
+49
+00:01:55,940 --> 00:01:56,380
+these, but
+
+50
+00:01:56,420 --> 00:01:58,080
+they're not. Some people might,
+most of them aren't.
+
+51
+00:01:58,240 --> 00:02:01,930
+So I can pick a specific reel from here,
+but these have already been posted,
+
+52
+00:02:02,200 --> 00:02:05,920
+so that's not ideal. So it's better
+if we can look at all posts or reels, or
+
+53
+00:02:05,930 --> 00:02:08,340
+next post and reel. Now if you
+were going to run a campaign,
+
+54
+00:02:08,400 --> 00:02:09,430
+say up until this
+
+55
+00:02:09,500 --> 00:02:11,680
+week,
+if you commented the word calculator on
+
+56
+00:02:11,760 --> 00:02:13,280
+any of my posts on Instagram,
+
+57
+00:02:13,500 --> 00:02:16,140
+you would get a DM saying, "Hey,
+you want to use my calorie calculator?
+
+58
+00:02:16,240 --> 00:02:18,740
+Here it is." Which is a squeeze page,
+it's a lead magnet.
+
+59
+00:02:18,940 --> 00:02:22,320
+I let people use the calorie calculator
+for free, but then if they want a more
+
+60
+00:02:22,340 --> 00:02:24,780
+detailed breakdown of all the information
+I've given them, they have to give us
+
+61
+00:02:24,820 --> 00:02:27,940
+their email address. We have that
+and have had that passively collect email
+
+62
+00:02:27,960 --> 00:02:30,860
+addresses for nearly a decade. So
+if there's a generalized word,
+
+63
+00:02:30,920 --> 00:02:31,700
+there's not many
+
+64
+00:02:31,720 --> 00:02:35,420
+people that are going to be using
+or messaging the word calculator to me
+
+65
+00:02:35,440 --> 00:02:35,530
+that
+
+66
+00:02:35,620 --> 00:02:38,580
+don't want a calorie calculator.
+So for me, I would have used that.
+
+67
+00:02:38,760 --> 00:02:41,580
+However,
+if you're running a novel campaign,
+
+68
+00:02:41,780 --> 00:02:42,489
+you might just say, "Hey,
+
+69
+00:02:42,840 --> 00:02:45,519
+for the next post and reel,
+continue." Now there are two options here.
+
+70
+00:02:45,820 --> 00:02:49,160
+You can get them to put in a keyword,
+or sometimes you can do any comment,
+
+71
+00:02:49,300 --> 00:02:49,520
+and this
+
+72
+00:02:49,560 --> 00:02:53,500
+is really where I'm dropping my pants
+and explaining some of my marketing nous.
+
+73
+00:02:53,860 --> 00:02:55,950
+Sometimes you put the keyword
+and the first one I ever used was,
+
+74
+00:02:56,040 --> 00:02:56,560
+comment the word
+
+75
+00:02:56,600 --> 00:02:59,820
+daddy. People are like, "Oh,
+that's a bit inappropriate." Made it a bit
+
+76
+00:02:59,940 --> 00:03:00,240
+funny, a
+
+77
+00:03:00,260 --> 00:03:03,700
+bit jovial. But actually,
+in my last successful chatbot
+
+78
+00:03:03,740 --> 00:03:07,329
+automation, I said, "Any comment,"
+and in the video, I said, "Comment your
+
+79
+00:03:07,460 --> 00:03:10,600
+favorite sex position." So
+that people were putting some of the
+
+80
+00:03:10,680 --> 00:03:11,280
+craziest
+
+81
+00:03:11,300 --> 00:03:15,260
+sexual positions ever, wondering, wow,
+is there going to be a chatbot response to
+
+82
+00:03:15,300 --> 00:03:18,790
+me saying reverse cowgirl? So then I
+was getting interactions from
+
+83
+00:03:18,820 --> 00:03:20,880
+people that just kind of wanted to see
+what happened.
+
+84
+00:03:21,100 --> 00:03:22,480
+So the any comment one's quite good.
+
+85
+00:03:22,580 --> 00:03:24,360
+Specific keyword,
+let's say I'm using the word challenge.
+
+86
+00:03:24,620 --> 00:03:27,840
+I'd put the word challenge,
+but I'd also put the word challenge spelt
+
+87
+00:03:27,940 --> 00:03:28,260
+wrong,
+
+88
+00:03:28,600 --> 00:03:32,520
+just in case someone is retarded.
+So let's say I'm doing January
+
+89
+00:03:32,640 --> 00:03:35,040
+kickoff challenge, whatever.
+I've got those two things there, cool.
+
+90
+00:03:35,300 --> 00:03:37,340
+That's my triggers. I'm happy with it.
+Continue.
+
+91
+00:03:37,520 --> 00:03:41,210
+Now you can send random multiple replies,
+like, "Thanks,
+
+92
+00:03:41,380 --> 00:03:44,420
+mate. Cheers,
+bro." I'm not a big fan of them,
+
+93
+00:03:44,820 --> 00:03:45,220
+if I'm honest.
+
+94
+00:03:45,540 --> 00:03:48,620
+I've used them before, but
+if you've got 300 comments on a post,
+
+95
+00:03:48,680 --> 00:03:49,200
+you reply to all
+
+96
+00:03:49,220 --> 00:03:50,620
+of them,
+they're thinking this person's got too
+
+97
+00:03:50,640 --> 00:03:51,160
+much spare time.
+
+98
+00:03:51,380 --> 00:03:54,500
+Now,
+we need something that's logically going
+
+99
+00:03:54,560 --> 00:03:55,240
+to happen
+
+100
+00:03:55,360 --> 00:03:57,200
+after this.
+So we've got the trigger set up,
+
+101
+00:03:57,340 --> 00:03:59,040
+next post or reel, the word challenge.
+
+102
+00:03:59,340 --> 00:04:01,780
+Now because this is an Instagram
+automation,
+
+103
+00:04:01,840 --> 00:04:03,120
+we're going to want an Instagram
+
+104
+00:04:03,340 --> 00:04:06,510
+message. Now this is it. You go, "Wow,
+thank you, brother.
+
+105
+00:04:06,800 --> 00:04:10,440
+For more information about the challenge,
+just click
+
+106
+00:04:10,700 --> 00:04:14,200
+that sexy button below. All the best, Big
+
+107
+00:04:14,280 --> 00:04:14,720
+Sexy."
+
+108
+00:04:16,720 --> 00:04:19,980
+Then Add Button,
+want to change the button to Challenge
+
+109
+00:04:20,300 --> 00:04:23,220
+Info. For any of you on Mac,
+did you know that if you hit Control,
+
+110
+00:04:23,300 --> 00:04:23,690
+Command, and
+
+111
+00:04:23,740 --> 00:04:26,100
+Space Bar, you get your emojis? If you
+
+112
+00:04:26,920 --> 00:04:29,460
+didn't, you do now. You do now. Cool.
+
+113
+00:04:30,180 --> 00:04:33,969
+We want to open website,
+and I actually have... Look at that.
+
+114
+00:04:34,240 --> 00:04:36,770
+See that? What,
+you don't have keyboard shortcuts set up
+
+115
+00:04:37,000 --> 00:04:37,760
+so that I type in
+
+116
+00:04:37,800 --> 00:04:41,039
+challenge one,
+got the URL for my challenge. What's that?
+
+117
+00:04:41,080 --> 00:04:43,170
+Email auto.
+There's a short link for one of my
+
+118
+00:04:43,220 --> 00:04:43,969
+autoresponders.
+
+119
+00:04:44,460 --> 00:04:47,659
+What's that? JSA 2,
+my business partner's email address.
+
+120
+00:04:47,720 --> 00:04:51,180
+I've got shortcuts for everything,
+brother.
+
+121
+00:04:51,220 --> 00:04:53,880
+What do you need?
+I've got a shortcut for it. Where were we?
+
+122
+00:04:54,120 --> 00:04:54,520
+Bersh.
+
+123
+00:04:54,860 --> 00:04:57,500
+So now you might want to think, oh,
+what you say?
+
+124
+00:04:57,560 --> 00:05:01,200
+Oh, I didn't put something there. My bad.
+My bad. Challenge info.
+
+125
+00:05:01,660 --> 00:05:03,480
+Got a bit carried away showing off there,
+didn't I?
+
+126
+00:05:04,200 --> 00:05:06,210
+So that's all looking nice and good,
+and you're probably thinking,
+
+127
+00:05:07,380 --> 00:05:09,820
+what does that look like? Not a problem.
+Go up here to preview.
+
+128
+00:05:10,680 --> 00:05:14,440
+Bersh. Wow. That's so good.
+You can even click that to
+
+129
+00:05:14,480 --> 00:05:17,260
+check the efficacy. Look at that.
+Fantastic.
+
+130
+00:05:17,680 --> 00:05:20,820
+Fantastic. What a place.
+What a time to be alive.
+
+131
+00:05:21,080 --> 00:05:24,910
+So then we can set that live.
+Straight away, you can then post your next
+
+132
+00:05:24,940 --> 00:05:27,480
+post and start.
+You can do it in the caption.
+
+133
+00:05:27,600 --> 00:05:28,460
+I like doing it in the video.
+
+134
+00:05:28,600 --> 00:05:31,200
+And you can just say it subtly. Oh,
+and by the way, if you wanted to know more
+
+135
+00:05:31,220 --> 00:05:33,020
+about that challenge,
+you can just comment the word challenge.
+
+136
+00:05:33,140 --> 00:05:35,220
+Anyway, back to the point. Boom,
+you're in, you're out.
+
+137
+00:05:35,660 --> 00:05:38,480
+So then people that
+are interested can be actionable on it,
+
+138
+00:05:38,540 --> 00:05:39,120
+and people that aren't,
+
+139
+00:05:39,480 --> 00:05:39,840
+aren't.
+
+140
+00:05:41,160 --> 00:05:43,440
+Is that it? No.
+We're just getting warmed up.
+
+141
+00:05:43,840 --> 00:05:44,820
+We've just got you moist.
+
+142
+00:05:44,960 --> 00:05:48,040
+It's now time to get stuck in.
+You can tell I enjoy this stuff.
+
+143
+00:05:48,320 --> 00:05:50,940
+By the way, guys, just to let you know,
+here, this is where I'm going to spend the
+
+144
+00:05:50,980 --> 00:05:54,600
+rest of my morning, in The Minuteship,
+helping people. It's how I make money.
+
+145
+00:05:54,840 --> 00:05:58,440
+I work with small brands, businesses,
+some personal trainers, a lot.
+
+146
+00:05:58,660 --> 00:05:59,580
+There'll be a link in the description.
+
+147
+00:05:59,620 --> 00:06:01,360
+But let's get back to it before we get
+distracted.
+
+148
+00:06:01,720 --> 00:06:05,644
+Let's make a daddy automation. Something-
+Sexy.
+
+149
+00:06:05,874 --> 00:06:08,764
+New trigger.
+I want someone to send me a message. Why?
+
+150
+00:06:08,964 --> 00:06:11,084
+Because we have more options with this,
+and I'll explain.
+
+151
+00:06:11,284 --> 00:06:14,564
+Select a way to trigger the automation.
+Detect specific words. Daddy.
+
+152
+00:06:14,784 --> 00:06:17,964
+Let's just put it. So, new trigger. So,
+I'm already doing this, sorry.
+
+153
+00:06:18,104 --> 00:06:20,964
+Keyword trigger created. Now,
+we're going to drop this person a message,
+
+154
+00:06:21,223 --> 00:06:21,404
+but we're
+
+155
+00:06:21,424 --> 00:06:22,504
+going to take this to the next level.
+
+156
+00:06:22,644 --> 00:06:26,464
+"Hey mate, thanks for the DM." Oh,
+what's that? Delay. Wait a few seconds.
+
+157
+00:06:26,724 --> 00:06:28,944
+Make it seem like I'm really there. Text.
+
+158
+00:06:29,244 --> 00:06:31,204
+"Sorry, bear with." One sec. Delay.
+
+159
+00:06:31,374 --> 00:06:34,894
+"So basically,
+I really wanted the opportunity to tell
+
+160
+00:06:34,904 --> 00:06:35,324
+you more
+
+161
+00:06:35,944 --> 00:06:38,664
+about my 12-week challenge." Delay.
+
+162
+00:06:39,044 --> 00:06:42,684
+"If you're someone looking to drop a bit
+of timber
+
+163
+00:06:43,004 --> 00:06:46,933
+and remain accountable,
+this would be perfect for you." And
+
+164
+00:06:46,964 --> 00:06:49,084
+again, this could be anything.
+This could be tax accounting.
+
+165
+00:06:49,144 --> 00:06:51,714
+I choose this because I've run a PT
+business for a while.
+
+166
+00:06:51,744 --> 00:06:53,293
+Then after a while,
+you go up here to preview.
+
+167
+00:06:53,433 --> 00:06:55,104
+"Thanks for the DM." Oh.
+
+168
+00:06:55,144 --> 00:06:56,604
+Oh my God,
+he's actually messaging me back.
+
+169
+00:06:57,334 --> 00:06:59,183
+"Sorry, bear with." [chuckles] Yeah,
+I'll wait.
+
+170
+00:06:59,444 --> 00:07:00,824
+Oh, my God, is that the James Smith?
+
+171
+00:07:00,854 --> 00:07:02,274
+"So basically,
+I really wanted the opportunity..." Oh.
+
+172
+00:07:02,274 --> 00:07:06,124
+"Tell me more." And we can make this as
+long as we want.
+
+173
+00:07:06,204 --> 00:07:09,124
+We could put an image in. Let's say
+
+174
+00:07:10,604 --> 00:07:14,064
+a thumbnail. Do you like this thumbnail?
+I made it myself.
+
+175
+00:07:14,544 --> 00:07:16,104
+Oh. And then we could put another delay.
+
+176
+00:07:16,534 --> 00:07:18,904
+Then we could put,
+what else have we got in here?
+
+177
+00:07:19,284 --> 00:07:21,524
+Audio, send a voice note, share a video.
+
+178
+00:07:21,724 --> 00:07:24,724
+So this is where things can get really
+interesting. Even here.
+
+179
+00:07:25,144 --> 00:07:28,744
+I put a little audio file in there.
+We could then say, "Hey mate, sorry,
+
+180
+00:07:28,884 --> 00:07:29,104
+just on
+
+181
+00:07:29,144 --> 00:07:31,584
+the move. Basically,
+wanted to tell you more about the program.
+
+182
+00:07:32,864 --> 00:07:35,664
+How was that voice note?
+Did I make it clear?
+
+183
+00:07:36,064 --> 00:07:39,964
+The next thing ideally would be to book in
+
+184
+00:07:40,044 --> 00:07:43,744
+a call with the sales team,
+if you're happy to." What else have we got
+
+185
+00:07:43,784 --> 00:07:43,944
+here?
+
+186
+00:07:44,224 --> 00:07:47,804
+Gallery, card, video.
+So I did one of these recently.
+
+187
+00:07:47,864 --> 00:07:49,844
+Let's have a look how this looks now.
+The little delays.
+
+188
+00:07:49,904 --> 00:07:53,824
+Sometimes you can make the delays up to 60
+seconds, which really makes it
+
+189
+00:07:53,864 --> 00:07:57,624
+look like you're there. Now,
+something else you can do with this is you
+
+190
+00:07:57,684 --> 00:07:59,614
+can make people know
+that it's an automation,
+
+191
+00:07:59,624 --> 00:08:00,704
+and they're not too bothered because
+
+192
+00:08:00,744 --> 00:08:03,034
+it's still quite cool.
+You're getting a message from someone,
+
+193
+00:08:03,044 --> 00:08:03,494
+and you can take
+
+194
+00:08:03,524 --> 00:08:05,594
+people on a little journey.
+There can be other...
+
+195
+00:08:05,704 --> 00:08:06,744
+Sometimes you can get to the end of it.
+
+196
+00:08:06,814 --> 00:08:08,744
+Sometimes they need to respond to get to
+it.
+
+197
+00:08:08,824 --> 00:08:12,224
+So here, you see, choose next step,
+condition. These are the complex things.
+
+198
+00:08:12,684 --> 00:08:15,424
+Sometimes it goes like, "What
+are you looking to do?" Then they respond,
+
+199
+00:08:15,543 --> 00:08:15,724
+then they
+
+200
+00:08:15,784 --> 00:08:18,244
+get the next sequence.
+Some of these go really complex,
+
+201
+00:08:18,324 --> 00:08:19,354
+but I don't think we really
+
+202
+00:08:19,364 --> 00:08:22,604
+need to worry about that too much.
+But let's think about what kind of
+
+203
+00:08:22,664 --> 00:08:25,244
+campaign are we going to be running here.
+
+204
+00:08:25,564 --> 00:08:29,484
+So let me delete this one.
+I don't think it's
+
+205
+00:08:29,494 --> 00:08:32,004
+the best idea to use this just to try
+and get someone to buy,
+
+206
+00:08:32,024 --> 00:08:32,554
+because even one of
+
+207
+00:08:32,564 --> 00:08:35,804
+my most previous videos telling you to not
+go to a website is exactly for this
+
+208
+00:08:35,824 --> 00:08:38,884
+reason. So new trigger.
+Let's maybe even just go,
+
+209
+00:08:39,204 --> 00:08:39,724
+someone sends you a
+
+210
+00:08:39,744 --> 00:08:42,304
+message, emails. Yep, sweet. That's there.
+
+211
+00:08:42,534 --> 00:08:46,404
+"Thank you so much for the DM. Basically,
+I really want to change your life."
+
+212
+00:08:46,684 --> 00:08:50,613
+Cool. Little delay, bit of text.
+"Each day over the next 100
+
+213
+00:08:50,684 --> 00:08:53,484
+days,
+I'm going to send you an email that's
+
+214
+00:08:53,544 --> 00:08:54,164
+going to
+
+215
+00:08:54,304 --> 00:08:57,224
+revolutionize your understanding of
+fitness.
+
+216
+00:08:57,484 --> 00:09:01,124
+Now,
+I know you may not think these would be
+
+217
+00:09:01,264 --> 00:09:05,144
+that good, but they're completely free,
+and if you don't
+
+218
+00:09:05,284 --> 00:09:09,044
+absolutely love them,
+you can unsubscribe at any point.
+
+219
+00:09:09,384 --> 00:09:13,084
+So would you please do me the favor
+and sign up
+
+220
+00:09:13,144 --> 00:09:15,784
+today? I'm positive you are."
+
+221
+00:09:19,064 --> 00:09:21,634
+Then my good delay, text. Oh, yeah.
+
+222
+00:09:21,964 --> 00:09:25,284
+"Please use this link." Let's have a look
+how that looks.
+
+223
+00:09:25,594 --> 00:09:27,884
+"Thank you so much for... And basically,
+I really want to change your life." Wow.
+
+224
+00:09:28,393 --> 00:09:30,594
+"Each day over the next 100 days,
+I'm going to send you an email that's
+
+225
+00:09:30,624 --> 00:09:30,824
+going to
+
+226
+00:09:30,844 --> 00:09:32,304
+revolutionize your understanding of
+fitness.
+
+227
+00:09:32,584 --> 00:09:34,104
+Now, I know..." See,
+that delay should've been longer.
+
+228
+00:09:34,314 --> 00:09:35,814
+"Now, I know you may not think
+that these are going to be good,
+
+229
+00:09:35,864 --> 00:09:36,064
+but you can
+
+230
+00:09:36,104 --> 00:09:38,324
+unsubscribe at any point.
+So would you please do me the favor
+
+231
+00:09:38,334 --> 00:09:39,064
+and sign up today?
+
+232
+00:09:39,544 --> 00:09:43,064
+Oh, yeah, please use this link." Oh,
+that is not working as a
+
+233
+00:09:43,104 --> 00:09:45,584
+hyperlink, is it? That's good
+that we've discovered this.
+
+234
+00:09:45,824 --> 00:09:48,124
+Wow, I wonder why that is.
+I wonder why that is, mate.
+
+235
+00:09:48,344 --> 00:09:49,864
+Okay, we're going to cut that. Add button.
+
+236
+00:09:49,904 --> 00:09:52,494
+This is why you've got to test your shit,
+mate.
+
+237
+00:09:52,673 --> 00:09:55,204
+That's why you've got to test your shit.
+Click here. Cool.
+
+238
+00:09:55,224 --> 00:09:59,024
+And then let's go a little finger point
+just to let them know just in case
+
+239
+00:09:59,064 --> 00:10:01,384
+they're blind,
+just in case their walking stick has
+
+240
+00:10:01,424 --> 00:10:02,084
+fallen on the floor.
+
+241
+00:10:02,244 --> 00:10:04,604
+And these don't take long. Basically,
+this means that you can now put out really
+
+242
+00:10:04,644 --> 00:10:08,264
+engaging viral content onto the internet,
+and people will arrive in your DMs.
+
+243
+00:10:08,544 --> 00:10:12,024
+And then they'll get these DM automations,
+and you'll wake up with people in your
+
+244
+00:10:12,044 --> 00:10:15,024
+inbox. So that is just the dream, right?
+Click here.
+
+245
+00:10:15,344 --> 00:10:19,324
+Where's it taking me? Oh my God,
+look at this fantastic squeeze page.
+
+246
+00:10:19,464 --> 00:10:21,324
+Now, let me show you this in action,
+actually.
+
+247
+00:10:21,704 --> 00:10:25,644
+So AWeber is one of my email lists.
+Then if we go here, so I'm
+
+248
+00:10:25,684 --> 00:10:27,724
+not proactively getting people to join
+this.
+
+249
+00:10:27,924 --> 00:10:30,164
+Here, you can actually see
+that I turned the chatbot off.
+
+250
+00:10:30,264 --> 00:10:33,684
+So I turned it off to have a look whether
+or not it was having a real impact on the
+
+251
+00:10:33,704 --> 00:10:36,244
+list.
+But these email sign-ups every day
+
+252
+00:10:36,364 --> 00:10:37,484
+are coming from a
+
+253
+00:10:37,544 --> 00:10:40,584
+chatbot that I put on Facebook
+that anytime someone comments,
+
+254
+00:10:40,664 --> 00:10:41,313
+it just slides into
+
+255
+00:10:41,344 --> 00:10:43,124
+their DMs and goes, "Hey,
+I send emails every day.
+
+256
+00:10:43,184 --> 00:10:45,684
+They could really help you." And
+that has been growing the list.
+
+257
+00:10:45,824 --> 00:10:48,234
+Not by a huge amount, to be honest,
+because I'm not really using this list at
+
+258
+00:10:48,264 --> 00:10:48,304
+the
+
+259
+00:10:48,324 --> 00:10:50,804
+moment, but you get the idea.
+So then you can just put out content.
+
+260
+00:10:52,304 --> 00:10:54,944
+And then off the back of it,
+people can sign up to your email
+
+261
+00:10:55,124 --> 00:10:56,124
+newsletter passively.
+
+262
+00:10:56,234 --> 00:10:58,464
+And all you need to do
+is just mention it in your content,
+
+263
+00:10:58,724 --> 00:10:59,804
+or you can set something
+
+264
+00:10:59,864 --> 00:11:02,004
+up so that anyone that comments gets
+that DM.
+
+265
+00:11:02,324 --> 00:11:04,514
+Makes your life easier,
+whether you're running campaigns,
+
+266
+00:11:04,744 --> 00:11:05,434
+selling something.
+
+267
+00:11:05,624 --> 00:11:07,704
+You could even say to people, "Hey,
+I'm running a discount.
+
+268
+00:11:07,804 --> 00:11:11,504
+DM me the word." And just taking them on
+that little journey can make your life
+
+269
+00:11:11,544 --> 00:11:13,084
+easier.
+That's what we use these things for.
+
+270
+00:11:13,544 --> 00:11:17,164
+This is like a little mini employee just
+sat there in the back end,
+
+271
+00:11:17,524 --> 00:11:19,964
+making your life easier.
+How you're going to implement chatbots
+
+272
+00:11:20,004 --> 00:11:20,664
+into your business,
+
+273
+00:11:20,844 --> 00:11:24,244
+I don't know, but I hope that
+was a detailed
+
+274
+00:11:24,344 --> 00:11:27,224
+walkthrough. I hope you enjoyed it.
+This video is quite good, actually.
+
+275
+00:11:27,344 --> 00:11:30,704
+So to all of you lot in the mentorship,
+I think I'm going to put this one in the
+
+276
+00:11:30,744 --> 00:11:34,264
+mentorship with the other chatbot
+tutorials because it was quite good.
+
+277
+00:11:34,524 --> 00:11:36,144
+Link's in the description.
+I hope you enjoyed the video.
+
+278
+00:11:36,524 --> 00:11:39,294
+And as per usual, YouTube recommends
+that you watch this video, and
+
+279
+00:11:39,324 --> 00:11:39,584
+that you could
+
+280
+00:11:39,604 --> 00:11:42,364
+learn a lot from it. So please click
+that and head over to that one.
+
+281
+00:11:42,624 --> 00:11:43,604
+I'll change your life there as well.

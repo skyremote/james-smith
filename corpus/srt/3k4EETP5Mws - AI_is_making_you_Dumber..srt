@@ -1,0 +1,1380 @@
+1
+00:00:00,080 --> 00:00:02,920
+I'm sorry to be the bearer of bad news,
+but everyone online telling you that you
+
+2
+00:00:02,980 --> 00:00:06,260
+need to be using AI is full of shit.
+You think that AI is going to take you
+
+3
+00:00:06,340 --> 00:00:06,600
+ahead
+
+4
+00:00:06,660 --> 00:00:08,360
+to the next level,
+to put you in front of all your
+
+5
+00:00:08,400 --> 00:00:08,920
+competitors.
+
+6
+00:00:08,980 --> 00:00:10,500
+But in fact,
+it's slowing you right down
+
+7
+00:00:10,560 --> 00:00:12,140
+and it's making you dumber in real time.
+
+8
+00:00:12,180 --> 00:00:15,580
+The reason that so many people use AI,
+even right now, me using this title, is
+
+9
+00:00:15,600 --> 00:00:17,290
+people are obsessed with it.
+They seem to think
+
+10
+00:00:17,340 --> 00:00:18,740
+if they don't adapt to AI that
+
+11
+00:00:18,760 --> 00:00:21,530
+they're going to fall behind.
+But let's just get into some of the issues
+
+12
+00:00:21,620 --> 00:00:21,840
+with it.
+
+13
+00:00:22,100 --> 00:00:25,540
+Firstly, ideation. Ideation
+is the concept of coming up with ideas of
+
+14
+00:00:25,580 --> 00:00:25,920
+things to
+
+15
+00:00:25,960 --> 00:00:29,470
+talk about in content. Two issues I have,
+the first one of which is the majority of
+
+16
+00:00:29,540 --> 00:00:32,940
+creators telling you to use AI for
+ideation don't use AI for
+
+17
+00:00:33,040 --> 00:00:34,860
+ideation. They have a team of writers.
+
+18
+00:00:35,000 --> 00:00:38,870
+When someone puts out three videos a week
+at 30 to 45 minutes, and
+
+19
+00:00:39,040 --> 00:00:41,340
+every single word is read off a
+teleprompter, and that person
+
+20
+00:00:41,360 --> 00:00:42,100
+is worth tens of
+
+21
+00:00:42,140 --> 00:00:45,180
+millions of dollars, who do you think
+is writing all of the words on the
+
+22
+00:00:45,240 --> 00:00:48,460
+teleprompter? I'll give you a clue.
+It's not AI. It's professional writers.
+
+23
+00:00:48,760 --> 00:00:50,440
+Often,
+they work in teams of up to three to eight
+
+24
+00:00:50,460 --> 00:00:51,660
+people, and they script, and they
+
+25
+00:00:51,760 --> 00:00:53,700
+curate,
+and they plan every single segment of the
+
+26
+00:00:53,740 --> 00:00:53,980
+video.
+
+27
+00:00:54,140 --> 00:00:56,430
+The person that you follow
+is often just a puppet. How do I know?
+
+28
+00:00:56,580 --> 00:00:59,320
+Because I'm jealous of these people.
+I wish I had a team of writers.
+
+29
+00:00:59,600 --> 00:01:01,480
+I wish I could just turn up,
+turn the teleprompter on,
+
+30
+00:01:01,520 --> 00:01:02,650
+and just read shit out and
+
+31
+00:01:02,660 --> 00:01:05,280
+have people gobble it up. But for me,
+I just wouldn't be able to sit here
+
+32
+00:01:05,320 --> 00:01:05,600
+and read
+
+33
+00:01:05,640 --> 00:01:08,210
+that out and feel proud about it. So
+when it comes to ideation,
+
+34
+00:01:08,360 --> 00:01:08,810
+if you're going to
+
+35
+00:01:08,860 --> 00:01:12,170
+rely on ChatGPT or Claude
+or whatever it is that you're using,
+
+36
+00:01:12,300 --> 00:01:12,740
+in essence,
+
+37
+00:01:12,800 --> 00:01:16,740
+it's as if you've hired someone for 25K a
+year at a junior level to come up with
+
+38
+00:01:16,800 --> 00:01:18,320
+all your ideas.
+I've got a really good friend of mine
+
+39
+00:01:18,380 --> 00:01:19,340
+actually, and he hired
+
+40
+00:01:19,380 --> 00:01:22,400
+someone on maybe 40K a year,
+and suddenly all the ideas that he
+
+41
+00:01:22,420 --> 00:01:23,100
+was putting forward
+
+42
+00:01:23,180 --> 00:01:25,120
+were the ideas of someone on 40K a year.
+
+43
+00:01:25,360 --> 00:01:28,740
+You cannot leave the ideation on what you
+talk about to AI, because the ideas will
+
+44
+00:01:28,780 --> 00:01:31,440
+just not be good enough.
+But the most dangerous pitfall people fall
+
+45
+00:01:31,450 --> 00:01:31,860
+into is
+
+46
+00:01:31,880 --> 00:01:34,430
+thinking that they are. Second,
+when scripting your videos,
+
+47
+00:01:34,460 --> 00:01:35,180
+it's very important
+
+48
+00:01:35,460 --> 00:01:39,120
+that you script and curate it.
+There's something that happens in writing,
+
+49
+00:01:39,260 --> 00:01:39,440
+which I
+
+50
+00:01:39,480 --> 00:01:41,480
+can tell you about,
+being a "Sunday Times" number one
+
+51
+00:01:41,620 --> 00:01:42,410
+best-selling author three
+
+52
+00:01:42,500 --> 00:01:43,940
+times.
+You need to get into a flow state with
+
+53
+00:01:43,960 --> 00:01:44,420
+your writing.
+
+54
+00:01:44,630 --> 00:01:48,200
+And I've written over 10,000 marketing
+emails in my life, and there's something
+
+55
+00:01:48,220 --> 00:01:49,640
+that happens that some of you can relate
+to.
+
+56
+00:01:49,780 --> 00:01:52,480
+When you start an email marketing
+campaign, often it starts really,
+
+57
+00:01:52,500 --> 00:01:52,860
+really poor,
+
+58
+00:01:53,040 --> 00:01:56,890
+and then it's about half to two-thirds
+into the email that you actually jump and
+
+59
+00:01:57,040 --> 00:01:59,960
+find something that's quite good to talk
+about, and suddenly you're in your flow
+
+60
+00:02:00,040 --> 00:02:02,460
+state and you're cracking jokes
+and you're putting stuff out there.
+
+61
+00:02:02,480 --> 00:02:04,400
+And then you go back
+and you delete the first part of the
+
+62
+00:02:04,440 --> 00:02:04,600
+video.
+
+63
+00:02:04,640 --> 00:02:06,490
+You just take it out.
+In the scripting process,
+
+64
+00:02:06,800 --> 00:02:08,169
+some of your best jokes, some of
+
+65
+00:02:08,199 --> 00:02:10,280
+your best ideas,
+some of the best talking points,
+
+66
+00:02:10,460 --> 00:02:11,380
+they come out of your own mind.
+
+67
+00:02:11,820 --> 00:02:15,680
+They can't be found in AI.
+If you leave AI and ChatGPT or whatever
+
+68
+00:02:15,740 --> 00:02:18,520
+to script everything for you, it's dry,
+it's robotic. Better yet,
+
+69
+00:02:18,680 --> 00:02:19,320
+it's predictable.
+
+70
+00:02:19,540 --> 00:02:22,680
+When people are watching your content,
+they know that you're just reading a
+
+71
+00:02:22,740 --> 00:02:23,020
+script,
+
+72
+00:02:23,240 --> 00:02:24,540
+and they know that you didn't write it.
+
+73
+00:02:24,600 --> 00:02:27,250
+One of the biggest pitfalls
+that I see so many personal brands falling
+
+74
+00:02:27,300 --> 00:02:27,769
+into is
+
+75
+00:02:27,800 --> 00:02:30,140
+thinking that their audience are not
+that intelligent.
+
+76
+00:02:30,200 --> 00:02:32,300
+And if you do that
+and you think they're not going to notice
+
+77
+00:02:32,310 --> 00:02:32,860
+that you're reading a
+
+78
+00:02:32,940 --> 00:02:35,180
+script that was made in ChatGPT,
+you're wrong.
+
+79
+00:02:35,329 --> 00:02:37,500
+And you might think
+that the retention on your video
+
+80
+00:02:37,540 --> 00:02:38,560
+is poor because the algorithm
+
+81
+00:02:38,640 --> 00:02:40,760
+sent it to the wrong videos,
+but the truth is that the people
+
+82
+00:02:40,780 --> 00:02:41,380
+that it was sent to,
+
+83
+00:02:41,560 --> 00:02:43,140
+they're just onto you.
+Another place this is prevalent
+
+84
+00:02:43,200 --> 00:02:43,700
+is LinkedIn.
+
+85
+00:02:43,940 --> 00:02:46,560
+Anywhere you go on LinkedIn,
+you post something, you realize
+
+86
+00:02:46,600 --> 00:02:47,240
+that the majority of
+
+87
+00:02:47,280 --> 00:02:49,520
+the comments are bot comments.
+People seem to think
+
+88
+00:02:49,600 --> 00:02:51,160
+that being inauthentic and
+
+89
+00:02:51,180 --> 00:02:53,960
+getting AI to produce a reply comment will
+benefit their brand.
+
+90
+00:02:54,140 --> 00:02:56,400
+It's so easy to spot.
+And here's a question for you guys.
+
+91
+00:02:56,600 --> 00:02:59,480
+How are you at spotting other people using
+AI? Pretty good, right?
+
+92
+00:02:59,640 --> 00:03:01,580
+But yet you think
+when you use it within your own business,
+
+93
+00:03:01,600 --> 00:03:01,989
+no one's going to
+
+94
+00:03:01,989 --> 00:03:05,160
+notice. Hmm, double standard.
+The next thing is the banter
+
+95
+00:03:05,220 --> 00:03:05,840
+that you have in a
+
+96
+00:03:05,860 --> 00:03:08,540
+video. If you follow a script, there
+is no banter. There is no laugh.
+
+97
+00:03:08,740 --> 00:03:12,200
+There is no me showing my shaved head to
+Declan, sitting there editing and saying,
+
+98
+00:03:12,320 --> 00:03:15,620
+"You're next." There
+was a video I did on creatine on YouTube a
+
+99
+00:03:15,660 --> 00:03:16,160
+few years ago.
+
+100
+00:03:16,300 --> 00:03:19,220
+I was trying to think about who would be
+right for having a dose bigger than five
+
+101
+00:03:19,280 --> 00:03:22,460
+grams. And off-the-cuff, I just said,
+"And if you're slightly bigger, if you've
+
+102
+00:03:22,480 --> 00:03:24,740
+ever been to Thailand
+and the ladies there have said, 'Oh,
+
+103
+00:03:24,820 --> 00:03:25,760
+big boy,' then you might
+
+104
+00:03:25,780 --> 00:03:27,820
+need a bit more than five grams."
+And the amount of comments in
+
+105
+00:03:27,880 --> 00:03:28,620
+that thread that
+
+106
+00:03:28,660 --> 00:03:30,420
+said, "Oh my God. The big boy comment.
+
+107
+00:03:30,640 --> 00:03:32,420
+I'm subscribing to your channel off the
+back of that." That
+
+108
+00:03:32,440 --> 00:03:33,120
+was just a random thing
+
+109
+00:03:33,160 --> 00:03:35,829
+that came off-the-cuff. I was there. I
+was in my flow state. I was enjoying it.
+
+110
+00:03:35,980 --> 00:03:37,100
+That's what you should be doing with your
+content.
+
+111
+00:03:37,280 --> 00:03:38,820
+So many of you are making videos.
+You're not even enjoying it.
+
+112
+00:03:38,940 --> 00:03:41,640
+I'm enjoying this right now,
+telling you that you're pretty fucking
+
+113
+00:03:41,660 --> 00:03:42,120
+retarded
+
+114
+00:03:42,240 --> 00:03:45,360
+putting so much lenience onto AI to do
+everything for you just because you've
+
+115
+00:03:45,400 --> 00:03:45,540
+seen
+
+116
+00:03:45,560 --> 00:03:48,740
+a lot of videos talking about the benefits
+of AI when all those people are doing is
+
+117
+00:03:48,780 --> 00:03:49,740
+just trying to promote their own shit.
+
+118
+00:03:49,840 --> 00:03:52,180
+Because if we think of the funnel,
+I've got a four S system.
+
+119
+00:03:52,370 --> 00:03:54,500
+We go socials, squeeze, sell, scale.
+
+120
+00:03:54,660 --> 00:03:57,120
+When people want your data,
+they need eyeballs. They need views.
+
+121
+00:03:57,160 --> 00:03:58,280
+They need top-of-funnel traffic.
+
+122
+00:03:58,440 --> 00:04:01,020
+So if they're going to talk about AI
+and get loads of AI traffic from it,
+
+123
+00:04:01,040 --> 00:04:01,260
+that's
+
+124
+00:04:01,269 --> 00:04:03,120
+how they move you down the funnel.
+And what are they selling you?
+
+125
+00:04:03,160 --> 00:04:05,549
+They're not selling you AI stuff.
+They're often selling high-ticket
+
+126
+00:04:05,620 --> 00:04:06,080
+programs.
+
+127
+00:04:06,140 --> 00:04:08,180
+It's just how they get you in the funnel
+in the first place.
+
+128
+00:04:08,320 --> 00:04:10,360
+Another place I've tried
+and tested this is using AI for
+
+129
+00:04:10,400 --> 00:04:10,800
+thumbnails.
+
+130
+00:04:10,980 --> 00:04:14,360
+We now have image generation where you can
+upload 20 photos of yourself, teach the
+
+131
+00:04:14,420 --> 00:04:17,140
+AI how you look,
+and you can put yourself in all kinds of
+
+132
+00:04:17,160 --> 00:04:17,760
+different places.
+
+133
+00:04:17,940 --> 00:04:20,600
+I've come to realize
+that these have performed, in most cases,
+
+134
+00:04:20,780 --> 00:04:21,880
+much worse
+
+135
+00:04:22,079 --> 00:04:24,250
+than original photos.
+Any of you out there on YouTube,
+
+136
+00:04:24,360 --> 00:04:25,140
+one thing that I would say
+
+137
+00:04:25,200 --> 00:04:28,300
+is if you can just get a picture,
+one picture that's legitimately taken,
+
+138
+00:04:28,660 --> 00:04:28,980
+nothing's
+
+139
+00:04:29,000 --> 00:04:32,820
+going to beat that.
+My Logan Paul video with the Prime bottle,
+
+140
+00:04:32,940 --> 00:04:35,300
+the creatine gummy videos,
+it's all just a single photo.
+
+141
+00:04:35,330 --> 00:04:37,599
+And sometimes they perform much better
+without any text on them.
+
+142
+00:04:37,680 --> 00:04:40,520
+If you think that you don't need to create
+thumbnails because AI will do it for
+
+143
+00:04:40,600 --> 00:04:42,620
+you, again,
+people can see it's AI-generated,
+
+144
+00:04:42,700 --> 00:04:43,860
+and they just do not perform as well
+
+145
+00:04:43,900 --> 00:04:45,080
+as you think. And here's the thing, right.
+
+146
+00:04:45,120 --> 00:04:48,660
+Let's say that AI is a three out of 10,
+it's a five out of 10, it's a seven out of
+
+147
+00:04:48,680 --> 00:04:50,560
+10, it's a nine out of 10,
+whatever you think it is.
+
+148
+00:04:50,680 --> 00:04:52,860
+Whatever you're using,
+your competitors can use.
+
+149
+00:04:53,020 --> 00:04:56,140
+Whatever great ideas you think you're
+getting, are the exact same ideas your
+
+150
+00:04:56,180 --> 00:04:58,540
+competitors are getting.
+Whatever prompts you're putting in,
+
+151
+00:04:58,580 --> 00:04:59,240
+your other competitors
+
+152
+00:04:59,260 --> 00:05:02,000
+are getting the same prompts.
+And that's where people kind of get a bit
+
+153
+00:05:02,020 --> 00:05:02,560
+excited
+
+154
+00:05:02,600 --> 00:05:05,610
+with it. AI is a tool, sure.
+But the more information you can give it,
+
+155
+00:05:05,660 --> 00:05:05,979
+the better.
+
+156
+00:05:06,140 --> 00:05:10,040
+But even then, like I said before,
+it's like a 25K a year junior member
+
+157
+00:05:10,080 --> 00:05:12,568
+of staff.
+I don't want to do this maths You do it
+
+158
+00:05:12,588 --> 00:05:13,008
+for me.
+
+159
+00:05:13,088 --> 00:05:15,128
+I don't want to do this research;
+you do it for me.
+
+160
+00:05:15,308 --> 00:05:17,968
+Hey,
+here's a 10,000-word script I've just
+
+161
+00:05:18,048 --> 00:05:18,488
+written about.
+
+162
+00:05:18,588 --> 00:05:20,048
+Have I missed anything?
+And then it'll say,
+
+163
+00:05:20,088 --> 00:05:21,008
+"Have you considered this, this?" You
+
+164
+00:05:21,108 --> 00:05:22,248
+go,
+"That's a good idea." Then you write it
+
+165
+00:05:22,268 --> 00:05:22,648
+yourself.
+
+166
+00:05:22,818 --> 00:05:26,448
+I even think that there can be a white
+space on social media having the odd
+
+167
+00:05:26,508 --> 00:05:26,768
+grammar
+
+168
+00:05:26,828 --> 00:05:29,068
+mistake, because at least
+when people see a grammar mistake these
+
+169
+00:05:29,108 --> 00:05:29,648
+days, they don't
+
+170
+00:05:29,668 --> 00:05:31,068
+go, "Oh,
+you didn't go to school." They go,
+
+171
+00:05:31,158 --> 00:05:32,308
+"Fuck me, that's refreshing." Not
+
+172
+00:05:32,328 --> 00:05:34,468
+seeing that double dash hyphen kicking
+about everywhere.
+
+173
+00:05:34,648 --> 00:05:37,807
+Also, think of it this way. There
+is a muscle in your brain that needs to be
+
+174
+00:05:37,848 --> 00:05:40,798
+trained for creativity.
+The way I come up with funny ideas for
+
+175
+00:05:40,888 --> 00:05:41,408
+email marketing
+
+176
+00:05:41,468 --> 00:05:44,068
+emails is through training that muscle
+and that brain.
+
+177
+00:05:44,208 --> 00:05:46,907
+Did you read my email yesterday, Declan?
+You've got to sort that posture out, bro.
+
+178
+00:05:46,948 --> 00:05:48,888
+Your neck is at a 90-degree angle right
+now.
+
+179
+00:05:49,028 --> 00:05:50,968
+I wrote an email yesterday about wanking
+in a pot.
+
+180
+00:05:51,168 --> 00:05:54,428
+So that muscle will atrophy
+if you don't train it enough.
+
+181
+00:05:54,548 --> 00:05:56,908
+When there's [chuckles] an idea for coming
+up for YouTube videos, if you do not
+
+182
+00:05:56,968 --> 00:05:58,248
+train that muscle, it will atrophy.
+
+183
+00:05:58,288 --> 00:06:00,548
+And so many of you watching this,
+think about this.
+
+184
+00:06:00,728 --> 00:06:04,228
+People that tear an ACL have to take six
+months off. They come back to training.
+
+185
+00:06:04,368 --> 00:06:07,578
+They're at their most heightened risk to
+get injured again because they've just had
+
+186
+00:06:07,648 --> 00:06:09,508
+six months off. That's why
+if you tweak your back
+
+187
+00:06:09,528 --> 00:06:10,528
+and pull a muscle or tear your
+
+188
+00:06:10,548 --> 00:06:13,388
+hamstring,
+I would say get moving as soon as you can
+
+189
+00:06:13,408 --> 00:06:14,388
+because the longer you
+
+190
+00:06:14,428 --> 00:06:16,567
+rest for, the more inclined you
+are to get injured again.
+
+191
+00:06:16,588 --> 00:06:20,448
+What I'm saying there is these skills,
+attributes, and abilities to
+
+192
+00:06:20,488 --> 00:06:23,868
+generate good ideas on the fly will perish
+over time if they're not trained.
+
+193
+00:06:24,148 --> 00:06:27,238
+So AI,
+although could be giving you some insights
+
+194
+00:06:27,268 --> 00:06:28,058
+every now and then,
+
+195
+00:06:28,288 --> 00:06:31,168
+if you do not train it, use it or lose it,
+for any of you fitness people there.
+
+196
+00:06:31,208 --> 00:06:33,788
+So what's the solution to this?
+Do we delete ChatGPT? No.
+
+197
+00:06:34,108 --> 00:06:37,298
+I love nothing better than rifting a
+four-minute voice note to ChatGPT.
+
+198
+00:06:37,828 --> 00:06:41,268
+I love using AI. I use it every day.
+I just don't rely on it for the important
+
+199
+00:06:41,308 --> 00:06:45,218
+stuff, such as emulation.
+Any of you looking for great ideas, rather
+
+200
+00:06:45,248 --> 00:06:48,878
+than going to AI, go to YouTube,
+go to Instagram, go look at the
+
+201
+00:06:49,008 --> 00:06:51,828
+best-performing things in
+that field because there is a tried
+
+202
+00:06:51,868 --> 00:06:52,548
+and tested
+
+203
+00:06:52,848 --> 00:06:55,228
+formula there for what
+is currently working.
+
+204
+00:06:55,468 --> 00:06:57,928
+I just don't understand
+if you wanted to make a video about fat
+
+205
+00:06:57,988 --> 00:06:58,488
+loss, or you want
+
+206
+00:06:58,528 --> 00:07:02,408
+to do a video about how to structure a
+will, or you wanted to make a video on how
+
+207
+00:07:02,468 --> 00:07:05,518
+to avoid corp tax,
+you wouldn't go look to what performed the
+
+208
+00:07:05,588 --> 00:07:05,828
+best.
+
+209
+00:07:05,868 --> 00:07:09,188
+There's something called the survive ship
+bias where, in essence, any given time,
+
+210
+00:07:09,448 --> 00:07:10,948
+there are loads of people trying different
+things.
+
+211
+00:07:11,128 --> 00:07:13,028
+And if you go to YouTube
+and look at things that
+
+212
+00:07:13,038 --> 00:07:13,778
+are coming up on your home feed,
+
+213
+00:07:13,908 --> 00:07:15,988
+they're the ones that survived.
+Out of all the people,
+
+214
+00:07:16,028 --> 00:07:16,948
+they're the ones that
+
+215
+00:07:16,968 --> 00:07:20,727
+perform the best. There
+was a story about World War II where
+
+216
+00:07:20,748 --> 00:07:23,108
+planes were coming back, and people
+were looking at where there
+
+217
+00:07:23,128 --> 00:07:23,708
+were bullet holes
+
+218
+00:07:23,768 --> 00:07:25,108
+in them. And they were saying, "Oh,
+of course,
+
+219
+00:07:25,148 --> 00:07:26,008
+there's loads of bullet holes in the
+
+220
+00:07:26,048 --> 00:07:27,488
+wing.
+Let's put more armor on the wings."
+
+221
+00:07:27,628 --> 00:07:29,328
+And William something, I can't remember
+
+222
+00:07:29,348 --> 00:07:31,728
+his surname, he said, "No,
+don't put armor there.
+
+223
+00:07:31,908 --> 00:07:35,788
+Put armor in the places where the planes
+didn't come back." So if there's bullet
+
+224
+00:07:35,828 --> 00:07:38,728
+holes there and they made it back,
+that's not saying we need to put armor
+
+225
+00:07:38,788 --> 00:07:38,948
+there.
+
+226
+00:07:39,168 --> 00:07:41,448
+That's telling us the opposite. This
+is the survive ship bias.
+
+227
+00:07:41,588 --> 00:07:43,828
+Because evidently,
+where bullet holes hit that weren't there,
+
+228
+00:07:44,028 --> 00:07:44,528
+they didn't make it
+
+229
+00:07:44,568 --> 00:07:47,548
+back.
+So when looking to copy people pretty much
+
+230
+00:07:47,608 --> 00:07:48,488
+ethically online,
+
+231
+00:07:48,808 --> 00:07:51,188
+look at what's already working.
+The next thing would be mastery.
+
+232
+00:07:51,408 --> 00:07:54,508
+So many of you think
+that you can jump past the boring part
+
+233
+00:07:54,628 --> 00:07:55,308
+and go straight
+
+234
+00:07:55,348 --> 00:07:57,908
+into the cool, sexy part,
+and I'm afraid that just doesn't work.
+
+235
+00:07:58,048 --> 00:08:01,468
+And where AI makes you dumber,
+mastery makes you sound smarter.
+
+236
+00:08:01,628 --> 00:08:03,968
+So for instance, for a PT,
+you want to have years of experience
+
+237
+00:08:04,008 --> 00:08:04,528
+working with people
+
+238
+00:08:04,538 --> 00:08:07,258
+on the gym floor. For a physio,
+you want to spend years of your life in
+
+239
+00:08:07,268 --> 00:08:07,768
+the clinic.
+
+240
+00:08:07,828 --> 00:08:10,428
+If you're a racing car driver,
+you want to have spent time,
+
+241
+00:08:10,648 --> 00:08:11,678
+thousands of hours, in
+
+242
+00:08:11,728 --> 00:08:14,448
+a car with people so you know
+when they understeer, when they oversteer,
+
+243
+00:08:14,468 --> 00:08:14,608
+when they
+
+244
+00:08:14,688 --> 00:08:16,478
+overbrake, when they underbrake,
+when they come in too tight,
+
+245
+00:08:16,828 --> 00:08:17,468
+all these things.
+
+246
+00:08:17,508 --> 00:08:21,458
+And if you can reflect a video about your
+experiences of mastery, you're
+
+247
+00:08:21,468 --> 00:08:23,658
+going to resonate with people so much
+better because people, again, are much
+
+248
+00:08:23,668 --> 00:08:24,668
+smarter than you think,
+and they can tell
+
+249
+00:08:24,728 --> 00:08:25,588
+when you know what you're on about.
+
+250
+00:08:25,628 --> 00:08:28,228
+Experience will always trump AI in
+that realm.
+
+251
+00:08:28,388 --> 00:08:30,988
+So it's really important
+that you guys do your hours because I
+
+252
+00:08:31,008 --> 00:08:31,508
+always say this.
+
+253
+00:08:31,588 --> 00:08:35,268
+The years that I spent on the gym floor
+were some of my worst-paid hours ever, but
+
+254
+00:08:35,288 --> 00:08:38,588
+the experiences I got from being out there
+are exactly what got me to where I am
+
+255
+00:08:38,648 --> 00:08:41,128
+today.
+And the more hours you can learn in-person
+
+256
+00:08:41,228 --> 00:08:42,468
+mastery, the more that's going to
+
+257
+00:08:42,508 --> 00:08:44,768
+translate better to
+when you come online because people can
+
+258
+00:08:44,808 --> 00:08:45,068
+see it.
+
+259
+00:08:45,108 --> 00:08:47,048
+And again,
+if we think about what personal brand is,
+
+260
+00:08:47,248 --> 00:08:47,908
+personal brand is the
+
+261
+00:08:47,948 --> 00:08:49,688
+information that you need and personality.
+
+262
+00:08:49,868 --> 00:08:52,148
+Now, too much personality,
+you're doing a vlog, and no one cares.
+
+263
+00:08:52,308 --> 00:08:54,238
+Too much information,
+you're just reading out a script from
+
+264
+00:08:54,248 --> 00:08:54,778
+ChatGPT.
+
+265
+00:08:54,908 --> 00:08:56,788
+Personal brand is about finding the middle
+ground.
+
+266
+00:08:56,828 --> 00:08:59,848
+If you want to use information
+and you want to use AI to get it, cool.
+
+267
+00:08:59,928 --> 00:09:03,048
+But you must have your own element of
+personality to it because that is what's
+
+268
+00:09:03,068 --> 00:09:05,368
+going to separate you from all your
+competitors online. Again,
+
+269
+00:09:05,488 --> 00:09:06,288
+imagine a spectrum.
+
+270
+00:09:06,628 --> 00:09:08,948
+Information, personality.
+Personal brand sits in the middle.
+
+271
+00:09:09,088 --> 00:09:12,548
+And AI is going to be the biggest
+hindrance to you developing your personal
+
+272
+00:09:12,608 --> 00:09:12,828
+brand
+
+273
+00:09:12,968 --> 00:09:14,468
+if you cannot get your personality across.
+
+274
+00:09:14,598 --> 00:09:16,568
+All of us are made up of something called
+idiosyncrasies.
+
+275
+00:09:16,758 --> 00:09:18,708
+An idiosyncrasy is something that
+is unique to us.
+
+276
+00:09:18,808 --> 00:09:22,088
+Whether it's me, it's very blunt,
+swear too much, can come across rude,
+
+277
+00:09:22,148 --> 00:09:22,528
+sometimes
+
+278
+00:09:22,568 --> 00:09:25,588
+condescending,
+maybe facetious could be a word that's
+
+279
+00:09:25,608 --> 00:09:26,288
+thrown around, but
+
+280
+00:09:26,328 --> 00:09:27,688
+ultimately comes from a place of love.
+
+281
+00:09:27,728 --> 00:09:30,068
+You shouldn't be using AI as much as you
+think you should.
+
+282
+00:09:30,208 --> 00:09:32,878
+And if you do, it won't work well.
+There's going to be a link in the
+
+283
+00:09:32,888 --> 00:09:33,487
+description if
+
+284
+00:09:33,508 --> 00:09:35,278
+you want to work with me.
+But the main reason I'm here is
+
+285
+00:09:35,488 --> 00:09:36,188
+if you want to survive in
+
+286
+00:09:36,308 --> 00:09:38,408
+2026,
+you must nail this personal brand
+
+287
+00:09:38,468 --> 00:09:39,048
+spectrum.
+
+288
+00:09:39,128 --> 00:09:43,068
+In the next five, 10 years,
+AI will be nowhere near able to do
+
+289
+00:09:43,188 --> 00:09:45,188
+what having a good,
+strong personal brand can do.
+
+290
+00:09:45,228 --> 00:09:48,718
+And what a good personal strong brand can
+do is get leads to come to you rather
+
+291
+00:09:48,728 --> 00:09:52,188
+than you going to them, which
+is why I put this live stream out online
+
+292
+00:09:52,208 --> 00:09:52,708
+for you guys
+
+293
+00:09:52,728 --> 00:09:55,808
+to watch where you can find out absolutely
+everything that you need to.
+
+294
+00:09:55,828 --> 00:09:58,268
+Dare I say, if you watch this,
+you may not even need to hire me
+
+295
+00:09:58,288 --> 00:09:58,788
+and have me as your
+
+296
+00:09:58,808 --> 00:10:02,338
+business mentor because I give all the
+secret tips and trades away exactly in
+
+297
+00:10:02,368 --> 00:10:02,478
+this
+
+298
+00:10:02,508 --> 00:10:03,368
+video. So check that out.

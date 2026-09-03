@@ -1,0 +1,3290 @@
+I've decided for this talk to make it a little bit different.
+It's going to be super interactive.
+I know literally no one wants to sit for three fucking hours and listen to people
+chat. So I've segmented the talk into four
+areas.
+I even actually ditched the presentation because I didn't want to be like, "Oh, and
+here we talk about this." So we've got
+what's changed since last year. I think the biggest objection handling
+thing I need
+to do is say some of you guys have been to a talk before, some of you might have
+been at the last one, whatever it is. So let's have a look at that.
+What I think is working this year with some of the guys that are here in my
+mentorship and some of you guys that aren't.
+We're going to look at what I think is going to work for next year.
+We're then going to go through some topics of underrated and overrated.
+But not only do we have a Q&A at the end, every single topic that we discuss,
+we're going to take a little break to talk about.
+So rather than you having to wait 25 minutes for me to get back around, "Oh,
+any
+questions? Oh, yeah, James, 20 minutes ago,
+you said about this." Literally
+super talkative. Question me, challenge me.
+We can even fight if you want. We'll just fucking get it out.
+To begin with, so if we look into the first segment of
+it, what's changed in the
+last year, the first thing would be my standpoint on
+chatbots.
+So we have ManyChat is the main one, and even the guys in
+the mentorship, I've just been fucking around with them.
+I'm not even sure how much I think they're going to make an impact for everyday
+people. But in essence, I didn't realize until last year
+that ManyChat is now
+kind of a partner with Meta. So for Instagram and for Facebook, we
+can now utilize third-party software to make it easier for people
+to react to our call to actions. I think we're starting to see some real
+fatigue on social media of telling people to click links in our bio.
+It's, "Oh, click the link in the bio." And people are like,
+"I don't work for you."
+Like, "What? You're going to make me go all the way
+there?" And another thing is,
+when we're in this behavior of scrolling around on social media, going to someone's
+link in bio and ending up on their website is kind of disruptive to the things that
+we're doing on socials. Whereas if you're in the middle of something,
+you can
+respond to the chatbot, DM the word coach or whatever it is,
+and then you know that
+URL or that call to action is then going to sit in your inbox over
+time.
+And Instagram is actually pretty much a DM platform.
+So many of us when we're on autopilot, we just go to our Instagram, swipe right,
+and then look at our DMs. We actually probably jump into our
+Instagram
+more to look at what's going on with our DMs than actually
+the posts that are in it. So using
+chatbots off the back of carousel posts.
+Carousel posts, as well, put in multiple pictures.
+You can put up to 20.
+Somebody who did this really well that I saw was Sean Casey.
+When we have content and videos, we have a bit of a story arc.
+We have the hook at the beginning, then we have some kind of setup,
+then we have
+the points that we're paying off, and then we might have an outro
+or a call to
+action. But it's really easy to create a story arc
+in a carousel.
+You start with a picture that you know in the first two pictures
+probably
+that's going to be a bit obtrusive, or it's going to stop people in their
+tracks.
+So Sean, for instance, loves recycling the picture of him working
+at McDonald's.
+Because it's such an unfamiliar surrounding, they want context,
+and the way they
+get the context from that is they swipe through the carousel,
+and they don't
+realize they're actually being taken on a story.
+And then you go through the lows of, "Oh my God, I had a drink problem, drug
+problem. Now I've got a business. I retired my parents." You're fucking
+going on
+that story arc. And then at the end, he's like, "Oh,
+and now I help people get in
+shape. Here's my app, Glean. Click the link in the bio," whatever it
+is.
+So when we can utilize social media and get into different positions,
+but get people to action the back of it, I think it's a great thing to do.
+So not just providing people with links, but we can also send people
+on very complex, different threads where people can
+interact with the chatbots. I don't know if I quite like
+that so far yet, but
+something sneaky I've caught Darren doing, and I tried this the other day for
+James' Academy, and it works really well.
+I get people to DM me a certain word off my story.
+You can create a prompt that gets these automations working.
+Could be send me a message, react to my story, comment the word,
+or even actually any comment can get a reaction from your chatbot.
+And Darren cleverly has one where he asks them to DM something.
+It waits 30 seconds, then he DMs them saying,
+"Hold on just one second." And then
+he waits another 12 seconds and does a response message.
+So I was like, "That's fucking brilliant." So I did one a
+few weeks ago where they
+DM me, and I wait 45 seconds to respond. I want them to think it's not working.
+I want them to think, "Hold on, this fucking guy just told me to DM him,
+and I got
+absolutely zero response back from him." Then I DM them saying, "Hold on just one
+second, mate." Then I wait another 15 seconds,
+and I go, "Hold on."
+And then I get a video that I've prerecorded of me getting into a
+little booth in
+an office that I'm working in. "Hey, mate. Sorry about that.
+Just wanted to tell you about this offer, this offer, this offer." It feels more
+personalized. It feels more like you're going out of
+your way, and I think people
+do actually like the idea of being sold to.
+At the end of that automation, that ended up being 35 messages.
+I did tell them it was an automation.
+I said, "Oh, if you want to know about the mentorship,"
+whatever it is.
+But for us,
+I think that whether or not that sits in our sales funnel of being
+part of our
+squeeze or our lead magnet, you could even say,
+"DM me the word calories,
+and I will give you a breakdown." It doesn't just have to be a link to a
+website.
+You can have messages with gaps in between.
+"Hey, just thought I'd let you know this
+is why it's important to count your
+calories, but some things you might have seen
+is this is a post that I did
+explaining macronutrients. This is this, this is this.
+Oh, by the way, if you were interested in looking at my prices
+for coaching, click
+here." The world of interacting with people as far as an automation has
+changed since I stood here or wherever it was a year ago.
+Were we Brighton last year? So implementing these, it's also a cheap
+way of getting engagements with people.
+So I think that chatbots were something I was really against.
+I thought it looked really cheap, but they work, and they're working for me,
+and
+I'm getting kind of 1,000 responses from it.
+And now we're going to start running a paid ad initiative as well,
+where the prompt
+from the paid ad is to get them to hit a DM rather than clicking a link in a bio.
+Some people also will just be inquisitive.
+They'll just want to know what happens when they do send that DM.
+We've done it for restocking Nutonic. Comment the word restock.
+Another thing that I've kind of done since last year is I had a company approach me
+that wanted to repurpose my old content and post it on Facebook.
+So my Facebook will do about 1,000 US dollars a week in revenue from
+ads that they place into your videos.
+And even if you turn your monetization off, they still run ads in your videos.
+So this company came up, and they were like, "Hey,
+we want to repurpose your old
+videos. We want to make you make more money." I
+was like, "Cool." So they've
+started going through my old catalogs of videos, and they've been changing the
+dimensions of the videos slightly, putting the captions in the right place,
+and
+they've been optimizing my old content to make money on Facebook.
+So our weekly rev on Facebook has gone from 1,000 to 5,000 US dollars, which
+is great. When I look through my Facebook feed,
+I'm like, "Fuck, I didn't post
+that. I didn't post that. I didn't post that." It's these guys
+that are doing it.
+So I set up a chatbot that means any person that comments on my
+Facebook videos from posts that I don't even post will get a DM
+saying,
+"Hey, thanks for commenting on my video.
+Just to let you know, I do emails that help educate people about fitness
+and fat
+loss. You can get them absolutely free, and if you don't love them, you can
+unsubscribe." So even today, at this event, we've got this team in
+the UK that are ripping off my old videos, editing them, posting them on my behalf,
+getting me paid more, and those autoresponders
+are then converting people to my
+email list. So I'm now, if I look through my AWeber, it's
+like 200 subscriptions, 150 subscriptions, 100 subscriptions, 50
+subscriptions, and that's passively growing my email list
+while I'm here.
+So if you can set up these automations in place, like these guys came along, they
+think that
+we're doing them a favor because we share the revenue with them, but they're doing
+us a favor because they're getting my algorithm moving,
+they're getting eyes on my
+content, and better yet, I'm getting people's email addresses off
+the back of it.
+So that's just great for me. Then sometimes you have these peaks
+and troughs in the
+business, and my business partner's like, "What did you do yesterday?
+Because business went well." And I'm like, "I don't fucking know." But a video
+that maybe was posted ago got people to join my email list, and they got to day 14
+in the email sequence, and then it's just started to generate
+sales.
+So I think anything that we can do
+that means we can just do the effort in the front part and then people
+are nurtured
+is the best part. So for me, that's the bit that excites me.
+All of the socials, the creations, everything I need to do at the front end,
+once
+that chatbot automation does it, I can almost let go of it because I know
+that I've
+done all the work afterwards for them to either...
+In sales, they call it buy or die. Like if you would like contact someone on the
+phone, you're either interested or I'm deleting you off the sales list.
+And I do think in some respects, we should look at our leads through that.
+You're either going to be nurtured to the point that you want to do business with
+us, or I'm just going to give up on you
+because they're either interested in the
+business or they're not. They can either afford your services
+or they're not,
+they're either right for you or they're not.
+But that takes us on to the next point, which is something that I was frothing on
+when I was doing the course. Frothing is a bit of an Aussie term, but
+autoresponders, which is in essence when we set up an email sequence that fire
+out after we've written them. So we see these in
+loads of different businesses that have existed for years,
+but usually they'll just
+follow up, and there's not really any kind of arc to
+it.
+So
+about 10 years ago, signed up to a guy's email list,
+give me 50 ways in 50 days to
+improve my business. I was explaining that in the course, and I was like, "Fuck,
+why do I not have one of these autoresponders?" So for this mentorship,
+I created a 30-day sequence with 30 tips, bit of advice.
+It takes on average between 19 and 24 days to convert people.
+So you think that everyone's like, "Oh, it's a little bit too much." Well, it's
+not, and we can see it from the data.
+If you can take people on a journey where you're consistent, you're turning up the
+same day, and you can give some value to
+that person, because a lot of us seem
+to think that, oh, you post a bit online, you create a bit of goodwill, you can
+just ask people for their email address.
+Email address is a very sacred thing to people, and their email inbox is a very
+sacred place where they don't want clutter.
+Nothing's worse than when you've had a bender, an IB3,
+you open your laptop and
+there's 58 emails. But then you like rickle it down,
+you're like, "Fuck, there was
+only six that actually mattered." So people aren't just going to give you their
+email address, but if you can get enough value to get in
+place for that.
+So things I've fucked around with this year, 30-day email autoresponder for my
+business course. I then wrote a four-and-a-half month
+sequence for JSA.
+So I was like, "Fuck it." I got my three books
+that I'd already written.
+I sat at home, and I didn't have to write four months of
+emails in one day.
+I actually just stayed ahead of the automation. So I just kept adding to it.
+So every day, I wrote two emails. So the automation got further
+and further and
+further ahead. So now I'm in a position where I kind of
+am flirting with the idea
+of retiring from email marketing because any stuff that I can put in
+my fitness bucket on social media, I can just be like, "Yo,
+give me your email address, and over the next four months,
+if I send you an email
+every day for four months and you don't buy,
+you're probably not going to fucking
+buy." Right? Four months of turning up every day,
+dropping fire.
+At that point, I've given up on them. That's fine.
+But in your business, if you can think about it,
+rather than trying to, I call it
+like the death of the PDF. PDFs have been rinsed, and people
+are like, "Oh,
+download my high-protein PDF guide that's 16 pages."
+Even the behavior of people that are using those lead magnets,
+they're not going to
+read it, and I sometimes think there's a danger of
+giving someone too much versus
+not enough. If you did an email autoresponder as a
+piece of value in that
+squeeze or lead magnet series, they get that one email, and they go, "Oh,
+that
+was interesting," and you turn up the next day.
+If you overwhelm people by giving them too much value, I think they're just not,
+"Oh, I couldn't even finish the guy's PDF.
+I couldn't even finish this lady's glute workout mastermind guide.
+So how the fuck would I ever be able to do well on their course?" So autoresponders
+are again something where I think if we can really understand our niche
+and our avatar and the person we're talking to, we can just map out
+20, 30, 40 days of problems and just check in with them every day and
+send them a little bit. Now, they might know that those emails
+are automated.
+They might know that you've pre-written them.
+But if you can have an impact and make a relationship with
+that person where they
+actually feel like, oh my God, this person's turning up every day to
+change my life
+for the better, you're only going to nurture a good
+relationship with them.
+I was walking down the street in Sydney, and some guy like fist bumped me.
+He was like, "Bro, today's email was fucking sick." I was like,
+"I have no idea
+what he's on about." I wrote that email like three, four months ago.
+But to him, it was an email that was sent today.
+So autoresponders, I think, are a really interesting kind of place
+that we're in,
+and this technology is over 10 years old.
+But it's just something that can feel a bit novel because
+everyone's trying to
+really revolutionize what value can I give to people? What can I do?
+But again, if you can make that sequence right, I mean, how many
+people could get 30, 40 pieces of daily content from you via
+text and not feel at least a little bit more obliged
+to be in closer to doing business with you?
+And again, 100 people come into that sequence,
+you're only going to nurture some
+and push some away. Does anyone have any questions about
+autoresponders before we
+move on?
+Okay. So let's say,
+again, I kind of do a business. When we were on the phone doing a call,
+I was like,
+I still... I didn't know you could massage babies.
+All right.
+I was like, I'm trying now. Since I called, I'm like,
+if I push this the right
+amount, fart. But then in my mind I'm like, cool,
+maybe we have a block of four
+email automations. We could have a prenatal, a postnatal,
+and then a one-year
+follow-up. So then if someone comes to you and says, "Hey,
+I've had a kid,"
+don't send them the prenatal series, right?
+But if someone says, "Hey, I'm pregnant.
+I want baby massage," you could then have maybe a 30-day gap in between it, and
+then you might set a 365-day gap. "Hey, it's me.
+I'm just checking in." Or, "A year ago, I was sending you some
+emails about this. It's been a year. I just wanted to see how you're getting
+on.
+How's your recovery? Are you back to this?" Usually,
+the ladies that I work with
+have at least 75% of their strength back, whatever it is.
+So then, depending on where that person is in the cycle could be where you bring
+them into the automation. Now, this could become a little bit more
+complex.
+You might even need to go on Upwork and find a specialist
+that can build out that
+automation for you. But again, if you're a physio, you might have
+a prehab automation series that goes into a rehab automation
+series. Or you might have people that go through a fat loss list and then
+might buy a program. Then you follow up with them in three
+months and go, "Hey, how
+was your fat loss progress? How much did you lose?
+Just to let you know, on average, half the people train me for three months,
+their
+goal shifts to wanting to build muscle, so here's a muscle growth program." So it
+just means where do you put those people into the funnel?
+But if I was you, yeah, I would segment where
+are the people in on their journey,
+what information could I give them at that point?
+And then you could run maybe paid ads or organic ads to then bring them into
+that.
+So you could run a campaign for a week saying, "Okay,
+did you know that massaging a baby can help relieve wind?
+Did you know that..." Because now I know with Kim, I'm wiggling his legs
+around, trying to get out farts. What do you think about the windy sticks?
+I don't agree with them.
+Well, that's a bit of fucking content, right?
+Yeah.
+This is a windy stick, and you should not stick this in your
+baby's ass.
+Let me tell you why. You know what I mean?
+So then at the end of that, you could be like,
+if you want to know how to relieve
+your baby of wind, I can send you a seven-stage guide.
+It comes to you by email.
+You know what I mean? So all of these different things.
+Are you unsure how to settle your baby? Did you know...
+You told me there were pressure points on the feet.
+I can't remember the pressure points, but I wish I did now. Do you know what?
+This is all content that I need. When we had the call, I didn't have a son.
+Yeah.
+But now I do. So even now I'm interested.
+I'm like, where the fucking was that foot massage thing?
+My baby's fucking crying, I just want to go to bed.
+So the-
+Yeah
+... content can be made, and if you were to say at the end of it,
+here is a... The first email could say, if I teach you everything you need to know
+about massaging a baby, you're going to feel overwhelmed.
+So what I'm going to do is I'm going to send you one-minute reads
+every day.
+Within that, you're going to learn how to do it
+yourself.
+By the end of it, you could be like, I do actually do this for a living.
+I've given you... This is one of my favorite things to say.
+If I gave you this for free, imagine what you'd get
+if you fucking paid me.
+You know? And it's the same with the business
+content on my new smaller YouTube
+channel. If I can give people absolutely so much
+value, the first thing they think
+about is, fuck me. If this person does this for free,
+what would I get if they pay
+me? And again, it doesn't have to be revolutionary
+and different or anything
+because a lot of the time when people pay you,
+they've already got the information
+they need from you. They're paying you to make sure they
+actually apply it.
+And again, it's why some high-ticket courses where
+there is a good return on
+investment. For me, I did a YouTube course.
+It cost me £10,000, and I was like, oh, I best fucking do it or that £10,000's
+going to hurt. Slightly different to the fitness return
+on investment.
+But again, yeah.
+I always just think that no matter what industry you're in,
+what little
+frequent emails could you send? And some people, again, they're like,
+does it have
+to be daily? Could it be weekly? Could it be less frequent?
+But again, I like the idea of being there every day.
+Doing Neat 24/7.
+When you set someone a step count, it's because even though your client
+who's overweight, you say, okay, I need you to hit the gym three
+or four days a
+week. There's still three days a week they're
+not training.
+So you're like, oh, how can I remind this person
+that they're on a fat loss
+journey? How can I remind them that they're trying to get fitter?
+I'll give them something they can do every day.
+It's why people do well on my fitness pal because they're tracking every day.
+It's why they do well tracking their steps because they do it every day.
+I seem to think that success is a buildup of doing these things every
+single day.
+So if your emails can be there every single day, perfect.
+And again, people are going to have the jeans that don't do
+up, the boyfriend that chats shit to them, the person that
+disrespected them at work, whatever it is.
+If your email lands after their jeans don't do up, it's perfect
+timing. Imagine this. When I was younger and I was dating,
+I wanted to qualify girls quick. I don't go on a date and then a
+date a week later, and then a week later. I was like, fuck that.
+Let me see you on Monday. Let's do something on Friday,
+and hopefully we can bang
+by Friday. Why? Because I'm not getting any younger.
+I want to know if we're just a shag or if we're going to be in a relationship.
+And I'll be honest with girls. I say, "Look." They go, "What
+are you looking for?"
+I say, "I just want to sleep with someone twice."
+All right. That's all I want.
+If I sleep with someone twice, probably going to make it into a
+relationship.
+But I want to find out soon. I don't want to drag it out.
+So again, I would much rather you hammered someone
+every day for a month to get
+closer to where you were than trying not to seem too keen.
+I like being keen.
+I think you should be keen, too. Your sixth email in the series could even
+say,
+"Hey. Yeah, me again. Oh, am I emailing you too much?
+Sorry, I want to change your fucking life for the
+better.
+If this is too much enthusiasm, then fuck off and join someone else's
+plan." And
+the guy who originally did the autoresponder with me, a guy in
+Ireland, I actually went through his whole email
+sequence.
+I didn't buy his book. I was a twat. Fifty-two days, I was like, "Yeah, bro,
+cheers
+for the tips. Buy a book? Fuck off." But he added me to his broadcast.
+So then he started sending individual emails after that, and it was fine.
+It meant some days I got two emails or whatever.
+But I'll never forget, and I've said this loads of times in the
+course, but he
+sent an email drunk after his dad died.
+His dad died, went to his dad's funeral, and he wrote this email, and at the end he
+goes, "If you think it's inappropriate
+that I'm trying to sell my book off my dad's
+death, go fuck yourself." I bought the book.
+I was like, wow, I've never been spoken to like that,
+and I like it.
+[laughing] So the email side of things, communicate with people.
+Yeah, it's me. It's been 22 days. When the fuck are you going to do this?
+And sometimes you should tell people to unsubscribe.
+Look, I've seen on the analytics you've not
+clicked anything.
+Why don't you just fuck off? People are like, "Who do you think you are?"
+[laughing] And they're like, "I like it." And if they do fuck off,
+they're cleaning
+your list anyway. They're getting rid of deadwood
+that doesn't want to be in there.
+Did you have a question?
+Okay, so we've got several platforms. MailChimp, hate it.
+I just think it's shit. I think it's clunky.
+I have to use it for IFS, and I don't enjoy it.
+We've got AWeber, which I love. It's basic.
+It's just text-based. It's not too complex.
+They've got amazing customer service.
+I use Klaviyo for my business mentorship because I'm in partnership with another
+company, and Klaviyo is really good.
+And then the last one is SendGrid. My business partner made me use
+SendGrid. It's all right. I wasn't happy to go there because I
+grew my list on AWeber, and when we went to SendGrid,
+I lost people's names.
+And what you can do in your email series is when people sign up, you get their
+name. You get name, email address.
+Then you can put a little bit of HTML code into your emails so you can insert their
+name. So as you're getting to the end of the
+email, and especially putting this in
+your autoresponder, you're like, "Listen, Simon, are we going to fucking do this
+or not? Because Simon, I've been emailing you for 42 days.
+Do you want to be a fat cunt or not, Simon?" And then they know
+what's happening, but seeing your name just gives you a
+different emotional
+response. So if you're into abusing people to get a
+sale, like I
+am, our borderline was abusing the fuck out of people for
+IFS, because I was
+looking at the sales and I was like, "Right. You fucking dumb fucks.
+You can come here. You can learn all of this."
+But it's quite therapeutic as well.
+I quite like abusing people. Maybe I've got a problem.
+I'm not even sure.
+But the emails can be just such a good place for you to do it.
+So I don't send emails from ManyChat. I don't understand that part of it yet.
+I'm still figuring it out. I actually might one day just hire the
+ManyChat
+expert and just be like, "Teach me everything."
+But what I would use
+is ManyChat to get people to go to the landing page or the squeeze page
+that I want
+to collect their email address. There, yeah, then I take them to the AWeber page,
+and it depends what campaign it is because if it's a B2B campaign,
+they're going to
+the Klaviyo sign-up page, and then some wizards
+that I'm in business with will
+retarget the fuckers. But then if it's my B2C fitness business,
+they're going to
+the AWeber page because then they're going to go into the four-month autoresponder.
+But then if it's to get leads for IFS, they're going to a MailChimp page,
+which is
+hosted by JamesSmith.life. So it depends on the campaign, which
+is why I prefer just sending traffic, because that's really what we're doing.
+We are just sending traffic places.
+And I was on a podcast a few weeks ago,
+and the guy's like, "Oh, so what's it like CEO,
+being a leader?" I'm like, "No.
+Just because I'm a director in a company doesn't mean I'm a leader." I'm shit, I'm
+disorganized, and I fucking hate admin.
+The one thing I cannot handle is staff or managing staff.
+All the people I've hired quit. I didn't even fire them. They quit.
+I've got empty offices at my facility in Sydney.
+They all left, right? I'm terrible with people.
+I've come to realize that the only thing I'm good at
+is sending traffic to a
+website. People try talking, moving forward, with campaigns,
+initiatives, with RO. I'm like, "Mate, just give me the fucking URL.
+Just tell me what people you want and how you want them sent there
+and just leave
+me to it." NuTonic, send people to the website.
+JSA or AOC, send them to the fucking website.
+That's the bit I like.
+We'll grab their email address. I send an email to send them to the
+fucking
+website. We are just traffic hounds, so whichever way you do it best,
+that's it, really. Yes.
+So depending on how you want to do it, and we'll get into this a little bit later
+in the talk, but say I create a page that signs up people
+and gives me their email
+address. I go, "Hey, go to this page. Give me your email address." Cool.
+That's now put into my list, and I usually only run one list at a time.
+From there, I could either add them to automation day
+one,
+or I could just broadcast to them. I can just send them emails whenever I
+want.
+So for IFS, you just get abused when I need ticket sales.
+But for my fitness business, they need a little bit more nurturing.
+I actually write the first six or seven emails without selling to them.
+So it depends on the person, the person you're talking to,
+and you might want to
+make sure that the beginning of the automation might have more value.
+And the reason this is better is if someone joins your email list late,
+they might just get thrown in at the deep end to a broadcast where you're trying to
+be funny, talking about something that might get a little bit overwhelmed.
+I think automations are great as well because
+if you continually build to them,
+you're actually creating a marketing asset that you know that you have confidence
+that if one of your posts goes semi-viral, your email list will have
+a bump in uptick, and they can go on a journey.
+People don't like starting a movie where they miss the first five minutes.
+So that's why I've gone kind of back on my word and I love automations versus
+broadcasts. But then let's say you have a bad day.
+You can send a broadcast on top of the automation and you can start the email
+with,
+"Yes, you're probably getting two emails today,
+but let me tell you about how shit
+my day was." And then you go through it.
+At the end of the email, the only way your day could be worse than
+me is if you
+don't join my program, is if you don't give me your money.
+70. It's not many. I don't- Rookie numbers. Got to pump them up.
+Yeah, so if you did a broadcast right now, you could potentially just shout out
+loud now and get more people to listen. Yeah.
+But if you started setting up an automation, you now know that when 10
+more people come, 15 people more come, they're going through it, and the effort
+will be worth it, because that's exactly where I was
+when I started a new list.
+I was like, if I'm going to put in all this effort,
+I want that asset to be there
+so that in a year's time, it could be double, triple, quadruple.
+Whereas if you do just start email marketing now, you're like, "Ah, fuck,
+it's only
+70 people." Yeah. If I convert 3%, it's hardly going to change my life.
+How many followers you got?
+49. Okay. Still fine. Again, what's that? 5%?
+Not terrible. I would just try and bump those numbers up a little bit.
+Even only sending emails to 70 people will make you better at sending emails to
+people. So it's like, oh,
+I'm not playing golf this weekend, so I'm not going to go to the driving
+range.
+Like, oh, but maybe if you went to the driving range more,
+you might be playing
+golf more at the weekend. So it's one of those double-edged swords
+where if you're
+just going to use paralysis now because your email list isn't big, your email list
+might never get big because you never really sent the emails before.
+It's all about feedback. So,
+I would start sending emails even if no one was reading them because it's
+just
+going to make you better at sending emails.
+There's a creative muscle in your mind that you need to go to.
+Paulo Lima just walked in, one of the most creative minds ever.
+I thought- [laughs] ... I thought he was just an athlete.
+But then when I started making content with him,
+he's like Now we need the 35 mil.
+We're going to come in at this angle. You're going to come round.
+He watches it back. He goes, "No, it doesn't look right." Cool.
+Ewan, get the 45-millimeter. Darren, you come out in front.
+But that muscle has to be trained. You don't just wake up being a fucking
+director
+wanting to make content. You need to get better at it,
+get better at it.
+And then he needs edits that go wrong, and he needs edits that go right,
+so he can
+get the feedback to know whether or not that was good.
+The real bombs, he goes, "Fuck, we weren't tight enough in that hook.
+We weren't tight enough on that shot." Another one goes really well,
+he gets the
+feedback as to why it was. So I can never imagine a world
+or a scenario
+where you shouldn't be doing the repetitions in it.
+Aleem has still put the effort into it when he had no followers,
+when he was our mate. When you go, "Oi, tag me in that, Jimbo.
+Oi, tag me in that." Now look at him, 10 million. Shut up.
+[logo booming] I don't care about open rate and click-through rate.
+It just depresses the fuck out of you.
+I'll write the best email I've ever written, there's 300 unsubscribes.
+I'm like, "Fucking hell, that's more people that's in this room
+now." Don't look,
+it's just going to depress you. Open rates I don't even think are actually
+accurate, because when I go through my inbox,
+Darren might have sent a great email,
+or Chris Williamson, he writes the best emails.
+I ain't read one in fucking years.
+But I stay subscribed to his list to show support. Do it for Nutonic, brother.
+But when I go through and click on all these fucking...
+Ali Abdaal, nice guy, not reading your emails.
+I'm still subscribed, though.
+I'm showing love. I click on them all. I click mark as unread. Mark as read.
+But when you mark an email as read, it comes through as a high open rate.
+So I don't think we can look at open rates as being important.
+What I think is important is send emails, what happens to my Stripe account?
+Send emails, how many people go through to my landing
+page?
+And we'll get into landing pages in a second, but another reason, there
+are a lot
+of people in my mentorship that try and cut corners with the landing page.
+And I'm like, "Please, just use Leadpages." It's expensive,
+but two
+scenarios. If you're getting loads of traffic to your
+page and no one's buying, you
+have a conversion problem. If you're getting fuck all people come to
+your landing
+page and no one's buying, you have a traffic problem.
+And if you don't have the analytics on your landing page to determine between the
+two, you don't know what to double down on.
+Because a traffic problem and a conversion problem
+are two completely different
+things. So open rates, click-through rates, unsubscribe
+rates, doesn't matter. You're just going to depress yourself.
+"Oh, but it was really funny and 30 people unsubscribed." Don't do it.
+I don't look. I couldn't tell you.
+Okay. We will have time for more questions at
+the end. Okay.
+The next point on this was spotting trends that work
+and maybe don't work,
+and one thing that everyone in here has done is created a carousel post.
+And it was interesting, because when I did a carousel post,
+you know that's not
+being put into someone's feed. We all started doing reels because we know
+that
+reels are going to go to cold audiences.
+The TikTokification of social media means that when TikTok came along, suddenly
+everything was changed. None of us scroll on the Following page on
+TikTok. We are on the For You page, because we get more excited about having
+content collated to our likes and needs than we do the subscribers
+or the people
+that we follow. Same on YouTube. When you're on your YouTube homepage,
+it is not
+just the accounts you're subscribed to.
+If anything, it's 80% of the accounts you're not
+subscribed to.
+So the TikTokification on Facebook, on Instagram, on everything, means
+that social media now is putting your reel in front of cold
+audiences to see how it responds. And that means that the algorithms of these
+platforms can gauge who's interested in your content.
+Carousels do not do that. You never scroll in through Instagram
+and see a
+carousel post and go, "Who the fuck is that?"
+But the analytics of how many people of your existing following
+see a carousel post is brilliant, and actually, you can see now,
+you can do this on
+YouTube, and you can do it on Instagram.
+You can now create posts that aren't shown to cold audiences,
+and you
+can even on YouTube actually change a setting where you post a video and your
+subscribers don't get notified. So if you're ever trialing out a new type of
+content on YouTube and you want to put it out, you go,
+"Do not notify my
+subscribers. I only want to gauge this to a cold
+audience." But
+carousel posts are great because you know it's only going to your audience.
+So you can overshare. You can use some of your
+idiosyncratic personality points or whatever it is, because
+if you try using
+something that's a little bit too outlandish in a reel,
+it could fucking bomb.
+We've got a lad in the mentorship who is, I think he's from up north, and he starts
+his reel saying, "Hiya, love." Like a northern.
+"Hiya, love." I'm like, "Stop fucking doing that, mate.
+In your town, fine. On the internet, you're a cunt.
+Save it for something else." Carousel posts at the moment I think are great,
+as I
+said before, because of that story arc.
+And again, you might be tired, you might be on the plane,
+you might be at the
+airport. We always don't have the production we
+need to put out a fire piece of
+content, but for once, I'm seeing so many people get such
+tremendous amounts of engagement from just a collation of pictures.
+It's almost like we've gone back in time to Instagram from four years ago, but the
+combination of a carousel post with a good story arc and a chatbot and a call
+to action is something that I think you all should try out.
+Because I was very adamant that reels are good for growth, reels are good for
+getting in front of cold audiences, but now we actually have a tool at our
+disposal
+for our existing audience, and I think that's something
+that you can very
+tactically play on. I've seen really good combinations with
+that.
+And again, completely ripped that off Sean Casey. I was like, "Why
+is everyone...
+The guy, 'Oh, I've retired my parents.' Did you?
+I didn't see any proof to say that." His mum's in on it. It's good for business.
+[laughing] "Yeah, fucking hell, son, say what you want." Then Adam Sullivan
+copied
+him. "Oh, I've retired my mum." Listen, mate, we're getting bored of it now.
+All right? Of course you did.
+[logo booming] Up to you. You can do up to 20 now.
+It was 10 before. But again, I would say whatever feels right.
+Here's a golden rule that he taught me, actually.
+And this is the same with any piece of co...
+You are better off being too succinct and too short than you are going too
+long. Exactly the same in email marketing.
+In email marketing, if you have the choice of being 10% too
+short or 10% too
+long, go too short. Because the damage
+that happens from a message
+being too long and people navigating away from something because it was too
+long, I would rather, he says, "You are better leaving people
+wanting more than giving them too much." Case in point, Andrew Schultz.
+Went to go see him live. Amazing. Theo Von,
+thought it'd been 25 minutes too long.
+And there is nothing worse than being in front of a comedian that you really
+respect and going, "Fucking hell, mate.
+I wish you'd finished 20 minutes ago." I got ants in my pants. Ruined my night.
+These are all things that changed since last year.
+Another thing that I would say I've changed on is the idea of creating
+evergreen
+content. I worked with a creator called Ed,
+who does Film Booth and Creator
+Booth. He had this massive channel, and he stopped posting on it.
+I was like, "Why aren't you posting on your channel?"
+He goes, "I don't need to."
+He's created so many videos that just sit there,
+that he's getting a churn
+rate of leads, views, and just business from a channel
+that he no longer
+needs to post on. And I was like, "Fuck." Do you know what we do not get
+sold on
+enough as fitness coaches? Is creating evergreen content
+that you can just leave
+somewhere to do your work for you. So I've started a new YouTube channel
+for business. I have a YouTube channel for the fitness
+stuff.
+But what's crazy is, if you get a good title and a thumbnail,
+you can actually just
+leave a video and YouTube just works proactively to get views for you.
+I did a video last week, and seven days after posting it,
+it's just started going
+off, and we're getting leads into our business
+from it.
+And I think that it's very easy to get caught up with the
+Instagram instant gratification.
+But I've really got this new invigoration for creating evergreen content.
+For the guys in the mentorship, they're about to get a course on YouTube,
+because
+YouTube is a fucking bit of a cunt. It's so hard.
+You do need to go all in on it. You can't just be like, "Oh,
+I'm just going to
+dedicate a couple hours to YouTube here and there." But for any of you that are in
+your business and you're getting to a point where you're starting to free up a
+bit
+of time, it is something that I think would be good because the
+energy that we're
+putting into our socials and our businesses,
+it's only going to fade over time.
+And since having a kid, fucking hell, you're
+75% less productive. So I think we all just need to start
+planning for our futures
+because some people in here, some are a little bit younger, some
+are a little bit
+older. And if you can start getting excited by
+the idea of creating some evergreen
+content that can maybe generate leads and views for your businesses over time
+whilst you leave them there, the second you have the capacity to it,
+I see
+YouTube as a growing place that's going to expand over the next few years.
+I don't know if you guys agree with me. Netflix has been shit for six months.
+Like, I go on Amazon Prime, then I go on Apple,
+and I'm just navigating
+between all of these places, and none of them are actually
+that good anymore.
+They're like the odd series that comes here and it comes online,
+whatever.
+But now, not even just myself, but I see it with my missus,
+we go on YouTube before
+anything else, and we're starting to use YouTube as our
+main way of watching TV and
+absorbing content. Now, if I'm feeding a baby where I know that my
+hands are going to be tied up for 30 minutes, I'm going on YouTube,
+and I'm looking
+for a long piece of content. I'm looking for something
+that I can watch and not
+have to worry about. I don't want to start a new series because
+I can't do it
+unless my missus is here. I don't want to do this, do that.
+I see a big trend of YouTube being the place that people go to as the new
+TV. So again, as far as moving forward, wouldn't it be nice for you to make a
+fat loss video where, I don't know, you put a bit of skin in the game,
+you do a fat
+loss challenge where you cut 11 kilograms in seven weeks, and it's fucking
+miserable and you hate your life, but you document it really well.
+How long did you do 1,200 calories, Trin? A week. And it fucking sucked, right?
+But the post banged. Yeah.
+And you were doing the YouTube video on it. Yes. The YouTube video's up.
+It's got about 700 views at the moment. All right. But you're getting good.
+Every time we see a post, it's improving, everything like that.
+But imagine you did a video online, fat loss challenge, whatever it is,
+I did keto
+for three months, whatever. If you could have a call to action in
+that video
+through your landing page, your squeeze page, whatever it is,
+imagine just leaving
+that video there and it just collating views over time, and then you add another
+video to the channel, and you'll find that people go back and binge it.
+I'm trying to envision a world where even my big
+YouTube channel now, I've completely given up on it,
+and it does £2,000 or £3000 a
+month in AdSense. So although that's okay money, that's just
+showing you how many views that channel's getting without me giving
+it any love.
+I just wish I'd made more content on it that was in line with my business, and not
+trying to go fucking viral talking about whooping shit.
+But
+£12,000 from the whoop video. But
+we should all get excited about the idea of creating some form of evergreen content
+that we just leave alone and just generates us views, reels,
+whatever it is, and
+engagement, because Instagram and TikTok and Facebook just doesn't do
+that that
+much. And it becomes very exhausting when we all become like hamsters on the
+wheel.
+We work really hard for an asset and a video, and we post it,
+and we just get a
+spike for 24 hours. Then we might repost it again
+and get another little
+spike. But YouTube's difficult. But if you guys can get
+the capacity into it, it's an exciting place.
+Just
+be willing to be depressed when you put loads of effort into a video
+and you think
+it's going to go viral, and then nothing happens, and yeah,
+it makes you want to
+top yourself. But anyway. As far as evergreen content,
+is anyone out there doing
+well on YouTube? Oh, yeah. 700 views, yeah?
+No, I'm
+joking.
+So I messaged Ed before I did his course.
+I said, "Mate, I've just watched 15 of your videos." He
+goes, "Yeah, I did it on
+purpose." I'm, "What do you mean?" He goes,
+"That's the exact reason why I created
+it." He creates a video. Then at the end of the video,
+he has a hook to go to
+another video. But he actually starts with video one.
+Then in video two, he has a call to action as to why you
+should watch video one.
+Then he does video three, which gives you a call to action to watch
+video two.
+Then you do video two, gets in, you watch video one.
+But imagine if you would, from a personal training standpoint,
+you could do a video
+where you watch Jeff Nippard's video on the best way to do tricep exercises.
+You make your own spin that's a little bit cooler or isn't Jeff Nippard, being
+a geek. But then at the end of it, you're like,
+"And that's pretty much all you
+should know about tricep training.
+But if you're someone that actually wants big arms,
+you're not going to get the
+look you want with just training your tricep.
+Which is why I made this video here, which gives you everything you need to
+know
+about bicep training." Then you do the bicep video.
+Then at the end of it, you go, "But when it comes to arm training
+and you wear a
+T-shirt, the muscle that's out the most is forearm training.
+So watch this video here and I'll teach you everything you need to
+know about
+forearm training." And then the beautiful thing about this
+is, on YouTube, the main
+score is average view duration. So if someone watches three of your videos
+that are
+10 minutes long, you get a 30-minute score.
+And YouTube can go, "Jesus Christ." Whenever we put people in
+front of this channel
+and they watch 30 minutes of content, that just makes YouTube froth and
+goes, "What other people can we put here?"
+Because YouTube wants people on the
+platform for the maximum amount of time possible.
+So you can try and make a long video.
+But the longer the video, the more complexity it
+is in having the story arc.
+Trying to keep people engaged 28 minutes into a video is difficult, and
+it requires a certain amount of skill with editing and things like that.
+So if you then wanted to make more frequent, shorter videos,
+as long as you can
+keep people engaged in what you're doing, you can get that average view duration.
+But yeah, I think we should all be excited about the
+idea of having content that we
+can post and just leave it to do its thing. Leave it to keep getting things.
+And then when you want a bump in the algorithm, you put another video out.
+But as you know, it's just exhausting. And requires some planning.
+So if you're in the infancy of your business on social media,
+maybe don't get into
+it just yet. But I couldn't believe that I kind of just left my channel
+to die, and it won't die. It just won't die.
+It just keeps getting views and videos having upticks.
+It's absolutely crazy.
+And coming on from that point, another thing that I didn't really use
+last year,
+who is posting on YouTube at the moment? Cool. A few of you.
+ThumbnailTest.co.uk. You see Diary of a CEO, Steven Bartlett,
+every hour the thumbnail changes. There's software that's doing
+that for him.
+So for the business channel that I've done recently,
+I go on Thumbnail Test
+and I had a video that was generating me a good amount of revenue
+for the business,
+so I created six different titles for it where it said, "I made this amount of
+money as a PT, as a personal trainer, as a fitness coach, as a fitness business,
+as
+a fitness professional," I then change the title every hour on the hour for
+25 days, so I can get a good indication of what
+word is going to
+benefit my business the most. Because PT in America means physical
+therapist,
+so maybe I do want to use the word personal trainer.
+So for you guys, you could A/B split fat loss, weight loss,
+diet, fat loss hack, fat loss cheat, and you get to understand,
+does the word cheat
+work better with your audience, or does the word hack work better?
+Then out of the analytics that you get from Thumbnail Test,
+you can even
+see what titles and thumbnails got what
+average view duration or click-through rate.
+So if I use the word PT, I was getting less views, but they were
+watching for a longer period of time.
+But when I used the word fitness business, we got more views, but they came and
+left the video earlier. And that level of analytics,
+although it can seem
+overkill, I only need to test a video once,
+and I now know what word I need to be
+using in every single video from here on in. PT, personal trainer, fitness coach.
+This can then help you guys understand what words, titles,
+thumbnails, or whatever are working with your audience.
+Because Diary of a CEO are just trying to optimize their
+thumbnails for clicks, and
+then out of those clicks, they want people that
+are going to watch for a long
+period of time. If you're going to spend fucking nine
+hours doing a video for
+YouTube, but you won't spend nine minutes creating
+several titles,
+again, you're just not really getting the
+feedback that you want from it.
+Again, the feedback from the emails, feedback from everything.
+You want to see what your audience responds to so you can cater to that
+and double
+down on it. Similarly to the landing pages.
+For people that are creating landing pages, I remember for James Heth Academy,
+I created this banging landing page, and my business partner was like, "Can you
+make two more variations of it?" So I did one that had not a lot of
+text and one that had way more text.
+And in my mind, I thought the one with more text would do
+better, but the analytics
+said it didn't. So I was like, "Fuck." So he goes,
+"Why not make one with no text?"
+I was like, "Mate, it's not going to work.
+I'll put a video on it, but it's not going to work.
+There's not enough info." Way better.
+I was like, "Fuck, these motherfuckers are watching videos and not reading text."
+So I went away and made three more videos.
+One was 30 seconds, one was 60 seconds, one was 90 seconds.
+The one that was 90 seconds converted the best.
+So I go away, cool, I'm going to now make a 90 seconds,
+a 60 seconds, and a two and
+a half minute video. So by looking at the feedback
+that you're getting from your
+audience in certain places, you can know how to put things together so
+that they
+remain engaged in it. And so many people
+were just not looking at that.
+If marketing departments are doing it in companies, we can do it.
+And again, this software, to use it, just isn't that expensive.
+Anyone use Thumbnail Test at the moment?
+YouTube now has it built in, so you can test up to three thumbnails at
+the same
+time. So in the little area where you're
+uploading a thumbnail, it can let you put
+them in. I don't know if that technology is good enough yet.
+Because if you put the same thumbnail in three times, it doesn't get a
+33/33/33 split. You'll get one that's like 55
+and one that's 25, which just
+doesn't make sense if you do an A/A/A split.
+Just some insight into it. Yes?
+You don't do it, it does it. Wouldn't want to do it just for 24 hours,
+but you
+could get 12 thumbnails changing every hour on the hour for like
+20 days. So then you have audiences in different
+countries, because if I only did
+it for one day, and I posted the video when Australia
+are awake and the UK are
+asleep, it wouldn't give me an ideal
+representation.
+You could get it to change every four hours, every 12 hours, whatever it is.
+But that's why you'll see a Diary of a CEO episode, and then you go on a little bit
+later and you're like, "Hold on, that's the same person,
+but that's a different
+thumbnail. Hold on, that's a different title." They're testing
+to see what's
+working. Because if they're going to fly some cunt
+from America to sit in front of
+Steven Bartlett and chat shit about Huell, they're going to want to make sure they
+get maximalized on it. And a 10% increase in views for them
+is just more exposure to their brand, affiliates, whatever it is.
+So I know it can seem like overkill, but this shit should excite people,
+where they
+go, "Oh."
+A/B split testing yourself in the thumbnail versus not being in the
+thumbnail.
+Because a lot of us seem to think we need to be in our thumbnails, but maybe the
+analytics says so, maybe it doesn't.
+And then you know what to keep doing from there on in. Fucking hell.
+This was supposed to be like a five-minute segment about things that were different
+from last year.
+Yeah, so even with old videos, you can change it.
+So there's a guy in Sydney who is a YouTuber. He's called Marcus.
+So I sit with Marcus,
+and he says to me, "Oh, show me this high-converting video that
+you have." And it was a webinar that I did maybe a few months ago for the
+mentorship, and I called it
+Sales and Marketing Masterclass Webinar.
+And he goes, "Bit of a shit title, isn't it?" And I went, "Do you know what?
+That is a shit title." And it was me in the thumbnail with a thing
+that said
+Webinar, and he was like, "It's a shit thumbnail." I was like,
+"Do you know what?
+That is a shit thumbnail." And he goes, "No offense, but I can't believe you would
+have such a shit title and thumbnail on
+that webinar you did." He's like, "If you
+put a better title and thumbnail on that, it could do a lot better." So I was like,
+"Okay." And he showed me a guy in Dubai called Charlie who has the most
+chaotic thumbnails ever, where he just gets screen grabs from
+different things and
+put them together. So I actually went and took some random screen grabs from
+Google
+Images, a picture of myself, a Stripe account,
+and then there's like a Venn
+diagram to something to do with makeup. I just took the first Venn diagram I
+could.
+It doesn't even make sense if you look at the thumbnail.
+I put it up, and I changed the title to say, the
+lifetime of JSA has done like $13 million or something in the Stripe.
+So I screenshotted that, and he goes, "Make the title How I Made $13 Million so
+you
+can steal it," put it in brackets. And he goes, "Now take the I when talking
+about yourself and make it lowercase." And it's actually really difficult to do a
+single I lowercase anywhere on your computer because it thinks you
+shouldn't be having a lowercase I if you're talking about yourself.
+He goes, "Make the title look like you don't give a
+fuck. Lowercase I." Cool.
+Sean, one of my business mentors goes, "James, one of your old videos did $3,000
+this week. Why is that?" And you can see where my video died.
+I changed the title and thumbnail, boom, and it's still climbing.
+Now I've got people on your YouTube Studio going, "Hey, bro, got so
+much
+knowledge out of this. What an amazing webinar." It's like a
+four-month-old video.
+So yeah. And he said to me, "You're better off over-delivering
+in your title and thumbnail, but at least getting some fucking views,
+because if
+the video's dead, no one's watching it." So definitely play
+around with it, see if
+you can learn from it same time. All right.
+The next segment we're going to look into within this, I know we covered off a few
+things there, but we're getting into some of the
+nitty-gritty stuff now.
+What's working in 2024? If we look at the landscape of creators
+around us,
+what is kind of like trends that are working?
+The first one has to be hooks.
+Now, the hook is the first thing we say in a
+video, and so many people are still
+butchering this, where you might try and introduce yourself, or you
+just kind of waffle a little bit. Now, there are different types of hooks that we
+can be using. Statement hooks, where you say something as it is.
+Question hooks, where you pose a hook to someone.
+We have visual hooks, where we can show something to someone.
+Maybe it's a prop, maybe it's an analogy, maybe it's a metaphor.
+This glass of Skittles represents this, whatever it is.
+We can then have hooks where we show people a preview of what's to come,
+which is often found in longer form content,
+or if you had a skit of some kind or
+anything like that. Have you ever seen if someone's playing a prank in the street
+on the TikTok, they'll actually take the response from
+the person, use it
+as the hook, so then you watch the video to get the
+context of what's just
+happened. We need to really strategize what we're
+doing for the first three, four
+seconds of a video, because if we look at the behavior of people
+absorbing content,
+the majority of us, if I was to hazard a guess,
+wake up, try not to use our phones too much.
+Any digital interaction's going to be business-led, whether it's emails, Slack,
+Discord, whatever it is. We then manage people in our networks,
+clients,
+whatever. Then as the day goes on and as we start to get a bit more
+exhausted and a
+bit more fatigued, as the evenings come round,
+we start getting into that dopamine
+chasing,
+getting to bed. You're like, "We could watch another episode of
+'Breaking Bad,' or
+why don't we get into bed an hour earlier and just scroll the fuck out of TikTok?"
+Yeah, sold. And you get in there, and you're there with your partner in bed,
+boom, boom, boom, boom. Oh, look at this dog.
+This dog's so cute. And my missus is crying.
+I'm like, "Why are you crying?" She's like, "Oh."
+Sometimes she'll get upset seeing someone's TikTok about their dog dying.
+And then you'll see her at the end of the bed kissing our dog, mourning his death
+when he's not even died yet. But you're there, and your finger is
+literally only giving people two or three seconds before you're onto the
+next one.
+If you only give other creators a couple seconds to impress you, why do you think
+other people would give you any more time?
+So whether it's being inquisitive, whether it's moving props,
+whether it's having
+questions, whether it's having statements, you really need to try and analyze
+what it is that people are doing to get you in there.
+There's one guy on social media who's massive, who
+unboxes things for a living, but his hook is always spinning the box,
+and
+he sniffs it. And what you're looking for is context.
+He's like a Mexican guy. He'll spin a box with a TV in it
+and then be like [sniffs]
+, and then he starts unboxing it. And the first time I watched it, I
+was like,
+"What the fuck is going on?" But that's exactly what he wants me to
+think.
+If he was there like, "Hi, my name's Tony.
+This is a Samsung 85-inch Octavia TV, and you let"
+You're like, "Fuck off, mate. I don't care." But just having something
+that's a
+little bit nuanced to it. Sean Casey is the very nuanced, like
+monotone. He's just there. People are like, "Hold on.
+Is this guy for serious?
+He's not even got any facial expressions." It works for him.
+Adam Sullivan is roundhouse kicking the fuck out of something.
+Whatever it is that you can do to just try and get people's attention those first
+few seconds, and
+intrigue is going to be probably the best emotion that you want to captivate from
+someone with your hook. That's actually what YouTube titles
+and thumbnails
+are looking to do, is to build intrigue.
+So rather than going, let's think about it in
+a fat loss context. You wouldn't be like, "Use this method to lose six
+kilograms." You'd be like,
+"How this man lost six kilograms in three days without having to restrict
+calories." You're like, "How the fuck did he do it without
+restricting calories?"
+If you can create some kind of intrigue, that's where you're going to get the
+response from people to give you a little bit more time.
+So when it comes to recording, whenever you get the camera going,
+you're there in
+front of the camera. Sometimes I go in front, and I'll be like,
+"When it comes to
+doing Instagram Reels, there are three types." And I'm like, "No,
+it's not good
+enough." And then I come back, and then I'm like,
+"When it comes to Instagram
+Reels, you need" Oh, fuck. I'm like, "No, it's not good enough." I literally, if
+you look at my edit before I've done the edit, it's just me fucking up.
+Declan, he's there. I'll say something, and I'm just like, "It's not good enough."
+And then I'll be there sat in silence, and I'll just be there in front of the
+camera rolling, and I'll be like,
+"This is why your Instagram Reel sucks." Cool. Right.
+And then I'm thinking about the next part of the Reel. Just give it several goes.
+You can actually have three or four different hooks in your video.
+Maybe you plan it out. Maybe you strategize it a little bit.
+Something I've definitely got a little bit better at recently is actually trying to
+script videos. I used to think that I was like, "Oh, I don't need to
+script vid" Like Darren, for instance. Is he gone?
+That guy needs to be more organized.
+If he just scripted what he was going to say in his videos,
+he would have a much
+nicer car than he does. All right? But we're proud, and we think, "I have a
+good brain, and I'm smart, and I've got followers on social
+media." When it comes to just typing, I will type things and go, "Fucking hell.
+That's impressive. That's almost like too smart to come out
+of my brain," but it
+came out. When you're trying to articulate
+something, sometimes you have these
+different blocks, the camera's in front of you.
+If you can just go somewhere that's chilled, maybe it's a laptop,
+sat in a Pret,
+whatever, you can just type out hooks and go, "Oh, take that out.
+Oh, it's a little bit too long," whatever it
+is.
+Again, so many of us are putting so much effort into the
+fucking video.
+Jayden might have even done 1,200 calories for fucking seven days, but then he only
+spends three minutes doing his hook.
+I'm like, "Where's the discrepancy in effort between
+that?" But if you can just
+work on it, look what works well, and again, when you're absorbing content,
+don't let these people just trick you into watching their videos.
+Be like, "Hold on a second. What
+magic just occurred for me to end up 19 minutes into this fucking
+person's video? What was it that this person said that means I'm now a
+diehard fan for them?" Even if you look at, anyone following Matt
+Armstrong on YouTube, guy who's currently fucking dominating it,
+buys crash-damaged cars Have you seen him? Daz Lamar?
+We're going to talk about him in a little bit.
+His videos always start with him getting into a car and slamming the door and
+talking to the camera, and he's setting the scene of his
+hook with being in a car. And every single video I'm like, oh, it
+must work. It's just the way that he's setting context so
+that people understand
+what he's talking about. But we actually have a lot to learn from
+Matt Armstrong a
+little bit later. None of you saw the guy
+that bought Marcus Rashford's crashed
+car? He's a fucking wizard, bro. This guy's a fucking wizard,
+and everyone thinks
+he's just a mechanic. He is a master storyteller, and
+something he's done right, he creates one-hour-long videos of these
+cars
+that he's fixing, and they're getting one to two million
+views in the first 12
+hours. Then he created a Mark II YouTube channel,
+where he puts all
+of the videos together. So he has a four-hour YouTube video,
+and he puts
+them on, and they're getting 18, 19 million views because the average view
+duration
+is so massive between them. But anyway, we won't get too carried away with that.
+But that guy, he's making- Wedge. Wedge.
+Spent 200 grand on a crashed car. Wedge. Okay.
+We spoke a bit about the avatar behavior and understanding where the people are
+that you're doing content in front of.
+Another thing that's working in 2024, good production. Good.
+I think that making content on an iPhone, those days are coming to an end.
+Even though the iPhone cameras are amazing, I set like a minimum,
+I hope you don't
+mind. Even the DJI Pocket Osmo 3. Everyone know about
+this camera? So this camera films in 4K.
+It doesn't look as good as a Sony A73 or anything else, but
+these... Do you mind if I like? So it's got a battery pack on it at the
+bottom,
+which you can use to charge. But this is just a really easy camera
+that you can use
+for content. This also will track you, so if you're doing any movement stuff in
+the
+gym. Also, if you have an iPhone in front of you,
+when you're
+trying to do an Eddie Habru in a fucking shopping supermarket like, "Oh, yeah.
+Hi, mate. Yeah. Yeah, do it again, mate. Yeah." It's a bit invasive.
+Or if you go in with one of these fucking cameras to the supermarket, yeah, nice
+one, brother. But these are actually great because not only do
+they have a gimbal
+in it, which means it has really good
+stabilization, you can also just film on the
+sly, and people don't even know you've got a
+fucking camera in front of them.
+Also means that if you're in the gym, you could just maybe stick
+that up onto the
+squat rack and just have it track you around. It's not invasive.
+It's not like getting in people's faces.
+Also, the stabilization on this, that you can move it without it getting
+jittery or
+whatever, these are great. You can also film in portrait when
+you're using it, so that you can film landscape portraits,
+whether you're doing
+YouTube, you're doing reels, whatever it is. These also come...
+Oh, fucking salesperson. I should be on telesales.
+I should be on a shopping channel. Get your DJI Pocket Osmo 3.
+It also comes with a mic that connects to it, so you can use it.
+Although the audio on it is great. These are not that expensive.
+How much did this cost you? £700? £600? £500.
+So you already have the mic, so you got the one without, cool.
+There's someone here, Kate Orishi, who's trying to pin me down for a podcast.
+Darren goes, "Mate, I just did a podcast with this chick." Did
+the podcast, then
+afterwards she goes, "Let's do it on video." He went,
+"What do you mean let's do it
+on video? We just did the podcast." She was like,
+"Yeah, yeah, I'll ask you the
+same questions, but on video." I'm like, "What?"
+Any time you film, right? So let's say, for argument's sake, this is an external
+microphone. Let's say, actually, I've actually got an external microphone.
+When you have a microphone like this one, you can just
+use it to record an audio file. Then if you have dog shit audio on
+this, in any editing software, whether it's DaVinci, Premiere Pro,
+whatever it
+is, you can just press synchronize, and it will take your good audio,
+and it will
+line it up with your shit audio. Then you just drag it over the top,
+and you now
+have amazing audio. Similarly to whenever you're doing like a
+podcast or there's
+any media production, you know when people clap in front of the camera
+or they have
+that little director's thing? [clicks tongue] That's so you get a spike
+in the
+audio, so it makes it easier to line everything
+up, so that the audio and the video
+are in the same place. Look at that. Every day is school day.
+And also, because you would've seen in my content
+for ages ago
+that I would've had like a little magnet.
+You would've seen that little square magnet thing on my
+chest.
+Everyone thought it was just my T-shirts because I had a
+microphone underneath.
+But now I've been fucking with, because I just absolutely froth good audio
+content, I've actually taped a microphone to the
+underside of my vest, so it just
+looks better in content. I want people thinking,
+"Where's the fucking microphone,
+brother?" There's one there, I know. But for everything else.
+When it comes to
+getting into production, I think everyone should aspire to at least
+have a camera
+that's built for purpose to do it. Because the iPhone
+is to do so many different
+things, and although it's great for taking
+pictures, stabilization, exposure,
+things like that, these are just great.
+For any of you that have got an editor, you can also film in log.
+Log means that it looks like dog shit, but it means that when your editor starts
+manipulating the colors, they can make it look sexy as fuck.
+Again, when it comes to price, you don't even need to know what you're
+doing to use
+this. Whereas with these things, you've got F-stop, exposure.
+What's the other one? ISO? ISO, F-stop, exposure, shutter speed.
+There it is. And then everyone's like, "What does that mean?" When you start with
+cameras, it doesn't fucking stop.
+So the real camera guys are like, [laughs] "You film in auto mode?"
+You're like, "Yeah, well, I haven't got a videographer." They're
+like, "Pathetic."
+When you film in auto, it's not getting your ISO right.
+It's not getting your F-stop. A lot of cameras have the manual focus
+thing where you can turn off the auto focus. That's what the OGs do.
+They get you in line, do it all. But anyway.
+You can tell I obsess about this stuff, and this is why I have no staff.
+[laughing] Getting a good camera quality, I see it over and over again,
+where I say to people, I'm like, "Look, the content's getting better,
+but the way it looks isn't." And I just think, honestly,
+getting one of these,
+or something similar, is so much better.
+Because when you buy one of these cameras, you're also reducing the barrier to do
+content. You could literally be like, "Mum, hold that," and she
+can't fuck it up. She cannot fuck it up.
+You give your mum an iPhone, she's recording her own face
+while she's supposed to
+be doing stuff with you. So yeah,
+really good. Even the built-in audio to these
+is great and they're versatile.
+You can even use them as webcams. And yeah, thank you very much. Which
+is that one?
+Sorry? That one? Yeah. DJI
+Pocket Osmo 3. Another thing you can do as well
+is, let's say you want continuous audio,
+but you don't want continuous video.
+You can also press and hold the record button and
+Or maybe not on this
+one. There you go. When the red light's on,
+that's now recording as a
+microphone device. So, in essence, if that red light is on,
+irrespective if that camera died right now, this will still take audio, and this
+now works as if it's an external microphone.
+So let's say you're recording someone and you're worried they're going to go out
+of
+range because there's a receiver on that camera, this is a transmitter,
+it would be
+fine. It would still have an audio file on that.
+So let's say your worried your Mrs. is cheating on you.
+You could get that, get the red light on, hide it in her bag when she goes to work,
+come home, listen to the whole thing. I fucking got you, bitch.
+I got you, a fucking MP3. Just saying.
+Don't use an Air Tag, though. It notifies them.
+[logo whooshing]
+As far as effort, me clipping it here to here is
+2% more effort. To me, it looks better, right? Imagine this.
+Say me and you are doing a reality TV show, right?
+And we're going to put it on YouTube, and we want to sell it to BBC
+or Channel 4,
+or even we're doing a movie, right, and we're invited on set.
+Can you imagine in any fucking world that you were to watch a film
+and you're like,
+"Hold on, I can see the microphone." You'd go,
+"You lazy fucking cunts.
+You lazy fucking cunts." So for me, I'm like, I'll be honest with you,
+I want to over-exceed the level of quality that I need to do.
+Maybe 1080p with a mic on my shirt is fine,
+so I'm going to film it in fucking
+6K, and I'm going to get Declan to change the
+log files to make it look sexy as
+fuck, and I'm going to hide the mic so they
+don't know where it fucking is.
+I want to be over-delivering on everything.
+I want people to watch my videos and go, "Fuck, this is better than it should be."
+Because with so many people all doing and saying the same thing, it could be a
+point of difference to differentiate between people.
+[logo whooshing] If I tape it to my chest,
+we get a bit of rub, but if I tape it to the T-shirt, we don't.
+So I was doing a shoot for New Tonic in Vegas, and when they clipped it on
+and went
+under my shirt, I was like, "I could be doing this." And this, again,
+is
+Alima, right? Does so fucking well because he does his
+skits with
+too much attention to detail. That motherfucker gets a
+skit and waits five months until he's in New York to do the reaction.
+He goes to New York to do a skit. The guy has filmed
+maybe eight, nine skits in Ibiza already because he
+knows if he was to
+record the reaction in the wrong place, it wouldn't do as well.
+When you watch Alima, he literally is obsessed of getting every single
+angle of it right, and that's why he's just surpassed 10
+million followers,
+because whatever level you think you need to be at, you should try and go above it.
+And I think that that,
+even technically, I'm a PT, I shouldn't know about all the
+camera settings. I shouldn't know about how to edit in
+DaVinci and Premiere.
+But for me, I think it's that attention to detail of the really
+small stuff that
+helps me do well. Because I know everyone else
+is just sleeping on it.
+I go see a competitor, I'm like, "I can see your microphone, dickhead."
+So, yeah, it's fun to me, I suppose.
+I've got mental problems with stuff. Yes.
+[logo whooshing] Kayla at Scenes makes it look
+like she's filming her front room. I've been there.
+It's a fucking studio the size of this room-
+Yeah
+... to make it look like a front room.
+I think it's always good to go to that level for your followers because I
+think
+people like to see the effort that you go to.
+Even when people, let's say you're doing a video about your
+day and you go to the
+gym. They go out their house, they put a camera on a fucking tripod,
+they go back
+in their house, they close the fucking door,
+they open the door, they walk to their
+car, they go back, they close the fucking door,
+then they go to the tripod, they
+take the phone off the tripod, they take the tripod back in,
+fucking hell, and they
+go back, just for two seconds of footage, but it looks nice.
+I remember I was watching "Peaky Blinders," and there's a scene in it where
+four of
+them are walking down the street, and there's pyro and shit going off in the
+background. I'm like, "Four actors, Cillian Murphy,
+pyro, health and safety, street. There are two cars that are 100
+years fucking old there that have got to be hired.
+They've got to be there.
+Not to mention the insurance policy they would need to have a car of that age next
+to that pyro. It's a two-second fucking scene.
+Probably cost £115,000." There's going to come a time when maybe you can't
+differentiate with someone else.
+Maybe they are the same level of content creator than you, and maybe it is the
+subtle differences. 2017, my business partner, me and James Shaw,
+we had complex accounting. Neither of us were Australian residents.
+JSA was absolutely pumping. Our accountants were like,
+"Stop making money because
+you haven't got your business set up." We go into the city, and we meet with
+PwC and Deloitte, two of the biggest top four accountancy
+firms.
+We go to Deloitte, sit with them, everything's great,
+and our sign-on with them is
+about £30,000, just to start the accounting.
+Then we go to Deloitte. We went to Deloitte, then we went to PwC,
+and I came out,
+and I go, "Who are we going with?" He goes,
+"We got a biscuit with our coffee at
+PwC, so we're going with them." That was it. That was the difference.
+I fucking cracked up. He was like, "They were both the same.
+They were both charging the same amount. They're both big four accountants.
+We got a biscuit with our coffee here.
+We'll go with them." So
+that's the way I see it, right? The little bit of effort.
+The fact that my accountant, even now, when I message him
+something that could be a little bit below the book, he goes, "Let me call you
+after work." He calls me out of hours because he goes, "We can't have this on
+email." Right? And I think, "Do you know what?
+I'm going to stay with this guy for years because he's going above and beyond the
+level of service he needs to or he should do,"
+and that's what I vibe with.
+So, yeah. It doesn't really answer your question,
+but at
+the same time, it does. You should be aspiring to make the nicest
+production
+possible because if you started watching something on Netflix or you were to buy
+something like a TV series, and there were just some shortcuts taken in it,
+you'd
+be like, "Come on, I'm invested in you.
+I want this back." And every single social media video
+that you make is
+an asset for your business and brand that you're putting out there.
+I just don't understand why you wouldn't maybe get the backdrop.
+Yeah.
+All I want you to do is obsess them with getting a little bit
+better.
+Yeah.
+Right? I'm a brown belt in jujitsu. I was very happy at purple.
+I was very happy at blue. I was very happy at white.
+Although I was dog shit, the reason I was happy was because I
+was getting better.
+I never think to myself, "Oh, you fucking idiot, a blue belt,
+trying to do a
+normal plateau from here." I don't care because every single time, the reason that
+I'm content with where I'm at is because I'm improving.
+And all I'm saying is start with the jump cut,
+start with the iPhone, start with
+the tripod. Get the camera up because now things
+are going to get a little bit
+better. Then you're going to film at home in your
+front room, through your means or
+whatever it is. Maybe we do get the backdrop.
+Maybe we do get the light.
+We're just continually taking small steps forward.
+I've made more progress in my own probably personal brand in the
+last 12 months than the nine years before it I
+feel like when I look back at my last IFS talk, I'm like, "This guy's a fucking
+idiot." It was a year ago. Honestly, I'm embarrassed by the quality of stuff I
+put out, only because I want to make sure I'm keep
+improving and getting better.
+So that's all I'm asking. Never use the word perfect.
+Imagine this, I've been doing podcasts for fucking six
+years.
+I send him a podcast every day. I need a speech coach.
+I keep using the word like. I don't know where it's come from.
+Ten years into my career, I've started going backwards.
+I keep using the word like, and to the point I can't listen to the
+podcast.
+So ten years into this, I'm still finding issues and
+problems that I'm facing, and all I'm going to do
+is just try to say like less.
+There's no way I'm going to get it out in the next podcast that I go on.
+So yeah, never look for perfect. Only look for better.
+When you say, it's obvious you say you need to progress
+in things like editing and
+making cooler videos, where would you think
+that balance would be
+maybe I should just hire somebody who's better at editing-
+How much better have you got at making videos in the last two months?
+A lot better.
+Yeah.
+You were doing static pictures before. There were no reels.
+I'm watching your content get better. Don't worry about that.
+Don't worry about hiring someone, because in six months you'll be a fucking
+weapon.
+Look at Lucy Lord. Don't know if you follow Lucy Lord.
+Her content looks professional. It's her. She worked in pharmaceuticals.
+She used to sell drugs to vets. But she just consistently got better to
+the point
+that people now think someone else is doing it.
+Yes, there comes to a point that maybe you hire someone,
+like I have Declan now,
+but even I did the first eight years without it.
+So, I still always think that you should become the expert,
+and then you can always
+have help when you want. But I don't like offsetting too much of
+the
+creative stuff to you, because then that muscle becomes atrophied,
+and you never want that. You never want to walk into a room
+and not know the angles
+that you want. So there comes a point, but I would say try and
+maximize to become the best version of that content creator that you can.
+And the more that you start seeing things that work, you then start to see it in
+other people's content, and then you start to emulate it yourself.
+Emulate is just the word we use to copy other people, right?
+Which is what we're all doing. Even my business mentorship
+is very similar to the one that I fucking studied in six years ago.
+And his is probably similar to the one that he did four years before that.
+We're all just putting our own spin on stuff anyway,
+but the more creative you can
+be with it, the better. And I think that it's going to be the most creative
+person
+that kind of
+flips content that's going to do better from it.
+You're not the first dietician to make nice food. You know what I mean?
+Okay. We're still almost working in 2024.
+We spoke before about good landing pages, okay?
+I butt heads with a lot of people about landing pages and sales calls, but, hey,
+that guy spent six grand on dinner last night.
+He didn't need to call the restaurant to be sold to.
+He just wanted to go, know what was on the menu, and let's fucking do it.
+Same.
+When you walk past a restaurant, when you're walking past,
+let's say we're in
+Ibiza, whatever, cool. First thing you do, menu.
+Is this the cuisine for me? This is what people are doing
+when they're watching you
+on social media. Imagine you see a menu with no prices,
+you're like, "Fucking
+cocksuckers." Right? No chance. You might want to look to whether
+or not the
+restaurant's busy, which is another reason I don't like sales
+calls, because if
+your diary is open every hour for a sales call, you've got an empty restaurant.
+They're getting food poisoning. Get the fuck out of there.
+As the owner of the restaurant, you should not try
+and sell people into it.
+You should come over, "Hey, my friend, I have a great place for you." Cool.
+"Here's a menu. Let me know if you need anything."
+That's it.
+If the guy comes over with the menu and goes, "Hey, my friend.
+Good restaurant.
+Come on, come on, come on. Come here, come here, come here, come here." You're
+like, "Fuck off, mate. We're going somewhere else.
+I don't like this." And I feel that the landing page just needs to be the
+same.
+What it is you're offering, what they get, why they need it, how much it costs.
+That's what we're doing when we're looking at menus.
+People just want to know.
+And again, some people are going to go there
+and they're going to bounce, but
+again, if you've got a fucking butcher's, you shouldn't give a shit about
+vegetarians or vegans. Someone's like, "Oh, you're killing animals." Fuck off,
+you're never going to buy my sausages. You know what I mean? It's not a problem.
+A well-designed landing page is a place that people can go to
+and handle their own
+objections. I still will concede and say to people,
+if you want to leave your
+contact information there, don't have it so you can never have my
+number.
+Because this average customer for you might actually be worth thousands of
+pounds over the course of however long they stay.
+But ultimately, I think we should all be looking for a
+world where you send traffic
+to a page and customers pop out. If they're unsure, there is
+nothing that can be done on a sales call that can't be done in an email.
+And people that even from my course, they message me, they're like, "Oh, James,
+you
+know, I've used a lot of business mentorships in
+the past, and basically, I did the
+thing with Tony McCleary, and then, I got in a legal battle,"
+and I don't even read
+the email. I go, "Have a fucking one-month money-back
+guarantee.
+Bye." That's it. I've now handled every objection
+that they have.
+They can either join or they might not, whatever.
+The landing page should do the same.
+The best thing that I've actually started getting people to do now more is to have
+what's known as a VSL, a video sales letter.
+A video front and center of your fucking sales page because let
+me tell you this, so many of the girls I've been on dates
+with on Hinge back in the
+day are fucking minging. And they're minging because photos do
+not paint a picture, and you cannot tell enough about it.
+There was the Rory Sutherland guy who made a great point on Chris's podcast where
+he goes, "Jennifer Aniston and Cameron Diaz are not fit enough to be
+supermodels. The real attraction is in when you see them move." When you
+see Jennifer Aniston interact with some of her friends, you're like, "Oh my God,
+she's so fit." Same with Cameron Diaz.
+When she smiles and flicks her hair, you're like, "Oh my God." There are some
+people that are only beautiful when you see them in motion.
+Now, when you guys post pictures on your
+landing page of the photo shoot that you
+did in the studio with the Rembrandt lighting and the oiled up fucking [mimics]
+it's not a representation of who you are.
+And so much of the time, I would not go on a date with a girl
+unless I could see
+them move. If I could see them talk and interact with their friends,
+it would paint
+a picture. So
+even if you're shit on camera, it can actually be such
+almost like a pleasant thing. They see someone nervous out there trying
+to do their
+business, they're like, "Fuck, I can relate to this person." Because
+sometimes if
+you are too confident on camera, they don't resonate with you.
+"Oh, this guy's a pro. I don't want a pro.
+I just want a personal trainer to help me do my fucking workouts," whatever.
+You should have at the front and center of that you,
+and do not get caught up in making your landing page about you, because no
+offense, no one gives a fuck about you.
+In the nicest way possible. "Hi, my name's John,
+and I swam for County." No one
+cares. "Hi, I've been a physique bodybuilder." No one
+cares.
+"Hi, I've been a p--" No one cares. They care about themselves.
+Everyone just cares about themselves, and the better you can understand that,
+the
+better. So when you start your VSL video on your
+sales page,
+just start talking about them. "I create this program for people
+that want to lose
+weight. I do that by producing this service
+that they get, and it costs this
+amount. Now, I know you're probably going to say that's
+quite a lot, but it's worth
+noting that I will check in with you every single day over WhatsApp.
+The reason I use WhatsApp is, well, it's where you check in with your friends
+and
+family. There's no point in me creating a very
+complex app that's going to make
+your life more difficult, because my job is to help you get better
+without making
+your life more difficult. The prices are down below, but it's worth noting that
+before you think it's really expensive, I do have a money-back guarantee, which by
+all means you can take the complete piss with.
+But the way it works out is the majority of people
+that sign up to my program stay
+with me, so I don't mind offering you that.
+If you have any questions, I have left my phone number
+and my email address down
+there. Feel free to waste my time, whatever it is.
+I hope you enjoy the program, and I'll see you soon.
+Oh, and if you do want a sales call, I don't do them.
+I'm a very busy professional.
+But I tell you what I can do is when you buy it,
+we'll do an onboarding call as the
+first part of it anyway, so I look forward to seeing you on the
+call.
+Cheers." Boom. Sell it to them. Don't get distracted about anything else.
+Don't tell them about your credentials. Don't tell them about anything.
+Just sell them the fucking course.
+Because ultimately, that's what people want.
+When people arrive on my landing page for my business mentorship, they don't care
+about how much money I've made. They don't care about how many followers I
+have.
+They don't care about how many books I've sold.
+They want to know what information I have that they can put into their
+businesses. Even the reason you're at this talk,
+it's not really because you
+like me, it should be because you like your fucking
+businesses, and you like your
+lives, and you want to leverage my fucking
+knowledge to help yourselves, and that's
+fine. Because I will also leverage your
+positions to sell some of you into my
+mentorship. We're all just trying to fucking help
+ourselves, and the better you can
+understand that, the better you can actually help people.
+Because if you foolishly think that people care more about you than they
+actually do, you'll make it harder for yourself to sell
+to those people.
+It sounds like a really fucking selfish thing to say, right?
+But you know people that spend all their time giving money to
+charity? Selfish.
+They're only doing it to make themselves feel better.
+It is.
+The only reason, oh, you see a homeless person,
+and you're like, "Oh, have £10."
+Why? Because I'm a generous-- No. Because it made me feel good.
+Fucking hell, I feel great. I might do that more often.
+You know what I mean?
+Make the sales page about them. Not about you, about them.
+And it's your job to disarm them, dismantle any hesitations
+they have, and you might feel like a sleazy fucking
+sales douchebag,
+but if there's a money-back guarantee and you actually honor it, you
+can't do much else for them. Landing page, make several versions of it,
+A, B, C, split test it, one with more text, one with less,
+one with different
+videos, whatever it is. Even Jayden, I'd go to you on your landing page to just
+face the facts that you are a baby-faced motherfucker.
+You went, "Let's just get into it. I know I'm really young,
+but the good news is, I
+don't charge the world because I still live at home with my mum." Perfect.
+You know what I mean? Disarm them before they're there,
+because they're going to
+think, "Why am I paying this guy fucking £55 a
+week?
+He doesn't even pay rent." [laughing] You don't pay rent.
+You do pay rent, but still, you know what I mean.
+So, I think this is the most beautiful way to
+do it.
+Rather than Jayden going, "I've been a fitness coach
+and a fitness enthusiast now
+for three and a half years." Just be honest with people, just be real,
+and I think
+that's one thing that's really lacking in the industry.
+Everyone's trying to make it too much about themselves and what physique
+competitions they've won in, and, "Oh, I've been an IFBB pro for..." No one
+cares. Landing pages. Hit me up with questions.
+Jayden.
+[logo booming] Getting traffic. It's difficult.
+What are your story views at the moment? Because what's your following, 10,000?
+So the only issue that we might face with this is,
+if you're not
+getting that many views to your landing page, especially not nibbles, it
+could be that some of that 10,000 are a subprime audience,
+that you've got those
+followers through doing challenges and they followed Jayden the challenge
+guy.
+They followed Jayden the pizza guy. They followed the guy
+that works for Domino's.
+They didn't follow the person who's a personal trainer.
+So it might be rather than looking at it and going, "Oh, I've got 10,000 followers
+and none of them are doing business with me," it could be looking at the fact, and
+I've just done this with my big YouTube, right, where I'm like, I've all these
+fucking subscribers, and I'm like, "Oh, they're the wrong people." They're the
+wrong fucking people, and it's my fault for making the wrong
+content.
+So now I'm now working on a new channel where I just want the right people.
+So it could be just doubling down on putting out content at people
+that would go to
+your landing page, because you might have just cultivated an
+audience of people
+that maybe just aren't right, or they can't afford it, or they have
+too many personal trainers all trying to do the same thing at the same time.
+I mean, how many views would you get per campaign
+to the landing page?
+Do you look at the clicks from that? Say like, "Okay,
+I'm going to do this story.
+Look how many views I get. I'm going to run this email campaign.
+How many clicks?" What would you say is the, in the sales funnel, where's the
+barrier? Okay, what's the email list at? Rookie numbers.
+There could be something that we could do to really fucking bolster
+those numbers
+up, because you don't have the leverage now to
+force traffic to that
+site enough. And going from socials to landing page
+is going from
+dancefloor to fingering. Get them a drink first.
+You know what I mean?
+So I think that we do need to go through the stages, because this is the reality,
+right? When I'm messaging a girl on Hinge
+and we've matched, which I don't do
+because I'm in a relationship, let's be real.
+You both want to fuck, or you wouldn't have matched.
+You just wouldn't.
+But there are stages necessary to go through before fucking to make sure
+that both people are happy that they're fucking the right person.
+Same in business, right? If someone's following your page,
+I'm not saying everyone
+that you're following wants to fuck you, but there's some kind of synergy there.
+But when someone gets to your email list, you're close.
+You're walking out the club with that person.
+You just got to make sure you don't fuck it up at this point.
+And sometimes it is too much of a leap to go from socials to landing page.
+It is a little bit too much. It's one drink. Come on, let's go.
+They're like, "Whoa, I've just met you." So
+I would say focus on that, because they might need so many different
+points of
+contact from you before they're ready to buy, or they're ready to go to the landing
+page, or they're ready to watch your video.
+Well, actually, I'm saying it could be a subprime
+audience, but now that I know the
+size of your email list, I would say it's not the audience,
+it's more to the size
+of the email list. 120 people. Out of those, like you say,
+a few of them are just
+marking them as unread. And you might even be going, "Oh,
+fucking 50 people read
+this." Maybe it didn't. Maybe it's only 12.
+So I think that if you were to tenfold or at least, yeah,
+tenfold your email list,
+that would only take you to 1,000. That's only 10% of your overall following.
+Facebook, how many followers? You're now at 11K. TikTok, 15,100.
+The discrepancy's there. If we were to map this out as an image,
+you would say the
+choke hold is at the email list.
+It's difficult because you still can be in your infancy, not knowing where you're
+going to get your best return on investment, because if you knew,
+you wouldn't have
+asked the question. Because if you knew it was your landing page,
+you'd do your
+landing page. If you knew it was your emails, your emails, and
+if you knew it was
+your socials, you'd do your socials.
+And the question, my response is, I don't know, but you can never give up on
+the content side of things, because all it takes
+is one week without posting and
+you fucking get in a hole, and then you just get paralysis.
+I've been there so many times. And do you know what?
+I can do massive lines of coke, and I'm fine.
+No come down. I don't post for three days, I can't come up with ideas, I'm terrible
+to be around. Right? My values for what makes me happy,
+productivity
+and creativity is one of them. When I can't think up of content ideas,
+I'm
+miserable. My missus, she has to give me a wide berth.
+I'm like, "I've got no ideas for content." She's
+like, "You think so?" I'm like,
+"Don't gaslight me." All right?
+[laughing]
+Don't gaslight me. It's one of those things,
+but you always need to make sure
+you're flexing the creativity muscle.
+Because the subpar email list and the subpar landing page sounds like
+it's working,
+but do not stop on the content side of things, because that's the hardest part.
+It's niche, though, as well, right? ADHD coaching.
+It's because you're borderlining in this territory where people go, "That's not
+even a thing." Right? Do you know what I saw yesterday?
+Fat loss advice for lesbians.
+[laughing]
+I was like, mate, 100%.
+I'd say I've seen a definite improvement over the last few months.
+Maybe it will just come together. Maybe the emails will just improve.
+Maybe the standards will just improve.
+I'm not sure, to answer your question, where you should put the effort.
+But maybe spend a bit of time improving emails, see what happens to the bottom
+line. Spend a bit of time on content, see what happens to the bottom line.
+But,
+it sounds bad, right? If it's working, let's say we have
+engagement, 7% of them sign up to email list, of that,
+1%
+click the landing page, out of that, 0.3% end up buying.
+Even if your conversion rates are pretty shit,
+if we just pump loads of volume in
+the top of the funnel through going viral a bit, it will still trickle through.
+The same way that when I knocked on doors, my close rate was 1%, which
+sounds bad, but my manager would say to me,
+"Knock on fucking 100 more doors."
+And I'd be like, "Uh." And he'd be like, "100 more doors." Fuck off.
+It's the same. Even if the conversions could be better,
+if they're still
+at that rate, you could just put more content out
+and just get people to trickle
+through it. Even if you need
+1,600 people to read an email to make a sale, double the amount of traffic,
+double the amount of clients.
+Okay, first thing before that, I just love Leadpages.
+I'm not paid by Leadpages. I just love them.
+And I see people doing it on Wix.
+Shit house. I see them try and do it on MailChimp. Shit house.
+I can spot it a mile off. Second thing, ladies will know about this,
+dudes in here have no idea about color palettes. Right?
+Women, they come in, they're like, "Whoa." Because I'm a boy, right?
+I buy bedsheets. They're like, "This does not go with the room." I'm
+like, "What do
+you mean doesn't go with the room?" I had one housemate who I thought was gay
+because he came in blackout drunk once and we'd decorated the front room.
+He could barely talk, and he went, "The pillows don't go with the room." I
+was
+like, I've never heard a man say that before.
+But,
+even you can go onto Adobe, there's a color wheel where you can pick a
+color and
+it'll give you other palette colors that go with it. Men have no idea. Right?
+So I'm seeing red and black. I'm like, these are the colors of sex and violence.
+I'm like, get rid of that. I had another lad this week using pink.
+I was like, "Do you just work with women?" He's like,
+"No, I work with mostly men."
+I'm like, "Why'd you pick pink?" So picking
+something like
+Leadpages, not only gives you good analytics,
+it has good base
+palettes for colors to keep it simple.
+Then I've got people that are putting images behind text.
+I'm like, why would you try and make text harder to
+read? Or they're using Times New Roman, tiny font, or there's just too much, or
+there's not line breaks, or whatever it is.
+So from a design perspective, it needs to look nice, and that's
+why I do like the templates that you get through some of the pre-made
+websites.
+For me, the pre-made templates work well.
+Even if they've seen that template before, it doesn't matter because it's all about
+the experience of someone landing on it. Definitely video up top.
+People sometimes think their brand is more important.
+It's like JB Fitness and a dumbbell. I'm like, get that the fuck off.
+It's just another thing in the way. Just get that header video dead.
+Doesn't need a thumbnail. Also, sales videos don't need to be over-edited.
+They don't need to have transitions and swish.
+Raw, chilled, talking to someone.
+Where on socials, you do need to have a level of editing
+or whatever.
+I think sales letters, VSLs, just need to be chilled.
+Just you talking to the person and just letting them know, hey, this
+is what I do,
+this is why I think it could help, this is why I think you'd be right, here's the
+money-back guarantee, would love to see you in the program.
+Cheers.
+Even when you see people who sometimes are overly in
+character online, even myself sometimes, when it gets to a sales video on a landing
+page, I'm chilled. Like Gregg Doucet, "Hey, guys, wah." But then
+in real life, he's just chilled. It's like, yeah, Gregg, whatever.
+Don't make them too long. Again, better someone wanting more information
+that
+contacts you, "Hey, I just want to know how long I actually
+need to work with you
+to get here." Cool. Reach out to me.
+Don't try and over-deliver every single thing that person would need, because
+they're probably just going to start scrolling and just bounce. What else?
+I'd say they're the main components. The video is so important.
+I didn't realize until I started putting them in some of the ones, especially
+when you can verbalize a money-back guarantee as well.
+And just don't cringe, be like, look, not everyone I work with loves it.
+They don't.
+And for that reason, if you don't love it, I'll give you money back.
+And people go, fucking hell, this person's real.
+This person's given me an out. This person's actually honest with me.
+You can even make up a statistic. I'll be honest,
+90% of people choose to get a
+refund. Why is that? Well, maybe it's work ethic,
+maybe it's finances,
+whatever it is. But if you're part of the 91%, see you inside.
+I would have an onboarding call. So let's say people should have questions
+when
+they join your program, but I don't like the idea of being on a
+call with someone
+who might not do business with me when it's much more likely
+that I get them to
+join and then I over-deliver. And then also,
+let's say you do the onboarding call, I don't want to turn up to a call thinking
+I
+have to sell them. I want to turn up to a call going,
+"Welcome. Excited.
+Tell me about yourself. Send me a video of your home gym setup.
+Tell me what you want to do. Why is that?" Challenge them,
+have a bit more fun.
+And even just that interaction is so much better.
+I even found that when I onboarded clients, I'd say,
+"Send me a video of yourself."
+And they'd get petrified. And I would be like,
+I could actually tell what program
+I'd write them from the video they sent.
+So someone would be like,
+"Hi, my name's Lucy. I fucking hate doing these video."
+So I already know in her program, she's going nowhere near a squat rack.
+I'm going to be getting her to goblet squat with a kettlebell because I know the
+dumbbell that she wants is probably a 12 or 14 kg,
+and I know the meatheads are
+going to want that one. So like you get to learn the person
+that you're speaking
+to. I never got on board with the idea of
+having to try and
+close someone when I could just send them to a place that could do it for me.
+Whatever they ask as a question, just sell them a money-back guarantee.
+"Oh, James,
+I've been in mentorship..." Because it's not actually the question they have about
+the program, it's a question about trust. That's what they're trying to fish out.
+Am I wasting my time and money? That's really the only thing people care
+about.
+That's it. And if you can just remove all the
+hesitations that they have, great.
+Like even,
+if someone, say I'm walking somewhere and someone's like, "Oh, James,
+I'm thinking
+about joining your mentorship." They're actually kind of asking me to sell them
+into it. They're kind of asking me to take away all
+the insecurities they have.
+I'll just tap them on the back and be like.
+Or if they've been stung before, I'll say to them,
+"Six-month money-back guarantee.
+Here it is in writing." And they're like, "Six months?" I'm like, "Yeah, you can
+fucking rip everything off from the course." And like I say, I'm
+transferring the risk from them to me. And then they go, "Oh, that's nice.
+No one else is doing that." And a lot of the other mentorships do bang
+the sales
+calls because it is easier for me to say, "Ring that cunt"
+than it is to talk about color palettes, video sales letters, stories,
+links, analytics, conversions, traffics.
+Just telling people to jump on a call with someone means you don't have to get
+better at all that stuff. But it's not scalable.
+And again, there are people here that might only have a few thousand
+followers, and
+I'm talking to them about how to make elite content and hide their microphones.
+It's overkill, but I want to plan and set you up for where you
+are in three years'
+time, not now. Because if I get you, and I just get you guys all good at
+fucking
+bashing people on the phone, what happens when you run a challenge with
+people and 48 of them want to jump on a call, and then you've got
+so many things going on in your life.
+I just don't think it's congruent with success long term.
+And I know Sean loves his sales calls.
+I say, "How many are you doing, brother?" You know like,
+I don't see the sales call button on glean.com. You know what I'm saying?
+And I've been on the website. I see you hiding your prices, brother.
+Get them on the email list first. I see your sales funnel, brother.
+You know what I mean?
+[dramatic sound] Do you know what?
+It does the same thing, but I've just never used ClickFunnels.
+Like it's pretty much the same thing.
+And they appreciate that dudes don't know color palettes.
+They appreciate that men have no design.
+Like for dudes, yeah, we have TV, biggest we can fit in the room,
+sofa right in front of it, wet wipes in the toilet, that's it.
+[laughing] All right. That's all we care about.
+Women are like, "Nah, we need a throw on the sofa." You're like,
+"What does this
+even do?"
+So websites like that are great because it just takes away all
+the shit we're not
+good at and allows us to put things in it.
+But yeah, a good landing page, makes all your problems go away.
+Then any inbound stuff you get, even if you just set up a chatbot
+that responded
+to every single DM, "Hey, sorry, this is an automated message.
+I'm incredibly busy at the moment.
+I'm probably with my child, coaching someone,
+or working with my clients.
+I would love to get back to you one-to-one.
+But in the meantime, if you are considering working with me,
+here's a website you
+can click on that will answer every question you have.
+Maybe see you inside, maybe not." [dramatic sound]
+One thing, this is a little trick I haven't told too
+many people about.
+All my webinars I've done, I'm reading a teleprompter.
+So it's a live stream, but no one knows I'm reading a
+teleprompter.
+I spend about six hours writing the entire webinar, so
+that when people see me live, they go, "Fucking hell, this guy knows this
+subject well." And I can then do a fucking long paragraph without
+breaking stride. And then it also means
+that my call to actions from the webinar
+are regimented throughout it. So you could write like a long piece,
+whatever
+it is, because actually what I'm doing is I'm creating a long-format
+video that is just being presented as a live stream webinar that we're getting
+people into, but I know then it's going to be evergreen
+afterwards.
+So let's say you would hammer organic.
+"Hey, guys, just so you know, there's a free webinar.
+It could change your life.
+Drop a jean size webinar. Drop a dress size webinar," whatever it
+is.
+You could then spend a bit of time
+rehearsing, pre-recording, whatever it is.
+You can get apps on iPads,
+that then sit beneath the camera with a little mirror.
+There's a company called Newer that do these like little iPad holders.
+So then you have a little clicker that clicks on it.
+Ed from Film Booth, Creator Booth, all scripted.
+Have you noticed he has a clicker in his hand?
+Russell
+Brand. No, Russell Brand, the guy from, what's the film?
+You sound like you're from London. What's it called?
+"Forget to Tell Marshall."
+Yeah, "Forget to Tell Marshall." Is it Russell Brand?
+That's the right guy, isn't it? Teleprompter.
+Have you ever noticed that he's got really amazing speech where
+he's like, "This
+far libertarian, neoliberal person from the right,"
+and you're like, "Fuck, this
+guy says... He's reading a teleprompter." Tucker
+Carlson, reading a teleprompter.
+Every motherfucker. Iman Gadzhi, reading a teleprompter.
+I don't even think that he made the script he's reading.
+He's just a puppet.
+You see it on the news, right? When you're on the news, they're like,
+"73-year-old
+from South Brisbane found brutally mu..." They're reading.
+Everyone online in media is just reading. Because guess what?
+To get people to say exactly what they need to say is fucking difficult.
+Even professionals can't do it. So when it comes to doing a webinar, you can
+freeball here and there, but if you had a structured, written plan that
+you read intermittently between it. Here's another thing we do.
+Fuck it, you guys are here. When people are asking questions,
+he's in the back
+end knowing which questions I answer best, and then he texts them to
+me to read out on the webinar. The whole thing is curated to look
+really raw, but to really have the most impact.
+So again, if you were going to do like a live stream,
+again, this is where it comes
+down to like over-delivering, overworking on it.
+People being like, "Oh, the guy's just on here spitting questions
+and answering."
+No. Premeditated. Five grand in paid ads.
+Like everything geared up towards this one video, because it could be worth so much
+to your business and time. And then here's another thing as well.
+So let's say you do run paid ads, and you're like,
+"I'm going to put £500 into
+signing up for this webinar." All the people that don't turn up still get
+emailed
+an offer. So that's it. The data is king.
+All of the people watching IFS live stream and you don't think they're getting an
+offer to the mentorship? Shut up. All of you in here, if you're like,
+"James,"
+don't worry, you'll be getting an email.
+Don't worry, I've got all your email addresses.
+None of you are getting out of here, even the people in the mentorship,
+I'll sell
+you again.
+[dramatic sound] Yeah, so one thing we were talking about
+which is really good
+about journaling is a really powerful thing that people get a lot out of.
+It's one of those things that people know if they did it,
+they'd probably feel
+better. Yeah, I think having that physical product,
+I think just selling it and
+just saying, look.
+At the end, I'll just attack them a little bit and go,
+"You don't spend any time
+considering or thinking about the way you feel.
+If you buy this fucking physical item that my mom's going to post to you," she's
+still doing them, "you're going to fucking feel better.
+And if you don't, let me know, I'll refund you." Whatever it is.
+I think just having something punchy like that.
+Even one of my mates who is
+football fan, drunk hooligan, same guy who said about the pillows,
+he got a few beers in him. He said to me, he was like, "Started a gratitude
+journal." I was like, "Excuse me?" He goes, "I wake up,
+I've got to write down
+three things I'm grateful for." He goes, "I feel amazing." He
+goes, "I'm thinking about the things I'm
+grateful about." He would be the first
+person out of all my friends to go, "Huh, gay." He loves it.
+[laughing] Loves it, mate. So,
+yeah, just when you get to the end of
+automation, you'll be like, I've done this to
+make you think, to make you do, to make you do whatever.
+Now you should say even something like, "I've done everything I can.
+I now need you to make yourself feel better.
+And the way you can do that is to buy this." Yeah, I think it's cool.
+I still want to see the bit of content with your mom in it.
+You live in Dubai, yeah? Your mom's actually physically help
+posting the journals.
+Yeah. For the summer I'm back in Ireland, though, going back to 49 North.
+I think that's great content. Be like, "Hi, it's my mom.
+She kind of works for me. So if you buy this journal, she'll post it.
+But don't worry, I'll look after her." [laughing] "If we
+sell enough of them, I'll
+take her somewhere nice. All right, Mom, back to work." [laughing] And I think
+that humanizes you as well. I think the humanizing thing.
+So imagine this, when I surprised my mom coming back
+from Australia with my kid, the one thing that blew up my DMs is
+that my mom still
+has all my posters on the fridge. So it was the fact that,
+we can have the jet, we can have all this stuff,
+but the thing that humanizes it is
+this guy's parents still have the first things he ever did stuck on the fridge,
+newspaper cutouts. And I think the humanizing side of it
+is really good because you
+do want to be the professional. You do want to be the person
+that does the hooks,
+the landing pages, hides the mic under the shirt.
+But then at the same time, they're like, "Oh, this is just someone's son.
+This is just a family person." I think that's a really important part of it as
+well. Even with the kid. I think our last challenge for coaching
+did
+so well, I think it's because I had a kid. They're like, "Oh, poor guy's fucked.
+I might finally join his program. He's one of us now, just fucking aging,
+getting
+gray in his beard and shit." So, yeah, the humanization of it is really good.
+Yes, but no one's getting missed out, don't worry.
+How are we looking on time, by the way?
+Fucking hell. Pumping, cooking on gas. Yes.
+[dramatic sound] The better you can take things away from it and help them
+understand, it'd be the better. So again, I joke about fingering.
+Because then people go, "Oh, what the fuck?
+Where did that come from?" But sometimes, like I've always said, no man knows what
+it feels like to get fingered. So you just got to kind of try things out
+and watch
+for a response. And that's the exact same thing we do with
+social media.
+So again, no one in their right mind would talk
+about fingering to get better at
+content, but then you can. I'm not saying it should be a good reel,
+maybe more for
+a talk that's private. More so, if you can find something completely out
+of context
+that relates back to it a bit. Let's look at spreading calories out
+across the week. You say to someone, "No human being spends the same amount of
+money every day. So why should I expect you to eat the same
+amount of calories
+every day? Truth is, at the weekend, we spend way more, and during the week, we
+reign it back."
+That is an approach you can have with your calories.
+If you want to be Billy Big Balls and go out and even go to Waitrose,
+you can do it
+at the weekend, but during the week, you've got to make up for it or you go
+bankrupt. I think having a way and a means that you
+can take someone away from the world of fat loss and then bring them
+back, analogies, metaphors. ChatGPT is really good for this as well.
+So you can go in and be like, "Hey, I'm making a reel about fat loss.
+The props I have available are Skittles,
+two pint glasses, and three balloons.
+What can I do?" Obviously, it's not the best response, but you go,
+"Give me five
+analogies. Give me five metaphors. Give me five similes." Do you know what?
+I couldn't actually give you the definition dictionary of them.
+I get them all muddled up. So sometimes I'm like,
+"Great analogy." They're like,
+"It's a metaphor." I'm, "Fuck off." [laughing] So even ChatGPT,
+whatever you
+can to make it easier, just try and remove it out of context,
+whatever you can.
+If you ask for 10 examples, ChatGPT will give you nine shit ones,
+but you'll get
+one and you go, "Oh, that's quite a good one." Yes.
+[dramatic sound] So let's say you create an amazing 11-page PDF.
+Imagine if you were to send one page every day via email with a bit of context
+around it and a bit of fun. Do you know what I mean?
+If you're going to go to the effort of making a massive asset that's 11 pages
+long, could we break it up and give it to them in bite-sized chunks?
+Because telling me how to make a spirulina fucking salad and how
+to cook a steak perfectly in the same thing, I'm like, "What the fuck?" Like,
+it's
+too much. But if you had an email which was like, "Hey, here
+are three fundamental
+things you need to know about salad." Oils.
+What was the thing I asked you on the call? Yeah, you were like...
+Oh, which one was it?
+You spoke about something, and I was like, "Margarine." Oh, yeah, it was in the
+Discord. I thought margarine was bad. Yeah.
+It's not. Make it a fucking email. You know what I mean?
+So I think you just get pumping to the point that you're starting to get loads of
+traction with those reels. Your average is still in the thousands, right?
+For the new ones you've been putting out. Yeah. I see everything.
+So then with that, just get to the point
+that maybe towards the end of it, maybe
+try a carousel, maybe try a reel, maybe do something.
+Be like, "Hey,
+if you thought margarine was bad for you and
+that olive oil shouldn't go on a
+salad, then you're probably making loads of
+mistakes.
+So if you give me your email address, I'll debunk those myths." There
+was a study
+recently about olive oil, and I think it was even fat loss
+or something.
+I can't even remember what it was. But it really changed the way that I was
+thinking about olive oil. For me, it just seems like you're just dousing
+calories
+on shit and making it worse. But if someone can get to that soon and
+explain to audiences maybe those misconceptions that we have,
+because I guarantee,
+I stand here as maybe a bit of a self-proclaimed nutrition expert,
+but I know
+there are things you know that I don't know,
+and the only way you're going to allow
+me to know the things that I don't know that you know
+is to put it into content.
+Because if you were to try and say to me outside,
+talk to me about margarine, I'd
+be like, "I don't care." But if you put it in a reel, I'd be like, "Oh,
+that's
+interesting." Because that's where I go to to learn new things. Yeah. Make sense?
+Where was the next hand that was up?
+[dramatic sound]
+How many clients would you need at what price point to be better off financially?
+Doing what I'm doing now, I need 100 clients.
+But then there would be some nuances to that because in corporate,
+you're on PAYE, so that your tax is taken
+to go straight to the HMRC or whatever it is.
+Whereas if you were self-employed, you could be able to potentially
+negate some of your tax bills. So for instance, but if you've got your...
+This weekend, are you expensing that against your side hustle?
+Yeah. A legitimate registered business.
+So you could still be quite tax efficient doing both.
+Do you want to be in a world where you don't do corporate anymore?
+I'm 40 next year and that is my ultimate goal.
+What dependents do you have?
+Four-year-old. It's tough because I can't tell you here
+to quit your job or
+whatever, but at some point you probably will have
+to. Yeah.
+How much do you enjoy your job? I don't. I'm working really long hours.
+If you were to leave your job, how hard would it be for you to get
+reemployed?
+So then why not just fuck it off for a bit, see what happens?
+If you double down into it- I've got bills to pay. Of course you have.
+Of course, I get that. But,
+otherwise, what, we could be here in five years' time,
+and you go, "I'm still in
+corporate." I go, "Well, imagine this. In my mind, there's only one way out.
+You know that way out as well. You're just looking for someone else to
+confirm it.
+But, ultimately without you doing it, maybe next year you go, 'Do you know what,
+James? I quit corporate, didn't work out, went back into corporate.'" Even the job
+you go back into might be higher paid, you might enjoy it more, and you might do
+less hours. Doing the same thing right now,
+I just don't see that as congruent
+with your goals. And also, imagine this.
+If you look at sometimes people's careers or you look at people's lives or
+whatever, whenever there is a bout or a period of really fucking
+impressive shit, it's usually after something shit.
+People have a breakup, they get an amazing fucking revenge body.
+People's business goes under, the next business,
+they float onto the fucking stock
+market. Right now, your capacity for being really impressive
+is
+hindered by your job. You might surprise yourself as to how
+quick you get those 100 clients when you need to.
+But right now, you don't need to, and that's the biggest problem.
+Like,
+when I started PT-ing on the gym floor, or actually even better yet,
+before my
+career skyrocketed, I was stuck in a dilemma that
+if I didn't make
+more money, I had to move back home to my parents in
+the UK.
+And having that hot, spicy poker up my asshole every single
+morning, I
+got out of bed like, "If I don't make today my bitch,
+I'm moving home to
+Winkfield." There's not a lot going on in Winkfield.
+I like my mom and dad, but
+when I get back from Australia, I'm like, so good to see my family.
+By 9:00 PM, I'm arguing about politics. By two days later, I'm bored.
+I was not going back to Winkfield. And if you leave the corporate world, the only
+person that determines whether or not you go back is you.
+So I do think you should do it. So I've thought about going to PT on the
+gym floor
+as well. Oh, yeah. When you quit corporate,
+you need to be somewhere that you can
+fucking just pepper people all day.
+Because doing it online means that you might not have...
+And you can slow the bleeding being a face-to-face PT as well, especially
+if your
+demographic could be very similar to yourself.
+Because you say you're 40, female, training with females.
+If I was a 42-year-old female that wanted to get in shape,
+I'd much rather you came
+up to me than some of the younger pretty ladies, no offense. You know what I mean?
+Because the 22-year-olds come up with the Gymshark leggings and they go, "You don't
+know what I'm going through." But the pretty ladies of you that
+are 22 in
+Gymshark leggings, the chicks that are doing the barbell hip thrust
+incorrectly
+that are 19, they're probably going to hire you because
+you look like the people.
+Not the old ugly ones. Not the old ugly ones.
+But ladies 40s going into 50s, perimenopause, menopause, all of that
+stuff, amazing, and sometimes financially in a much more
+safer place to invest in things like coaching. You know what you need to do.
+It's scary, of course. But even if you monumentally fuck up,
+you get reemployed. Just try and get some coverage so that you
+maybe have one or two months' worth of money to be able to cover bills.
+But you're never going to be able to see what the impressive thing is that you want
+to do unless you do it. Otherwise, you're... All right, here you go.
+No problem gets better over time. Tooth ache.
+If you don't address that motherfucker, you're going to have a really bad few
+weeks
+and months. When people are unfit over time, time
+decays everything. However you feel about your situation now,
+it's only going to
+get worse unless you change it. Pull the tooth out.
+It'll be unpleasant, but in a few months' time, you go,
+"Fucking hell, it was
+amazing." Bit like a toxic relationship. They never just get better.
+You're never like, "Oh, my husband used to beat me
+and now things are all right."
+[laughing] It never happens. So you know what you need to.
+It's going to be scary.
+Do you have a partner? What did he say about it?
+That's also your complaint because I'm carrying him.
+Oh,
+dear oh dear. You could hire him and make him your bitch when you get busy,
+though.
+[laughing]
+What does he do? Bike fitter. Bike fitter. Interesting. Get rid of him as well.
+I'm joking.
+[laughing]
+The only issue I have, I'll come to you in just a second, is that
+imagine
+I'm getting married in Ibiza next year. I've not dropped a knee yet.
+I only drop knees for single legs. But
+let's say I get married and someone's like, "Oh,
+there's this amazing
+photographer." I go, "Sweet." And I go to hire him, and he's like,
+"Yeah, I'm actually a tax accountant, but I do wedding photography in my spare
+time." I'm like, "You're coming nowhere near my wedding,
+brother, because you're a
+fucking part-timer." Like, "Oh, there's this yoga instructor." And she's
+like, "Oh, yeah, I actually work in Lululemon,
+but I teach yoga on the side." I'm
+like, "Well, you can't be that good at fucking yoga." Yeah.
+The hindrance to your business as well is that you're an accountant that does PT,
+and it's always going to be that way until you're not.
+You wouldn't even be able to look someone in the eyes and say, "I'm a personal
+trainer," because you know deep down that you're only kind of a personal
+trainer.
+Yeah. Oh, you're fucked now. You're quitting. Call him up now.
+Get him on the phone.
+[laughing]
+Get him on the phone. Yes, the question.
+I have one more.
+That's all right. You're dressed very smartly.
+Thank you very much.
+I like that.
+I get the linen to linen hour.
+Yeah. I see you.
+I would always have a Facebook group for paid clients because what a lot
+of people come to you for is a training program.
+The reason they stay is they get community.
+So some people want to work out, but they're really hungry for community.
+They come into your Facebook group, they get the workout,
+they find a community.
+You go, "Hey, pay my program." They're like, "Why?
+So I get a new program?
+I'm already part of the community." I don't agree or think it's the most optimal
+way to do it, because now you're running two groups.
+One paid and one not paid.
+So, I join you right now, I get a training program, I get put in a
+group, and you say, "Hey, pay me." How much is it? 897. 897?
+I think I'll stick with the free one, thanks. You know what I mean?
+I get it, but at the same time, I just don't see the point.
+Two Facebook groups, it's just confusing me.
+How many clients you got on 897?
+I've got, like, 30. That's all right. That's decent. It's going well.
+Making a bit of cashish. Okay. So, this is another thing
+that I see people making a
+big mistake with. You want commitment periods.
+Six month minimum, three month minimum.
+You want it because you're worried they're just going to leave.
+But if you offer a money-back guarantee, they're just going to fucking leave
+anyway, right? So maybe don't make that amount.
+Because also, 897, I'm suddenly thinking, fucking hell, it's nearly 1,000 pounds.
+Whereas you to say 75 pound a week, you could even then start to collate it or
+make it a lot closer to some of the costs that they're thinking about with coaching
+anyway. You go to your local PT at the gym
+and see him twice a week, oh, it's going
+to cost you 80 to 120 pounds. Mine's only 75.
+And with that, you don't just get two workouts,
+I'll write you five, and only three
+of them are at the gym, and I'll check in with you every day.
+Then you can start to make your offering look a little bit closer.
+And again, I don't know if this is wrong or right,
+I love taking these big costs
+and making them seem smaller, and also just saying to someone, "Hey,
+just give me
+your first week's payment." Because other coaches exactly like you, not
+exactly like you, not wearing linen or whatever,
+but other coaches out there are
+looking to do the exact same thing.
+And the person that says, "Oh, yeah, just pay me. It's this much a week.
+You can pay me in advance if you want, but ultimately, my program's fucking
+awesome. I don't need to get a grand off you up
+front." It's just one of those
+things where also, this event, IFS, you would be surprised how many personal
+trainers, business owners, people that can literally go up to people in a
+room full
+of weights and ask them for cash, do not have 1,000 pounds.
+How many people did the payment plan? A lot.
+Maybe like 80% of people that have businesses,
+we've never had so many
+fat people, and personal trainers do not have 1,000
+pounds
+to piss out of. So, when you're creating a fitness program for
+general populations
+that have just regular jobs, their families, independence,
+everything else,
+sometimes some people get to that point.
+They go, "Fuck, I'd love to do that program.
+I just don't have 800 pounds." But if you were to say, "Oh, it's 300 a month,
+or
+it's this, or it's this, or it's this," you could also reduce the
+barrier to entry.
+And I think that is also another kind of powerful tool that people need to look
+into, because you're just looking to mitigate
+risk.
+You just don't want people to waste your time.
+But at the same time, if I said, "You might get a few more time wasters,
+but
+loads more revenue," you'd probably do it. We do this quite a bit, actually.
+If you were to send out an email, how many are on your email list?
+I've got, like,
+600 people. Cool. I'm not emailing it, though. Okay.
+But you've got 30 customers. So, if you were to leave this room today
+and go, "Hey,
+guys, do you know what? I'm scrapping this 897.
+I'm actually just going to make it a monthly payment.
+So, the offer is, it's 300 pounds for your first month,
+which
+is pro rata what it'd be anyway. I'm going to do your program,
+add you to the
+community. I'm also going to extend the money-back
+guarantee from two weeks to a
+month. The reason I'm doing this is, I want you in the program to see how great
+it
+is. You either love it, or I'll refund you your money." You could
+probably close 40
+or 50 people tonight from that one email. "I'm trialing this out.
+I'm not sure how it's going to go. I could regret it.
+So, for the next five days, I'm going to reduce the barrier to entry,
+so you only
+need 300 pounds to be in my program, not 900." Either way, you earn the same
+money, you just get more sales. You might have some time wasters,
+but you just look
+like a fucking G, because you're like, "Hey,
+don't worry about it." Someone joins,
+does a couple weeks, waste your time. Don't worry, I got 50 clients last week.
+It doesn't matter. So, that's something I would maybe consider.
+Facebook group, gone. Barrier to entry, down. Yeah. Just a bit more risk.
+You seem like a young chap. You live at home with your parents? Yeah.
+Yeah, I've seen it from your content. I see your kitchen.
+That's not a boy's kitchen. That's a family kitchen.
+Yeah, it's one of those things that I'd be like, they're just some ideas.
+It's just a question you could ask people.
+It's a campaign initiative that you could run to potentially make
+three grand
+tonight, and we could spend it all out tonight on
+booze and going out.
+We could do anything you want. But yeah, the barrier to entry, when I hear 1,000
+pounds, I'm thinking fuck it. My mentorship, why I help you, is
+cheaper than your coaching. I'm rich, don't worry.
+But I don't want Sean Casey here, "Oh, look at me." Got to play it cool.
+See this drink? Don't worry about it. I'm good.
+I'm
+flying back BA, but still. All right.
+No, it's one of those things where optics
+again, 897 pounds is going to make a
+lot of people feel ill. Your coaching could be amazing.
+I'm sure it is.
+But for me, that just seems like an unnecessarily high
+boundary to get people into
+your program. Because someone might need your help,
+they just don't have 800 and
+fucking 90 quid. Neither did I after my Amex bill after
+Vegas. Yeah.
+I didn't have 800 pounds. I was like, "Fucking hell." But yeah, so it's just
+something to consider. I'm not asking you to charge less.
+I'm asking you to give people more options.
+I'm asking for you to be more vulnerable on your end so that people can actually
+buy the thing that you're selling.
+[whooshing sound]
+So, for the 3,000 email addresses you have,
+don't send them back up the
+funnel. You can, I just don't think it ever looks
+that great when you go
+get an email and someone's telling you to go to social media.
+You're like, "Mate, I've literally just come from social
+media.
+I've just been scrolling my life away.
+I've come here to pay off my Amex and go through my bills." Well,
+I tell you what.
+Let me interrupt you. Sorry about this.
+Those 3,000, I want you to sell to them so hard
+that list
+becomes 200. Buy or die. Just hammer the fuck out. Diran, right?
+Is he in here?
+Diran's Turkish email list. How many has he got?
+400,000 people on the email list.
+I go, "Diran, do you know what would be better?
+200,000, where 200,000 people have unsubscribed,
+but you now have
+10,000 more fucking clients." He's more worried about losing email addresses than
+he is about making fucking money. So, that 3,000,
+do you know what it sounds to me
+like? They've not been sold to enough.
+Because if they had- I have a new-
+Buy or die. Buy or die. Buy or die. And the other ones,
+the bigger list, the 10,000, oh no, 10,000 followers to go onto the
+list, maybe just run some kind of frequent
+campaign or maybe even
+a paid ad, because your paid ads are doing quite well for the growth,
+right? Cool.
+Could we not, for just a little period, spend that 50 a day on getting email
+addresses? Maybe too soon. They've only had one point of contact
+at this point.
+So maybe, is there not an initiative where we could
+say, "Hey, let's take that 50
+euros a day and let's put it into a campaign to go to existing followers to
+get
+their email address." And you could even have a video going,
+"Hey, I see that you
+follow me. I really appreciate that.
+What I'd love to do is to open a line of communication over
+email.
+If you don't like them, you can unsubscribe after the first one."
+Because you're
+paid
+Our ad stuff at the moment is going towards growth,
+when really it might want to go
+towards conversion. Even if we just, it's like a bulk and a cut.
+Maybe we stop bulking for a bit and we do a bit of a cut for a bit.
+We spoke a little bit about pricing structures.
+Another point that's kind of really fucking,
+and we're never going to get through
+all of this.
+We spoke about it a little bit before.
+Those of you with smaller accounts, I never heard of this terminology till
+earlier
+this year, but so much of what you're looking to do
+with content is accrue
+goodwill. If your call to actions are falling flat on their face,
+it's because you
+are not putting out enough good content that's having a meaningful impact with
+people. Because if you can turn up and revolutionize someone's life with your
+content all the time. Sean Casey again, love using him as an example.
+He made so many amazing reels, and he got
+people to think so much about fat loss, fitness, and everything, that when he
+released a fucking PDF recipe book, which I
+guarantee the majority of people didn't cook a single
+fucking recipe out of, they bought it as a means of paying
+back the goodwill. Sean Casey, literally, anyone know how much it was?
+€27?
+I think I worked out he did 40,000 sales at €27.
+He did over a million euros from his PDF recipe thing, right?
+That was people just saying, "You're a fucking legend.
+You've helped me so much.
+Let me support you." When I released my first book,
+the majority of people I
+don't think even fucking read it.
+I think they just went, "Love your content.
+Let me give you something back." So what you want to do with your content strategy
+is accrue goodwill through posting regular things.
+Again, who in here does jujitsu, apart from yourself? Cool.
+Have you ever bought an instructional before where you're like, "Craig Jones,
+you're a fucking legend." Buy your instructional, never use it.
+But you're just literally trying to put money in the pockets of the athletes who
+you respect and you like. So, so much of your content strategy, even
+if you don't
+do call to actions for weeks or maybe months on end, just rest safe
+knowing that you are accruing goodwill within those people, and then
+when it comes
+to the point that you're relaunching your program, whatever it is, that they will
+buy. I think that's such a good mindset to get
+in when thinking about
+what it is you're doing. Because if you're just posting stuff
+and you're like, "Oh,
+I haven't done a call to action in a while.
+I haven't asked anything of my audience." Just know that you're building this
+invisible force within strangers where they will feel compelled at some point
+to give you their money. Now, I just want to make sure I don't miss some
+of these
+things. But what I'm going to tell you,
+we were supposed to talk about this more.
+I've made an underrated category and an overrated category,
+and I want you guys to maybe challenge me, disagree with things, question me,
+and we'll make that the Q&A for the last half an hour.
+So,
+things I think are overrated right now in our industry, asking for follows.
+Other things I think are overrated is putting too much energy into TikTok.
+I do not think the platform has matured enough yet for us to reap.
+I like to think that so many different social media platforms are like planting
+seeds that we can harvest later. I think on Instagram,
+you can plant some seeds
+today and harvest in nine months time. I don't think TikTok is there yet.
+I think TikTok is only at the place where the real place to get sales from it is
+TikTok Shop, which you would need a product for.
+It's the weirdest landscape at the moment where basically for Nutonic, people are
+like, "You need to be using TikTok shop."
+And there are people out there that are
+like, "Oh my God, I found this drink and it's really helped me" product,
+they get
+£3.50 commission a thing. I think that doing gym content, talking about
+muscle growth
+is overrated unless you are fucking jacked because you are
+just opening yourself to get torn down and ripped apart.
+And those of you talking about it are doing it because other creators
+are doing
+it, and they're also getting torn down.
+It is so difficult to be an authority in muscle growth.
+You are so much better positioning yourself as talking about the
+evidence-based nature of training.
+Do not say, "If you want to get jacked, if you want to get big, if you want
+massive arms, if you want to build muscle." Don't use
+those.
+"If you want to maximize your bicep training,
+these are some exercises you can do.
+If you want to get good variation in your back training, these are the three grips
+that are important." Make it about the evidence-based training
+principles. Do not make it about absolute muscle
+growth, because even the
+hooks are in the framing of the wrong place.
+If someone was in financially really bad trouble and tried talking about making
+money. This is why I don't trust financial
+advisors, right?
+Financial advisors are like, "If you give me your money,
+I can make you rich." I'm
+like, "Yeah, but you make your own money
+and you're not rich, because if you were,
+you wouldn't be asking me for my money to make you rich." You know what I mean?
+You ever feel that? They're like, "I'm an expert in managing wealth."
+Where's yours
+then? Anyway, that's a whole fucking other thing.
+Overrated, PDF squeeze pages. Overrated, training plan
+squeeze pages. Overrated, read caption posts where you're
+just trying to do some six-second fucking video like, "Read the caption.
+Read the caption." Hate it. Wearing vests in content.
+I know I'm wearing a vest today, we're in Ibiza, right?
+Tom Bailey PT, always wore this like Lululemon fucking
+beta.
+I was like, "Mate, you look like a cunt.
+You look like a cunt because you're not big, you're not jacked." Also, if you have
+tattoos or... It's obvious, right?
+There's that fucking Pat O'Dwyer guy who literally goes like this,
+"Oh, yeah, guys, I'm fucking..." Like when he's doing content.
+I know what you're doing, bro. You're just trying to show off your traps.
+It's fucking shit. If you want to dress, plain T-shirts, don't
+wear shit on it. Darren did an event in Manchester wearing
+a Marvel T-shirt, and it
+was like the most colorful fucking thing ever.
+And people I could just see were just staring at his T-shirt
+and not listening to
+him. Presentation, look professional in some respects.
+If you're going on a first date with a girl, you wouldn't wear a vest, so don't
+fucking do it in your videos. If you're doing some training stuff, cool.
+But again, it's one of those things, just little changes.
+Not wearing Grenade T-shirts, all right? Are they paying you? No.
+Then don't fucking wear it. Lululemon, good man. That was expensive.
+It's all right. I paid for it. So, sales calls versus objection handling,
+underrated. Having your video eight mile the shit out
+of them, just objection
+handle everything beforehand. Overrated, talking about yourself.
+Overrated, free rent in gyms. Overrated, paid ads early
+in the content game. So,
+if you are just starting out in content and you want to do paid ads, you're
+probably not that good at doing content to do paid ads.
+Because if you're someone that's, "Hi, my name's Josh."
+If you can master and dominate organic content,
+when you turn up to do paid
+content, it will fucking bang. You'll get a much better return on ad
+spend because
+you are more competent, you are better at using a camera, you
+are better at
+lighting, setup, everything. You know in "Fast
+and the Furious One" where Paul
+Walker uses his NOS too quick? That is people with paid ads in the
+fitness industry. You want to get as far as you fucking can
+with your organic,
+then press the nos on the paid ads when you get to the tail end.
+It's not a prerequisite. It's something you do further down.
+Another thing that's overrated, so there's showing high ticket.
+Those of you that are trying to charge heinous amounts of
+money for coaching, I can
+see it in your eyes that you don't even believe it's worth it.
+You've just had a business mentor that's told you it's the way to do it, and
+they're just trying to fucking wank themselves off.
+"Yeah, I helped this guy build £50,000 this
+month."
+And you're like, "Mate,
+they signed them up for six months in advance high ticket.
+You're just making it look like you're fucking better at your job than you're
+not."
+Okay. Things I think that are underrated at the moment,
+that I definitely think you
+need to double down on. Good audio.
+Too many of you using those clippy little shitty mics.
+Did I see you with one of them online? With the little fluffy bit on it?
+I steal the DJI still, mate. No, you got it. No, I meant behind you then.
+It was you. You had the mic, didn't you? The little fluffy bit on the end.
+Is it the cheap one from Amazon? Yeah, I remember. Yeah, I remember, mate.
+I see everything. Don't you forget, all right?
+The £20 ones on Amazon sound like shit.
+They sound worse than iPhone. I know the DJI mics are expensive,
+but they
+sound fucking good. Audio is such an important part in this.
+Your camera quality can be a bit worse if the audio is crisp.
+So much of what we do on content and listening to things is audio.
+I actually can watch YouTube when I'm driving because most of YouTube
+is listening.
+It's not actually watching. When you do watch YouTube,
+it's just the pattern
+interrupts to keep your brain happy.
+That's why so many of us actually learn things better when we're doing other
+tasks. We are audio learners better than we even
+realize, so please make sure the
+quality's good. Underrated, building your email list.
+Underrated, money-back guarantees. Underrated, autoresponders.
+Underrated, really high-frequency content periods.
+For those of you that are time rich, money poor, Eddie Abu,
+although I think he's
+a fucking cunt, was posting 14 times a day for a
+long period of time. You can tell how much
+that guy craves attention,
+one, through the amount of gear he was taking as a bodybuilder, but two,
+how quick
+he changed up his content approach.
+If you look at his content like three, four years ago, he's a real sensible guy
+just giving advice. But when that character came out, it just grew
+more on socials, and people felt they could relate to it.
+He then just doubled down, tripled down, quadrupled down.
+He putting out 12 to 14 pieces of content a day every
+day. [screen whooshes] Of
+course. But that's still high frequency.
+No one really puts out two pieces a day. Whatever you can do.
+But if you're someone that's only got two clients and you're only putting out one
+reel a day, what are you doing with your time,
+brother? You know what I mean?
+So the most amount you can get out. Maybe even it's two posts that
+are 6 out of
+10 and a repost, or it's one post that's a 10 out of 11
+and it's two
+reposts. When you have the time to do it, just fucking get content out there.
+And don't be afraid. Underrated, reposting.
+Again, most of my videos that have gone viral have been reposts.
+And again, if someone out there sees a post
+that you've
+reposted, and they go, "Fucking hell, mate, I've already seen this one,"
+probably not going to slip off their chairs to buy your program for $897.
+Whereas the people that do buy your program,
+I guarantee the 30 people that are in
+your program at the moment, are the type of people that go, "Hey, man,
+first time
+I saw that post, I liked it. This time, I'm just going to double tap it because I
+know what you're doing." They go, "Get that money, brother.
+Get that money." You know the Sidemen, Chunkz, Yung Filly,
+those people on YouTube, one of the best things they've done
+is created an audience
+that want them to make money. I saw Chunkz do a Pringle advert,
+and all the
+comments went, "Get that money, G.
+Get that money. Advertise to us, brother. We don't care.
+Get that cash, Chunkz." And you want the same, an audience
+that when you do repost,
+even if it's the third time, they fucking share it. I love that.
+When I saw it three months ago, I loved it so much,
+I'm going to share it again.
+And you are only going to push away dickheads and create a
+better audience of people that want you to do well.
+Again, "Friends," how many times has that been replayed?
+You don't see someone going, "I saw that in 1997." [laughing]
+Cool. I enjoyed it in 1997, and I enjoy it at the bottom of a
+comedown.
+I enjoyed it yesterday in the bath listening to sad songs. Whatever it is.
+So again, the frequency, underrated. B-roll voiceovers.
+So those of you that are shy, maybe in the gym, putting together
+content. So even talking to camera, we went through some of this.
+You're a weapon. How old are you? 40?
+45? 45. Look at that. I see everything.
+In the gym, you can do ring muscle ups.
+I'm like, instead of talking to camera where I can
+see you're a bit nervous, I want
+you talking to me while I'm watching you do ring muscle ups
+at 45, because now
+it benefits everything else that you're doing, and that B-roll just
+gives me the authority that I need to know
+that you know what you're on about.
+So for those of you that even if you're on the train or something,
+you could even
+just mash up a load of content and be like,
+"The most important thing that you do
+in training is just turn up," or whatever it is that you want to say.
+But again, B-roll is just footage. B-roll can be great.
+I'm just saying it can be great. Again, for those of you that don't know, every
+time you're training, even if you're just setting up your camera,
+film some of it,
+because there's going to come a time where you make a video, and when you're
+talking about something, you go, "Oh, I've got a video for that." I've got
+16,000
+videos in my phone. I know, "Oh, I've got a video from October 2021.
+I could use that." Just having those assets to overlay, people love being taken
+on a journey. I was watching...
+There's, what's his name? "Lost Civilizations" on Netflix,
+the bald guy
+that thinks there was a hidden tribe, the advanced civilization.
+What's it called? Graham Hancock. Anyone watch the Graham Hancock thing on
+Netflix?
+You did watch it, right? But in it, if you watch it, there
+is a scene change every
+three seconds. Every three seconds.
+You've got an A piece to camera of Graham Hancock telling his story, which I think
+is off a teleprompter. Then three seconds, drone shot.
+Three seconds, Graham Hancock. Three seconds, Jeep driving down the lane.
+Three seconds, something else. The whole series,
+there's no more than three
+seconds of one scene before they swap, and then your brain is like,
+wow.
+Same in content. Just keep people's brains moving.
+Got some people, a guy on YouTube called Ryan Humiston,
+who just walks around his
+gym with a tripod. He'll put the tripod down.
+"The three most important things for getting jacked shoulders,"
+and he can say that
+because he's jacked. He'll go somewhere else. Boom.
+"Is that you get the partial range of motion." Boom.
+He'll then sit on the leg extension.
+And those little changes are his pattern interrupts because he's
+not using B-roll.
+Underrated,
+showing off results But not testimonials.
+So what I'm saying by this is, so many people are, "Hi, here's my client,
+Becky.
+She lost 14 stone and she worked really hard in the program,
+and Becky and I, we've worked together."
+That doesn't work because guess what?
+No one gives a fuck. No one gives a fuck about your client.
+Becky gives a fuck because she lost 14 fucking stone, but your prospects don't
+give a fuck about a stranger. If I was to sit here and grab someone from the
+crowd
+and go, "This guy made 100k," you're like, "I don't care." But if you can
+position your testimonials in a way that people do care, so for instance,
+your hook
+could be, "Is it possible to lose 14 stone in a
+year?
+And could you do that without having to count calories
+and having breakfast on
+three days of the week?" Well, it is because Becky did it.
+And how did Becky do it?
+And you could tell a story about Becky and then position it at the end
+that it was
+a testimonial of a client. But really, you are telling a story to make the
+person watching it believe it's possible.
+You don't just do a testimonial post, you tell a story.
+And in that story, you make the person watching it believe
+they can accomplish the
+same thing because that's really what we're doing.
+Whenever I use a case study of one of people that I've worked with, I'm not
+actually trying to show them off, I'm trying to convince you
+that it's possible.
+A few more underrated, then we'll get into Q&A.
+[laughs] Another thing underrated, good expenses.
+Again, you guys are going to run businesses.
+There's going to be turnover.
+You should invest in kit, equipment, microphones, things like that.
+It can seem like wasted money, but there is a return on investment to
+come from it.
+And three case studies I just want you guys to be aware of before we get into
+Q&A. Who follows Sam Seaforth? Does funny skits, works for
+Grenade. The effort this guy puts into his content,
+he films the whole thing on CapCut, it's all done on his phone.
+He'll do a three-hour edit on his phone.
+Let me just check if that's his Instagram handle.
+Can everyone do this for me right now on your phones?
+Sam Seaforth, F-O-R-T-H. He's a nice guy.
+And let me see if there's a... He's got his three pinned
+posts at the top, but even if you just click the one with the little
+red
+things, he does these all on CapCut, and
+captions, scene interrupts, pattern changes.
+It makes it seem like it's quite like a... Sam? How do you spell it again?
+Sam C, let's see, F-O-R-T-H. Oh,
+sorry.
+Yeah. And if you even scroll down, you see there's a thumbnail
+of him holding a medal, right? Yeah.
+If you look at just the way he moves the phone before the video starts, the
+pattern, the zoom, the him to her to him, the
+captions to him to her to him. The effort he puts
+into every single transition, and he does this all on iPhone,
+and then he's running
+and he's doing stuff, and he's actually done a video during the
+marathon just so he
+could have this for his content. Sometimes when I'm ever feeling like I'm
+putting a
+lot of effort into content, I go watch people like Sam
+and realize I'm not putting
+any effort into it like he is. The amount of effort that people
+are putting into,
+we want to be able to be inspired by that.
+So I watch Sam Seaforth when I think that my content is good, and I
+realize I'm shit. Another guy that I spoke about before called Matt
+Armstrong with
+One T on YouTube. This guy is buying crash-damaged cars
+and fitting them up,
+which sounds like a thing that only dudes are into,
+but he's so good at telling
+stories that my missus watches it.
+My missus is now feeding the baby at home, watch- she doesn't like cars, but she's
+watching it because he's a great storyteller.
+I would love everyone to watch just one of his videos as your homework, and you
+will lose yourself in the fact that he's telling stories.
+So for instance, he'll buy a secondhand headlight from a
+car, but he
+won't just go, "Oh, here's a headlight," and put it in.
+He'll be like, "This has a different VIN number to the
+car from here.
+And when you buy crash-damaged cars, sometimes you can plug these in,
+and the car
+will not let the headlight work because it's a different part.
+This is to stop people stealing them." And what we've seen in London is people go
+around Porsches, and they steal the headlights because
+they're worth so much money.
+Then he says, "This cost me £680, and I just don't think it's going to
+work." Then he goes to his dad, "Dad, do you reckon it's going to work?" "I
+don't
+think it's going to work." He plugs it in, it works.
+"Come on!" And they're happy about it, and you're like, "Fucking hell, I'm happy
+for this guy. It's just a headlight." But if he just put the headlight in, we
+wouldn't have experienced the whole ups and downs of it.
+Then there's another one where he has an iPad. He presses start.
+We have seven days to get this Nissan GTR ready because it's going in for a tune.
+If we do not get this Nissan GTR ready, we're going to miss the date.
+They go in there, they're working all night.
+It's 3:00 in the morning, they're changing tires.
+Listen, that guy has millions of pounds
+and millions of fucking
+subscribers to his channel. If he wanted to get the car tuned a day
+later, it would
+be fine. But he's raising stakes in the story,
+making it seem like it's
+important. Imagine if you were like,
+"I've got to be training. There's a marathon in 42 days, and
+if I don't get ready,
+I won't finish the marathon. And worse yet, I've set the stakes that
+if I don't
+finish this marathon in under three hours, I'm going to buy V Shred's program 42
+times."
+Suddenly, there's a story, there's stakes to it. It's important.
+They're going to do things. What if it works? What if it doesn't?
+Another thing you see, "Top Gear." We all love "Top Gear." It's
+not a
+car journalism program. The ones that are our favorites are the stories.
+When they go to Africa, when they go to Iceland,
+and really the reality is they're
+just driving from A to B. But they don't just go from A to B.
+There are stakes where if their car breaks down,
+they've got to drive that horrible
+car back there. There's B stories.
+We've ended up at a racetrack, we've got a text,
+and we've all got to do a drag
+race. Everything that we feel the emotional connections to
+are
+stories. It's why, not to get too deep, reason people love
+religion, they're just good stories. Everything is based off stories.
+You want to get a million people to go to war, you best tell a good story.
+If you can bring storytelling into your content, because at the end of the day,
+Matt Armstrong is just buying crashed cars and fixing them.
+But that doesn't sound sexy. But when you tell a good story around it,
+it is.
+Same when it could be fitness, fat loss, anything else.
+If you can start to watch these storytellers at work, you can really
+appreciate how good their content is.
+Another thing that's done really well by Matt Armstrong is he has a camera
+with a microphone on it, but then he'll cut to scenes where there's
+another camera,
+and he'll do voiceovers. And then I was trying that with other bits of content
+where I was like, "Maybe I'll do the first bit of content
+talking to the camera.
+Then I'll do a voiceover. Then I'll come back to another bit of
+content."
+Look at what's working for other people and try and emulate it.
+And the third thing that I would say is a good case study for you to do,
+Adam Sullivan, who's here, who I had blocked for four years.
+I thought he was a cunt Sorry, he's still blocked on TikTok.
+He's now one of my best mates in the industry.
+He is one of the biggest
+encapsulations of having a strong brand.
+Adam has only 600,000 followers, which I know is a lot.
+Only 600,000 followers.
+He's making 1.2 to 1.5 million Aussie dollars a month.
+It's about £500,000, £600,000 a month.
+And he's actually only got 4,000 or 5,000 clients, but those clients buy
+everything from him. When he does merch drops,
+he does half a million dollars in a
+day. I've never seen a brand so strong on a
+creator so
+small. He's just a normal guy. He's no different to you.
+He did 10 years in fitness first. He even used to be a metaller in a rock
+band.
+So if you can look and epitomize from,
+okay, Matt Armstrong tells good stories. Adam Sullivan has a strong brand.
+This person creates this good content.
+If you can start taking inspiration from all of those people and bringing it
+towards your own businesses, you can have so much more pulling power.
+You might not have two Lamborghinis like he does at 34, but still, you
+want to be able to take some inspiration from all those different people and start
+applying it to your own. We'll go into the questions now.
+I want you to disagree, challenge me. Do about 15 minutes,
+then I'll piss myself.
+We'll go...
+No offense. Can we have a question from someone
+that hasn't asked a question yet?
+Yes.
+So I would say
+brand is where your professional identity meets your
+personal identity. You just have to make sure,
+I think we only have 10,
+15 minutes left because you want to piss. So one more time.
+Brand is personal and business identity mixed together.
+That's not to say there's a perfect ratio, but maybe it's 80% business,
+20% personal. For instance, now that I have a child, my brand is
+changing because my child is more involved in it than before.
+I'm doing more static images that are nothing to do with fitness because my
+brand
+has changed. I think
+that you should maybe get a picture in Ibiza and go, "I'm here partying, but I'm
+also here learning how to be a better coach." So then people don't just think
+you're a dickhead. And again, this is positioning.
+If you see a guy in a bar with a gold Rolex, chances are he's a cunt.
+But if you were to sit next to him
+and he was to say, "Five years ago, I was homeless and I was living
+on the streets, but I saw a gap in the market.
+I created an empire, and now I've retired all my parents,
+and I bought a gold
+Rolex," he's a hero. It's not the watch that changes,
+it's the story around it.
+So it's important that all of us, as far as a brand positioning,
+are levering
+things like that to make sure it looks good.
+So yeah, if you're in Ibiza, someone goes, "Oh, it's all right for you." But if
+you're here trying to build your business so you can help hundreds and maybe even
+thousands of people feel better, be healthier or whatever,
+suddenly you're a hero.
+Picture's the same, story's different.
+So just make sure you position yourself better. Yes.
+So I've got a sports tech company.
+A sports tech, and the tech is?
+Smart clothing for intelligent athletes.
+Smart clothing for intelligent athletes.
+If I was you, so it's tech shorts. Basically, I put these shorts on,
+they measure
+my legs. I do some back squats. It goes, "Yo, James, your right quad's bigger than
+your left. Your hip extension is slow out of wood," whatever it is.
+That's really exciting. Sounds really cool.
+I would be keen to get creators to try it.
+So maybe you reach out to YouTubers in the fitness space, people that do things
+like try aura rings, whoop straps, all of this, because there are going
+to be people that have a shared interest, right?
+So let's say I'm your generic fitness YouTuber, and you message me and you go,
+"Hi,
+James, I've got this pair of shorts that do this." I might not care about your
+business that much, but do you know what I do care about?
+The millions of people that might be frothing over this.
+And then I can make a little movie, which would be the YouTube video,
+talking about
+it. You do open yourself up to potentially
+negative criticisms if the product
+isn't good enough, which you wouldn't have control over.
+But I think that's a social strategy I would use where that's what Eight Sleep
+did
+with the mattress. They went out to all the YouTubers,
+gave them a mattress for
+free, knowing the product was fucking sick.
+Now people like me can't shut the fuck up about it.
+But if you were to get people to use it-
+Yeah
+... you could then clip their content for your
+socials, and then you could say, "If
+this is something of interest to you, we're launching on this date.
+Give us your email address and we'll give you a discount." That's
+another thing
+that Eight Sleep do. Eight Sleep have amazing marketing.
+When I went to their website, pop up, it goes, "One-time offer, 10%
+off. Give me your email address." So that even though I bounced from the
+website,
+which means I didn't buy, they emailed me every day for 15 days.
+Boom, boom, boom, boom. "Claim your offer. Claim your offer.
+Claim your offer." And it was the money-back guarantee
+that got me to buy in the
+first place. But yeah, it's one of those things that
+once you get someone to land on your site, if you can get their contact information
+and just say, "Yo, when we drop this, perform better," whatever it is, you get
+their email address. But yeah, it would be something,
+I would have it as some kind
+of pop-up on the website. "This isn't out yet.
+Give us your email address.
+We'll let you know when it does, and maybe give you a discount." Sounds
+exciting,
+though. But yeah, I would say try and get email addresses,
+but you would really
+want the product out there, and I would definitely use high-level
+YouTubers
+with big followings and leave something from it. That's cool.
+That sounds sick

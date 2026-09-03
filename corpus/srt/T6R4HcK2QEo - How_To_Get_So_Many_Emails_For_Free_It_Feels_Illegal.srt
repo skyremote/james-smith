@@ -1,0 +1,786 @@
+1
+00:00:00,080 --> 00:00:02,160
+The majority of people that
+are trying to make money online
+
+2
+00:00:02,180 --> 00:00:03,300
+and get new clients all
+
+3
+00:00:03,340 --> 00:00:05,320
+share the same bottleneck in their sales
+process.
+
+4
+00:00:05,360 --> 00:00:07,430
+And in this video,
+I'm going to share with you how a sheet of
+
+5
+00:00:07,520 --> 00:00:08,340
+paper that literally
+
+6
+00:00:08,360 --> 00:00:12,280
+cost me 19p generated me $23,000
+
+7
+00:00:12,380 --> 00:00:15,960
+in revenue in the last three days. Now,
+this is the bit where people
+
+8
+00:00:16,260 --> 00:00:18,840
+show their Stripe account. Oh, it's a lie.
+
+9
+00:00:19,340 --> 00:00:23,160
+It's now at 24K. Much of social media,
+growing a following, actually, every
+
+10
+00:00:23,200 --> 00:00:25,820
+single part of the business
+is about spotting patterns,
+
+11
+00:00:26,060 --> 00:00:27,060
+and I found one.
+
+12
+00:00:27,140 --> 00:00:31,040
+I, yes, started using RevTrack, which
+is Ed Lawrence's new bit of software
+
+13
+00:00:31,050 --> 00:00:33,960
+that shows me where my clicks
+are getting attributed to.
+
+14
+00:00:33,970 --> 00:00:37,440
+And we still haven't set it up properly,
+even though I've been using it for months.
+
+15
+00:00:37,520 --> 00:00:41,400
+But the one thing I want you to see here
+is, if I look for where the most
+
+16
+00:00:41,500 --> 00:00:44,440
+clicks are coming from, you will see here,
+landing page.
+
+17
+00:00:45,640 --> 00:00:49,340
+Therefore, I now know that
+when I make content about
+
+18
+00:00:49,380 --> 00:00:52,600
+landing pages, people seem to click,
+which is good.
+
+19
+00:00:53,020 --> 00:00:55,180
+So then I decided to make a lead magnet.
+
+20
+00:00:55,240 --> 00:00:59,180
+However, every lead magnet
+that I have leans upon heavily
+
+21
+00:00:59,240 --> 00:01:01,280
+email automations. I'll show you one.
+
+22
+00:01:01,480 --> 00:01:05,220
+Because I like to automate a sales
+process, and although some people love
+
+23
+00:01:05,260 --> 00:01:09,160
+doing sales calls, and that's great,
+I refuse to talk to
+
+24
+00:01:09,240 --> 00:01:12,100
+anyone before they have given me their
+money.
+
+25
+00:01:12,310 --> 00:01:15,640
+And I know that can sound like a pretty
+much of a prick thing to say, but that's
+
+26
+00:01:15,680 --> 00:01:17,820
+just how it is.
+I don't want to do a sales call.
+
+27
+00:01:18,000 --> 00:01:20,900
+I don't want to deal with you unless your
+money is in my bank account.
+
+28
+00:01:20,940 --> 00:01:23,100
+And I think that's okay,
+because guess what?
+
+29
+00:01:23,160 --> 00:01:25,680
+I have a very finite social battery.
+
+30
+00:01:25,890 --> 00:01:29,600
+And the amount of sales calls I've done in
+my business is zero, niche,
+
+31
+00:01:29,860 --> 00:01:31,260
+nil, and it will always be that way.
+
+32
+00:01:31,780 --> 00:01:34,900
+So here you can see a long list of emails
+that I've pre-written in the fitness
+
+33
+00:01:34,940 --> 00:01:38,820
+industry, which means that basically,
+when I sign someone up to this, they've
+
+34
+00:01:38,860 --> 00:01:41,540
+got a PhD and level three PT come the end
+of it.
+
+35
+00:01:41,580 --> 00:01:44,740
+And if they haven't bought by the end of
+that automation, I can't help them.
+
+36
+00:01:45,000 --> 00:01:47,420
+So I needed to make a lead magnet,
+and I was thinking to myself,
+
+37
+00:01:47,560 --> 00:01:48,940
+[inhales] asking
+
+38
+00:01:48,960 --> 00:01:51,180
+for people's email addresses just feels a
+bit rinsed.
+
+39
+00:01:51,260 --> 00:01:54,820
+So I went away and I put together an asset
+which I called the
+
+40
+00:01:54,860 --> 00:01:58,220
+anatomy of a highly efficient sales page.
+Now, here's the thing.
+
+41
+00:01:58,600 --> 00:02:01,820
+I've been roasting people in the Discord
+this morning, and this is the common trend
+
+42
+00:02:01,860 --> 00:02:05,740
+that they all have.
+If I could take what you are trying to get
+
+43
+00:02:05,780 --> 00:02:07,940
+people to sign up to and I
+was to put it on a sign
+
+44
+00:02:07,960 --> 00:02:09,100
+and hold it in the high street,
+
+45
+00:02:09,320 --> 00:02:13,200
+no one would care. 17 tips. Fuck off,
+mate. Get out the way.
+
+46
+00:02:13,420 --> 00:02:16,720
+14 ways in 14 days. Fuck off. Big issue.
+
+47
+00:02:16,920 --> 00:02:19,310
+No, thanks.
+Be a better version of yourself.
+
+48
+00:02:19,560 --> 00:02:22,950
+Fuck off with your shitty lead magnets.
+
+49
+00:02:23,210 --> 00:02:26,620
+14 mobility hacks. Fuck off, mate.
+
+50
+00:02:26,880 --> 00:02:29,860
+But I honestly believe that
+if I could get every single one of you to
+
+51
+00:02:29,880 --> 00:02:30,220
+walk down the
+
+52
+00:02:30,240 --> 00:02:33,970
+high street and I was to say, "Hey, guys,
+here's the anatomy of a highly efficient
+
+53
+00:02:34,380 --> 00:02:36,920
+sales page.
+Do you want a copy?" The majority of you
+
+54
+00:02:36,940 --> 00:02:37,910
+would go, "Yeah, I would
+
+55
+00:02:37,960 --> 00:02:40,440
+actually." And this
+is actually the formula
+
+56
+00:02:40,480 --> 00:02:41,440
+that I'm a big fan of.
+
+57
+00:02:41,500 --> 00:02:43,580
+Obviously, you can't read that,
+and I'm keeping it arm's length,
+
+58
+00:02:43,660 --> 00:02:44,060
+so you have to
+
+59
+00:02:44,080 --> 00:02:46,080
+click the link in the description.
+Here's the mad thing.
+
+60
+00:02:46,660 --> 00:02:48,860
+I teach you the things
+that work for me because they'll work for
+
+61
+00:02:48,940 --> 00:02:49,040
+you.
+
+62
+00:02:49,120 --> 00:02:51,940
+And when you click on the link in the
+description, isn't it crazy?
+
+63
+00:02:52,020 --> 00:02:54,000
+That's going to come up on my RevTrack.
+Wow.
+
+64
+00:02:54,440 --> 00:02:56,940
+And listen, you plebs,
+I got a graphic designer to put
+
+65
+00:02:56,980 --> 00:02:57,340
+that together.
+
+66
+00:02:57,380 --> 00:02:59,640
+Do you know why? Because
+if I tried doing this myself,
+
+67
+00:02:59,880 --> 00:03:01,240
+it's going to look fucking
+
+68
+00:03:01,380 --> 00:03:04,600
+shit. And if a graphic designer does it,
+oh, but that might cost
+
+69
+00:03:04,640 --> 00:03:05,520
+£45.
+
+70
+00:03:06,540 --> 00:03:08,640
+This potentially... Actually, no,
+not potentially.
+
+71
+00:03:08,740 --> 00:03:11,480
+This has made me tens of thousands of
+dollars in three fucking days.
+
+72
+00:03:11,520 --> 00:03:14,660
+Do you think I'm bothered about the £45 it
+costs to get a graphic designer to do
+
+73
+00:03:14,720 --> 00:03:17,360
+it? No.
+So then I didn't just have a verbal call
+
+74
+00:03:17,380 --> 00:03:17,840
+to action.
+
+75
+00:03:17,980 --> 00:03:21,480
+I had a physical asset
+that I could have as a lead magnet to perk
+
+76
+00:03:21,540 --> 00:03:24,960
+curiosity that I guarantee
+that the majority of people in my captive
+
+77
+00:03:25,000 --> 00:03:25,360
+audience
+
+78
+00:03:25,460 --> 00:03:28,460
+that want or potentially could do business
+with me would be interested in.
+
+79
+00:03:28,580 --> 00:03:29,860
+There's the way you temperature test it.
+
+80
+00:03:30,240 --> 00:03:33,080
+If you held the sign in the high street,
+would people give a shit?
+
+81
+00:03:33,340 --> 00:03:37,200
+If yes, make it. If no, work on it. Now,
+I'm coming with
+
+82
+00:03:37,240 --> 00:03:41,090
+receipts, brother. Here's my ManyChat,
+which all of you should be using because
+
+83
+00:03:41,160 --> 00:03:43,820
+I'm not just going to get people to click
+on this on long form like I've done in
+
+84
+00:03:43,840 --> 00:03:46,120
+this video.
+I want people to get this on short form.
+
+85
+00:03:46,200 --> 00:03:47,100
+So where is it? Here we go.
+
+86
+00:03:47,460 --> 00:03:50,160
+This one here. One post on Instagram,
+
+87
+00:03:51,540 --> 00:03:55,160
+652 people, of which 74% click. So
+
+88
+00:03:55,220 --> 00:03:58,980
+652 people ended up joining my email list
+from the lead
+
+89
+00:03:59,020 --> 00:04:02,260
+magnet. But you go, "Email list?
+I thought this was a resource." Listen,
+
+90
+00:04:02,420 --> 00:04:02,900
+écoutez,
+
+91
+00:04:03,080 --> 00:04:06,360
+which is French for listen.
+I like to call this the Trojan horse
+
+92
+00:04:06,620 --> 00:04:06,820
+because
+
+93
+00:04:06,860 --> 00:04:09,200
+although this is pretty good,
+it's a bit brief.
+
+94
+00:04:09,360 --> 00:04:12,770
+I'm not going to sit here and pretend
+that that sheet of paper alone is going to
+
+95
+00:04:12,780 --> 00:04:16,240
+change your life. What I actually do
+was I had to create what you wanted so I
+
+96
+00:04:16,260 --> 00:04:16,380
+could
+
+97
+00:04:16,420 --> 00:04:20,340
+give you what you need.
+So then I went into Google Docs and
+
+98
+00:04:20,420 --> 00:04:24,260
+I pre-wrote 11 interesting lessons
+that you would need about how
+
+99
+00:04:24,320 --> 00:04:28,250
+to create a perfect landing page.
+I then decided once you get that
+
+100
+00:04:28,300 --> 00:04:30,540
+asset,
+I'm going to email you over the next 11
+
+101
+00:04:30,560 --> 00:04:31,580
+days because I don't just want to
+
+102
+00:04:31,620 --> 00:04:34,460
+impact your life on one day.
+I want to be in your life for a fortnight,
+
+103
+00:04:34,540 --> 00:04:34,790
+brother.
+
+104
+00:04:34,969 --> 00:04:35,780
+And you're going to be like, "What?
+
+105
+00:04:36,040 --> 00:04:39,900
+Every single day, James is turning up,
+giving me a bit of no BS advice to help me
+
+106
+00:04:39,940 --> 00:04:42,940
+with my landing page?" Yes,
+because it's not enough to just help you
+
+107
+00:04:43,020 --> 00:04:43,340
+once.
+
+108
+00:04:43,600 --> 00:04:46,740
+I want to be there. Uh-uh,
+death by a thousand paper cuts.
+
+109
+00:04:46,920 --> 00:04:50,660
+Because then even if you don't buy
+anything I'm selling, you still walk away
+
+110
+00:04:50,720 --> 00:04:53,640
+with several actionable things you can put
+into your business.
+
+111
+00:04:53,830 --> 00:04:57,380
+And with what have I got now?
+34,000 subscribers on the
+
+112
+00:04:57,420 --> 00:04:59,600
+channel.
+If 10% of you buy what I'm selling,
+
+113
+00:04:59,640 --> 00:05:01,120
+that's $8.5 million.
+
+114
+00:05:01,340 --> 00:05:03,800
+So it's completely fine
+if the majority of people following me
+
+115
+00:05:04,020 --> 00:05:04,860
+never do business
+
+116
+00:05:04,960 --> 00:05:07,360
+because I know that out of
+that automation of people
+
+117
+00:05:07,380 --> 00:05:08,460
+that go through that, some are
+
+118
+00:05:08,480 --> 00:05:10,680
+going to come out the other end
+and be like, "Yo, let's do this, bro.
+
+119
+00:05:10,820 --> 00:05:12,740
+I like what you're doing."
+And do you know why the majority of people
+
+120
+00:05:12,860 --> 00:05:13,100
+join my
+
+121
+00:05:13,140 --> 00:05:14,960
+mentorship?
+Because they look at the ways in
+
+122
+00:05:15,040 --> 00:05:16,960
+which I maneuver and flank them
+
+123
+00:05:17,220 --> 00:05:19,320
+to get them to feel compelled to do
+business with me.
+
+124
+00:05:19,400 --> 00:05:22,160
+They go, "Wow,
+if I can compel my audience in any way
+
+125
+00:05:22,170 --> 00:05:23,170
+similar to the way that James
+
+126
+00:05:23,220 --> 00:05:26,340
+can compel me to do business, this
+is the guy for me." Then for some of you,
+
+127
+00:05:26,400 --> 00:05:26,500
+you
+
+128
+00:05:26,520 --> 00:05:30,390
+still don't fully understand the impact as
+to why we go after
+
+129
+00:05:30,460 --> 00:05:31,840
+email so much. Let me tell you this.
+
+130
+00:05:32,040 --> 00:05:35,240
+We actually only launched
+that lead magnet less than 11 days ago.
+
+131
+00:05:35,320 --> 00:05:37,680
+So the majority of people haven't actually
+finished the automation.
+
+132
+00:05:37,720 --> 00:05:41,340
+But Sunday night, just gone,
+I wanted to test a new streaming software.
+
+133
+00:05:41,350 --> 00:05:43,580
+I wanted to actually use Zoom.
+I'm not a big fan of Zoom.
+
+134
+00:05:43,660 --> 00:05:45,840
+I find it complex
+and it reminds me of the pandemic.
+
+135
+00:05:45,880 --> 00:05:49,140
+So I said to my team, "Hey,
+can you email everyone in our database?
+
+136
+00:05:49,160 --> 00:05:52,640
+But let's actually email all the people
+that haven't bought anything
+
+137
+00:05:52,680 --> 00:05:53,120
+and let's tell
+
+138
+00:05:53,140 --> 00:05:56,060
+them to come on a livestream webinar
+and let's just give them an hour of time."
+
+139
+00:05:56,200 --> 00:05:56,320
+And
+
+140
+00:05:56,380 --> 00:05:58,240
+one of the lists we hit
+were the people that
+
+141
+00:05:58,260 --> 00:05:59,280
+are currently going through the
+
+142
+00:05:59,340 --> 00:06:02,980
+automation for the landing page,
+and that's actually where the majority of
+
+143
+00:06:03,040 --> 00:06:03,180
+that
+
+144
+00:06:03,190 --> 00:06:05,780
+$24,000 of revenue have come from,
+the livestream.
+
+145
+00:06:05,960 --> 00:06:09,200
+It is so imperatively important
+that you get people's data
+
+146
+00:06:09,240 --> 00:06:09,740
+and just bring it
+
+147
+00:06:09,800 --> 00:06:13,300
+inside your ecosystem. Whether that
+is flashing a bit of paper and
+
+148
+00:06:13,360 --> 00:06:16,480
+content that actually then puts them into
+an email autoresponder, whether that's
+
+149
+00:06:16,560 --> 00:06:19,630
+actually just getting them to join your
+email list through some other way or means
+
+150
+00:06:19,780 --> 00:06:23,550
+or promise or value attract, whether it
+is creating a cheaper
+
+151
+00:06:23,660 --> 00:06:27,240
+offering that brings them inside the
+ecosystem, ultimately it doesn't matter.
+
+152
+00:06:27,400 --> 00:06:31,380
+Because if your email list is small,
+you cannot just try things off the cuff to
+
+153
+00:06:31,440 --> 00:06:33,840
+see how people respond.
+You can't promote offers.
+
+154
+00:06:33,900 --> 00:06:35,000
+You can't do livestreams.
+
+155
+00:06:35,080 --> 00:06:36,719
+It's just going to make your life
+incredibly difficult.
+
+156
+00:06:36,820 --> 00:06:40,780
+I'm actually going to put all of my lead
+magnets into the link in the description
+
+157
+00:06:40,820 --> 00:06:42,860
+to this video.
+That's the only thing I'm going to put in
+
+158
+00:06:42,920 --> 00:06:43,060
+there.
+
+159
+00:06:43,280 --> 00:06:47,000
+And I suggest you don't just sign up so I
+can sell to you.
+
+160
+00:06:47,160 --> 00:06:50,900
+You sign up so you can see the exact
+process that I use to get
+
+161
+00:06:50,920 --> 00:06:54,220
+people to do business with me. Now,
+if that isn't genius marketing,
+
+162
+00:06:54,480 --> 00:06:54,840
+I don't know
+
+163
+00:06:54,920 --> 00:06:57,380
+what is.
+If you put your offer for your lead magnet
+
+164
+00:06:57,420 --> 00:06:58,580
+on this sign and you held it
+
+165
+00:06:58,620 --> 00:07:02,180
+above your head in the high street,
+would people stop you? If yes, crack on.
+
+166
+00:07:02,420 --> 00:07:06,180
+If no, sort it out.
+Enjoy copying my shit because I'm going to
+
+167
+00:07:06,280 --> 00:07:08,760
+enjoy converting some of you all.
+Let's go.
+
+168
+00:07:09,240 --> 00:07:10,300
+Bash.

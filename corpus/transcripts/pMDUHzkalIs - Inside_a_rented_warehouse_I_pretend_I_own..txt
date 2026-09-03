@@ -1,0 +1,429 @@
+Welcome to the $600,000 studio. I'm not saying that you need one of these,
+but I'm
+going to show you through some of the things that I've implemented over the last
+months to make content look and sound that little bit crispier.
+And I hate that the microphone's on my hat.
+I usually loathe that, but
+this microphone here isn't going to cut it because we're going to move around.
+This is what? The Sennheiser MKH 416?
+416.
+Yeah. We like this one at the moment.
+Before this, we were using a Shure SM7B, which we put through
+a RodeCaster. Now, this device here is called a Cloud Lifter.
+It, in essence, makes that sound better.
+If you get the new one of these, the RodeCaster 2, that has that built in.
+And if you get the new one of these, the Shure SM7DB, it has one of those built
+in. And the reason we like this shotgun mic,
+shotgun because it
+records kind of down the barrel, is that this can plug straight into the
+camera
+that we're using, which is a Sony FX3.
+I'll actually show you some of the other cameras that we use in a second.
+Let's go for a walk.
+So here we have the main light that we use.
+What are these things called?
+Oh, honeycomb grid.
+This is a honeycomb grid. You can keep that in the edit as well.
+That just kind of softens the direction of the light, right?
+Yeah, it kind of makes it more directional.
+If we take that off, that light is always way too harsh.
+So it spills as well, whereas when it-
+So it spills apparently. This is the term. Maybe you should be in this video.
+Then this light over here is what we call a hair light.
+So this-
+Or a rim light.
+A what?
+Hair light or a rim light.
+Hair light or a rim light. Look at this.
+And that creates that nice little shiny part on the side of
+my face that
+accentuates my fantastic jawline.
+This is pretty much where we record the majority of our content.
+We are actually going to build another studio in here, but this makes do for the
+time being. Considering it's only ever boys in here,
+it's pretty messy.
+I'll leave
+props that we talk about in videos, books, a selection of
+caps because I'm going bald. What's that thing called? A what?
+Cheap reflector. [chuckles]
+Is it called a cheap reflector?
+It's just the cheap version.
+Oh, it's just the cheap version. Just in case you get lonely during the
+edit.
+[chuckles]
+This is a teleprompter we use for some of the modules in the course.
+You put an iPad down on that, and it reflects there,
+so then you can stick your
+camera in behind. And if you ever see anyone holding one of
+these in content,
+it's because they're using a teleprompter.
+In my business mentorship, I promote using a Panasonic GH52.
+This camera is so durable, and the variable lens on this,
+I've probably
+recorded near 1,000 videos on this.
+I did my entire big main YouTube channel on my own using this.
+I love these. Having a variable lens just helps me so
+much from a
+cinematic standpoint. You go really tight
+when maybe you're creating B-roll about
+something. Then having the option of a wide lens,
+that's now redundant.
+You've got two of them, don't you?
+I do have two of them, but one of them I dropped.
+Don't drop them.
+They're durable, but don't drop them. We don't really use that at the moment.
+At the moment, we're using an FX3. And if you ever wanted to know
+if you're paying
+your videographer too much, his rig would look like this.
+So we've got a Sony FX3 here, 35 millimeter lens.
+We have something on the end called an ND filter.
+We have a Pro-Mist filter, which is 1/8 strength.
+A Pro-Mist filter?
+What that basically does is it makes the...
+You can't see it on this camera, but if you film that one with the light, it'll
+basically mean that there's a halation.
+It kind of blurs the light and it softens the skin tones,
+just makes it give it
+more of a cinematic feel.
+Yeah, it does feel very cinematic recording
+that.
+And there's an ND filter on as well?
+Yeah, we've got two filters. The mist is behind the ND,
+and the ND's at the front.
+Now, again, we're getting very complex, and I know some people are going to be
+like, "What the hell are you talking about?" The ND filter
+stops letting in as much
+light. It's like sunglasses for your camera.
+Basically, that means that you can open the lens a bit wider,
+which lets in more
+light, but the ND filter then stops it from being
+overexposed, which gives you a
+nice blurred background. So pretty much you put sunglasses on your
+camera, you get
+a nice blurred background. The rig on here,
+you've got a battery pack, a monitor so
+you can see what you're doing. And again, this is real advanced stuff that none of
+you need to care about or worry about.
+But maybe in three to five years, you'll have a Declan,
+and he'll have a camera rig
+like this on top. Then we've got the FX handle.
+XLR handle.
+You've got the XLR handle on top.
+So we can plug that in.
+Which means, in essence, when we are using a mic, whether it be a Shure
+SM7B, plug that straight into the camera.
+Because the way we were doing it before was
+that we would record
+the footage on here. We'd press record on the RodeCaster,
+and then you
+synchronize the audio up in line with the footage so that you get your audio.
+Most podcasts will record separately.
+There'd be an audio track, there'd be a video track.
+That's why some people clap at the beginning of a production,
+or in the old days
+with the films, they were like [claps] .
+That's so you can line up the audio with the video to make sure that it's crisp and
+lovely, which you will need to do with that,
+but then Premiere and DaVinci do it
+for you. Should we swap back?
+Yeah.
+By the way, guys, quickly, if you're a personal trainer,
+there's a link in the
+description for my PT starter pack, which is a program designed just for
+personal
+trainers. And if you're not a personal trainer,
+there's going to be another link
+below it where I want to give you 30 business bits of advice over the next 30
+days,
+completely free. It's in your inbox.
+If you don't love them, you can unsubscribe at any point.
+Okay, back to the rest of the video.
+Here's what I have, and I call it the productivity corner.
+Truth be told, when we launched Nutonic, for some reason, our US
+orange cans, we just didn't get the flavor right.
+I think they sent it to me.
+They said, "We can't sell this." Cracked can.
+I was like, "Ah, it'll be fine." Chris Williamson was like,
+"We cannot sell this."
+So we had to destroy loads of them. I said, "Just send them somewhere.
+Let's just give them away for free." They were like, "Nope." So I think we maybe
+lost nearly $100,000 worth of stock, which was shite.
+But I said, "Send me a pallet," which they did, and I drink them.
+I think they're fine. For me, I don't care about the taste as much as I
+care about
+the benefits. Those are not released yet, so don't go too close to them.
+They should be out later this week. Very, very exciting times.
+This is the love of my life at the moment.
+I'll be honest with you, the first week I bought this,
+I thought I'd made a massive
+mistake. These cars, you can lift the front axle,
+but it still scrapes on the odd
+thing. The bum has a rear diffuser on it.
+These little diffuser wings at the back, they can scrape.
+Although, every time something like that happens, I just go on a forum online,
+and GT3 owners are like, "Get used to it. Scrape in the front?
+Get used to it." This is quite cool how the door handles come
+out.
+The Audi RS6 is an amazing car. But the three things I didn't like about
+the Audi:
+it's too quiet. This is very loud. I've always fancied an Alcantara steering
+wheel,
+which is like the suede steering wheel.
+And I really love that this one's a manual,
+which sometimes in traffic you think,
+"I wish I had the PDK." But being connected to the gears
+is something I miss.
+Growing up in the UK, we learned how to drive manual.
+Did you learn to drive manual here, Miles?
+Again, the bucket seats that are in here, the first week, I was like, "Ah
+Have I bought a car that's uncomfortable?
+But it took me two, three weeks before I finally was like,
+"I love it." I think for
+the first few weeks, you're petrified, or you think about the amount of money
+you've spent on it, and you think, "What am I doing? What's the point?
+I could have made financially smarter decisions that could have helped my
+son." But then you drop it into second and go to 9,000 RPM, and you think,
+"Fuck him." I don't want to spoil him, because that's what happens, right?
+If you do well in life and you leave loads to your kids,
+they turn out to be little
+shit bags. So every bit of money that I don't spend
+financially smart, looking after my son and my family
+is good,
+because if we hit financial troubles and we lose everything, that'll be
+great for his mindset. If anything, the more reckless I can be with my
+money, the more I'm setting up my son for
+success. You buying this?
+[car revving]
+You ready to get gassed up? The exhaust fumes can't be too bad for
+you, can they?
+Matt Armstrong, at the moment, is rebuilding one of these, the GT3 RS,
+which
+is just like this, but better, and $350,000 more.
+But let me tell you why I didn't get the RS.
+If I was to get the GT3 RS, instead of having these two vents here,
+where there's a radiator or two radiators, or one radiator?
+A radiator at the front, even though the engine's at the back.
+I get all this trunk space, which is great for jujitsu.
+I've got all my kit, got all my gear, put it in here, bit of storage.
+If I was to get the GT3 RS, I wouldn't have anywhere to put my jujitsu
+kit.
+I also couldn't afford it. But more importantly, it was the storage,
+not the
+extra $350,000. It was the storage. Repeat after me, Declan.
+It was the storage.
+[engine starting]
+[engine revving]
+All right, before we die of carbon monoxide
+poisoning, that's enough.
+[inhaling] [exhaling] Do you know what that smells like? Happiness.
+Happiness. [door closing] So if you don't shut the door
+properly,
+the window doesn't shut. Every time it torrential rains, part of my
+brain, you know the part in most people's brains
+they go, "I left the door open,"
+or, "The oven's on." I think to myself, "I bet I left my window open." So
+every time it rains, I'm just there worried.
+[door closing] That is just the sex.
+I'm sorry, but
+take the repayments. Another thing that's worth noting
+is finance,
+100%. Other car, finance, 100%. Every single person with
+nice cars, even people that are super wealthy, they finance it.
+It just doesn't make sense to put all your money in one place, because that same
+several hundred thousand dollars, we could buy more stock of Nutonic,
+or we could invest in another business, or we could buy shares in a startup.
+No matter how wealthy you get, just finance it and get a warranty.
+That's what I'd say. Finance and warranty.
+So even if, say, you're in your first few years of running
+a business, I'll tell
+you this, getting an M3 or an RS6 or even getting a
+six-year-old Golf R, you will feel just as happy.
+Because I feel like with this channel, I want to be your older brother.
+I was giving you this advice the other day.
+Go to a dealership, get pre-owned, get a warranty.
+Three years, fine. Anything goes wrong, not my problem.
+So this is a gym, but no one trains here because technically
+it's not a gym, this
+is a studio. I'll explain why this is kind of important.
+My main business for years has been a personal training business, and one of the
+things that we don't really talk about is... Well, we do talk about it.
+The first three seconds of content is so important.
+So if I walk into set and go, "When it comes to fat loss, there
+are three things
+that are more important than..." Actually, do you know what?
+We've been through this. I hate starting videos with
+that for a start.
+When people go, "Here are three things about fat loss,"
+and then number one is hit
+a decent step count. Scrap what you're doing
+and just do a video about step count.
+Rather than trying to get three subjects and doing a poor job of each of them, just
+pick each subject and make an individual video.
+Let's start again.
+Imagine if there was a type of exercise that you could do every single day.
+You never get too sore from it, and implementing it not only makes you
+feel better,
+not only de-stresses you and gives you great ideas, not only
+is this a way to spend
+more times with your friends and family, but could also play a really positive role
+in your fat loss journey. That thing is walking.
+According to research, whatever.
+Being in this scene, someone that's never seen me before,
+especially in this
+TikTokification of social media, the fact that we are served content based
+on our
+interests, not based on who we follow, straightaway you kind of know
+what the video is about. Much of this is just there to give people the visual
+aid
+to understand that I'm probably a fitness pleb talking about fitness stuff.
+If I'm here at home in the kitchen going, "When it comes to fat loss, there are..."
+Unless I'm going to actually talk about food or something relative to the context,
+it just doesn't make sense.
+When it comes to getting stronger in the gym, if this isn't an analogy or a
+metaphor that I'm going to use to make a point, then what's the point of including
+it? It's why I think gym-based content is really important, even for those of you
+that don't have the luxury of a facility.
+Even if you're in a PureGym, David Lloyd, Virgin, whatever, use this as a
+visual aid. Now, the problem that a lot of you face
+is you're in a squat rack,
+there's a lot of background noise, so you end up using a voice isolation
+that makes
+it sound like crap. Some of you don't have a videography,
+don't have a Declan.
+I got a lot done in business before I had a videographer.
+You could just set up the camera. So Declan, if you put
+that camera down on that
+bench. So instead of being someone in the gym
+that's kind of stood there with your
+iPhone to the side and you're a little bit nervous
+and you're like, "When it comes
+to performing the hip hinge movement, it's really important." Instead of that,
+you can just film yourself in the gym doing the movement.
+Then afterwards, you can just take your microphone
+and say the cue you were going
+to say. And now what Declan's going to do in the
+edit is show you the footage that
+was just there, and I'm going to record the voiceover.
+When it comes to performing the hip hinge movement, first of all, take the knees
+off lock. Now from here, you're going to pretend there's an
+invisible button on the
+back of the room. You're going to now break at the hips,
+send your bum backwards to
+touch that invisible button as your chest comes closer to the floor.
+Which means for a lot of you, when it comes to doing exercise tutorials
+or stuff in
+the gym, you can just point a camera to
+that area Perform the
+movement, then when you get home, go into CapCut or whatever app it is,
+and just do
+a voiceover. And remember, this isn't your workout of the day.
+This is how you can help people. If your lower back hurts doing an RDL,
+then it's
+maybe because of... If you're someone that doesn't feel comfortable in the squat
+rack, maybe try this. When it comes to lining up the squat rack
+to be the perfect
+height for a squat, it should go to this area of your body.
+These whiteboards, worth their weight in gold.
+This is just a static piece of plastic that sticks onto surfaces.
+There's no glue. There's nothing.
+For any of you out there, you can write on it, put very poignant,
+important words,
+and this visual representation can sometimes be so excellent for your
+business. So whether you're trying to make a point,
+or maybe you're drawing
+something that could help people understand the context of the
+point you're trying to make,
+the whiteboard is excellent. These are very cheap. You can get them online.
+And I think that just having that static, no gap between the wall and the back,
+I've been using these since 2017. Amazing.
+And again, with the natural light, it's important to me that we have
+that in a
+place where I'm getting a nice amount of lighting on me.
+If I was to record the majority of my content over there, it just wouldn't look
+good as far as lighting. That's why you'll never really see
+anything filmed down
+this end. There's too much of a down light to it.
+Just doesn't really work too well. Got the punch bag.
+This is just literally to have a bit of fun with. The other day, the video.
+We do one video and include that, business write-off.
+Use the dumbbells in video, business write-off.
+Why do you think the car was in today's video?
+[punch thudding] Ah! Was in Thailand, didn't I?
+Hey. Hey. Rowing machine, obviously not mine. This is Bob.
+Sometimes you just, you want to fucking...
+You ever just go down the road and think, "I would love to punch someone in the
+face"? You ever think like, wish I had a time machine so you could
+literally just
+crack someone in the chin, then go back in time
+and pretend you never did it.
+Do you ever go like that? Yeah, all the time. Sometimes, Bob.
+[punch thudding] And we have the bathroom around the side.
+Now, one of the reasons I'm making this video
+is I think everyone should aspire to
+have their own working space, whatever it is that you do,
+whether you're selling
+real estate, social services, personal training, whatever.
+For me, even though for years I filmed at home,
+sometimes you need to get into the
+mindset to go somewhere to do work. There's no PlayStations here.
+There's no TVs here. When I'm here, I'm working.
+Then when I go home, although I have an office at home,
+I don't like working in the
+front room. It's my place to relax. For years,
+I would always go to a cafe to work.
+I never do emails at home. For me, there's such an important part of having
+the
+mindset that when you go to a certain place, it's for a certain outcome.
+Even when I worked in a budget gym, I would go to Waitrose, sit in the cafe,
+get all my work done. I wouldn't leave the cafe till my work
+was done.
+In time, I think you should all aspire to have a
+business location for filming,
+because having the backdrop and the depth there,
+I feel like it almost raises the
+stakes a bit, where they go, even though James is talking about pricing
+or landing
+pages or whatever, he's not just filming it in a spare room
+in his house.
+He's gone to the effort to make a nice facility.
+We're going to build another studio up there,
+which suddenly going to get air con,
+so I don't have to get sweat patches like this, because it is fucking Australian
+summer, mate. We're going to put a podcast studio in
+there, and we're going to run
+the podcast at a loss just to get attention, just to get ears on, traffic to
+certain websites. Very excited for that. What have I missed out, Declan?
+What did you
+think when you first came here? I suppose the crazy thing, right,
+is people come
+past and they think it's a commercial gym, and I have to explain to them, the worst
+use of time for me at this stage of my career would be to train people here.
+Even if someone came in and went, "Hey, mate,
+I'll give you $500 for a PT session,"
+just literally, quite literally isn't worth it.
+Not because I'm some amazing trainer or whatever, just all of you within your
+businesses, at the moment, selling slots of time for hours is
+absolutely what you should do. But then, as you start to create systems within
+building a social media platform, sending people to certain resources.
+Like this video, I'm just going to say to people,
+if you're a personal trainer,
+there's a PT starter pack in the description,
+and if you're a general business
+owner that isn't a PT, there's another link where I want to give
+you 30 days of
+business advice. So yeah, this is a behind the scenes to pretty much how
+we
+run and operate the Content HQ. You ever walk past people's houses and
+just go, "I'd love to be inside there"? Not like as a creep.
+Not like I want to go in and kick the old woman down
+and sleep in her bed and eat
+the food in her fridge. You just kind of want to know what it's
+like inside.
+That's what this is. When your neighbor is selling their house and there's an open
+house and you go in and walk around. You ever do that? Yeah, no, me neither.
+That's what this video is. Anyway, hope you enjoy.
+And as per usual, YouTube's going to recommend this video
+here, and it thinks that
+if you're a smart bugger and you enjoy content,
+if you enjoyed this one at all,
+you'll love this one. So give it a go. Oh, wow.

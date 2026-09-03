@@ -1,0 +1,1284 @@
+1
+00:00:00,060 --> 00:00:01,160
+I'm going to make a very bold claim.
+
+2
+00:00:01,360 --> 00:00:05,020
+These two apps I'm about to show you have
+saved me about 10 hours a week.
+
+3
+00:00:05,140 --> 00:00:06,850
+They made me a better thinker,
+a better creator,
+
+4
+00:00:06,900 --> 00:00:08,239
+and come up with better ideas.
+
+5
+00:00:08,400 --> 00:00:10,160
+And quite honestly,
+I couldn't imagine running a business
+
+6
+00:00:10,180 --> 00:00:10,570
+without them.
+
+7
+00:00:10,700 --> 00:00:12,360
+Now one of them you will have heard of,
+this one here,
+
+8
+00:00:12,520 --> 00:00:13,440
+but I can't believe how many
+
+9
+00:00:13,480 --> 00:00:15,500
+of you still haven't heard of this one
+right here.
+
+10
+00:00:15,640 --> 00:00:17,780
+Now,
+the magic isn't either of them on their
+
+11
+00:00:17,840 --> 00:00:18,100
+own.
+
+12
+00:00:18,260 --> 00:00:19,690
+The magic is when you combine them
+together.
+
+13
+00:00:19,770 --> 00:00:22,960
+This introduction right now
+was even curated from mixing the two,
+
+14
+00:00:23,000 --> 00:00:23,560
+and I just read
+
+15
+00:00:23,600 --> 00:00:27,560
+it out word for word, and I thought,
+"That is a good hook." Introducing an app
+
+16
+00:00:27,580 --> 00:00:30,590
+called Whisperflow.
+Now imagine a world where you talk to your
+
+17
+00:00:30,660 --> 00:00:31,380
+computer or your
+
+18
+00:00:31,400 --> 00:00:34,480
+phone, similar to the dictate feature,
+but it's a lot more accurate.
+
+19
+00:00:34,540 --> 00:00:37,540
+Now some of us are already doing this
+within our life, but you often can't speak
+
+20
+00:00:37,560 --> 00:00:40,040
+for more than 30 or 40 seconds before you
+have to go back and check, and then
+
+21
+00:00:40,060 --> 00:00:43,020
+there's a blatant, obvious mistake,
+and it's going to ruin absolutely
+
+22
+00:00:43,060 --> 00:00:43,280
+everything
+
+23
+00:00:43,300 --> 00:00:45,480
+else that's happened from that.
+Whisperflow changes that.
+
+24
+00:00:45,520 --> 00:00:47,180
+Now,
+I've actually been very hesitant to make
+
+25
+00:00:47,240 --> 00:00:48,790
+AI content because I don't think it's
+
+26
+00:00:48,800 --> 00:00:50,840
+as impressive as everyone makes out on the
+internet.
+
+27
+00:00:50,880 --> 00:00:53,100
+But this is a tool
+that doesn't do your work for you.
+
+28
+00:00:53,280 --> 00:00:55,200
+It enables you to get more work done.
+
+29
+00:00:55,320 --> 00:00:59,220
+Speaking is roughly three times faster
+than any amount of written or typed
+
+30
+00:00:59,360 --> 00:01:03,240
+words or verbiage that you can do.
+If you can speak 150 words into Claude
+
+31
+00:01:03,260 --> 00:01:06,200
+instead of typing 40 or 50,
+that's going to make a massive impact.
+
+32
+00:01:06,420 --> 00:01:09,640
+Not to mention, when I'm ideating,
+often I need to be on the move, not at my
+
+33
+00:01:09,660 --> 00:01:11,740
+computer.
+Come up with my best ideas in the shower,
+
+34
+00:01:11,760 --> 00:01:13,070
+when I'm on a dog walk, or
+
+35
+00:01:13,080 --> 00:01:15,920
+sometimes even right here in my office,
+if I'm with a member of staff,
+
+36
+00:01:15,980 --> 00:01:16,490
+I'm sat back
+
+37
+00:01:16,520 --> 00:01:19,050
+on my chair firing ideas. What
+if we did this? What if we did this?
+
+38
+00:01:19,170 --> 00:01:21,440
+What if we did this?
+Using this software
+
+39
+00:01:21,480 --> 00:01:23,160
+is enabling me to use my
+
+40
+00:01:23,180 --> 00:01:26,170
+brain better. Another thing
+is sometimes we really overestimate how
+
+41
+00:01:26,220 --> 00:01:26,680
+good our memory
+
+42
+00:01:26,720 --> 00:01:28,180
+is at remembering things.
+So we have an idea, we go,
+
+43
+00:01:28,190 --> 00:01:28,890
+"I'll type it down in a
+
+44
+00:01:28,960 --> 00:01:31,450
+minute." Or our phone's not available to
+us, or we're currently doing something
+
+45
+00:01:31,480 --> 00:01:34,070
+else, so we're changing an app. With this,
+I can open the notes section on my
+
+46
+00:01:34,140 --> 00:01:36,500
+phone, tap into Whisperflow,
+and I'm going to show you how to install
+
+47
+00:01:36,520 --> 00:01:36,700
+it in a
+
+48
+00:01:36,780 --> 00:01:40,500
+second, and I can just talk for five, six,
+seven minutes, and I know it's going to
+
+49
+00:01:40,540 --> 00:01:42,740
+get everything that I want.
+It's like an assistant on tap.
+
+50
+00:01:42,780 --> 00:01:45,420
+But one of the most powerful things
+is I can think out loud
+
+51
+00:01:45,600 --> 00:01:46,380
+and actually come to
+
+52
+00:01:46,420 --> 00:01:49,560
+the conclusions and the ideas
+that I want to whilst doing other tasks,
+
+53
+00:01:49,700 --> 00:01:50,030
+even whilst
+
+54
+00:01:50,080 --> 00:01:52,100
+driving.
+And I'm not sure of the legality of me
+
+55
+00:01:52,140 --> 00:01:52,620
+saying that.
+
+56
+00:01:52,680 --> 00:01:55,330
+So just before I get into even more
+reasons as to why this is an incredibly
+
+57
+00:01:55,400 --> 00:01:57,180
+powerful tool,
+let me show you how to install it.
+
+58
+00:01:57,240 --> 00:01:58,760
+So download the app,
+you get to use it for free.
+
+59
+00:01:59,020 --> 00:02:00,480
+Drag it into the applications folder.
+
+60
+00:02:00,680 --> 00:02:04,280
+It's going to ask you some annoying
+questions. Cool.
+
+61
+00:02:07,760 --> 00:02:09,820
+Just have to set up some permissions here.
+Boom.
+
+62
+00:02:10,049 --> 00:02:13,280
+Now I'm probably going to upgrade to the
+pro shortly. But let's give this a go.
+
+63
+00:02:13,340 --> 00:02:15,420
+So now if I want to do hands-free,
+which I often do,
+
+64
+00:02:15,680 --> 00:02:16,400
+I'm going to press function
+
+65
+00:02:16,420 --> 00:02:18,940
+and space bar. My name's James Smith.
+I'm a YouTuber.
+
+66
+00:02:19,180 --> 00:02:22,760
+I run several YouTube accounts. However,
+this one that I'm working on is designed
+
+67
+00:02:22,800 --> 00:02:26,320
+for business owners, solopreneurs,
+and I want you to help me
+
+68
+00:02:26,400 --> 00:02:28,720
+ideate some things
+that I could help them with.
+
+69
+00:02:28,740 --> 00:02:32,000
+So there are probably three segments in
+which I would say I'm an expert
+
+70
+00:02:32,020 --> 00:02:32,300
+or I've got
+
+71
+00:02:32,310 --> 00:02:34,049
+a lot of experience.
+It would be to do with content,
+
+72
+00:02:34,370 --> 00:02:35,660
+to do with leads, and to do
+
+73
+00:02:35,680 --> 00:02:38,540
+with making money. So let's look at
+that first segment to begin with.
+
+74
+00:02:38,580 --> 00:02:40,940
+So as far as content creation,
+I believe that a lot of people watching
+
+75
+00:02:40,960 --> 00:02:41,500
+these videos
+
+76
+00:02:41,520 --> 00:02:45,080
+probably have their iPhones.
+They might think they need more equipment.
+
+77
+00:02:45,090 --> 00:02:48,000
+They may be a bit paralyzed to the fact
+that that's the reason why they're not
+
+78
+00:02:48,040 --> 00:02:49,980
+making content.
+They know they need to pick up their phone
+
+79
+00:02:50,020 --> 00:02:50,500
+and shoot.
+
+80
+00:02:50,530 --> 00:02:52,140
+They're not sure
+which platforms to edit in.
+
+81
+00:02:52,360 --> 00:02:54,760
+They're not really sure what to talk about
+as well because they're not
+
+82
+00:02:54,820 --> 00:02:57,380
+self-obsessed.
+They don't feel the need to wake up
+
+83
+00:02:57,400 --> 00:02:58,370
+and talk about themselves all
+
+84
+00:02:58,400 --> 00:03:00,620
+day.
+So if you could give me seven different
+
+85
+00:03:00,760 --> 00:03:02,220
+content ideas that I could put out,
+
+86
+00:03:02,340 --> 00:03:04,880
+all I need is the titles,
+and I can run with it because I'm fairly
+
+87
+00:03:04,920 --> 00:03:05,420
+experienced in
+
+88
+00:03:05,480 --> 00:03:09,100
+this. Now as far as leads, I think
+that people sometimes think they need to
+
+89
+00:03:09,120 --> 00:03:09,240
+get
+
+90
+00:03:09,280 --> 00:03:11,700
+clients from social media.
+They think they need to get sales from
+
+91
+00:03:11,740 --> 00:03:12,230
+social media, and
+
+92
+00:03:12,240 --> 00:03:14,140
+they completely overlook the fact
+that they, in fact,
+
+93
+00:03:14,160 --> 00:03:15,020
+should be getting leads.
+
+94
+00:03:15,100 --> 00:03:19,040
+So seven different content ideas
+surrounding how to get more leads,
+
+95
+00:03:19,120 --> 00:03:21,260
+whether it's lead magnets,
+whether it's why we need leads,
+
+96
+00:03:21,600 --> 00:03:21,960
+how many of your
+
+97
+00:03:21,980 --> 00:03:23,920
+followers should be leads, et cetera,
+good quality leads.
+
+98
+00:03:24,100 --> 00:03:26,240
+I'll leave that for you to think about.
+Then the making money thing.
+
+99
+00:03:26,600 --> 00:03:30,580
+I think that because most of my audience
+is Australian, British, the whole idea
+
+100
+00:03:30,620 --> 00:03:34,560
+of talking about making money is uncouth,
+and I think that a lot of the time it
+
+101
+00:03:34,580 --> 00:03:37,500
+can seem like a dirty word.
+So let's frame it around maybe
+
+102
+00:03:37,540 --> 00:03:38,220
+commodities,
+
+103
+00:03:38,340 --> 00:03:42,329
+making money as raising prices, different
+
+104
+00:03:42,329 --> 00:03:46,269
+ticket prices, high ticket, low ticket,
+how to scale, all of those kind of
+
+105
+00:03:46,280 --> 00:03:48,200
+things. So what I need from you
+is to segment.
+
+106
+00:03:48,220 --> 00:03:50,380
+Let's do seven pieces of content for each
+one of those.
+
+107
+00:03:51,480 --> 00:03:53,720
+Yeah, just give me some titles,
+things to run with,
+
+108
+00:03:53,780 --> 00:03:54,540
+because right now I've got a
+
+109
+00:03:54,580 --> 00:03:57,560
+blank slate, blank afternoon,
+and I need to promote a three-day free
+
+110
+00:03:57,600 --> 00:03:58,080
+event that I'm
+
+111
+00:03:58,120 --> 00:03:59,800
+doing called Content Leads Money.
+
+112
+00:03:59,810 --> 00:04:01,890
+So in that,
+could you please just remind me to put a
+
+113
+00:04:01,980 --> 00:04:03,680
+call to action in there so
+
+114
+00:04:03,720 --> 00:04:05,230
+that I could say to them,
+there's a link in the description.
+
+115
+00:04:05,360 --> 00:04:07,720
+Come to Content Leads Money,
+three-day event, going to be doing it,
+
+116
+00:04:07,780 --> 00:04:08,310
+and that they
+
+117
+00:04:08,320 --> 00:04:10,670
+should register because it's free.
+Inception.
+
+118
+00:04:11,160 --> 00:04:13,480
+And yeah,
+so that's really what I need from you
+
+119
+00:04:13,520 --> 00:04:14,280
+right now.
+
+120
+00:04:14,320 --> 00:04:16,950
+Also, from all of this, I understand
+that I'm giving you quite a lot of
+
+121
+00:04:16,980 --> 00:04:18,409
+information,
+a lot of things to think about.
+
+122
+00:04:18,420 --> 00:04:20,760
+If you have any questions for me,
+I'm happy for you to ask me
+
+123
+00:04:20,780 --> 00:04:21,360
+if you think it could
+
+124
+00:04:21,399 --> 00:04:22,800
+help you create me a better answer.
+
+125
+00:04:23,120 --> 00:04:25,469
+Now,
+I know this looks like a scary amount of
+
+126
+00:04:25,540 --> 00:04:25,880
+text.
+
+127
+00:04:26,080 --> 00:04:28,800
+If I want it to break up the text,
+I can just say line break.
+
+128
+00:04:28,840 --> 00:04:31,440
+And that's what I do
+when I'm using it on the move to do
+
+129
+00:04:31,500 --> 00:04:32,620
+LinkedIn posts, which I've
+
+130
+00:04:32,660 --> 00:04:34,300
+started doing whilst walking a pram.
+
+131
+00:04:34,700 --> 00:04:36,960
+So I've got a dog, pram, child, phone.
+
+132
+00:04:37,080 --> 00:04:38,700
+I'm putting out posts,
+putting out LinkedIn posts,
+
+133
+00:04:38,740 --> 00:04:40,200
+putting out ideas, ideating.
+
+134
+00:04:40,270 --> 00:04:42,600
+That's what this has done for me.
+Some of my friends don't even know I'm
+
+135
+00:04:42,640 --> 00:04:42,770
+doing
+
+136
+00:04:42,800 --> 00:04:44,900
+this, but let's hit it. Now,
+one of the most beautiful thing here
+
+137
+00:04:44,940 --> 00:04:45,910
+is it's doing
+
+138
+00:04:45,940 --> 00:04:49,600
+this for me, which is great. So often
+when AI gives us some ideation,
+
+139
+00:04:49,900 --> 00:04:52,520
+I'm just going to go through that now.
+I'm going to do the same thing again.
+
+140
+00:04:52,740 --> 00:04:55,900
+Oh, by the way, Nutonic
+is now in Sainsbury's as part of the meal
+
+141
+00:04:55,940 --> 00:04:56,540
+deal, so
+
+142
+00:04:56,820 --> 00:05:00,000
+jump in there. Function space. Okay,
+looking through these now. Looks good.
+
+143
+00:05:00,260 --> 00:05:02,520
+Your iPhone is good enough.
+Stop waiting and start posting.
+
+144
+00:05:02,740 --> 00:05:04,159
+Now, I don't think this is good enough.
+
+145
+00:05:04,540 --> 00:05:08,200
+I think we should be saying to people how
+to get leads from your iPhone, how to
+
+146
+00:05:08,420 --> 00:05:11,070
+establish a voice.
+Let's talk about becoming a brand,
+
+147
+00:05:11,160 --> 00:05:12,000
+becoming a household name
+
+148
+00:05:12,060 --> 00:05:14,390
+using your iPhone. No, stop waiting
+and start posting.
+
+149
+00:05:14,500 --> 00:05:15,659
+Bit too motivational for me.
+
+150
+00:05:16,020 --> 00:05:17,640
+The second one,
+you don't have to talk about yourself to
+
+151
+00:05:17,680 --> 00:05:18,400
+make great content.
+
+152
+00:05:18,440 --> 00:05:22,380
+Again I think this could even just be,
+"How to make great content without talking
+
+153
+00:05:22,420 --> 00:05:24,700
+about yourself." The third one,
+"The only three things your audience
+
+154
+00:05:24,780 --> 00:05:25,149
+actually wants
+
+155
+00:05:25,160 --> 00:05:27,140
+to hear from you." I don't really think
+that's strong enough.
+
+156
+00:05:27,340 --> 00:05:29,130
+Number four,
+"Why nobody cares what camera you're
+
+157
+00:05:29,140 --> 00:05:30,540
+using." I think that actually
+
+158
+00:05:30,600 --> 00:05:32,940
+jumps into number one.
+I would have thought you,
+
+159
+00:05:33,060 --> 00:05:34,240
+being super knowledgeable, that
+
+160
+00:05:34,280 --> 00:05:36,140
+you might explain about hooks
+and setups and payoffs.
+
+161
+00:05:36,380 --> 00:05:37,400
+So maybe let's do that again.
+
+162
+00:05:37,620 --> 00:05:40,520
+Number five,
+"How to find 30 content ideas in 30
+
+163
+00:05:40,560 --> 00:05:41,300
+minutes without leaving your
+
+164
+00:05:41,340 --> 00:05:44,990
+desk." That should be shorter, I think,
+because if this was a YouTube title, "How
+
+165
+00:05:45,040 --> 00:05:48,390
+to come up with content ideas." Number
+six, "The one editing app you need and
+
+166
+00:05:48,390 --> 00:05:52,360
+nothing else." Maybe we talk about why
+Instagram edits will get you ahead.
+
+167
+00:05:52,440 --> 00:05:56,340
+Why Instagram edits killed CapCut.
+The interesting death of CapCut.
+
+168
+00:05:56,540 --> 00:05:58,260
+How Instagram edits changed the game.
+
+169
+00:05:58,340 --> 00:05:59,900
+These are things
+that I would've thought would've made good
+
+170
+00:05:59,940 --> 00:06:00,240
+hooks.
+
+171
+00:06:00,400 --> 00:06:02,160
+You could say, "Instagram edits
+is here in CapCut.
+
+172
+00:06:02,180 --> 00:06:03,880
+Instead, let me explain why."
+And number seven,
+
+173
+00:06:03,950 --> 00:06:05,200
+"Which platform should you post on
+
+174
+00:06:05,220 --> 00:06:07,340
+first?" Again,
+I don't think that's very strong.
+
+175
+00:06:07,420 --> 00:06:11,050
+So what I want from you to do
+is to go through all of these again with
+
+176
+00:06:11,080 --> 00:06:11,240
+my
+
+177
+00:06:11,280 --> 00:06:14,200
+feedback and completely change all of
+those. Is that clear?
+
+178
+00:06:14,240 --> 00:06:17,009
+The interesting thing here as well is,
+as I'm explaining all of this and putting
+
+179
+00:06:17,040 --> 00:06:19,780
+stuff across, the AI, Claude,
+is getting to learn
+
+180
+00:06:19,820 --> 00:06:20,960
+and understand this kind
+
+181
+00:06:21,000 --> 00:06:23,430
+of ideation. And the thing is here,
+the caveat here is,
+
+182
+00:06:23,720 --> 00:06:24,760
+I'm not getting AI to do my
+
+183
+00:06:24,799 --> 00:06:27,880
+work for me.
+I'm helping AI take the ideas from my
+
+184
+00:06:27,900 --> 00:06:28,420
+brain, because
+
+185
+00:06:28,600 --> 00:06:30,540
+everything I need to make money,
+scale my business, do better,
+
+186
+00:06:30,600 --> 00:06:31,310
+grow online is in
+
+187
+00:06:31,340 --> 00:06:33,260
+here, and it's the same for you.
+What we're doing here
+
+188
+00:06:33,280 --> 00:06:34,330
+is we're extracting that and
+
+189
+00:06:34,340 --> 00:06:36,920
+we're organizing that.
+I can do a seven-hour business talk in
+
+190
+00:06:36,940 --> 00:06:37,590
+front of 1,000
+
+191
+00:06:37,680 --> 00:06:39,740
+people. The slides aren't for things
+that I forget.
+
+192
+00:06:39,830 --> 00:06:41,100
+It's to keep the structure of what I'm
+saying.
+
+193
+00:06:41,320 --> 00:06:43,540
+All of you watching this
+are experts in your own places.
+
+194
+00:06:43,740 --> 00:06:45,680
+We utilize tools like this to get it out
+of where we are.
+
+195
+00:06:45,860 --> 00:06:48,490
+Okay, I think these are okay.
+I probably would spend a bit more time
+
+196
+00:06:48,520 --> 00:06:48,660
+here.
+
+197
+00:06:48,900 --> 00:06:51,040
+So that is Whisperflow on the desktop.
+
+198
+00:06:51,220 --> 00:06:55,060
+Okay, so Whisperflow, again,
+works on mobile, as you can see here.
+
+199
+00:06:55,300 --> 00:06:57,980
+You can see I was even talking on the way
+here, giving it ideas.
+
+200
+00:06:58,410 --> 00:07:00,340
+So how this works
+when you're in a WhatsApp is,
+
+201
+00:07:00,580 --> 00:07:01,640
+here's me chatting to Tesh, my
+
+202
+00:07:01,720 --> 00:07:04,040
+barber. Now,
+it integrates into the keyboard.
+
+203
+00:07:04,200 --> 00:07:05,740
+So what I'm going to do
+is I'm going to press in the bottom left,
+
+204
+00:07:05,940 --> 00:07:06,270
+and what's going
+
+205
+00:07:06,280 --> 00:07:09,060
+to come up is it's going to say Start
+Flow. So I press Start Flow.
+
+206
+00:07:09,300 --> 00:07:12,000
+It jumps to the app, but I can swipe back.
+"Thank you so much, mate.
+
+207
+00:07:12,420 --> 00:07:15,820
+I do apologize in advance that my son
+is going to scream the building down as we
+
+208
+00:07:15,880 --> 00:07:17,500
+give him a haircut." Line break,
+line break.
+
+209
+00:07:17,690 --> 00:07:20,580
+"Just want to say I appreciate you as a
+barber, and I know it's been emotional.
+
+210
+00:07:20,620 --> 00:07:23,240
+We've had to shave my head because I'm
+going bald." Line break, line break.
+
+211
+00:07:23,450 --> 00:07:27,420
+"But it's been a great ride of you holding
+onto my hairline
+
+212
+00:07:27,459 --> 00:07:29,380
+for so long,
+and I think now it's just time
+
+213
+00:07:29,480 --> 00:07:30,820
+that we let it go." Line break, line
+
+214
+00:07:30,840 --> 00:07:34,300
+break. ♪Let it go,
+let it go♪ You get the message.
+
+215
+00:07:34,340 --> 00:07:37,650
+Appreciate you. And that
+is just nicely out there.
+
+216
+00:07:37,650 --> 00:07:39,000
+Okay,
+I'm not actually going to send him that.
+
+217
+00:07:39,020 --> 00:07:42,689
+But again, so we are,
+from a business perspective, sure, this is
+
+218
+00:07:42,700 --> 00:07:44,760
+great.
+But if we think about it from day to day,
+
+219
+00:07:44,780 --> 00:07:45,529
+we're saving time.
+
+220
+00:07:45,700 --> 00:07:48,280
+Less time on our phone,
+more time interacting with people,
+
+221
+00:07:48,320 --> 00:07:49,280
+more messages, getting
+
+222
+00:07:49,320 --> 00:07:53,249
+emails done. On the walks, AirPods in,
+out and about, getting
+
+223
+00:07:53,300 --> 00:07:56,770
+stuff sent to people. Because voice notes,
+people hate receiving them, sending them
+
+224
+00:07:56,820 --> 00:08:00,520
+isn't great. The text to speech, not
+that accurate. This opens up a new world.
+
+225
+00:08:00,700 --> 00:08:03,680
+So suddenly cooking, walking, driving
+are all times for you to sit there and go,
+
+226
+00:08:03,900 --> 00:08:05,580
+"Hey,
+what kind of things could we do for this?
+
+227
+00:08:05,660 --> 00:08:06,780
+What kind of things could we do for that?
+
+228
+00:08:06,940 --> 00:08:09,270
+What should I be looking on?" Again,
+there are other things.
+
+229
+00:08:09,360 --> 00:08:13,220
+We can put transcripts into Claude from
+other competitors
+
+230
+00:08:13,420 --> 00:08:16,340
+on YouTube and say, "Hey, these
+are the three top videos in my niche.
+
+231
+00:08:16,600 --> 00:08:18,140
+Here's the existing script that I've got.
+
+232
+00:08:18,420 --> 00:08:20,560
+I'm thinking that somehow we take the
+evidence from this, we do this,
+
+233
+00:08:20,600 --> 00:08:20,940
+we do this,
+
+234
+00:08:21,000 --> 00:08:23,100
+we do this.
+What do you think?" You could think for
+
+235
+00:08:23,120 --> 00:08:23,940
+writing a book.
+
+236
+00:08:24,320 --> 00:08:26,820
+You could talk to your computer.
+You could ideate.
+
+237
+00:08:26,980 --> 00:08:29,140
+You could even write a bloody book using
+Whisperflow.
+
+238
+00:08:29,380 --> 00:08:31,930
+But better yet,
+we get to claw back time from other areas,
+
+239
+00:08:31,980 --> 00:08:32,780
+whether it's emails.
+
+240
+00:08:32,969 --> 00:08:35,719
+"Hey, John, sorry about that. Look,
+really would love to get some time to sit
+
+241
+00:08:35,760 --> 00:08:36,040
+down.
+
+242
+00:08:36,300 --> 00:08:38,630
+Diary's looking pretty hectic."
+That three minutes responding to this
+
+243
+00:08:38,640 --> 00:08:39,080
+email becomes
+
+244
+00:08:39,120 --> 00:08:40,580
+one minute, and that time
+that we're squeezing in
+
+245
+00:08:40,840 --> 00:08:41,760
+is more time we could put into
+
+246
+00:08:41,820 --> 00:08:43,300
+ideation,
+more time we could put into prompting,
+
+247
+00:08:43,380 --> 00:08:44,540
+more time we could get into
+
+248
+00:08:44,580 --> 00:08:47,440
+discussing AI. We
+are getting to squeeze other tasks
+
+249
+00:08:47,450 --> 00:08:48,180
+that couldn't have been done
+
+250
+00:08:48,220 --> 00:08:51,000
+before and putting our time into other
+places we get compounding returns,
+
+251
+00:08:51,080 --> 00:08:51,390
+like this
+
+252
+00:08:51,400 --> 00:08:55,340
+video. But the best thing here
+is so many of us have been asking AI to
+
+253
+00:08:55,360 --> 00:08:58,040
+produce scripts for us,
+and they sound robotic.
+
+254
+00:08:58,120 --> 00:08:59,220
+They sound predictable.
+
+255
+00:08:59,260 --> 00:09:02,960
+They don't sound human. Now,
+we can use the human
+
+256
+00:09:03,000 --> 00:09:06,260
+component and put
+that into AI so we get the written version
+
+257
+00:09:06,300 --> 00:09:06,910
+what we've wanted all
+
+258
+00:09:06,940 --> 00:09:10,670
+along, but it sounds like us.
+If you're not using these two things, I
+
+259
+00:09:10,680 --> 00:09:13,000
+suggest that you put them together.
+I'm not the biggest fan of AI.
+
+260
+00:09:13,080 --> 00:09:16,820
+I'm not the biggest fan of people online
+using it to get views and clout and to
+
+261
+00:09:16,920 --> 00:09:18,580
+hype up things just to grow their email
+list.
+
+262
+00:09:18,780 --> 00:09:21,969
+But these two, I think,
+can put you ahead of other people,
+
+263
+00:09:22,100 --> 00:09:22,580
+and there is going to be
+
+264
+00:09:22,620 --> 00:09:24,220
+a golden era before everyone
+is using this.
+
+265
+00:09:24,520 --> 00:09:28,060
+I actually foresee, mark my words,
+that WhatsApp will probably
+
+266
+00:09:28,100 --> 00:09:30,080
+purchase Whisperflow.
+How sure am I of that?
+
+267
+00:09:30,140 --> 00:09:32,340
+Well, I don't know, but it makes sense.
+
+268
+00:09:32,620 --> 00:09:35,560
+So chuck those two things in
+and please do register for my free
+
+269
+00:09:35,720 --> 00:09:36,319
+three-day event
+
+270
+00:09:36,460 --> 00:09:37,660
+coming up,
+where we're going to be going through
+
+271
+00:09:37,700 --> 00:09:38,580
+content leads and money.
+
+272
+00:09:38,790 --> 00:09:40,280
+It's going to be live,
+it's going to be super interactive,
+
+273
+00:09:40,319 --> 00:09:40,999
+going to be super fun.
+
+274
+00:09:41,240 --> 00:09:44,080
+So I'll see you there. Enjoy the apps.
+I'll put links to them in description.
+
+275
+00:09:44,100 --> 00:09:45,820
+And if you enjoyed this video,
+you're going to absolutely love this one
+
+276
+00:09:45,880 --> 00:09:46,100
+right here.

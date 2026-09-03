@@ -1,0 +1,1602 @@
+1
+00:00:00,080 --> 00:00:03,480
+Now I know that the title
+is clickbaity as shit, but ultimately,
+
+2
+00:00:03,580 --> 00:00:04,040
+there is a way
+
+3
+00:00:04,100 --> 00:00:06,700
+that you can make more money without doing
+more work, and it's getting better at
+
+4
+00:00:06,740 --> 00:00:09,540
+making landing pages. A landing page
+is like a brochure.
+
+5
+00:00:09,560 --> 00:00:13,060
+It's like a menu where you send people to
+where they consider doing business with
+
+6
+00:00:13,100 --> 00:00:15,240
+you. And the majority of them,
+unfortunately, are shit.
+
+7
+00:00:15,360 --> 00:00:18,260
+The reason I want to make this video
+is so there's one resource in place I can
+
+8
+00:00:18,320 --> 00:00:18,500
+send
+
+9
+00:00:18,540 --> 00:00:21,060
+people every time someone says, "James,
+why aren't I making sales?
+
+10
+00:00:21,140 --> 00:00:24,410
+I sent 300 people, no one bought." Yeah,
+well, go watch this video because I'll
+
+11
+00:00:24,440 --> 00:00:26,420
+explain exactly why.
+And for some of you watching this
+
+12
+00:00:26,460 --> 00:00:27,520
+thinking, oh, I know this
+
+13
+00:00:27,560 --> 00:00:29,920
+already,
+Alex Hormozi says a lot of waffle,
+
+14
+00:00:30,040 --> 00:00:31,500
+but one thing he said that's legit the
+
+15
+00:00:31,520 --> 00:00:34,880
+other day is people need to be reminded
+more than they need to be taught.
+
+16
+00:00:35,060 --> 00:00:37,320
+You might already know some of this stuff,
+but you need to be reminded.
+
+17
+00:00:37,500 --> 00:00:39,720
+First things first,
+I can never get behind sending people from
+
+18
+00:00:39,840 --> 00:00:40,920
+social media to a
+
+19
+00:00:40,960 --> 00:00:43,000
+landing page.
+It's like first approaching someone at the
+
+20
+00:00:43,040 --> 00:00:44,040
+bar and saying, "Hey, do
+
+21
+00:00:44,060 --> 00:00:46,980
+you want to come suck my willy?" Because
+if you were to do the process right and go
+
+22
+00:00:47,040 --> 00:00:50,290
+for loads of dinners and dates
+and treat that person really well,
+
+23
+00:00:50,360 --> 00:00:51,000
+they might end
+
+24
+00:00:51,060 --> 00:00:52,360
+up really enjoying sucking your willy.
+
+25
+00:00:52,420 --> 00:00:55,560
+But if you say, "Suck my willy" too soon,
+they go, "Whoa, wrong person." You didn't
+
+26
+00:00:55,580 --> 00:00:57,700
+do the steps necessary to get to the willy
+sucking.
+
+27
+00:00:57,960 --> 00:01:00,000
+A landing page is not a website,
+and so many of you try
+
+28
+00:01:00,080 --> 00:01:01,340
+and host your landing page
+
+29
+00:01:01,380 --> 00:01:05,360
+on your Wix or your Squarespace on a
+website that's too multifaceted to do too
+
+30
+00:01:05,379 --> 00:01:07,580
+many different things,
+and it ends up looking shit.
+
+31
+00:01:07,880 --> 00:01:10,980
+Leadpages and ClickFunnels,
+all of these sites wouldn't be able to
+
+32
+00:01:11,000 --> 00:01:11,320
+charge the
+
+33
+00:01:11,340 --> 00:01:14,840
+premium of what they do of $49 US a month
+unless they had a real,
+
+34
+00:01:14,900 --> 00:01:17,760
+tangible benefit to the amount of
+bottom-line sales that you're making.
+
+35
+00:01:17,820 --> 00:01:20,730
+Another big consideration to make as well
+is when people do land on these landing
+
+36
+00:01:20,740 --> 00:01:23,020
+pages,
+we are not trying to force them to buy.
+
+37
+00:01:23,120 --> 00:01:24,120
+We're trying to coerce them.
+
+38
+00:01:24,240 --> 00:01:26,760
+If you're the manager of a restaurant
+and someone's looking at your menu,
+
+39
+00:01:27,080 --> 00:01:27,340
+you don't
+
+40
+00:01:27,380 --> 00:01:31,000
+say, "Get inside. Go take
+that seat over there."
+
+41
+00:01:31,200 --> 00:01:33,500
+You're like, "Hey, if you want to come in,
+I'd love to have you here.
+
+42
+00:01:33,520 --> 00:01:35,450
+But again, I respect you
+if you want to go somewhere else,
+
+43
+00:01:35,560 --> 00:01:36,170
+maybe check a few other
+
+44
+00:01:36,220 --> 00:01:38,120
+restaurants out.
+It's also completely fine."
+
+45
+00:01:38,160 --> 00:01:39,320
+Which one of those two is going to
+
+46
+00:01:39,340 --> 00:01:42,030
+make you more likely to want to go into
+that person's restaurant?
+
+47
+00:01:42,140 --> 00:01:45,060
+My biggest gripe is on websites, there
+are far too many places for people to
+
+48
+00:01:45,100 --> 00:01:45,360
+click.
+
+49
+00:01:45,600 --> 00:01:49,560
+About Me, Services, Contact Us.
+There needs to be one ultimate goal from
+
+50
+00:01:49,620 --> 00:01:52,640
+a landing page, and that is so
+that someone goes from not doing business
+
+51
+00:01:52,700 --> 00:01:52,960
+with you
+
+52
+00:01:53,020 --> 00:01:55,900
+to start doing business with you.
+And some people can sometimes confuse a
+
+53
+00:01:55,940 --> 00:01:56,200
+squeeze
+
+54
+00:01:56,280 --> 00:01:59,140
+page with a landing page.
+A squeeze page has one objective
+
+55
+00:01:59,180 --> 00:02:00,030
+and one objective only,
+
+56
+00:02:00,200 --> 00:02:02,580
+that someone arrives on that
+and gives you their contact information.
+
+57
+00:02:02,680 --> 00:02:04,540
+The landing page is
+that someone lands on that page,
+
+58
+00:02:04,780 --> 00:02:05,980
+and they end up doing business
+
+59
+00:02:06,020 --> 00:02:09,039
+with you.
+So to pay off the title of this about how
+
+60
+00:02:09,080 --> 00:02:09,800
+to make more money without
+
+61
+00:02:09,860 --> 00:02:12,400
+doing more work is
+if you can improve the efficacy of your
+
+62
+00:02:12,440 --> 00:02:13,120
+landing page--
+
+63
+00:02:13,310 --> 00:02:14,120
+[power tool sound] I'm cursed at the
+moment.
+
+64
+00:02:14,380 --> 00:02:15,890
+I don't know what I've done
+or who I've annoyed,
+
+65
+00:02:16,000 --> 00:02:17,080
+but anytime I start recording
+
+66
+00:02:17,100 --> 00:02:19,500
+content,
+someone has some type of power tool in the
+
+67
+00:02:19,540 --> 00:02:20,760
+neighborhood or the vicinity.
+
+68
+00:02:21,000 --> 00:02:24,280
+The reason that I love using landing pages
+as much as anything else is the
+
+69
+00:02:24,320 --> 00:02:26,030
+analytics that we can get.
+We can see the visitors,
+
+70
+00:02:26,060 --> 00:02:26,580
+and we can look at the
+
+71
+00:02:26,620 --> 00:02:29,260
+conversions,
+and we could classify success as someone
+
+72
+00:02:29,300 --> 00:02:29,980
+clicking through to the
+
+73
+00:02:30,020 --> 00:02:32,780
+checkout. Although I know some people
+are going to click through to the checkout
+
+74
+00:02:32,800 --> 00:02:34,460
+and maybe bounce,
+let's just look at it like that.
+
+75
+00:02:34,680 --> 00:02:35,680
+But we can now identify.
+
+76
+00:02:36,000 --> 00:02:38,700
+If you're getting 1,000 people land on the
+page and only one person's bought,
+
+77
+00:02:38,880 --> 00:02:41,760
+that's a conversion issue.
+Maybe the structure, maybe the layout,
+
+78
+00:02:41,860 --> 00:02:42,460
+maybe the offer.
+
+79
+00:02:42,600 --> 00:02:44,080
+You might be tripping yourself up with
+some of the things
+
+80
+00:02:44,100 --> 00:02:44,460
+that we're going to talk
+
+81
+00:02:44,480 --> 00:02:46,980
+about in a second, or ultimately,
+you could be too expensive.
+
+82
+00:02:47,020 --> 00:02:49,740
+And a massive mistake that people make
+is they think they get to dictate the
+
+83
+00:02:49,780 --> 00:02:50,120
+price.
+
+84
+00:02:50,260 --> 00:02:53,700
+"Well, I did a master's degree,
+and I've got a BFE in
+
+85
+00:02:53,760 --> 00:02:57,440
+Kinesiology, so I should be getting $120 a
+
+86
+00:02:57,500 --> 00:03:00,060
+week." You don't determine what you charge
+for an hour.
+
+87
+00:03:00,220 --> 00:03:03,260
+The demand for your services
+is in charge of what you get an hour.
+
+88
+00:03:03,380 --> 00:03:06,269
+Because I don't care what qualifications
+you've got, if no one wants to use your
+
+89
+00:03:06,340 --> 00:03:09,180
+services, the prices need to come down,
+so it's easier to get people in because
+
+90
+00:03:09,200 --> 00:03:09,260
+you
+
+91
+00:03:09,300 --> 00:03:12,640
+want to be busy as a priority.
+You'd rather have 30 clients
+
+92
+00:03:12,960 --> 00:03:16,200
+underpaying you than three clients paying
+the going rate that you think you're
+
+93
+00:03:16,240 --> 00:03:18,520
+worth. And ultimately, again,
+someone such as myself,
+
+94
+00:03:18,680 --> 00:03:19,990
+I charge a fortune, and I'm
+
+95
+00:03:20,020 --> 00:03:23,460
+one of the most underqualified people ever
+because in some weird way, I'm not even
+
+96
+00:03:23,480 --> 00:03:25,380
+sure how,
+I've created demand for my services.
+
+97
+00:03:25,560 --> 00:03:28,860
+Demand is the currency
+that determines how much money we get.
+
+98
+00:03:29,000 --> 00:03:31,579
+So if loads of people landing,
+no one's buying, conversion issue.
+
+99
+00:03:31,620 --> 00:03:34,380
+But if 10 people are landing
+and one to two of them are buying,
+
+100
+00:03:34,500 --> 00:03:35,120
+we've got great
+
+101
+00:03:35,160 --> 00:03:37,860
+conversion, and the issue
+is the bottleneck to that is traffic,
+
+102
+00:03:37,900 --> 00:03:38,260
+and if you're not
+
+103
+00:03:38,300 --> 00:03:40,360
+looking at the analytics,
+it becomes very difficult to understand
+
+104
+00:03:40,380 --> 00:03:40,680
+when we have a
+
+105
+00:03:40,740 --> 00:03:42,540
+traffic issue and
+when we have a conversion issue.
+
+106
+00:03:42,660 --> 00:03:45,060
+Now, one of the reasons as well
+that a lot of people can leave a lot of
+
+107
+00:03:45,080 --> 00:03:45,280
+money on
+
+108
+00:03:45,300 --> 00:03:47,420
+the table is this.
+We go through periods of being hot
+
+109
+00:03:47,440 --> 00:03:47,800
+and cold.
+
+110
+00:03:48,000 --> 00:03:50,980
+Some people arriving on your landing page
+are hot. They are ready to go.
+
+111
+00:03:51,020 --> 00:03:53,040
+They're ready to buy.
+They've just had an argument with their
+
+112
+00:03:53,100 --> 00:03:53,670
+ex, and they're going
+
+113
+00:03:53,680 --> 00:03:56,640
+to get the revenge body,
+or they've just gone into their overdrive
+
+114
+00:03:56,660 --> 00:03:57,180
+and they're sick
+
+115
+00:03:57,200 --> 00:04:00,070
+of being single. Whatever it is.
+Or they've just hurt their shoulder
+
+116
+00:04:00,220 --> 00:04:00,660
+getting up off
+
+117
+00:04:00,700 --> 00:04:03,280
+the sofa, and this
+is the time they're going to get a physio
+
+118
+00:04:03,420 --> 00:04:04,260
+to help them mend
+
+119
+00:04:04,300 --> 00:04:06,240
+themselves.
+If they land on their landing page
+
+120
+00:04:06,260 --> 00:04:07,430
+and you give them a cold outcome,
+
+121
+00:04:07,600 --> 00:04:10,280
+book in a sales call,
+inquire for coaching.
+
+122
+00:04:10,500 --> 00:04:13,960
+People don't want a sales call.
+They want to get going.
+
+123
+00:04:14,000 --> 00:04:16,620
+They want to start now. People that
+are going to be your best clients
+
+124
+00:04:16,640 --> 00:04:16,860
+are usually
+
+125
+00:04:16,920 --> 00:04:18,899
+the most impatient. They're the ones
+that will pay the most money.
+
+126
+00:04:18,959 --> 00:04:22,860
+The same way that if I buy something for
+$10, if it's $12 to get it come a day
+
+127
+00:04:22,900 --> 00:04:25,160
+earlier, I'm paying it,
+even though the thing only costs $10.
+
+128
+00:04:25,220 --> 00:04:25,740
+I want it tomorrow.
+
+129
+00:04:25,800 --> 00:04:28,850
+I want it right now. In fact,
+the majority of the tech sat in front of
+
+130
+00:04:28,880 --> 00:04:29,360
+me, when I
+
+131
+00:04:29,400 --> 00:04:31,740
+order it online,
+I can get it the next day
+
+132
+00:04:31,780 --> 00:04:33,160
+or within two to four hours,
+
+133
+00:04:33,420 --> 00:04:35,020
+and I can pay an Uber driver to come get
+it.
+
+134
+00:04:35,210 --> 00:04:37,280
+"Babe,
+I've just bought a new DJI Pocket Osmo 3."
+
+135
+00:04:37,610 --> 00:04:38,780
+"Oh, yeah?" "It's going to be
+
+136
+00:04:38,840 --> 00:04:40,800
+here in two hours,
+so can you be by the door for
+
+137
+00:04:40,820 --> 00:04:42,300
+when it arrives?" Because I'm hot.
+
+138
+00:04:42,340 --> 00:04:43,720
+I wanted the camera, and now I've got it.
+
+139
+00:04:43,880 --> 00:04:46,860
+By booking in a sales call
+or putting off the process till later,
+
+140
+00:04:46,960 --> 00:04:47,500
+you allow people
+
+141
+00:04:47,520 --> 00:04:50,640
+to cool down. They become more rational,
+and ultimately, by the time you come
+
+142
+00:04:50,660 --> 00:04:53,920
+around to the call, they may want it less.
+And I hate inquiry forms.
+
+143
+00:04:54,180 --> 00:04:56,440
+Inquire for coaching. You're not
+that important.
+
+144
+00:04:56,580 --> 00:04:59,600
+It's not like I'm inquiring to see whether
+or not I can book you for a nightlife
+
+145
+00:04:59,660 --> 00:05:02,340
+appearance in three weeks' time because
+you've been on "Love Island." Just show
+
+146
+00:05:02,380 --> 00:05:05,520
+your prices and let people buy.
+If you want to jump on a call
+
+147
+00:05:05,540 --> 00:05:05,990
+and chat with
+
+148
+00:05:06,020 --> 00:05:08,420
+them,
+do it as part of your onboarding process.
+
+149
+00:05:08,430 --> 00:05:11,440
+"Hey, Steve, once you buy,
+we're going to jump on a call for half
+
+150
+00:05:11,500 --> 00:05:11,980
+hour to get to
+
+151
+00:05:11,990 --> 00:05:14,420
+know each other. And just to let you know,
+Steve, you still have a money-back
+
+152
+00:05:14,500 --> 00:05:16,120
+guarantee." If you have a money-back
+guarantee,
+
+153
+00:05:16,360 --> 00:05:17,630
+you shouldn't have to need a sales
+
+154
+00:05:17,630 --> 00:05:20,680
+call. If you have a money-back guarantee,
+you shouldn't need an inquiry form.
+
+155
+00:05:20,820 --> 00:05:23,140
+You should get the money from the person
+so you can start doing what you're doing.
+
+156
+00:05:23,240 --> 00:05:25,640
+One of the best things
+that you can do for your process,
+
+157
+00:05:25,820 --> 00:05:26,750
+for your sales, for your
+
+158
+00:05:26,820 --> 00:05:29,800
+funnel, is to put a VSL,
+a video sales letter, or a video
+
+159
+00:05:29,880 --> 00:05:30,400
+that just sits
+
+160
+00:05:30,740 --> 00:05:32,980
+top and center of the page.
+And it's just going to do
+
+161
+00:05:33,020 --> 00:05:34,720
+and say what everything does
+
+162
+00:05:34,760 --> 00:05:37,340
+on the page. Because imagine this.
+I've said this a million times before.
+
+163
+00:05:37,480 --> 00:05:40,980
+Whenever I was single and dating,
+a picture was never enough of a girl
+
+164
+00:05:41,020 --> 00:05:41,440
+because the
+
+165
+00:05:41,500 --> 00:05:43,520
+amount of girls that look good in
+pictures, and I saw them in real life,
+
+166
+00:05:43,560 --> 00:05:43,720
+and I'm
+
+167
+00:05:43,760 --> 00:05:45,400
+like,
+"You look nothing like you look like in
+
+168
+00:05:45,420 --> 00:05:46,890
+your pictures." If I could see a
+
+169
+00:05:47,040 --> 00:05:49,840
+video of them, I could build trust
+and understand what they look like
+
+170
+00:05:49,860 --> 00:05:50,140
+and when they
+
+171
+00:05:50,220 --> 00:05:52,320
+move. And ultimately,
+the same thing happens
+
+172
+00:05:52,360 --> 00:05:53,880
+when you watch a video of someone not
+
+173
+00:05:53,900 --> 00:05:57,440
+overly edited, not overly polished,
+just off the cuff like this one.
+
+174
+00:05:57,580 --> 00:05:59,720
+I'm not reading any notes.
+I'm just yarning.
+
+175
+00:05:59,920 --> 00:06:01,659
+You can get to understand how the person's
+mind works.
+
+176
+00:06:01,700 --> 00:06:04,080
+You just sit there
+and just say what it is, what they get,
+
+177
+00:06:04,220 --> 00:06:05,360
+why they need it, why to
+
+178
+00:06:05,380 --> 00:06:08,280
+trust you, how to pay. And have
+that in the text and copy below in case
+
+179
+00:06:08,320 --> 00:06:08,580
+they're not
+
+180
+00:06:08,600 --> 00:06:11,020
+prepared to watch the video,
+and then have a button to buy.
+
+181
+00:06:11,120 --> 00:06:13,320
+There are so many complexities.
+With the inquiry form,
+
+182
+00:06:13,360 --> 00:06:14,140
+they might get bored and go,
+
+183
+00:06:14,170 --> 00:06:15,900
+"Oh, fuck this. I'll come back later,"
+and they never come back.
+
+184
+00:06:15,980 --> 00:06:18,760
+With the booking in the sales call,
+you either have loads of availability in
+
+185
+00:06:18,800 --> 00:06:18,860
+your
+
+186
+00:06:18,900 --> 00:06:20,980
+diary, so they think you're a shit
+and not very good at your job,
+
+187
+00:06:21,040 --> 00:06:21,480
+or you have no
+
+188
+00:06:21,540 --> 00:06:23,940
+availability in your diary because you're
+trying to do that thing where you go,
+
+189
+00:06:24,200 --> 00:06:26,430
+"Oh,
+I'll just have two hours a day for sales
+
+190
+00:06:26,500 --> 00:06:27,660
+calls between 4:00 and
+
+191
+00:06:28,160 --> 00:06:30,060
+7:00,
+so then they'll think I'm really busy."
+
+192
+00:06:30,320 --> 00:06:31,340
+But then they go through and go,
+
+193
+00:06:31,400 --> 00:06:33,500
+"Well, I'm at work from 4:00 till 7:00,
+so fuck this guy.
+
+194
+00:06:33,520 --> 00:06:37,120
+I'll use someone else." Another thing,
+men, you cannot design shit.
+
+195
+00:06:37,320 --> 00:06:40,220
+It's why your missus does the pillow
+arrangements, and she makes the bed,
+
+196
+00:06:40,260 --> 00:06:40,460
+and she
+
+197
+00:06:40,480 --> 00:06:42,340
+puts the throws on it.
+All of my friends
+
+198
+00:06:42,480 --> 00:06:44,380
+that as single men had a good-looking
+
+199
+00:06:44,440 --> 00:06:47,360
+bedroom and pillow arrangement on the bed,
+I thought were gay because no straight
+
+200
+00:06:47,400 --> 00:06:49,260
+man knows what they're doing with color
+palettes.
+
+201
+00:06:49,480 --> 00:06:51,360
+You can go to Adobe
+and look at the color wheel
+
+202
+00:06:51,400 --> 00:06:52,430
+and look at what colors go with
+
+203
+00:06:52,520 --> 00:06:55,260
+what colors.
+You dudes using a luminous green, red,
+
+204
+00:06:55,340 --> 00:06:55,810
+and black.
+
+205
+00:06:55,860 --> 00:06:57,900
+You're using colors of sex and violence.
+
+206
+00:06:58,160 --> 00:07:00,540
+Some of you guys are using pink
+when you don't work with women,
+
+207
+00:07:00,700 --> 00:07:01,159
+and that's why a
+
+208
+00:07:01,200 --> 00:07:04,642
+lot of these lead pages,
+landing pages ClickFunnels often have
+
+209
+00:07:04,652 --> 00:07:05,142
+color palettes
+
+210
+00:07:05,152 --> 00:07:06,292
+that are already designed and thought out.
+
+211
+00:07:06,392 --> 00:07:08,652
+So many of you, while doing videos,
+aren't eye-level.
+
+212
+00:07:08,672 --> 00:07:12,402
+You're looking down at people. "Hey, guys,
+welcome to my program." This camera is
+
+213
+00:07:12,452 --> 00:07:15,332
+on eye-level right now because then we're
+looking to each other.
+
+214
+00:07:15,452 --> 00:07:17,492
+If I go down and look up to you,
+it makes me look inferior.
+
+215
+00:07:17,692 --> 00:07:20,272
+If I go high and look down,
+it looks like you're inferior.
+
+216
+00:07:20,372 --> 00:07:22,112
+The most people that
+are personal trainers
+
+217
+00:07:22,132 --> 00:07:23,632
+or have been coaches before, you adjust
+
+218
+00:07:23,642 --> 00:07:24,772
+yourself to your client's eye level.
+
+219
+00:07:24,822 --> 00:07:27,872
+When they're down on the floor doing ab
+crunches, you go down to match the eye
+
+220
+00:07:27,912 --> 00:07:28,932
+level so you're not looking down at them.
+
+221
+00:07:28,952 --> 00:07:30,632
+You need to do the same
+when you're recording your own content.
+
+222
+00:07:30,692 --> 00:07:32,552
+And just remember,
+if you're not getting many clients,
+
+223
+00:07:32,772 --> 00:07:33,392
+let's look at the landing
+
+224
+00:07:33,472 --> 00:07:34,712
+page.
+If you're not getting enough traffic,
+
+225
+00:07:34,792 --> 00:07:36,052
+let's move to the segment above, which
+
+226
+00:07:36,072 --> 00:07:38,032
+is going to be email marketing.
+I've done loads of videos on that before.
+
+227
+00:07:38,112 --> 00:07:40,782
+If your email list is stagnant and dry,
+and you're not getting enough traffic from
+
+228
+00:07:40,832 --> 00:07:43,352
+that, you need to go to socials
+and awareness and get more people to join
+
+229
+00:07:43,392 --> 00:07:43,492
+your
+
+230
+00:07:43,501 --> 00:07:46,892
+email list. There should be a trickle,
+like a chocolate fondue fountain coming
+
+231
+00:07:46,932 --> 00:07:47,272
+down
+
+232
+00:07:47,372 --> 00:07:49,632
+all of the time, and
+if there's ever a time
+
+233
+00:07:49,652 --> 00:07:50,992
+that your sales don't look the way they
+
+234
+00:07:51,052 --> 00:07:53,572
+want to, you need to analyze
+and understand, "Where
+
+235
+00:07:53,592 --> 00:07:54,432
+is the bottleneck in my
+
+236
+00:07:54,512 --> 00:07:58,112
+process of the chocolate fondue?" Now,
+one thing that's cropped up a lot recently
+
+237
+00:07:58,192 --> 00:08:01,572
+that I want to just die and go away
+is commitment periods.
+
+238
+00:08:01,692 --> 00:08:04,232
+"Hey, guys,
+it's $300 a month with a commitment period
+
+239
+00:08:04,252 --> 00:08:05,012
+of six months.
+
+240
+00:08:05,172 --> 00:08:09,012
+You must commit to me because I am a
+coach, and I..." What are you
+
+241
+00:08:09,052 --> 00:08:11,032
+doing? You're looking desperate. I get it.
+
+242
+00:08:11,192 --> 00:08:13,152
+You want cash up front, so
+if they're a bad client,
+
+243
+00:08:13,282 --> 00:08:14,152
+or they mess you around, you
+
+244
+00:08:14,192 --> 00:08:17,492
+don't—but stop it, because ultimately,
+there is risk on either side here.
+
+245
+00:08:17,542 --> 00:08:18,872
+This is why we have the money-back
+guarantee.
+
+246
+00:08:19,072 --> 00:08:22,792
+The person arriving on your site carries
+all of the risk because they think
+
+247
+00:08:22,892 --> 00:08:25,732
+you're crap at what you do because the
+majority of people that do what you do are
+
+248
+00:08:25,772 --> 00:08:28,572
+crap. Let's be honest.
+By you taking the money-back guarantee,
+
+249
+00:08:28,632 --> 00:08:29,352
+you take that risk
+
+250
+00:08:29,412 --> 00:08:30,932
+from them, and you hold it yourself.
+
+251
+00:08:31,052 --> 00:08:33,302
+But what's the point of having a
+money-back guarantee and doing
+
+252
+00:08:33,312 --> 00:08:33,892
+that with the risk
+
+253
+00:08:33,932 --> 00:08:35,172
+if you're going to have a commitment
+period?
+
+254
+00:08:35,322 --> 00:08:37,772
+Again,
+I've sometimes looked at Airbnbs to stay.
+
+255
+00:08:37,812 --> 00:08:39,812
+I've found real nice Airbnbs,
+and I'm like, "We're going to stay here.
+
+256
+00:08:39,852 --> 00:08:41,532
+It's really expensive,
+but I love the place." I'm already
+
+257
+00:08:41,552 --> 00:08:42,642
+imagining myself sleeping
+
+258
+00:08:42,652 --> 00:08:45,952
+in that Airbnb. Then I look.
+Minimum two-night commitment. Fuck you.
+
+259
+00:08:46,112 --> 00:08:49,132
+I'm not staying. I'm not interested.
+I'm going to a hotel.
+
+260
+00:08:49,392 --> 00:08:51,512
+You can fuck off.
+I don't like being forced
+
+261
+00:08:51,552 --> 00:08:52,872
+and confined into things.
+
+262
+00:08:52,892 --> 00:08:55,392
+When I'm out and about,
+I get my coffee in a takeaway cup because
+
+263
+00:08:55,512 --> 00:08:55,812
+I don't want to
+
+264
+00:08:55,852 --> 00:08:57,492
+feel that I have to be tied to the cafe.
+
+265
+00:08:57,572 --> 00:09:00,192
+If I want to get up and go for a walk,
+I'm going for a walk. It's me and my son.
+
+266
+00:09:00,452 --> 00:09:02,432
+They know what you're doing.
+You're just trying to get a grab of money
+
+267
+00:09:02,472 --> 00:09:02,772
+up front.
+
+268
+00:09:02,912 --> 00:09:05,012
+Do you know what? There
+are a lot of business mentorships online a
+
+269
+00:09:05,052 --> 00:09:05,552
+bit like mine,
+
+270
+00:09:05,672 --> 00:09:08,632
+and all of the people
+that have come to me really annoyed with
+
+271
+00:09:08,652 --> 00:09:09,132
+the one that they've
+
+272
+00:09:09,172 --> 00:09:11,172
+come from,
+really unhappy with the level of the
+
+273
+00:09:11,332 --> 00:09:12,672
+service or whatever it is, all of
+
+274
+00:09:12,712 --> 00:09:15,492
+them have been tied into commitment
+periods, where they're like, "Oh, James,
+
+275
+00:09:15,632 --> 00:09:15,732
+it's
+
+276
+00:09:15,792 --> 00:09:18,132
+been six months,
+and I've still got to pay them." Still
+
+277
+00:09:18,192 --> 00:09:18,692
+having to be
+
+278
+00:09:18,772 --> 00:09:22,742
+contractually obligated to pay someone
+when you are no longer emotionally
+
+279
+00:09:22,772 --> 00:09:26,212
+invested or interested in their product,
+course, or service is probably one of the
+
+280
+00:09:26,252 --> 00:09:28,052
+worst things in the world.
+It's one of the reasons
+
+281
+00:09:28,112 --> 00:09:29,222
+that I'm so pissed off with
+
+282
+00:09:29,312 --> 00:09:32,062
+Whoop. I had a Whoop band for a bit,
+and then after six months, I was over it,
+
+283
+00:09:32,132 --> 00:09:32,182
+and
+
+284
+00:09:32,212 --> 00:09:33,752
+I canceled it, and they're like,
+"12 months.
+
+285
+00:09:33,992 --> 00:09:36,632
+You're in for 12 months." Now I will never
+say a good thing about Whoop.
+
+286
+00:09:36,932 --> 00:09:39,992
+Fuck you, Whoop. Fuck you, Whoop.
+And these people just find their way to
+
+287
+00:09:40,112 --> 00:09:42,312
+Trustpilot and leave you neggy reviews.
+Let's be honest.
+
+288
+00:09:42,432 --> 00:09:45,152
+If someone three months into your program
+doesn't want to be in your program,
+
+289
+00:09:45,442 --> 00:09:47,312
+they're going to email you, and
+if you're a dick about it,
+
+290
+00:09:47,332 --> 00:09:47,752
+they're going to say
+
+291
+00:09:47,772 --> 00:09:49,672
+they've got an eating disorder,
+or they're struggling with mental health,
+
+292
+00:09:49,712 --> 00:09:49,762
+and
+
+293
+00:09:49,792 --> 00:09:50,932
+you're going to have to refund them
+anyway.
+
+294
+00:09:50,972 --> 00:09:53,992
+So just piss off the commitment because
+ultimately, get rid of the commitment.
+
+295
+00:09:54,152 --> 00:09:57,002
+Give a money-back guarantee.
+Stop putting up barriers to entry because,
+
+296
+00:09:57,012 --> 00:09:57,512
+for some
+
+297
+00:09:57,532 --> 00:10:00,072
+people, they are ready to buy.
+They're hot. They're on your page.
+
+298
+00:10:00,112 --> 00:10:02,212
+They're ready to go.
+Then they see a six-month commitment,
+
+299
+00:10:02,272 --> 00:10:02,912
+and you just give them
+
+300
+00:10:02,952 --> 00:10:05,252
+that one bit of ammunition
+that they needed not to buy.
+
+301
+00:10:05,512 --> 00:10:08,572
+Take the risk on yourself because then you
+can get more clients.
+
+302
+00:10:08,742 --> 00:10:11,912
+And a certain percentage of them will fuck
+you around, but ultimately, so many of
+
+303
+00:10:11,932 --> 00:10:15,502
+you moaning about so many elements of your
+business, if you had more clients coming
+
+304
+00:10:15,532 --> 00:10:17,332
+through,
+the majority of your problems go away.
+
+305
+00:10:17,372 --> 00:10:20,582
+You would much rather have a higher churn,
+10 clients coming in, two going away,
+
+306
+00:10:20,792 --> 00:10:23,112
+versus just three coming in.
+And for so many of you,
+
+307
+00:10:23,152 --> 00:10:24,242
+you charge monthly or
+
+308
+00:10:24,352 --> 00:10:26,812
+quarterly as another way of trying to get
+the cash up front.
+
+309
+00:10:27,052 --> 00:10:30,992
+Just make it as easy as possible for
+that person to join you
+
+310
+00:10:31,032 --> 00:10:34,912
+and start with you because not everyone
+has $800 in
+
+311
+00:10:34,972 --> 00:10:36,692
+their bank account ready to go at any
+given point.
+
+312
+00:10:36,832 --> 00:10:38,812
+For some people,
+they can afford your services,
+
+313
+00:10:38,892 --> 00:10:40,252
+but what they can't afford to do is
+
+314
+00:10:40,272 --> 00:10:43,592
+to splash down three months of upfront
+payment to a coach they've never used
+
+315
+00:10:43,612 --> 00:10:45,392
+before,
+which would take their bank account
+
+316
+00:10:45,412 --> 00:10:46,112
+straight to the red.
+
+317
+00:10:46,192 --> 00:10:47,312
+Whereas if you were to say, "Hey, guys.
+
+318
+00:10:47,432 --> 00:10:49,282
+It's $400 a month, but
+if you want to pay weekly,
+
+319
+00:10:49,472 --> 00:10:50,352
+if you want to pay quarterly,
+
+320
+00:10:50,512 --> 00:10:53,632
+however you want to pay,
+I will accept because I want to reduce the
+
+321
+00:10:53,652 --> 00:10:53,952
+barrier to
+
+322
+00:10:53,992 --> 00:10:57,752
+entry for you to start." Because someone
+might only, in their budgeted account,
+
+323
+00:10:57,852 --> 00:10:59,232
+have a couple hundred dollars to play
+with,
+
+324
+00:10:59,392 --> 00:11:00,542
+and that's going out with their friends
+
+325
+00:11:00,572 --> 00:11:04,152
+for a few drinks, a few groceries. And
+if you reduce your barrier to entry to
+
+326
+00:11:04,192 --> 00:11:06,132
+100 bucks a week, they go,
+"I'm getting paid next week.
+
+327
+00:11:06,252 --> 00:11:10,212
+I'll spend $100 joining this program." So
+many of you are making it so much harder
+
+328
+00:11:10,252 --> 00:11:12,632
+than necessary.
+Instead of seeing your landing page as a
+
+329
+00:11:12,712 --> 00:11:13,701
+thing that serves you and
+
+330
+00:11:13,732 --> 00:11:16,772
+your business, make it as something
+that serves them to eradicate any
+
+331
+00:11:16,812 --> 00:11:17,442
+insecurities,
+
+332
+00:11:17,492 --> 00:11:20,141
+to remove all the barriers to entry,
+that makes them get to the end of the
+
+333
+00:11:20,172 --> 00:11:20,451
+video
+
+334
+00:11:20,472 --> 00:11:24,172
+thinking, "Wow, my day is worse
+if I don't take up this person on what
+
+335
+00:11:24,192 --> 00:11:24,362
+they're
+
+336
+00:11:24,372 --> 00:11:27,732
+doing." I'm going to give you a link to my
+landing page, which is a little bit of a
+
+337
+00:11:27,752 --> 00:11:30,272
+website, in the description,
+and I'm actually then going to show you my
+
+338
+00:11:30,292 --> 00:11:30,532
+squeeze
+
+339
+00:11:30,612 --> 00:11:32,341
+page,
+which is where I have the 30 days of
+
+340
+00:11:32,352 --> 00:11:33,652
+life-changing business information.
+
+341
+00:11:33,792 --> 00:11:35,912
+Take a look at those pages.
+Understand the format.
+
+342
+00:11:36,012 --> 00:11:38,892
+Appreciate they have one function
+and one function only. One is for emails.
+
+343
+00:11:39,132 --> 00:11:40,392
+One is to get people to buy my course.
+
+344
+00:11:40,632 --> 00:11:43,332
+Get your landing page right,
+and everything is easier.
+
+345
+00:11:43,512 --> 00:11:43,732
+Good day

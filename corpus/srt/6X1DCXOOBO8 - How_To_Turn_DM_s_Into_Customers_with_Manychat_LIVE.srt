@@ -1,0 +1,4474 @@
+1
+00:00:00,080 --> 00:00:02,640
+ManyChat is a software that's a partner
+with Meta,
+
+2
+00:00:03,660 --> 00:00:07,360
+and it allows you to set up automation so
+you can respond to people that
+
+3
+00:00:07,380 --> 00:00:10,140
+comment.
+You can set up automations to people
+
+4
+00:00:10,440 --> 00:00:11,300
+that engage with your
+
+5
+00:00:11,340 --> 00:00:15,000
+content. Now, first thought, golden rule,
+do
+
+6
+00:00:15,120 --> 00:00:19,020
+not DM people cold. Do not do that.
+There's this
+
+7
+00:00:19,380 --> 00:00:22,540
+notion that if someone follows you online
+that you should send them a DM.
+
+8
+00:00:22,940 --> 00:00:25,460
+Absolutely not. There
+are some people out there,
+
+9
+00:00:25,500 --> 00:00:26,770
+in a bid to do lead generation,
+
+10
+00:00:27,280 --> 00:00:30,800
+are messaging strangers in a bid to spark
+up
+
+11
+00:00:30,840 --> 00:00:34,650
+conversation. Do not do that. There
+are people out there that when
+
+12
+00:00:34,720 --> 00:00:38,680
+you follow me, they then follow you
+and say, "I've seen that you follow
+
+13
+00:00:38,720 --> 00:00:40,530
+James Smith.
+Are you interested in talking about
+
+14
+00:00:40,560 --> 00:00:42,580
+workouts?" Absolutely not.
+
+15
+00:00:42,650 --> 00:00:45,820
+What we're talking about with ManyChat
+is that if you give someone a prompt
+
+16
+00:00:46,040 --> 00:00:46,260
+and you
+
+17
+00:00:46,280 --> 00:00:48,400
+give someone a little
+
+18
+00:00:48,540 --> 00:00:52,500
+ask of something to do, that they do it,
+and you can send
+
+19
+00:00:52,520 --> 00:00:55,940
+them an automated message. Now, this
+is going to be
+
+20
+00:00:56,820 --> 00:00:59,500
+so we can get to a place of something
+that I call the post and ghost.
+
+21
+00:00:59,960 --> 00:01:01,800
+Now,
+there's a full course to this in the
+
+22
+00:01:01,840 --> 00:01:02,320
+description.
+
+23
+00:01:02,700 --> 00:01:06,640
+There's also a little offer for anyone who
+has been kind enough to come to
+
+24
+00:01:06,680 --> 00:01:09,360
+this live stream. But a post and ghost
+is pretty much this.
+
+25
+00:01:09,800 --> 00:01:11,920
+Let's say before bed tonight,
+let's say I've got a campaign,
+
+26
+00:01:11,980 --> 00:01:12,420
+let's say I need to
+
+27
+00:01:12,440 --> 00:01:14,880
+get email addresses, whatever it is,
+I should be able to put
+
+28
+00:01:14,920 --> 00:01:15,650
+that post out there,
+
+29
+00:01:16,020 --> 00:01:18,460
+and every post is a digital asset
+that you put out on the internet,
+
+30
+00:01:18,480 --> 00:01:19,040
+and it performs
+
+31
+00:01:19,060 --> 00:01:22,780
+for you. It's going to get pushed
+and shown to people.
+
+32
+00:01:22,840 --> 00:01:24,700
+Hopefully, this video in weeks
+and months' time,
+
+33
+00:01:25,060 --> 00:01:25,880
+the algorithm's going to keep
+
+34
+00:01:25,900 --> 00:01:27,700
+putting it in front of people,
+and it's going to keep churning leads
+
+35
+00:01:27,740 --> 00:01:28,340
+and core sales
+
+36
+00:01:28,360 --> 00:01:30,600
+or whatever it is.
+For you guys on Instagram,
+
+37
+00:01:30,760 --> 00:01:31,880
+you want to be able to put a post out
+
+38
+00:01:31,900 --> 00:01:33,920
+before you go to bed,
+and you want to be able to wake up
+
+39
+00:01:34,360 --> 00:01:35,500
+and for there to have been
+
+40
+00:01:35,560 --> 00:01:37,900
+some meaningful change.
+And I'm not talking about people saving
+
+41
+00:01:37,920 --> 00:01:38,260
+the post.
+
+42
+00:01:38,300 --> 00:01:40,600
+I'm not talking about people liking
+or commenting.
+
+43
+00:01:40,700 --> 00:01:44,670
+I'm talking about either money in the bank
+or even better, email addresses in
+
+44
+00:01:44,700 --> 00:01:48,600
+your database. So, to put it this way,
+this
+
+45
+00:01:48,680 --> 00:01:52,640
+year I had a single carousel post on
+Instagram that
+
+46
+00:01:52,660 --> 00:01:56,630
+netted me 15,000 emails, 12,000 of
+which were from Instagram and
+
+47
+00:01:56,660 --> 00:01:58,720
+about 3,000 of which were from Facebook.
+
+48
+00:01:58,760 --> 00:02:01,670
+It was a carousel post with about 10
+different pictures, text overlaid,
+
+49
+00:02:02,040 --> 00:02:02,420
+and from
+
+50
+00:02:02,500 --> 00:02:04,280
+that I said to people
+if they commented a certain word,
+
+51
+00:02:04,420 --> 00:02:05,080
+I would follow up with
+
+52
+00:02:05,100 --> 00:02:07,140
+them,
+and that gave me the opportunity to send
+
+53
+00:02:07,160 --> 00:02:08,420
+them a little DM and say, "Hey, I'm
+
+54
+00:02:08,440 --> 00:02:10,400
+on a mission. I want to do this.
+If you click this link,
+
+55
+00:02:10,920 --> 00:02:12,260
+we can do a sign-up." Now,
+
+56
+00:02:12,940 --> 00:02:15,760
+some of you might be wondering why we
+would even do this in the first place.
+
+57
+00:02:15,800 --> 00:02:18,620
+So, think of it this way.
+There's four pillars
+
+58
+00:02:18,660 --> 00:02:19,690
+that I'm always preaching about
+
+59
+00:02:19,720 --> 00:02:22,920
+online. And for those of you just joining,
+feel free to use the comments, feel free
+
+60
+00:02:22,960 --> 00:02:25,640
+to ask away. We're going to get into
+that in a second. My four pillars
+
+61
+00:02:25,680 --> 00:02:25,980
+are this.
+
+62
+00:02:26,440 --> 00:02:30,420
+The first one is social media,
+where we are right now, for instance.
+
+63
+00:02:30,820 --> 00:02:32,620
+Pillar one,
+we need to create good content,
+
+64
+00:02:32,660 --> 00:02:33,800
+we need to be engaging, we need to have
+
+65
+00:02:33,820 --> 00:02:35,560
+a finger on the pulse of problems
+that people are having.
+
+66
+00:02:36,000 --> 00:02:39,600
+So I have an inclination, a feeling
+that people are struggling
+
+67
+00:02:39,920 --> 00:02:43,100
+with getting from social media to data.
+That's why I created this course.
+
+68
+00:02:43,160 --> 00:02:44,580
+It's why I've put
+that link in the description.
+
+69
+00:02:44,609 --> 00:02:46,120
+It's why I'm doing this webinar on a
+Sunday evening.
+
+70
+00:02:46,800 --> 00:02:48,760
+So I know that people
+are struggling to get people's email
+
+71
+00:02:48,769 --> 00:02:49,140
+addresses.
+
+72
+00:02:49,600 --> 00:02:52,310
+So that social media part here,
+you can make amazing content,
+
+73
+00:02:52,400 --> 00:02:53,450
+you can go viral, but
+
+74
+00:02:53,480 --> 00:02:55,900
+if you're unable to get someone's data
+or email address, you
+
+75
+00:02:55,920 --> 00:02:56,800
+are unable to go from
+
+76
+00:02:56,880 --> 00:03:00,790
+stage one to stage two. Now, quickly,
+although this video is not about it, from
+
+77
+00:03:00,800 --> 00:03:03,280
+getting someone's email address,
+we probably want to nurture them in some
+
+78
+00:03:03,320 --> 00:03:03,480
+kind of
+
+79
+00:03:03,520 --> 00:03:06,540
+email marketing sequence,
+or we want to broadcast some kind of
+
+80
+00:03:06,580 --> 00:03:07,060
+newsletter
+
+81
+00:03:07,440 --> 00:03:09,060
+to the point that we can take them to
+stage three.
+
+82
+00:03:09,480 --> 00:03:12,560
+Stage three would be sending them to a
+sales page where there's a very clear and
+
+83
+00:03:12,720 --> 00:03:15,460
+obvious offer in front of them.
+So just go through again.
+
+84
+00:03:15,940 --> 00:03:17,840
+Social media, obtain the email address.
+Email address,
+
+85
+00:03:17,890 --> 00:03:18,700
+send them to a landing page.
+
+86
+00:03:19,060 --> 00:03:21,090
+Landing page, very clear offer.
+From there,
+
+87
+00:03:21,200 --> 00:03:22,220
+we would then want them to go to stage
+
+88
+00:03:22,300 --> 00:03:26,240
+four, where they become a client.
+So with those four stages, the purpose
+
+89
+00:03:26,280 --> 00:03:30,160
+of this video is to help people understand
+that the problem most businesses
+
+90
+00:03:30,180 --> 00:03:33,940
+are facing is going between stage one
+and two, and chatbots help
+
+91
+00:03:34,280 --> 00:03:37,670
+solve that problem.
+They help solve the problem by giving
+
+92
+00:03:37,760 --> 00:03:38,080
+people
+
+93
+00:03:39,120 --> 00:03:42,750
+an opportunity to take the conversation a
+little bit
+
+94
+00:03:42,820 --> 00:03:44,960
+further, but better yet,
+to do the one thing
+
+95
+00:03:45,020 --> 00:03:46,500
+that most of us struggle to do
+
+96
+00:03:46,510 --> 00:03:48,430
+online,
+and that is to take someone away from
+
+97
+00:03:48,440 --> 00:03:48,980
+social media.
+
+98
+00:03:49,000 --> 00:03:50,640
+And although the DMs
+that we're going to
+
+99
+00:03:51,340 --> 00:03:52,860
+are still on their social media,
+
+100
+00:03:53,080 --> 00:03:55,840
+it's a very competitive place,
+the swipe algorithm.
+
+101
+00:03:55,900 --> 00:03:56,880
+They're on an explore feed.
+
+102
+00:03:56,920 --> 00:03:58,100
+They're in bed. They're doing whatever.
+
+103
+00:03:58,460 --> 00:04:00,799
+They're going, boom, dopamine, dopamine,
+dopamine, dopamine.
+
+104
+00:04:00,880 --> 00:04:04,740
+For us to have the opportunity to just put
+a little message into their DMs, even if
+
+105
+00:04:04,780 --> 00:04:07,360
+they can't access it then,
+they can come back to it later, which
+
+106
+00:04:07,420 --> 00:04:08,200
+is another very
+
+107
+00:04:08,260 --> 00:04:11,000
+powerful thing.
+Because even a lot of the time people go
+
+108
+00:04:11,020 --> 00:04:11,660
+to your landing page, they
+
+109
+00:04:11,680 --> 00:04:13,460
+don't buy.
+A lot of the time people look at your
+
+110
+00:04:13,520 --> 00:04:14,100
+stuff and go, "Wow, that's
+
+111
+00:04:14,140 --> 00:04:15,440
+amazing," but they don't do anything with
+it.
+
+112
+00:04:15,880 --> 00:04:18,600
+But you sending that DM means that even
+if they're busy and they're about to catch
+
+113
+00:04:18,640 --> 00:04:20,980
+a train or they're going on a date
+or they're about to go back into work,
+
+114
+00:04:21,600 --> 00:04:21,850
+later
+
+115
+00:04:21,899 --> 00:04:23,340
+that night, they can go back to that DM.
+
+116
+00:04:23,600 --> 00:04:26,720
+They can reactivate, re-engage with it,
+click on the link, go visit your landing
+
+117
+00:04:26,760 --> 00:04:27,240
+page again.
+
+118
+00:04:28,120 --> 00:04:31,360
+I don't know what it is,
+and I've worked with probably over 1,000
+
+119
+00:04:31,380 --> 00:04:31,960
+businesses now.
+
+120
+00:04:32,730 --> 00:04:35,500
+When you tell someone to click the link in
+your bio, it's a bit like, "I don't work
+
+121
+00:04:35,540 --> 00:04:38,140
+for you. What?
+You're telling me what to do, bruv?
+
+122
+00:04:38,540 --> 00:04:38,900
+Shut up.
+
+123
+00:04:39,040 --> 00:04:42,100
+I'm not doing it." Click the link in my
+bio. Click the link in your bio.
+
+124
+00:04:42,760 --> 00:04:45,700
+But by saying to someone, "Oh,
+DM the word cat," or actually
+
+125
+00:04:45,760 --> 00:04:46,300
+if any of you want to
+
+126
+00:04:46,340 --> 00:04:49,040
+see this in action,
+on my James Smith business page,
+
+127
+00:04:49,980 --> 00:04:51,880
+for those of you
+that didn't do it already, if you
+
+128
+00:04:51,920 --> 00:04:53,800
+were to go onto my most
+
+129
+00:04:53,840 --> 00:04:54,480
+recent post.
+
+130
+00:04:55,660 --> 00:04:58,880
+Actually, not the most recent post,
+the one that says DM the word woof.
+
+131
+00:04:59,700 --> 00:05:02,660
+So if you actually want to see this in
+real life, guys, you're going to go to the
+
+132
+00:05:02,720 --> 00:05:06,420
+James Smith business page. Cor,
+my autofocus is a madness there.
+
+133
+00:05:06,560 --> 00:05:07,740
+I've got to cover my face. There you go.
+
+134
+00:05:08,620 --> 00:05:11,720
+And if you comment the word woof,
+you'll actually see a real-life automation
+
+135
+00:05:11,760 --> 00:05:15,620
+happening. Now, 30 people from
+that commented the word woof
+
+136
+00:05:15,660 --> 00:05:17,400
+instead of DMing it,
+and I'll explain why that
+
+137
+00:05:17,420 --> 00:05:18,360
+was an issue in a second.
+
+138
+00:05:18,980 --> 00:05:22,820
+But that puts people onto an automation
+where I can just quite well and show you
+
+139
+00:05:22,900 --> 00:05:24,820
+everything that this is capable of.
+
+140
+00:05:24,860 --> 00:05:27,380
+You're probably wondering why on a live
+stream I would tell you to do that, and
+
+141
+00:05:27,400 --> 00:05:29,110
+it's for the exact reason
+that I just spoke about.
+
+142
+00:05:30,020 --> 00:05:32,880
+I said that if you were going to go away,
+be busy, and do something else, it would
+
+143
+00:05:32,900 --> 00:05:36,240
+be good if there was a DM
+or a message there with the link
+
+144
+00:05:36,260 --> 00:05:36,800
+that you could refer
+
+145
+00:05:36,860 --> 00:05:38,220
+back to. And for any of you that do
+
+146
+00:05:39,080 --> 00:05:42,500
+message me the word woof on my James Smith
+business page, not my James Smith main
+
+147
+00:05:42,540 --> 00:05:43,250
+page, may I add,
+
+148
+00:05:44,180 --> 00:05:46,910
+you have a link there so that
+if in tomorrow, a week, a month,
+
+149
+00:05:46,980 --> 00:05:47,450
+you're like, "Oh, do
+
+150
+00:05:47,460 --> 00:05:49,070
+you know what?
+I actually want to set up that," you can
+
+151
+00:05:49,100 --> 00:05:49,700
+go back to our
+
+152
+00:05:49,740 --> 00:05:50,920
+conversation,
+and you'll see the messages
+
+153
+00:05:50,960 --> 00:05:52,060
+that I've sent you. Cool.
+
+154
+00:05:52,740 --> 00:05:54,600
+Now,
+the next thing we probably need to talk
+
+155
+00:05:54,640 --> 00:05:56,660
+about is ManyChat has
+
+156
+00:05:56,700 --> 00:06:00,600
+got a lot of different functions.
+But even before we get into
+
+157
+00:06:00,660 --> 00:06:01,930
+that, and again,
+if you have any questions,
+
+158
+00:06:02,040 --> 00:06:02,760
+put them into the side.
+
+159
+00:06:02,820 --> 00:06:04,000
+I'm going to answer them all in a second.
+
+160
+00:06:04,460 --> 00:06:06,400
+Second of all,
+if you do want to access this course,
+
+161
+00:06:06,420 --> 00:06:06,810
+there's a link in the
+
+162
+00:06:06,820 --> 00:06:09,848
+description.
+There's also an offer For any of you
+
+163
+00:06:10,108 --> 00:06:10,488
+that might be
+
+164
+00:06:10,528 --> 00:06:13,728
+considering working with me.
+Not in this chat, Henry.
+
+165
+00:06:13,928 --> 00:06:16,257
+Calm down, mate. What
+are you trying to do, mate?
+
+166
+00:06:16,308 --> 00:06:17,568
+It's been a long weekend.
+
+167
+00:06:18,608 --> 00:06:21,918
+First thing we need to talk about before
+we go into all the different amazing
+
+168
+00:06:21,968 --> 00:06:24,848
+things that ManyChat can do
+is where do we send that person?
+
+169
+00:06:24,948 --> 00:06:27,708
+This is a question old as time. Epictetus,
+Plato,
+
+170
+00:06:28,708 --> 00:06:32,168
+Socrates, they're all saying,
+"Do I send someone to my landing page?"
+
+171
+00:06:32,328 --> 00:06:34,388
+Now,
+if we go back to the four-stage system,
+
+172
+00:06:34,428 --> 00:06:36,148
+and I know I use this all the time,
+
+173
+00:06:36,848 --> 00:06:40,408
+getting someone to do business with you
+is very similar to having sex with
+
+174
+00:06:40,448 --> 00:06:40,768
+someone.
+
+175
+00:06:41,088 --> 00:06:42,478
+Now, I know a lot of you
+are going to be like,
+
+176
+00:06:42,478 --> 00:06:44,337
+"I don't know this four." Stage one
+
+177
+00:06:44,808 --> 00:06:47,488
+would be putting yourself on a dance floor
+or going to a bar, going to a club,
+
+178
+00:06:47,528 --> 00:06:49,328
+whatever it is.
+If you're not in the right place,
+
+179
+00:06:49,488 --> 00:06:50,708
+AKA social media, it's going to
+
+180
+00:06:50,728 --> 00:06:52,188
+be very,
+very difficult to get the attention
+
+181
+00:06:52,208 --> 00:06:53,728
+that you need to move down the stages.
+
+182
+00:06:54,388 --> 00:06:54,748
+So then
+
+183
+00:06:55,628 --> 00:06:58,998
+stage one would be that.
+Stage two would be asking someone for
+
+184
+00:06:59,008 --> 00:06:59,408
+their number.
+
+185
+00:06:59,828 --> 00:07:01,748
+Now, we must appreciate
+that out of 10 people
+
+186
+00:07:01,768 --> 00:07:03,368
+that we got to in real life, maybe
+
+187
+00:07:03,428 --> 00:07:05,088
+only one of them would give us their
+number.
+
+188
+00:07:05,148 --> 00:07:06,848
+Someone might not be interested,
+someone could be married,
+
+189
+00:07:06,908 --> 00:07:07,308
+someone could be in a
+
+190
+00:07:07,328 --> 00:07:09,908
+relationship, someone might not trust you.
+There are plenty of reasons.
+
+191
+00:07:09,948 --> 00:07:13,138
+And if you were to get one in 10 numbers
+on a night out, you'd be, "Well, that's a
+
+192
+00:07:13,167 --> 00:07:16,348
+pretty good statistic." But
+when we look in the realm of, "Oh,
+
+193
+00:07:16,448 --> 00:07:16,988
+I only got 10
+
+194
+00:07:17,048 --> 00:07:20,448
+email addresses from a post
+that got 1,000 views," it's the exact
+
+195
+00:07:20,488 --> 00:07:20,948
+same.
+
+196
+00:07:20,988 --> 00:07:23,688
+You can't expect everyone to give you the
+bloody number. Cool.
+
+197
+00:07:24,008 --> 00:07:27,908
+So then when we've got someone's number,
+we then need to decide what are
+
+198
+00:07:27,928 --> 00:07:31,048
+we going to do with it?
+And the number represents email marketing.
+
+199
+00:07:31,688 --> 00:07:35,428
+Because if you want, you could just say,
+"Hey, babe, do you want to bang?
+
+200
+00:07:36,048 --> 00:07:37,928
+Do you want to do the hot, wet,
+sticky stuff?
+
+201
+00:07:38,388 --> 00:07:40,408
+Do you want to go Netflix and chill?
+
+202
+00:07:40,748 --> 00:07:44,648
+Do you want to go [imitates sex] ?"
+And most of the time, they're
+
+203
+00:07:44,688 --> 00:07:47,468
+going to say no. It's not
+that they don't want to have sex,
+
+204
+00:07:47,548 --> 00:07:48,058
+because if they didn't
+
+205
+00:07:48,068 --> 00:07:49,388
+want to have sex,
+they would've never given you the number
+
+206
+00:07:49,408 --> 00:07:49,988
+in the first place.
+
+207
+00:07:50,448 --> 00:07:53,968
+It was you just did not go through the
+stages necessary for courtship,
+
+208
+00:07:54,468 --> 00:07:58,068
+for chivalry, for being a gentleman,
+
+209
+00:07:58,888 --> 00:08:00,728
+even though this course is fine for women,
+too.
+
+210
+00:08:01,328 --> 00:08:04,608
+There is a certain amount of processes
+and decorum that one must
+
+211
+00:08:04,688 --> 00:08:07,608
+attain to in order to get the sale. So
+
+212
+00:08:08,828 --> 00:08:11,788
+you could just get their email address,
+boom.
+
+213
+00:08:12,528 --> 00:08:15,268
+Or you could even get them on your
+chatbot, boom. Send them to your website.
+
+214
+00:08:15,428 --> 00:08:18,408
+Buy my shit. But
+
+215
+00:08:19,107 --> 00:08:21,188
+sometimes they're not nurtured
+or warm enough.
+
+216
+00:08:21,228 --> 00:08:24,108
+They need to be taken for a couple of
+drinks, maybe a couple of dates, maybe a
+
+217
+00:08:24,148 --> 00:08:27,048
+Nando's. I'll get this, babe,
+but you're only having two regular sides
+
+218
+00:08:27,728 --> 00:08:27,988
+because I'm
+
+219
+00:08:28,008 --> 00:08:28,548
+not a mug.
+
+220
+00:08:29,408 --> 00:08:31,788
+I'm not a mug. And
+if we're getting an ice cream on the way
+
+221
+00:08:31,868 --> 00:08:32,388
+home, we're going
+
+222
+00:08:32,608 --> 00:08:33,168
+50-50,
+
+223
+00:08:34,628 --> 00:08:37,248
+right? Instead, it'd be better off to say,
+"Hey,
+
+224
+00:08:38,148 --> 00:08:39,888
+I'm going to approach you.
+I'm going to get your number.
+
+225
+00:08:40,448 --> 00:08:43,468
+Then I'm not going to spam you.
+I'm going to sensibly message you.
+
+226
+00:08:43,808 --> 00:08:46,328
+And rather than going for the kill,
+rather than send you straight to the
+
+227
+00:08:46,368 --> 00:08:46,557
+landing
+
+228
+00:08:46,648 --> 00:08:49,608
+page, I'm going to get your email address,
+and we're going to nurture." Because
+
+229
+00:08:49,668 --> 00:08:52,568
+when we take people on dates, we
+are nurturing the lead.
+
+230
+00:08:52,608 --> 00:08:54,388
+And if we push too hard,
+they're going to push us back.
+
+231
+00:08:54,908 --> 00:08:58,788
+Every warm-blooded male knows in this live
+stream
+
+232
+00:08:58,828 --> 00:09:01,888
+right now that if you try
+and sleep with a girl on a first date,
+
+233
+00:09:01,968 --> 00:09:02,588
+she's making you
+
+234
+00:09:02,628 --> 00:09:06,188
+wait till date five.
+But hypothetically speaking,
+
+235
+00:09:06,888 --> 00:09:10,808
+may I add, if you
+were to be a gent on the first and second
+
+236
+00:09:10,848 --> 00:09:12,948
+date,
+that action could be happening a bit
+
+237
+00:09:13,008 --> 00:09:14,108
+sooner. That's all I'm saying.
+
+238
+00:09:14,528 --> 00:09:17,708
+So we get the email address.
+We then want to nurture.
+
+239
+00:09:17,768 --> 00:09:19,828
+Now,
+there should be some kind of value given
+
+240
+00:09:19,868 --> 00:09:20,308
+with that.
+
+241
+00:09:20,328 --> 00:09:22,897
+If you're going to get someone's email
+address, don't just try and sell to them.
+
+242
+00:09:22,908 --> 00:09:24,268
+And again,
+we could get into the email marketing
+
+243
+00:09:24,288 --> 00:09:25,298
+course for that.
+
+244
+00:09:25,308 --> 00:09:28,208
+Then further down the line,
+we would want someone to do a sale with
+
+245
+00:09:28,248 --> 00:09:28,388
+us.
+
+246
+00:09:28,548 --> 00:09:32,348
+But the stages from one to four probably
+look at 20% of your total
+
+247
+00:09:32,388 --> 00:09:33,708
+following should be in your email list.
+
+248
+00:09:33,748 --> 00:09:37,008
+So if you've got 1,000 followers,
+you should have 200 of those on your email
+
+249
+00:09:37,048 --> 00:09:37,168
+list.
+
+250
+00:09:37,177 --> 00:09:40,128
+If you don't,
+you need to be working harder to convert
+
+251
+00:09:40,168 --> 00:09:40,968
+your existing followers to
+
+252
+00:09:41,008 --> 00:09:43,388
+give you their email address,
+not so much growing your profile.
+
+253
+00:09:43,408 --> 00:09:46,288
+From there, an open rate of 50%
+is pretty good.
+
+254
+00:09:46,328 --> 00:09:49,318
+Now, when it comes to conversions, it
+is very difficult to say because I don't
+
+255
+00:09:49,348 --> 00:09:49,418
+know
+
+256
+00:09:49,448 --> 00:09:53,148
+your product, I don't know your offer,
+I don't know how in demand your offer is.
+
+257
+00:09:53,228 --> 00:09:55,948
+I don't know how good your followers
+are because if you get all your followers
+
+258
+00:09:56,128 --> 00:09:59,568
+doing recipes and then you're selling a
+workout plan, you're not going to get the
+
+259
+00:09:59,608 --> 00:10:01,568
+conversion rate of someone else that's
+selling a recipe book. Does
+
+260
+00:10:01,588 --> 00:10:02,148
+that make sense?
+
+261
+00:10:02,748 --> 00:10:04,958
+So,
+the next thing we need to think about
+
+262
+00:10:05,028 --> 00:10:06,368
+is ManyChat has got
+
+263
+00:10:06,508 --> 00:10:09,188
+many different things on there,
+on the website that you can do,
+
+264
+00:10:09,308 --> 00:10:09,668
+and it's very
+
+265
+00:10:09,748 --> 00:10:13,117
+overwhelming. And the first day
+that I used ManyChat, I was like, "Oh,
+
+266
+00:10:13,428 --> 00:10:13,608
+I'm going to
+
+267
+00:10:13,628 --> 00:10:15,918
+have a mental breakdown.
+There's too much here." I actually went to
+
+268
+00:10:15,988 --> 00:10:16,808
+upwork.com.
+
+269
+00:10:17,308 --> 00:10:19,768
+I was like,
+"Maybe I can hire someone to help me
+
+270
+00:10:19,808 --> 00:10:21,228
+navigate this."
+
+271
+00:10:21,268 --> 00:10:23,498
+But very simply,
+there's only really two things
+
+272
+00:10:24,068 --> 00:10:24,988
+that you're going to want to use on
+
+273
+00:10:25,008 --> 00:10:25,408
+ManyChat,
+
+274
+00:10:26,328 --> 00:10:30,048
+a DM prompt and a message prompt. Now,
+these prompts are set up from Instagram or
+
+275
+00:10:30,087 --> 00:10:31,938
+Facebook. Someone either comments on it--
+
+276
+00:10:32,768 --> 00:10:35,268
+I'm going to actually share my screen
+and show you some of it in a second.
+
+277
+00:10:35,748 --> 00:10:36,838
+But, yeah,
+
+278
+00:10:37,928 --> 00:10:39,688
+I would say get people to comment on your
+post.
+
+279
+00:10:39,748 --> 00:10:42,748
+If they comment on your post,
+you can send them a message back.
+
+280
+00:10:42,768 --> 00:10:45,568
+But if they DM you, as any of you
+that would have DM'd my business page
+
+281
+00:10:45,608 --> 00:10:45,768
+saying,
+
+282
+00:10:45,818 --> 00:10:48,568
+"Woof," you'll notice
+that you can put multiple replies with
+
+283
+00:10:48,628 --> 00:10:49,328
+multiple different
+
+284
+00:10:49,368 --> 00:10:52,308
+ways to multiple avenues to get people to
+do stuff.
+
+285
+00:10:52,968 --> 00:10:55,168
+So you could say
+that it's easier to get someone to
+
+286
+00:10:55,208 --> 00:10:56,128
+comment, but if you can get
+
+287
+00:10:56,168 --> 00:10:58,128
+someone to DM you,
+you can really open stuff up.
+
+288
+00:10:59,308 --> 00:11:03,028
+So another benefit of using ManyChat
+is that you can integrate team
+
+289
+00:11:03,068 --> 00:11:06,088
+members into your backend.
+So for any of you that are using setters
+
+290
+00:11:06,968 --> 00:11:10,928
+or closers in your DMs, using ManyChat,
+you can kind of give someone a backdoor to
+
+291
+00:11:11,028 --> 00:11:14,888
+access your DMs without giving them the
+keys to the castle as far as
+
+292
+00:11:15,328 --> 00:11:16,388
+access to your Instagram.
+
+293
+00:11:17,348 --> 00:11:20,908
+Hmm.
+[bottle opening] Noatonic Focus Blend,
+
+294
+00:11:21,348 --> 00:11:23,288
+getting the job done.
+We're going to get into some of the
+
+295
+00:11:23,308 --> 00:11:24,828
+questions, and I might
+
+296
+00:11:24,848 --> 00:11:26,648
+share my screen with you in a second.
+
+297
+00:11:27,728 --> 00:11:29,948
+Physio Clark, "I'm a physio.
+I have an email list.
+
+298
+00:11:30,008 --> 00:11:32,248
+I use ManyChat to get them through to
+providing me their email address,
+
+299
+00:11:32,628 --> 00:11:32,928
+but I'm not
+
+300
+00:11:32,968 --> 00:11:36,188
+sure the topic is niche enough.
+Should I niche down as a physio?" It
+
+301
+00:11:36,248 --> 00:11:36,828
+depends on
+
+302
+00:11:36,868 --> 00:11:38,788
+what you're selling. I would say what
+are you selling, mate?
+
+303
+00:11:38,928 --> 00:11:41,868
+Because if you're selling just
+physiotherapy, it's a bit bland,
+
+304
+00:11:41,928 --> 00:11:42,667
+it's a bit broad.
+
+305
+00:11:43,168 --> 00:11:46,248
+But I'm going to make this up,
+and I'm going to be crass for the sake of
+
+306
+00:11:47,928 --> 00:11:50,788
+being a live stream.
+If you had a back pain program
+
+307
+00:11:50,868 --> 00:11:51,758
+or a shoulder mobility
+
+308
+00:11:51,868 --> 00:11:55,808
+program or a thoracic rotation program,
+I would work backwards from
+
+309
+00:11:55,848 --> 00:11:57,788
+that program. So let's say
+
+310
+00:11:59,068 --> 00:12:03,048
+you were selling a thoracic rotation
+or extension program for people that might
+
+311
+00:12:03,068 --> 00:12:05,128
+have limited overhead. I'm making this up.
+
+312
+00:12:06,468 --> 00:12:07,268
+You could then say, "Right,
+
+313
+00:12:08,128 --> 00:12:11,168
+my email responder
+is going to be 30 ways in 30 days
+
+314
+00:12:11,228 --> 00:12:11,708
+that you can
+
+315
+00:12:12,048 --> 00:12:14,748
+loosen up your back, or
+that you can get better back rotation,
+
+316
+00:12:14,828 --> 00:12:15,328
+or you can improve
+
+317
+00:12:15,348 --> 00:12:16,478
+your golf swing, or you can
+
+318
+00:12:17,548 --> 00:12:20,658
+reduce the chances of shoulder injury,
+or whatever." Then I would have content
+
+319
+00:12:20,788 --> 00:12:23,138
+specific about that.
+So the content would then say,
+
+320
+00:12:23,178 --> 00:12:23,868
+"If you're someone that can't
+
+321
+00:12:23,888 --> 00:12:25,728
+do this, someone can't do that,
+someone can't do this,
+
+322
+00:12:26,068 --> 00:12:26,768
+then I recommend you do
+
+323
+00:12:26,808 --> 00:12:30,048
+these three things. And by the way,
+if those three things help, I've created a
+
+324
+00:12:30,228 --> 00:12:31,728
+30-day series that's completely free.
+
+325
+00:12:32,128 --> 00:12:35,438
+You give me your email address via the
+chatbot, and we'll get into it." You email
+
+326
+00:12:35,488 --> 00:12:38,248
+them every day with an actionable thing
+that they could do or something that they
+
+327
+00:12:38,288 --> 00:12:41,017
+didn't know,
+or some kind of fact about the anatomy of
+
+328
+00:12:41,068 --> 00:12:41,828
+the thoracic or
+
+329
+00:12:41,848 --> 00:12:45,288
+whatever. Then towards the end,
+maybe after day five, you start saying,
+
+330
+00:12:45,328 --> 00:12:45,488
+"By the
+
+331
+00:12:45,528 --> 00:12:47,837
+way, I've got a paid program. By the way,
+I've got a paid course.
+
+332
+00:12:47,928 --> 00:12:49,728
+By the way,
+I've got this." Then I would sell them
+
+333
+00:12:49,788 --> 00:12:50,948
+into something specific from
+
+334
+00:12:51,008 --> 00:12:54,448
+that. But if you're just a physio going,
+"Oh, if you want physio tips, sign up,"
+
+335
+00:12:54,488 --> 00:12:56,017
+and then, "Oh,
+if you want to hire me as your physio
+
+336
+00:12:56,108 --> 00:12:57,588
+online," I don't think you
+
+337
+00:12:57,608 --> 00:13:00,128
+should niche down to a certain cohort of
+people.
+
+338
+00:13:00,188 --> 00:13:01,888
+I think you should niche down to a
+problem.
+
+339
+00:13:01,928 --> 00:13:05,697
+Again, so many personal trainers are like,
+"Yeah, I work with
+
+340
+00:13:05,888 --> 00:13:09,588
+21 to 40-year-old men." I'm like,
+"Fuck you. Fuck you.
+
+341
+00:13:10,008 --> 00:13:11,928
+No,
+you would work with a 20-year-old."
+
+342
+00:13:12,008 --> 00:13:12,828
+And they're like, "Oh, they're a bit
+
+343
+00:13:12,838 --> 00:13:16,348
+immature." I'm like, "Fuck off. If
+that 20-year-old had money,
+
+344
+00:13:16,908 --> 00:13:20,828
+you would fucking work with them full time
+if you wanted." If the sheik
+
+345
+00:13:21,128 --> 00:13:24,868
+of a fucking region in the Middle East
+was 19 and wanted to
+
+346
+00:13:24,928 --> 00:13:27,138
+hire you and send you out on a private
+jet, you're going to go, "Nah, mate.
+
+347
+00:13:27,328 --> 00:13:29,468
+Come back in two years." Shut your mouth.
+
+348
+00:13:29,508 --> 00:13:31,168
+Same when they say, "Oh,
+I work between 20
+
+349
+00:13:31,208 --> 00:13:33,148
+and 40-year-olds." So a 42-year-old
+
+350
+00:13:33,228 --> 00:13:36,428
+comes to you as a successful business
+owner. It's bollocks.
+
+351
+00:13:36,548 --> 00:13:40,248
+You're just saying shit. So
+that niching stuff fucks me off.
+
+352
+00:13:40,708 --> 00:13:43,788
+When people are like,
+"I work with busy parents," why?
+
+353
+00:13:44,248 --> 00:13:48,228
+Just work with adults, bro. All adults
+are busy. And guess what?
+
+354
+00:13:48,528 --> 00:13:51,647
+A parent has got some stuff going tough
+for them. But you know what?
+
+355
+00:13:52,008 --> 00:13:53,868
+A nurse has also got the same struggles.
+
+356
+00:13:54,248 --> 00:13:57,728
+So I hate it when people pigeon in on the
+exact same
+
+357
+00:13:57,808 --> 00:14:00,328
+things when you could easily just broaden
+out.
+
+358
+00:14:00,648 --> 00:14:02,748
+Like me with my business mentorship,
+link in the description.
+
+359
+00:14:02,808 --> 00:14:06,708
+I'm not like,
+"I work with 22 to 43-year-old
+
+360
+00:14:06,768 --> 00:14:10,488
+left-handed English people
+that live overseas." Because it doesn't
+
+361
+00:14:10,588 --> 00:14:13,368
+matter. Instead, I work with people
+that have a specific problem.
+
+362
+00:14:13,818 --> 00:14:15,368
+They're struggling to make content online.
+
+363
+00:14:15,438 --> 00:14:18,008
+They're not very good at getting people's
+contact information from people that
+
+364
+00:14:18,048 --> 00:14:20,428
+follow them online.
+They're not very good at creating sales
+
+365
+00:14:20,488 --> 00:14:21,357
+pages or conversions or
+
+366
+00:14:21,388 --> 00:14:22,988
+coming up with offers. They're the things.
+
+367
+00:14:23,388 --> 00:14:25,088
+Now, if you're an accountant, cool,
+I can help.
+
+368
+00:14:25,268 --> 00:14:26,708
+If you're a physio, I hope I can help.
+
+369
+00:14:26,788 --> 00:14:28,368
+If you're a PT or whatever it is,
+
+370
+00:14:29,228 --> 00:14:33,098
+I would like to niche on the problem,
+not necessarily niche on the
+
+371
+00:14:33,188 --> 00:14:33,708
+person.
+
+372
+00:14:35,068 --> 00:14:37,528
+Rule the Trainer,
+"What email software do you recommend?"
+
+373
+00:14:38,388 --> 00:14:40,368
+Well,
+I use several as your email list grows.
+
+374
+00:14:41,168 --> 00:14:45,068
+MailChimp, I'm not a fan of.
+It's just a bit shit. I love AWeber.
+
+375
+00:14:45,268 --> 00:14:47,808
+It's basic as. Klaviyo, very good as well.
+
+376
+00:14:48,628 --> 00:14:50,348
+For our fitness app, we use SendGrid.
+
+377
+00:14:50,408 --> 00:14:54,228
+I've never wanted to go to SendGrid,
+but my business partner made me do it.
+
+378
+00:14:55,488 --> 00:14:57,688
+Okay. John,
+"I left you a comment on your last video
+
+379
+00:14:57,708 --> 00:14:58,628
+on how to improve your stream
+
+380
+00:14:58,668 --> 00:14:59,548
+quality. Hope it helped."
+
+381
+00:15:00,448 --> 00:15:01,198
+I didn't see it, brother.
+
+382
+00:15:02,077 --> 00:15:02,288
+But
+
+383
+00:15:04,448 --> 00:15:04,648
+what
+
+384
+00:15:05,628 --> 00:15:08,748
+could be better about this, mate?
+And I know you're probably thinking, "Hey,
+
+385
+00:15:08,828 --> 00:15:10,328
+brother,
+you could be streaming in 4K."
+
+386
+00:15:10,428 --> 00:15:12,108
+When I stream in 4K, it crashes.
+
+387
+00:15:12,748 --> 00:15:15,968
+I tell you what, if you can email me,
+james@neutonic.com, that'd be amazing,
+
+388
+00:15:16,068 --> 00:15:18,928
+actually.
+But I've had to dial down the stream
+
+389
+00:15:19,048 --> 00:15:19,988
+quality
+
+390
+00:15:20,028 --> 00:15:24,008
+because it's been causing me a madness.
+Quality Antics, "Join the mentorship.
+
+391
+00:15:24,068 --> 00:15:26,348
+Loving it so far." Thank you.
+"I'm helping businesses with video
+
+392
+00:15:26,428 --> 00:15:26,828
+content.
+
+393
+00:15:26,908 --> 00:15:28,748
+Loving your Discord reviews and feedback.
+
+394
+00:15:28,808 --> 00:15:31,588
+Thought on solid lead magnets I could be
+using with ManyChat."
+
+395
+00:15:32,588 --> 00:15:35,528
+So you say here that you're helping
+businesses with video content.
+
+396
+00:15:36,408 --> 00:15:38,708
+You're saying yourself
+that you love my reviews.
+
+397
+00:15:39,048 --> 00:15:42,988
+So why not do reviews, post the reviews,
+and say, "If you want your content to
+
+398
+00:15:43,008 --> 00:15:46,297
+be reviewed,
+leave the comment the word review." Then
+
+399
+00:15:46,348 --> 00:15:46,908
+you could send them a
+
+400
+00:15:46,948 --> 00:15:48,948
+form going, "Hey,
+I would love to review your content.
+
+401
+00:15:48,988 --> 00:15:50,228
+Here's a few things I need.
+
+402
+00:15:50,268 --> 00:15:54,168
+Name, email address, phone number,
+URL of your socials."
+
+403
+00:15:54,568 --> 00:15:57,607
+Then they have a little tick box
+that says they're happy to go for
+
+404
+00:15:57,648 --> 00:15:58,088
+marketing.
+
+405
+00:15:58,388 --> 00:16:01,628
+They do that. Wallop.
+Into the lead magnet they go.
+
+406
+00:16:02,068 --> 00:16:04,268
+Into the reviews.
+And you can even just say, "I'm sorry,
+
+407
+00:16:04,348 --> 00:16:05,668
+but I can't do 100% of the
+
+408
+00:16:05,708 --> 00:16:06,008
+reviews."
+
+409
+00:16:08,588 --> 00:16:08,908
+Okay.
+
+410
+00:16:09,938 --> 00:16:12,188
+"I work with UK top physios." Okay.
+
+411
+00:16:13,888 --> 00:16:16,848
+You guys, stop talking to yourself.
+Ollie Staniland, "Like that.
+
+412
+00:16:16,908 --> 00:16:19,148
+Niche to a problem,
+not an avatar." That's a flipping video,
+
+413
+00:16:19,248 --> 00:16:19,408
+mate.
+
+414
+00:16:19,448 --> 00:16:20,327
+That's a fucking video.
+
+415
+00:16:21,508 --> 00:16:23,288
+Ashley,
+"Should you put a limit on how valuable
+
+416
+00:16:23,308 --> 00:16:24,288
+you should make the lead magnet?
+
+417
+00:16:24,428 --> 00:16:26,128
+I.e.,
+is there such a thing as making it too
+
+418
+00:16:26,168 --> 00:16:26,337
+good?"
+
+419
+00:16:27,588 --> 00:16:28,868
+No. And you know what?
+
+420
+00:16:29,688 --> 00:16:30,228
+Think about this.
+
+421
+00:16:31,208 --> 00:16:35,028
+I'm willing to give you every single thing
+that's in the course in this live
+
+422
+00:16:35,108 --> 00:16:39,068
+stream, because imagine if I
+was to sit here and go, "Oh, I'm going
+
+423
+00:16:39,088 --> 00:16:42,528
+to convince people to buy my course today
+on ManyChat, but
+
+424
+00:16:42,888 --> 00:16:46,828
+I'm not going to tell them much about it
+so they buy the course." That
+
+425
+00:16:46,868 --> 00:16:49,168
+wouldn't work because there wouldn't be
+enough value in that.
+
+426
+00:16:49,228 --> 00:16:52,128
+So instead,
+I'm way better off sitting here for maybe
+
+427
+00:16:52,168 --> 00:16:53,098
+an hour and
+
+428
+00:16:53,168 --> 00:16:55,968
+giving you everything, and then
+if you bought the course and you're like,
+
+429
+00:16:56,008 --> 00:16:56,148
+"Oh,
+
+430
+00:16:57,028 --> 00:16:59,748
+you told us most of
+that on the live," you're hardly going to
+
+431
+00:16:59,768 --> 00:17:00,668
+be pissed off because
+
+432
+00:17:00,728 --> 00:17:03,368
+it's a value equation of getting the
+information from me.
+
+433
+00:17:03,908 --> 00:17:04,068
+So
+
+434
+00:17:05,228 --> 00:17:08,888
+imagine it's like not trying too hard on a
+first date.
+
+435
+00:17:09,068 --> 00:17:13,008
+You should be doing everything you can in
+your content to get people to give
+
+436
+00:17:13,028 --> 00:17:14,948
+you their email address.
+You should be emailing them as well as you
+
+437
+00:17:15,008 --> 00:17:15,968
+can and using
+
+438
+00:17:15,988 --> 00:17:19,128
+the best lead magnet as possible because
+you want to be flipping impressive,
+
+439
+00:17:19,228 --> 00:17:21,788
+because actually, the reality
+is for a lot of us in business,
+
+440
+00:17:21,848 --> 00:17:22,268
+and it's going to be
+
+441
+00:17:22,328 --> 00:17:23,048
+sad to admit this,
+
+442
+00:17:24,428 --> 00:17:28,008
+I should teach you 95% of the stuff
+that you need to know before you pay me.
+
+443
+00:17:28,868 --> 00:17:30,668
+That might sound weird, me saying that.
+
+444
+00:17:31,368 --> 00:17:34,488
+When you pay me, it's more so
+that now we have to do it
+
+445
+00:17:35,308 --> 00:17:36,868
+because you've given me the money.
+
+446
+00:17:36,898 --> 00:17:39,398
+I can sit here till I'm fucking
+
+447
+00:17:40,248 --> 00:17:42,848
+red in the face saying,
+"Post more content, do this,
+
+448
+00:17:42,908 --> 00:17:44,108
+do that." So actually,
+
+449
+00:17:44,348 --> 00:17:45,388
+95% of everything
+
+450
+00:17:46,308 --> 00:17:49,908
+that I'm going to teach you guys
+is pretty much free online.
+
+451
+00:17:50,128 --> 00:17:53,228
+The next 5%,
+you pay me the few thousand dollars.
+
+452
+00:17:53,268 --> 00:17:55,268
+You wake up tomorrow and you go,
+"Holy shit,
+
+453
+00:17:56,228 --> 00:17:58,588
+I need to do this now."
+And then I nurture you through the bits
+
+454
+00:17:58,628 --> 00:17:59,008
+where you have the
+
+455
+00:17:59,068 --> 00:18:01,028
+panics and you have the setbacks
+and you have the highs
+
+456
+00:18:01,068 --> 00:18:01,808
+and you have the lows.
+
+457
+00:18:02,408 --> 00:18:04,868
+When you do really well, I'm like, "Cool,
+get the fuck back to work." When you have
+
+458
+00:18:04,908 --> 00:18:06,787
+a bad day, I'm like, "Cool,
+get the fuck back to work."
+
+459
+00:18:07,068 --> 00:18:07,728
+And it's actually those
+
+460
+00:18:07,748 --> 00:18:10,828
+things that help people more so.
+Harrison Fernandez, cool name.
+
+461
+00:18:11,624 --> 00:18:14,824
+When your potential leads go through your
+email campaign and don't sign up, how
+
+462
+00:18:14,884 --> 00:18:18,424
+frequently should you keep emailing them?
+Buy or die. That's what I say.
+
+463
+00:18:18,484 --> 00:18:20,664
+Buy or die, motherfuckers. Buy or die.
+
+464
+00:18:21,564 --> 00:18:24,474
+I will keep peppering them, and
+if they buy, cool, and if they don't,
+
+465
+00:18:24,514 --> 00:18:24,844
+they're out.
+
+466
+00:18:25,204 --> 00:18:28,684
+Some people out there have got an email
+list of 3,000 people, and they're like,
+
+467
+00:18:28,774 --> 00:18:30,904
+"Oh,
+I don't really email them because I don't
+
+468
+00:18:30,924 --> 00:18:32,104
+want them to unsubscribe." I'm like,
+
+469
+00:18:32,164 --> 00:18:35,664
+mate, brother, do me a favor.
+If any of you out there have got an email
+
+470
+00:18:35,704 --> 00:18:35,934
+list of
+
+471
+00:18:36,104 --> 00:18:39,784
+3,000 people that you haven't touched in a
+year, keep emailing that list until it
+
+472
+00:18:39,804 --> 00:18:42,354
+whittles down to 500.
+Because let me tell you this,
+
+473
+00:18:42,404 --> 00:18:43,724
+when you whittle down an email
+
+474
+00:18:43,743 --> 00:18:47,134
+list from fucking 3,000 to 500,
+you're going to make a few sales out of
+
+475
+00:18:47,164 --> 00:18:47,724
+it.
+
+476
+00:18:47,734 --> 00:18:49,544
+Then the people that have left, fine,
+
+477
+00:18:50,444 --> 00:18:52,444
+cool.
+Then when you've whittled down your email
+
+478
+00:18:52,504 --> 00:18:53,484
+list and it becomes really, really
+
+479
+00:18:53,564 --> 00:18:54,684
+small,
+do you know what you're going to wake up
+
+480
+00:18:54,724 --> 00:18:55,004
+thinking?
+
+481
+00:18:55,054 --> 00:18:56,924
+"Fuck me,
+I need to grow my email list." Perfect.
+
+482
+00:18:57,524 --> 00:18:59,204
+So, it's one of those things where,
+
+483
+00:19:00,484 --> 00:19:03,604
+yeah, pepper the fuck out.
+They can always unsubscribe.
+
+484
+00:19:03,824 --> 00:19:07,024
+Nima, getting sales directly from YouTube,
+but would you still recommend the email
+
+485
+00:19:07,064 --> 00:19:08,904
+nurture? Yes. Because
+
+486
+00:19:10,264 --> 00:19:14,084
+so far on my YouTube,
+the most a video's made me
+
+487
+00:19:14,144 --> 00:19:17,764
+is like $12,000, $13,000, but my email
+
+488
+00:19:17,844 --> 00:19:18,884
+marketing has made
+
+489
+00:19:19,884 --> 00:19:21,494
+coming up to a million dollars just from
+emails.
+
+490
+00:19:22,104 --> 00:19:25,894
+So if you said to me, "James,
+would you rather
+
+491
+00:19:25,894 --> 00:19:29,524
+have $1,000 from this video today,
+or would I rather
+
+492
+00:19:29,624 --> 00:19:32,784
+have 100 emails?" I'd way rather have 100
+emails.
+
+493
+00:19:32,904 --> 00:19:34,944
+I can make so much more money from 100
+emails.
+
+494
+00:19:35,524 --> 00:19:38,844
+Because we have a Black Friday sale for
+Neutonic, email them.
+
+495
+00:19:39,144 --> 00:19:41,244
+We fucking do a business mentorship
+discount,
+
+496
+00:19:41,354 --> 00:19:42,204
+like the link in the description.
+
+497
+00:19:42,324 --> 00:19:45,024
+Boom, email them. We have a new product,
+email them.
+
+498
+00:19:45,084 --> 00:19:47,254
+We have an event going live in Dubai
+and Sydney, email them.
+
+499
+00:19:47,684 --> 00:19:50,874
+With an email, I can do so much. Now,
+the one thing I would say is
+
+500
+00:19:50,874 --> 00:19:54,754
+there is a gray area here,
+
+501
+00:19:54,904 --> 00:19:56,524
+something that we can co-navigate.
+
+502
+00:19:56,584 --> 00:19:59,224
+There is an Uno reverse plus four that has
+
+503
+00:19:59,264 --> 00:20:02,904
+arrived here.
+Sometimes it's good to have a
+
+504
+00:20:02,964 --> 00:20:06,704
+low-ticket course, sell something for $99,
+because then you can do both.
+
+505
+00:20:07,164 --> 00:20:10,504
+Then I get your email address,
+and I also get you to purchase something,
+
+506
+00:20:10,844 --> 00:20:11,024
+and I
+
+507
+00:20:11,104 --> 00:20:14,224
+also get you into the ecosystem.
+So out of the
+
+508
+00:20:15,024 --> 00:20:15,964
+ManyChat and Chill
+
+509
+00:20:17,004 --> 00:20:20,634
+course that's in the description,
+whoever buys that, they'll buy it, they'll
+
+510
+00:20:20,664 --> 00:20:22,203
+implement it, hopefully they'll do well.
+
+511
+00:20:22,224 --> 00:20:25,344
+By the way, all of you on this course,
+if you buy that and you don't love it, you
+
+512
+00:20:25,364 --> 00:20:26,924
+can just email me and I'll refund you.
+
+513
+00:20:27,024 --> 00:20:29,993
+I'm confident there's going to be enough
+people that go, "That's exactly what I
+
+514
+00:20:30,004 --> 00:20:33,104
+need." Anyway, but then out of those,
+you're probably going to get
+
+515
+00:20:34,944 --> 00:20:38,124
+eight to 10% of people upsell.
+
+516
+00:20:38,684 --> 00:20:39,864
+So, yeah.
+
+517
+00:20:41,124 --> 00:20:44,184
+Sometimes you can get the email address
+from selling to them in the first place.
+
+518
+00:20:44,244 --> 00:20:46,084
+Loving the content.
+Was looking at jumping in the mentorship,
+
+519
+00:20:46,164 --> 00:20:46,704
+saw this live with
+
+520
+00:20:46,724 --> 00:20:48,024
+the offer. Bosh.
+
+521
+00:20:48,824 --> 00:20:48,984
+Mm.
+
+522
+00:20:51,084 --> 00:20:52,644
+And I'll tell you this.
+
+523
+00:20:54,444 --> 00:20:57,544
+There is an offer in the description.
+
+524
+00:20:57,744 --> 00:20:59,884
+However, I do sometimes find this snakey.
+
+525
+00:21:00,004 --> 00:21:03,984
+So if you bought a mentorship subscription
+from
+
+526
+00:21:04,084 --> 00:21:05,564
+me in the last
+
+527
+00:21:06,484 --> 00:21:10,004
+three months, and you're now seeing
+that I'm doing it at a cheaper rate,
+
+528
+00:21:10,464 --> 00:21:14,444
+I'll meet you at the new rate.
+I'm not going to stand that someone
+
+529
+00:21:14,464 --> 00:21:16,784
+yesterday would've paid more. So
+if you bought yesterday
+
+530
+00:21:16,844 --> 00:21:17,484
+and you paid a bit more
+
+531
+00:21:17,504 --> 00:21:19,944
+than that offer, just email me
+and I'll refund the difference,
+
+532
+00:21:20,304 --> 00:21:21,304
+because that's just
+
+533
+00:21:21,624 --> 00:21:23,743
+something that I stand by.
+
+534
+00:21:25,324 --> 00:21:25,764
+Now, okay.
+
+535
+00:21:27,584 --> 00:21:29,964
+Fate, running one-to-one contest prep,
+physique coaching.
+
+536
+00:21:30,064 --> 00:21:31,784
+Look to level up our social email
+marketing.
+
+537
+00:21:32,184 --> 00:21:34,424
+Kyle, can I ask you, are you in Australia?
+
+538
+00:21:35,484 --> 00:21:36,644
+Your name looks familiar.
+
+539
+00:21:37,804 --> 00:21:41,464
+Running one-to-one contest prep,
+physique coaching.
+
+540
+00:21:41,524 --> 00:21:44,624
+Looking to level up our social email
+marketing. Do love that.
+
+541
+00:21:44,664 --> 00:21:48,344
+Are you in Sydney by any chance? Just
+
+542
+00:21:48,384 --> 00:21:51,084
+answer me that, Kyle.
+It could be someone different.
+
+543
+00:21:51,144 --> 00:21:53,624
+Could be someone completely different.
+Jane, thanks for your business mentorship.
+
+544
+00:21:54,044 --> 00:21:56,454
+I'm not maximizing what I use,
+but the goal-setting session means I know
+
+545
+00:21:56,484 --> 00:21:56,634
+what I'm
+
+546
+00:21:56,664 --> 00:22:00,484
+moving on to next time. I'm a wills
+and probate lawyer, still relevant.
+
+547
+00:22:00,544 --> 00:22:04,294
+Yes, I would think so.
+I would like to know a little bit more
+
+548
+00:22:04,364 --> 00:22:06,004
+about that. And again, here's one for you.
+
+549
+00:22:06,424 --> 00:22:09,844
+If any of you are in, let's say,
+a wild niche.
+
+550
+00:22:10,484 --> 00:22:12,884
+So let's say you're a wills
+and probate lawyer,
+
+551
+00:22:13,244 --> 00:22:14,444
+or let's say you're a dog trainer,
+
+552
+00:22:14,544 --> 00:22:17,504
+or let's say you're something a bit left
+field, and you join my program, and you
+
+553
+00:22:17,524 --> 00:22:20,854
+get to the point where you're like, "Mate,
+I was hoping this would work, but it's
+
+554
+00:22:20,924 --> 00:22:23,304
+not." Again, I'll refund you.
+
+555
+00:22:24,744 --> 00:22:27,804
+If you come back in six months and go,
+"Hi, mate, I'm a bit skint.
+
+556
+00:22:27,843 --> 00:22:29,903
+Can I have my money back?" I'm going to
+tell you to fuck off.
+
+557
+00:22:30,744 --> 00:22:34,344
+But if in three to four weeks time you go,
+"Hey, mate, I thought this would work
+
+558
+00:22:34,384 --> 00:22:36,164
+for my business, it doesn't." Anyway,
+I'll do it.
+
+559
+00:22:36,704 --> 00:22:39,184
+Are brain capsules going to be restocked?
+Yes, very soon.
+
+560
+00:22:39,324 --> 00:22:40,444
+I think they should've been already.
+
+561
+00:22:41,344 --> 00:22:45,204
+Fade and Fortune.
+I decided to create a moving Berlin guide
+
+562
+00:22:45,224 --> 00:22:45,314
+and
+
+563
+00:22:45,404 --> 00:22:48,144
+follow up with monthly newsletter,
+and three posts this month for ManyChat.
+
+564
+00:22:48,184 --> 00:22:50,784
+I've got 1,000 subscribers. That is class.
+
+565
+00:22:51,704 --> 00:22:53,724
+I don't really know how to monetize it
+now. Any tips?
+
+566
+00:22:54,124 --> 00:22:57,004
+So those 1,000 subscribers,
+are they on your email list
+
+567
+00:22:57,064 --> 00:22:57,804
+or on the ManyChat
+
+568
+00:22:57,864 --> 00:22:59,544
+database?
+Because if they're on your ManyChat
+
+569
+00:22:59,624 --> 00:23:00,964
+database, there's not a lot we can do
+
+570
+00:23:01,004 --> 00:23:04,844
+with them because of the legislations
+and all kinds of things that are
+
+571
+00:23:04,884 --> 00:23:07,364
+going on with that.
+But did you get them onto an email list?
+
+572
+00:23:07,384 --> 00:23:10,324
+And if not, why not, can I ask? So,
+
+573
+00:23:11,904 --> 00:23:14,124
+yeah, get back to me on that. Ryan,
+that's a gangster move.
+
+574
+00:23:14,164 --> 00:23:16,464
+Not many course providers would do
+that on price. My pleasure.
+
+575
+00:23:16,824 --> 00:23:17,844
+I just don't want to be that guy.
+
+576
+00:23:18,824 --> 00:23:21,344
+Pretty much that's it. Daniel, come
+and see you in Dubai.
+
+577
+00:23:21,384 --> 00:23:24,543
+Habibi, I'll see you there.
+Harrison Fernandez, the cool name, bro.
+
+578
+00:23:24,744 --> 00:23:26,514
+If a lead signs up through an email
+campaign,
+
+579
+00:23:26,964 --> 00:23:28,124
+do you have automations to remove
+
+580
+00:23:28,144 --> 00:23:30,054
+them from the campaign
+or leave them in the campaign?
+
+581
+00:23:30,464 --> 00:23:32,564
+Then if they quit,
+do they automatically get added back in?
+
+582
+00:23:32,574 --> 00:23:32,684
+No.
+
+583
+00:23:32,804 --> 00:23:35,294
+So if someone unsubscribes,
+all email marketing platforms work the
+
+584
+00:23:35,364 --> 00:23:35,684
+same way.
+
+585
+00:23:36,024 --> 00:23:38,624
+You have to give people the opportunity to
+unsubscribe.
+
+586
+00:23:39,204 --> 00:23:41,764
+You can't send email marketing campaigns
+without that.
+
+587
+00:23:42,264 --> 00:23:44,064
+Now, if someone unsubscribes, they're out.
+
+588
+00:23:44,504 --> 00:23:48,404
+Now, some people would like to,
+or they set it up so that if people
+
+589
+00:23:48,424 --> 00:23:52,284
+buy, they're removed from the automation.
+We're moving into email marketing.
+
+590
+00:23:52,324 --> 00:23:55,024
+Oi, you cheeky bastards.
+We're supposed to be talking about
+
+591
+00:23:55,044 --> 00:23:55,524
+chatbots.
+
+592
+00:23:55,544 --> 00:23:58,734
+But I will let it slide. Now,
+if you have an automation set up that
+
+593
+00:23:58,764 --> 00:23:59,124
+if someone
+
+594
+00:23:59,144 --> 00:24:01,684
+doesn't buy, there
+is a trigger to then offer them with an
+
+595
+00:24:01,744 --> 00:24:02,464
+email at the end of the
+
+596
+00:24:02,504 --> 00:24:05,244
+automation with a discount,
+you would want to remove them.
+
+597
+00:24:05,264 --> 00:24:09,224
+But if you've got a value-based email
+marketing subscription,
+
+598
+00:24:09,244 --> 00:24:13,104
+whatever it is,
+that's just firing daily fucking banter
+
+599
+00:24:13,164 --> 00:24:16,424
+or knowledge or whatever it is,
+if that's just do, do, do, do, do,
+
+600
+00:24:16,524 --> 00:24:17,084
+that's going in
+
+601
+00:24:17,124 --> 00:24:20,424
+all the time, then you could potentially
+
+602
+00:24:22,884 --> 00:24:25,404
+have it where you just keep them into the
+automation. Okay.
+
+603
+00:24:26,284 --> 00:24:28,024
+Used to live in Sydney,
+currently living in the UK,
+
+604
+00:24:28,164 --> 00:24:29,104
+doing the digital nomad
+
+605
+00:24:29,184 --> 00:24:32,344
+traveling coach thing now. Kyle,
+did you have a pop at me
+
+606
+00:24:33,344 --> 00:24:34,444
+about six years ago
+
+607
+00:24:36,764 --> 00:24:37,784
+about GVT?
+
+608
+00:24:40,204 --> 00:24:44,163
+I did a post about German volume training,
+and I think you
+
+609
+00:24:45,784 --> 00:24:47,504
+had a little pop at me on Facebook.
+
+610
+00:24:49,444 --> 00:24:50,164
+Is that you?
+
+611
+00:24:52,144 --> 00:24:54,484
+Because I'm a bit of an elephant, mate.
+
+612
+00:24:55,124 --> 00:24:56,124
+Now, I could be wrong,
+
+613
+00:24:56,964 --> 00:24:57,944
+but I see your name.
+
+614
+00:24:59,624 --> 00:25:01,304
+I see your name and it's taking me back.
+
+615
+00:25:02,124 --> 00:25:04,704
+I never forget a face.
+When we do the live events,
+
+616
+00:25:04,804 --> 00:25:06,094
+people introduce themselves, I'm
+
+617
+00:25:06,094 --> 00:25:07,984
+like: "Mate,
+I've been critiquing your content for the
+
+618
+00:25:08,024 --> 00:25:08,644
+last three months.
+
+619
+00:25:08,704 --> 00:25:09,324
+I know who you are."
+
+620
+00:25:10,904 --> 00:25:14,004
+But there's just something... Anyway,
+we'll get back to it. You let me know.
+
+621
+00:25:14,904 --> 00:25:17,564
+I joined, less money I've spent.
+Can see why you keep doubling the price.
+
+622
+00:25:17,644 --> 00:25:19,324
+Thank you very much.
+I do keep doubling the price.
+
+623
+00:25:20,424 --> 00:25:23,244
+I'm not apologizing for that either.
+
+624
+00:25:23,364 --> 00:25:26,134
+I do feel like a fraud most days,
+but still, people are doing well,
+
+625
+00:25:26,154 --> 00:25:26,374
+so it's all
+
+626
+00:25:26,374 --> 00:25:27,924
+right. Anima The Machine,
+
+627
+00:25:29,004 --> 00:25:30,984
+biggest mistake you see online marketers
+making
+
+628
+00:25:32,224 --> 00:25:35,064
+that's stopping them making money.
+
+629
+00:25:35,664 --> 00:25:38,864
+Biggest mistake you see online marketers
+making that's stopping them making money.
+
+630
+00:25:41,124 --> 00:25:41,664
+Hmm.
+
+631
+00:25:43,344 --> 00:25:44,724
+It sounds crazy.
+
+632
+00:25:46,704 --> 00:25:50,314
+This is what I'll answer it.
+There's too many people doing things
+
+633
+00:25:50,364 --> 00:25:53,384
+online with themselves in mind,
+not their client.
+
+634
+00:25:53,824 --> 00:25:54,684
+So for instance,
+
+635
+00:25:56,924 --> 00:26:00,904
+a lot of coaches want people to buy six
+months in advance or to show
+
+636
+00:26:00,944 --> 00:26:02,284
+commitment of at least 12 weeks.
+
+637
+00:26:03,264 --> 00:26:05,464
+Now, that's cool,
+but that's not for your client's
+
+638
+00:26:05,504 --> 00:26:06,864
+commitment. Don't say that.
+
+639
+00:26:06,904 --> 00:26:07,624
+That's bullshit.
+
+640
+00:26:08,504 --> 00:26:10,924
+What you're saying is,
+"Give me your money up front, so
+
+641
+00:26:10,964 --> 00:26:12,304
+if you leave, I'll make the
+
+642
+00:26:12,344 --> 00:26:15,234
+money." But if you
+were thinking of your client first,
+
+643
+00:26:15,484 --> 00:26:16,084
+you would let them pay
+
+644
+00:26:16,144 --> 00:26:19,884
+weekly or at least monthly.
+Then marketers as well, like with
+
+645
+00:26:19,904 --> 00:26:23,534
+Nutonic, I said to people, "Buy a case,
+and if you don't like the
+
+646
+00:26:23,584 --> 00:26:26,304
+flavor,
+I'll send you another flavor." Because I
+
+647
+00:26:26,364 --> 00:26:27,393
+know, as a consumer, your
+
+648
+00:26:27,444 --> 00:26:28,964
+biggest worry is not liking the flavor.
+
+649
+00:26:29,244 --> 00:26:33,224
+That means we essentially won't make any
+money from you until you buy two or three
+
+650
+00:26:33,324 --> 00:26:37,224
+more cases. But I kind of know that
+if I think about the consumer in mind
+
+651
+00:26:37,364 --> 00:26:40,244
+and do things like that,
+they will buy two or three more cases.
+
+652
+00:26:40,284 --> 00:26:42,464
+But if someone buys a flavor
+and they don't like it, and we say,
+
+653
+00:26:42,474 --> 00:26:43,324
+"Sorry, unlucky,
+
+654
+00:26:43,504 --> 00:26:46,513
+buy another one," that's not thinking
+about the consumer first.
+
+655
+00:26:46,544 --> 00:26:50,284
+So every single decision that you have,
+even on this Live, the fact that I've
+
+656
+00:26:50,324 --> 00:26:52,724
+offered people their money back,
+the fact that I've said to people that
+
+657
+00:26:52,764 --> 00:26:53,164
+if you paid
+
+658
+00:26:53,204 --> 00:26:54,664
+more last week,
+I'll see you the difference.
+
+659
+00:26:55,144 --> 00:26:58,164
+Everything has to have the consumer in
+mind, because if I think about your needs
+
+660
+00:26:58,173 --> 00:27:00,904
+and wants more than mine,
+I'll do really well.
+
+661
+00:27:00,924 --> 00:27:03,074
+And that's the thing
+that I don't think a lot of people kind of
+
+662
+00:27:03,124 --> 00:27:03,983
+realize.
+
+663
+00:27:04,044 --> 00:27:06,804
+If I can always just continually,
+and you as a marketer,
+
+664
+00:27:06,814 --> 00:27:08,013
+think about the person
+
+665
+00:27:08,044 --> 00:27:11,844
+that is in front of you with the problems,
+if you just put them first all the
+
+666
+00:27:11,884 --> 00:27:13,733
+time and make all your decisions based
+around that,
+
+667
+00:27:15,484 --> 00:27:18,884
+you're going to come across better than
+your competitors, which is what marketing
+
+668
+00:27:18,944 --> 00:27:19,064
+is.
+
+669
+00:27:20,044 --> 00:27:22,564
+Caleb, any update on Nutonic coming to US?
+
+670
+00:27:22,964 --> 00:27:26,784
+Yes, we started formulation last Monday,
+so we're going to produce in
+
+671
+00:27:26,804 --> 00:27:27,164
+Brisbane.
+
+672
+00:27:28,104 --> 00:27:31,024
+Now, pretty much, we had concerns
+that the ingredients
+
+673
+00:27:31,044 --> 00:27:31,944
+that we had in Nutonic
+
+674
+00:27:31,984 --> 00:27:33,364
+wouldn't be allowed to be sold in
+Australia.
+
+675
+00:27:33,984 --> 00:27:35,064
+We've been given the green light.
+
+676
+00:27:35,084 --> 00:27:36,244
+We're going ahead. We're doing it.
+
+677
+00:27:37,004 --> 00:27:40,894
+And if there are any problems in the
+future, we can deal with that once we're
+
+678
+00:27:40,944 --> 00:27:43,604
+in production. So yeah,
+we're probably going to do tropical
+
+679
+00:27:43,664 --> 00:27:44,554
+and orange to launch,
+
+680
+00:27:45,324 --> 00:27:46,724
+but it depends on the flavors
+that we get back.
+
+681
+00:27:46,784 --> 00:27:48,724
+We're probably 15 weeks away from it,
+I'll be honest.
+
+682
+00:27:49,704 --> 00:27:49,904
+Hmm.
+
+683
+00:27:51,844 --> 00:27:55,544
+The sachets and the pills you can get,
+they just take ages in shipping.
+
+684
+00:27:55,564 --> 00:27:59,464
+For that, I apologize. And if you
+are in Sydney, and you
+
+685
+00:27:59,544 --> 00:28:02,324
+see me in my car, shout at me
+and I'll give you some stock.
+
+686
+00:28:02,384 --> 00:28:02,984
+I always keep some.
+
+687
+00:28:03,604 --> 00:28:05,294
+I didn't put them onto the mail list.
+I'm new to this stuff.
+
+688
+00:28:05,364 --> 00:28:07,054
+I'm not sure I'd do that yet. Okay,
+Fate and Fortune.
+
+689
+00:28:07,784 --> 00:28:09,624
+Whenever you get someone through to
+ManyChat,
+
+690
+00:28:09,884 --> 00:28:10,824
+the first thing you need to do is
+
+691
+00:28:10,844 --> 00:28:13,464
+give them a link to take them somewhere.
+
+692
+00:28:13,924 --> 00:28:15,984
+James, getting that veiny bicep,
+loving the input.
+
+693
+00:28:16,904 --> 00:28:19,524
+Testosterone replacement, hell of a drug.
+
+694
+00:28:21,264 --> 00:28:23,124
+So yeah, Luke, I think I followed
+that GVT.
+
+695
+00:28:23,244 --> 00:28:27,184
+Yeah, I'm just sure, Kyle,
+that back in the day, there
+
+696
+00:28:27,204 --> 00:28:27,724
+was a bit of
+
+697
+00:28:28,644 --> 00:28:29,483
+back and forth.
+
+698
+00:28:30,404 --> 00:28:33,744
+Yes, bro. Yes. Did I? That's gold.
+I'm sure we crossed paths.
+
+699
+00:28:33,863 --> 00:28:35,944
+Fitness First, Bondi Platinum.
+I remember it, mate.
+
+700
+00:28:36,404 --> 00:28:40,324
+So you were triggered. In your video,
+
+701
+00:28:40,604 --> 00:28:43,904
+you alluded something on the leg press,
+and I was
+
+702
+00:28:43,984 --> 00:28:46,554
+anti-GVT,
+and you said I didn't know what I
+
+703
+00:28:46,564 --> 00:28:47,064
+was on about.
+
+704
+00:28:47,464 --> 00:28:50,194
+You think I was going to forget that?
+You think I was going to forget that,
+
+705
+00:28:50,304 --> 00:28:50,564
+Kyle?
+
+706
+00:28:50,744 --> 00:28:54,684
+I don't forget that. Yeah, bro,
+because I was thinking, I'm going
+
+707
+00:28:54,704 --> 00:28:58,644
+to see this guy in Fitness First,
+but from what I remember, you
+
+708
+00:28:58,664 --> 00:29:02,424
+had a very big back squat. So about
+that time, I started training jujitsu,
+
+709
+00:29:02,804 --> 00:29:04,864
+and by the time we crossed paths again,
+I had my black belt.
+
+710
+00:29:04,924 --> 00:29:07,444
+So I'll be ready, you big-legged fuck.
+
+711
+00:29:07,884 --> 00:29:10,754
+You think I'd forget about that,
+having a pop at me? But it's all right.
+
+712
+00:29:11,124 --> 00:29:14,684
+We go full circle. We're back here.
+We're friends now, okay?
+
+713
+00:29:14,944 --> 00:29:18,024
+Joshua Williams.
+Wanted to thank you for motivating me from
+
+714
+00:29:18,104 --> 00:29:18,634
+move to Spain to
+
+715
+00:29:18,644 --> 00:29:21,664
+Australia. I'm glad you're here. Faye,
+saw your Instagram story on weekly
+
+716
+00:29:21,724 --> 00:29:22,024
+check-ins
+
+717
+00:29:22,064 --> 00:29:23,744
+being useless.
+Now you should be checking in daily.
+
+718
+00:29:23,824 --> 00:29:25,484
+How would you manage this as a solo
+business owner?
+
+719
+00:29:25,544 --> 00:29:27,144
+Weekly check-ins creates a glass ceiling.
+
+720
+00:29:27,584 --> 00:29:30,344
+So first of all, with clients,
+
+721
+00:29:31,564 --> 00:29:33,454
+fuck doing a weekly check-in.
+Imagine this,
+
+722
+00:29:33,844 --> 00:29:35,464
+most of your clients don't want a
+
+723
+00:29:35,544 --> 00:29:37,304
+fucking weekly check-in. They don't.
+
+724
+00:29:38,184 --> 00:29:40,384
+They just want their fucking program
+and to get the result
+
+725
+00:29:40,424 --> 00:29:40,984
+that they're paying you
+
+726
+00:29:41,044 --> 00:29:43,594
+for. Guess what? You're going, "Oh, fuck.
+
+727
+00:29:43,644 --> 00:29:45,504
+I've got to catch up with Jenny at 3:00
+p.m.
+
+728
+00:29:45,524 --> 00:29:47,674
+on Th..." She doesn't want to do the
+fucking weekly call.
+
+729
+00:29:48,164 --> 00:29:50,894
+I never did a weekly call. Now,
+with my business-to-business clients,
+
+730
+00:29:51,904 --> 00:29:55,664
+I'm going to try and show you
+if this tanks the Live and
+
+731
+00:29:55,704 --> 00:29:58,784
+this ruins my livestream,
+thank you very much for coming.
+
+732
+00:30:00,684 --> 00:30:01,824
+There's links in the description.
+
+733
+00:30:02,244 --> 00:30:05,524
+But if I can do the entire screen
+
+734
+00:30:06,284 --> 00:30:06,624
+and
+
+735
+00:30:07,484 --> 00:30:10,544
+share. Oh, actually,
+let's try doing a window.
+
+736
+00:30:10,884 --> 00:30:11,704
+Maybe we go
+
+737
+00:30:13,364 --> 00:30:15,824
+over to-- Let's try this for a sec.
+
+738
+00:30:16,680 --> 00:30:19,940
+Okay. Wow. So this was the thing
+that I wanted to show you guys.
+
+739
+00:30:20,380 --> 00:30:22,240
+So for ManyChat,
+
+740
+00:30:23,240 --> 00:30:24,360
+this is the first thing we'll look at.
+
+741
+00:30:25,780 --> 00:30:26,980
+Oh, you bloody...
+
+742
+00:30:28,080 --> 00:30:29,820
+Hopefully,
+it won't show my password to everyone.
+
+743
+00:30:30,320 --> 00:30:31,040
+That'd be embarrassing.
+
+744
+00:30:31,160 --> 00:30:34,180
+Okay, here we go. So we
+were talking about using ManyChat before.
+
+745
+00:30:34,460 --> 00:30:35,700
+I actually might as well just show you
+here.
+
+746
+00:30:36,520 --> 00:30:36,720
+So
+
+747
+00:30:37,760 --> 00:30:40,500
+very quickly, these
+are some of the automations
+
+748
+00:30:40,860 --> 00:30:41,560
+that I've been running.
+
+749
+00:30:41,600 --> 00:30:43,540
+You see this one from yesterday, worth
+
+750
+00:30:44,420 --> 00:30:48,180
+494 people have done it,
+and 33 people commented.
+
+751
+00:30:48,520 --> 00:30:52,500
+Now, I'll just show you very quickly,
+I set up this automation so that if
+
+752
+00:30:52,540 --> 00:30:55,540
+they did the wrong thing, I said, "DM me,
+not comment.
+
+753
+00:30:55,700 --> 00:30:58,840
+Can't you bloody read,
+you from Essex?" And if we go down here,
+
+754
+00:30:58,960 --> 00:30:59,500
+we can just see
+
+755
+00:30:59,540 --> 00:31:02,620
+some of these are getting pretty good
+click rates.
+
+756
+00:31:02,780 --> 00:31:05,600
+So considering this is just a post
+that says content,
+
+757
+00:31:06,260 --> 00:31:10,140
+332 people,
+then if they end up clicking on this,
+
+758
+00:31:11,020 --> 00:31:14,180
+they get sent through to the landing page
+for content mastery.
+
+759
+00:31:14,560 --> 00:31:17,290
+So this is, again, a landing page,
+which is going to be a good place to sell
+
+760
+00:31:17,340 --> 00:31:20,250
+someone to get that. So with those things,
+
+761
+00:31:21,920 --> 00:31:23,500
+the content mastery side of things
+are great.
+
+762
+00:31:23,540 --> 00:31:25,620
+Now, going back to what you
+were saying before, you
+
+763
+00:31:25,640 --> 00:31:26,450
+were asking about doing
+
+764
+00:31:26,480 --> 00:31:30,280
+check-ins. Now,
+I still don't like doing hourly calls
+
+765
+00:31:31,720 --> 00:31:33,620
+with everyone,
+and I'll explain why in a second.
+
+766
+00:31:34,400 --> 00:31:36,080
+I can't fight, I'm just big,
+so I'm screwed.
+
+767
+00:31:36,420 --> 00:31:38,820
+Jumping into the mentorship,
+super keen to level up content in my
+
+768
+00:31:38,860 --> 00:31:39,240
+marketing.
+
+769
+00:31:39,700 --> 00:31:41,620
+And yeah,
+is the ManyChat course in the mentorship?
+
+770
+00:31:41,680 --> 00:31:41,960
+It is.
+
+771
+00:31:42,080 --> 00:31:43,320
+Okay, I'll actually show you now.
+
+772
+00:31:44,280 --> 00:31:46,120
+Kyle,
+I'm glad that we've become friends again.
+
+773
+00:31:46,680 --> 00:31:48,220
+So [chuckles] I'll give you
+
+774
+00:31:49,040 --> 00:31:52,560
+a little sneak peek now. So if we go to
+
+775
+00:31:52,640 --> 00:31:54,580
+here, if I type in
+
+776
+00:31:56,060 --> 00:31:56,880
+ask the wrong one.
+
+777
+00:31:59,260 --> 00:32:01,620
+So if we go into the mentorship,
+I'm just going to show you
+
+778
+00:32:02,860 --> 00:32:05,770
+the kind of things that you get.
+Oh my god, this is
+
+779
+00:32:05,820 --> 00:32:06,900
+long.
+
+780
+00:32:07,940 --> 00:32:09,020
+Oh, I'll do it after.
+
+781
+00:32:10,520 --> 00:32:14,500
+You basically get the suite of all courses
+that I've created and
+
+782
+00:32:14,540 --> 00:32:15,820
+all courses I'm ever going to create.
+
+783
+00:32:16,200 --> 00:32:18,500
+So once you guys sign up,
+you get access to everything
+
+784
+00:32:18,540 --> 00:32:19,100
+and everything that I'm
+
+785
+00:32:19,120 --> 00:32:22,500
+going to add. Now, the one thing
+that I was saying about keeping up with
+
+786
+00:32:22,560 --> 00:32:26,280
+people would be this. So this is my
+
+787
+00:32:26,360 --> 00:32:27,820
+Discord. So these
+are some of the things
+
+788
+00:32:27,860 --> 00:32:28,920
+that I've been sharing with people.
+
+789
+00:32:29,440 --> 00:32:32,680
+Rather than me doing weekly calls with my
+clients, or the call we're doing right
+
+790
+00:32:32,720 --> 00:32:36,600
+now is just for you guys,
+because here I will chat to
+
+791
+00:32:36,640 --> 00:32:39,480
+people all the time. So today,
+we're going through different concepts for
+
+792
+00:32:39,560 --> 00:32:40,120
+YouTube.
+
+793
+00:32:40,140 --> 00:32:41,960
+We're looking at thumbnails,
+we're looking at packaging,
+
+794
+00:32:43,020 --> 00:32:45,360
+and our BJJ course.
+We've got people here
+
+795
+00:32:45,420 --> 00:32:46,500
+that have trained jujitsu with
+
+796
+00:32:46,560 --> 00:32:50,400
+me. If we look at growing socials,
+we're kind of just
+
+797
+00:32:50,440 --> 00:32:52,830
+hashing stuff out.
+And some of these conversations,
+
+798
+00:32:53,220 --> 00:32:54,200
+we need back and forths.
+
+799
+00:32:54,680 --> 00:32:57,440
+So for me,
+I would much rather do two hours a day in
+
+800
+00:32:57,500 --> 00:32:58,300
+here with people,
+
+801
+00:32:58,400 --> 00:33:01,720
+helping them, retaining clients,
+share your business, Q&A.
+
+802
+00:33:02,260 --> 00:33:05,449
+So this is where we spend most of the
+time, because the reality is,
+
+803
+00:33:05,620 --> 00:33:06,180
+if I just did
+
+804
+00:33:06,260 --> 00:33:08,760
+one of these calls for all my clients
+every week,
+
+805
+00:33:08,820 --> 00:33:09,800
+it's going to be very difficult
+
+806
+00:33:09,840 --> 00:33:13,780
+for them to be able to communicate all of
+the problems they're having and me to
+
+807
+00:33:13,820 --> 00:33:14,840
+get back and communicate with them.
+
+808
+00:33:14,900 --> 00:33:18,760
+We've got 70 people on right now,
+and even then, it's quite hectic.
+
+809
+00:33:18,820 --> 00:33:19,920
+So if there are hundreds of people here.
+
+810
+00:33:20,320 --> 00:33:23,420
+So I would say not everyone wants to do
+that call, if that makes sense.
+
+811
+00:33:23,780 --> 00:33:25,280
+So instead, is there a way that you can--
+
+812
+00:33:27,360 --> 00:33:29,690
+arguably in the Discord,
+I'm saving time as well, because
+
+813
+00:33:29,720 --> 00:33:30,770
+when someone asks, other
+
+814
+00:33:30,780 --> 00:33:31,390
+people are watching.
+
+815
+00:33:32,540 --> 00:33:34,780
+Okay, Simon.
+Thoughts on applying these systems to real
+
+816
+00:33:34,820 --> 00:33:35,960
+estate photography services
+
+817
+00:33:35,980 --> 00:33:38,069
+in London. Again, first of all,
+
+818
+00:33:39,240 --> 00:33:43,180
+real estate is amazing because people want
+to see inside other people's houses.
+
+819
+00:33:43,940 --> 00:33:46,450
+Good photography and videography
+is important because real estate agents
+
+820
+00:33:46,500 --> 00:33:46,820
+need that.
+
+821
+00:33:47,560 --> 00:33:49,420
+So I think the content side could be
+interesting.
+
+822
+00:33:50,240 --> 00:33:53,980
+Then you could create a worksheet of 22
+biggest mistakes
+
+823
+00:33:54,100 --> 00:33:56,600
+that real estate agents are making,
+
+824
+00:33:57,660 --> 00:34:00,630
+taking pictures of property.
+Get real estate agents to sign up to your
+
+825
+00:34:00,630 --> 00:34:00,930
+email list,
+
+826
+00:34:00,960 --> 00:34:02,920
+sell your services to them.
+So I think it could.
+
+827
+00:34:05,000 --> 00:34:07,500
+Boom Weight Loss.
+After four years working face-to-face,
+
+828
+00:34:07,540 --> 00:34:08,540
+launched last week online.
+
+829
+00:34:08,980 --> 00:34:12,220
+20 awesome clients my first six days.
+Email list a priority. That's great.
+
+830
+00:34:12,300 --> 00:34:15,009
+Love that. Joshua. Main channel video
+was a life changer.
+
+831
+00:34:15,460 --> 00:34:19,020
+Feeling like a sunflower in the shade.
+Love that. John Isaacs.
+
+832
+00:34:19,260 --> 00:34:21,610
+Email sent. Let's fix your stream.
+Thank you. I know the colors
+
+833
+00:34:21,640 --> 00:34:21,980
+are a bit out.
+
+834
+00:34:22,060 --> 00:34:22,820
+I'm filming in auto.
+
+835
+00:34:24,340 --> 00:34:26,460
+Okay, as a follow-up on this,
+is the ManyChat course the mentorship?
+
+836
+00:34:26,520 --> 00:34:26,980
+Yes, it is.
+
+837
+00:34:27,180 --> 00:34:28,440
+All the links you need
+are in the description.
+
+838
+00:34:28,860 --> 00:34:31,380
+Do you think it's better to use ManyChat
+on carousels or reels? Okay.
+
+839
+00:34:31,780 --> 00:34:35,750
+I would use them on both. And carousels,
+guys, are probably
+
+840
+00:34:35,800 --> 00:34:39,270
+your secret weapon to getting conversions
+from your existing
+
+841
+00:34:39,420 --> 00:34:42,060
+audience.
+So if you do a carousel with no music,
+
+842
+00:34:42,180 --> 00:34:43,410
+it gets slammed to your existing
+
+843
+00:34:43,480 --> 00:34:45,080
+following. You put music on,
+it goes a bit wider.
+
+844
+00:34:45,620 --> 00:34:47,500
+But honestly, once in a while, reel,
+
+845
+00:34:49,160 --> 00:34:52,350
+do a carousel post, put a bit of story in,
+get a good hook on that first
+
+846
+00:34:52,380 --> 00:34:55,760
+tile,
+and you can get so much data from people.
+
+847
+00:34:55,780 --> 00:34:59,020
+Paul Alima did one this week,
+and it absolutely crushed.
+
+848
+00:34:59,700 --> 00:35:01,730
+Christoph.
+Launching a math teaching website to sell
+
+849
+00:35:01,780 --> 00:35:02,600
+lessons for teachers.
+
+850
+00:35:02,680 --> 00:35:05,760
+I have 200 plus. Should I launch now
+or wait till I have 400 made?
+
+851
+00:35:05,880 --> 00:35:08,660
+Launch now, brother.
+If you wait till you're ready to launch,
+
+852
+00:35:08,700 --> 00:35:09,540
+you launch too late.
+
+853
+00:35:10,000 --> 00:35:11,440
+David.
+Went to your business mentorship in
+
+854
+00:35:11,480 --> 00:35:12,520
+London. We spoke one-to-one.
+
+855
+00:35:12,560 --> 00:35:14,360
+Made my first TikTok the next day,
+haven't stopped.
+
+856
+00:35:14,440 --> 00:35:17,080
+I'll be emailing you on Utonic personal
+mail after this live with an update.
+
+857
+00:35:17,180 --> 00:35:19,780
+Love to see it.
+How about YouTube monetization?
+
+858
+00:35:19,840 --> 00:35:20,980
+Have you already been paid by YouTube?
+
+859
+00:35:21,220 --> 00:35:25,100
+I don't even have monetization on for this
+channel because it would
+
+860
+00:35:25,160 --> 00:35:25,420
+be,
+
+861
+00:35:26,500 --> 00:35:30,180
+what? $1,000 a month? Cool.
+I'd rather people didn't watch
+
+862
+00:35:30,220 --> 00:35:32,760
+adverts.
+My main channel can do a few grand a
+
+863
+00:35:32,820 --> 00:35:33,770
+month, but for this one, I haven't
+
+864
+00:35:33,780 --> 00:35:36,380
+even turned it on because I can't be
+bothered. It sounds bad.
+
+865
+00:35:36,700 --> 00:35:37,560
+I'm going to say it.
+
+866
+00:35:37,940 --> 00:35:39,480
+I'm here to make real money.
+
+867
+00:35:40,240 --> 00:35:44,140
+$1,000 from YouTube, I'm not interested.
+
+868
+00:35:44,600 --> 00:35:48,179
+Keep your money, YouTube.
+Keep the AdSense. I'm not interested.
+
+869
+00:35:48,260 --> 00:35:51,180
+I'm here for the real money.
+I like Discord back and forth.
+
+870
+00:35:51,220 --> 00:35:53,350
+Doesn't waste time,
+helps with asking the same questions,
+
+871
+00:35:53,460 --> 00:35:54,230
+and also when I'm in the
+
+872
+00:35:54,240 --> 00:35:56,970
+Discord,
+I can easily spot trends of things
+
+873
+00:35:57,020 --> 00:35:58,040
+that are doing well and
+
+874
+00:35:58,080 --> 00:35:59,220
+things that potentially aren't.
+
+875
+00:36:00,620 --> 00:36:03,560
+So yeah, for me, I just like Discord.
+I think it works.
+
+876
+00:36:03,660 --> 00:36:04,880
+I think it works well for the people in
+there.
+
+877
+00:36:06,060 --> 00:36:08,380
+Last couple, Sean, Shawn, Shaun?
+
+878
+00:36:09,340 --> 00:36:10,220
+I coach founders.
+
+879
+00:36:11,560 --> 00:36:14,800
+Responsibility, guilt, stress, pressure.
+They rarely engage publicly on socials.
+
+880
+00:36:14,880 --> 00:36:18,840
+No like, share, but DM, it kills reach.
+How do I fix this? But DM, it kills reach.
+
+881
+00:36:18,900 --> 00:36:21,300
+How do I fix this?
+I don't understand what you're asking.
+
+882
+00:36:21,820 --> 00:36:24,580
+They rarely engage publicly on socials,
+but DM
+
+883
+00:36:25,508 --> 00:36:29,408
+Well, they could still DM you from a post.
+You could still have a mini chat.
+
+884
+00:36:29,448 --> 00:36:31,028
+Fucking,
+"If that sounds like something you'd be
+
+885
+00:36:31,048 --> 00:36:32,588
+interested in, do this." But if
+
+886
+00:36:32,628 --> 00:36:34,538
+you know exactly who it is,
+if you coach founders,
+
+887
+00:36:34,588 --> 00:36:35,668
+that sounds like quite a niche.
+
+888
+00:36:36,648 --> 00:36:39,328
+Maybe just message them on LinkedIn
+or pay someone to do outreach for you.
+
+889
+00:36:40,388 --> 00:36:43,468
+Caleb: "Love your content creation course.
+Great info for $99.
+
+890
+00:36:43,508 --> 00:36:45,668
+What camera are you using now for this
+stream?" Oh, brother.
+
+891
+00:36:46,368 --> 00:36:49,868
+We've got a Sony FX3.
+We've got a 30-millimeter lens.
+
+892
+00:36:50,008 --> 00:36:52,388
+I didn't know any of this stuff until
+about a year and a half ago, by the way.
+
+893
+00:36:52,868 --> 00:36:55,508
+We've got an ND filter on,
+which isn't doing much because I'm filming
+
+894
+00:36:55,528 --> 00:36:55,948
+in auto.
+
+895
+00:36:56,508 --> 00:37:00,048
+Then I've got a Sennheiser MKH 416 out of
+shot.
+
+896
+00:37:00,748 --> 00:37:04,488
+And I've got my main light here,
+giving me a bit of Rembrandt.
+
+897
+00:37:04,808 --> 00:37:08,148
+Got a hair light here.
+And I've got a bit of a globe bulb here.
+
+898
+00:37:08,228 --> 00:37:11,948
+This studio only cost £35,000 to build, so
+
+899
+00:37:12,008 --> 00:37:14,028
+the camera wasn't
+that expensive in comparison,
+
+900
+00:37:14,148 --> 00:37:15,768
+but you don't need all of this.
+
+901
+00:37:16,748 --> 00:37:19,328
+Some of my streams
+that made me tens of thousands of dollars
+
+902
+00:37:19,388 --> 00:37:20,368
+were on a £500
+
+903
+00:37:20,408 --> 00:37:23,648
+camera. So, like a Sony ZV-E10. But yeah.
+All right.
+
+904
+00:37:24,568 --> 00:37:27,088
+Harrison: "Usually post parkour content.
+
+905
+00:37:27,648 --> 00:37:30,368
+Should I keep posting my coaching videos
+to that page?" Well,
+
+906
+00:37:31,168 --> 00:37:34,308
+if you're a coach,
+unless you're coaching parkour,
+
+907
+00:37:35,668 --> 00:37:37,268
+no,
+because you're just attracting the wrong
+
+908
+00:37:37,348 --> 00:37:38,308
+people. I've said this again.
+
+909
+00:37:39,008 --> 00:37:41,168
+If you wanted to grow your email list
+and you offered everyone
+
+910
+00:37:41,188 --> 00:37:41,788
+that joined a free
+
+911
+00:37:41,848 --> 00:37:44,668
+mug, would it be a good idea?
+Probably not, because everyone
+
+912
+00:37:44,688 --> 00:37:45,288
+that joined probably
+
+913
+00:37:45,348 --> 00:37:47,948
+just wanted a free mug. And
+if you're trying to sell something to
+
+914
+00:37:47,968 --> 00:37:48,548
+someone, you
+
+915
+00:37:48,588 --> 00:37:50,407
+don't want a list of people
+that just came for the mug.
+
+916
+00:37:51,168 --> 00:37:53,268
+Faye: "So if you have clients,
+you wouldn't do check-in forms to make
+
+917
+00:37:53,308 --> 00:37:53,538
+sure they're
+
+918
+00:37:53,548 --> 00:37:54,748
+making progress and accountability.
+
+919
+00:37:55,208 --> 00:37:56,547
+Just chat group would be enough?"
+
+920
+00:37:57,548 --> 00:38:00,528
+In some cases, what I would do is,
+with my clients is I'd say, "Message me
+
+921
+00:38:00,568 --> 00:38:00,688
+if you
+
+922
+00:38:00,728 --> 00:38:03,828
+need anything,
+and update me on your progress." I'd get
+
+923
+00:38:03,848 --> 00:38:04,468
+them to come to me
+
+924
+00:38:05,668 --> 00:38:05,948
+every
+
+925
+00:38:06,948 --> 00:38:07,568
+however long.
+
+926
+00:38:08,628 --> 00:38:12,528
+And they'll let you know
+if they're not making
+
+927
+00:38:12,588 --> 00:38:14,498
+progress, because they'll be like, "James,
+it's been two weeks.
+
+928
+00:38:14,568 --> 00:38:17,948
+My weight hasn't moved." "James,
+it's been two weeks. I've lost this.
+
+929
+00:38:17,978 --> 00:38:20,508
+Should I change my calories?" So you
+should be in contact with them.
+
+930
+00:38:20,628 --> 00:38:24,588
+I just don't think you need-- For me,
+putting something in my fucking diary
+
+931
+00:38:24,608 --> 00:38:26,588
+at 3:00 p.m.
+on Wednesday throws off my whole week.
+
+932
+00:38:27,308 --> 00:38:29,708
+I'd much rather just chat to people,
+but that's my approach.
+
+933
+00:38:30,908 --> 00:38:34,708
+Math website follow-up. Pricing model,
+monthly, yearly membership versus selling
+
+934
+00:38:34,748 --> 00:38:36,658
+individual lessons.
+I would offer everything
+
+935
+00:38:36,668 --> 00:38:38,288
+and see what's most popular.
+
+936
+00:38:39,988 --> 00:38:43,678
+"Thanks for this session, James."
+
+937
+00:38:43,728 --> 00:38:46,008
+Legendary energy always sparks ideas.
+Thank you.
+
+938
+00:38:46,628 --> 00:38:47,288
+Jayden Lee:
+
+939
+00:38:48,218 --> 00:38:52,028
+"What contributes to an effective lead
+magnet?" This is going to be the final
+
+940
+00:38:52,068 --> 00:38:53,188
+question. This is a very good question,
+
+941
+00:38:54,068 --> 00:38:54,388
+Jayden.
+
+942
+00:38:56,108 --> 00:38:59,458
+Basically, you're going to spot a problem,
+a reoccurring problem, and you're going
+
+943
+00:38:59,468 --> 00:39:01,348
+to create a solution for it. So
+
+944
+00:39:02,288 --> 00:39:04,218
+then you just have to reverse engineer the
+lead magnets.
+
+945
+00:39:04,288 --> 00:39:08,088
+One of my favorites was
+that landing page asset that I did.
+
+946
+00:39:08,428 --> 00:39:11,128
+People were really struggling with how
+they should set up a landing page.
+
+947
+00:39:11,228 --> 00:39:13,238
+Was like, "Cool,
+I'm going to print out what looks like a
+
+948
+00:39:13,268 --> 00:39:13,988
+really good landing page,
+
+949
+00:39:14,488 --> 00:39:18,128
+and I'm going to get people to sign up for
+it." But, okay, the best way to explain
+
+950
+00:39:18,188 --> 00:39:20,768
+this, I would say,
+is every time a problem arises, try
+
+951
+00:39:20,788 --> 00:39:21,578
+and create a lead magnet,
+
+952
+00:39:21,648 --> 00:39:24,028
+but don't just put all your eggs in one
+lead magnet.
+
+953
+00:39:24,088 --> 00:39:26,148
+Create five and see
+which one performs best.
+
+954
+00:39:26,468 --> 00:39:28,378
+And then you go, "Oh,
+when I physically held something
+
+955
+00:39:28,468 --> 00:39:29,148
+and held it in front of
+
+956
+00:39:29,168 --> 00:39:30,758
+people,
+it performed better." So then the next
+
+957
+00:39:30,828 --> 00:39:31,928
+five all have to be things that you
+
+958
+00:39:31,948 --> 00:39:33,948
+can physically hold or show people
+or have a visual prop.
+
+959
+00:39:34,228 --> 00:39:35,998
+And over time, they get better
+and better and better and better.
+
+960
+00:39:36,308 --> 00:39:38,968
+I think volume is going to be everything
+when it comes to lead magnets.
+
+961
+00:39:39,398 --> 00:39:41,908
+It's only when you've done 20
+or 25 of them that you know what's worked
+
+962
+00:39:41,988 --> 00:39:42,268
+best.
+
+963
+00:39:42,668 --> 00:39:46,048
+Thanks for tuning in. There
+is a business mentorship offer in the
+
+964
+00:39:46,088 --> 00:39:46,588
+description.
+
+965
+00:39:46,668 --> 00:39:49,428
+I'm going to delete this video in 48
+hours, so that's going to be gone.
+
+966
+00:39:50,208 --> 00:39:53,608
+And there is also the $99 chatbot course.
+
+967
+00:39:53,828 --> 00:39:56,708
+If you don't love it, drop me an email.
+I'll refund you in full.
+
+968
+00:39:57,088 --> 00:39:58,448
+But the fact of the matter is,
+
+969
+00:39:59,308 --> 00:40:02,088
+you know you need to get using it.
+That's what the resources are for.
+
+970
+00:40:02,428 --> 00:40:04,288
+Thanks for tuning in.
+Catch you guys in a bit.
+
+971
+00:40:04,648 --> 00:40:05,628
+If you can't be good, be careful.
+
+972
+00:40:05,848 --> 00:40:06,228
+Bye-bye.
