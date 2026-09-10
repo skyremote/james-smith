@@ -8,7 +8,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-ROOT = Path("/Users/sky/Documents/james-smith-corpus")
+ROOT = Path(__file__).resolve().parents[1] / "corpus"
 OUT = ROOT / "catalogue.json"
 
 SOURCES = [

@@ -12,7 +12,7 @@ import sys
 import time
 from pathlib import Path
 
-ROOT = Path("/Users/sky/Documents/james-smith-corpus")
+ROOT = Path(__file__).resolve().parents[1] / "corpus"
 AUDIO = ROOT / "audio"
 SRT = ROOT / "srt"
 TRANSCRIPTS = ROOT / "transcripts"
